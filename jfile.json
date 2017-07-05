@@ -1,0 +1,2314 @@
+{
+ "Aktien": [
+  {
+   "name": "adidas Aktie [WKN DE: A1EWWW / ISIN: DE000A1EWWW0]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,71",
+     "EPSdiluted": "2,71",
+     "DPS": "0,8",
+     "Turnover": "57,31",
+     "equityratio": "43,47",
+     "deptratio": "56,53"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "3,2",
+     "EPSdiluted": "3,2",
+     "DPS": "1",
+     "Turnover": "63,78",
+     "equityratio": "46,81",
+     "deptratio": "53,19"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "2,51",
+     "EPSdiluted": "2,51",
+     "DPS": "1,35",
+     "Turnover": "71,14",
+     "equityratio": "45,52",
+     "deptratio": "54,48"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "3,76",
+     "EPSdiluted": "3,76",
+     "DPS": "1,5",
+     "Turnover": "69,27",
+     "equityratio": "47,32",
+     "deptratio": "52,68"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "2,35",
+     "EPSdiluted": "2,35",
+     "DPS": "1,5",
+     "Turnover": "69,62",
+     "equityratio": "44,77",
+     "deptratio": "55,23"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "3,3",
+     "EPSdiluted": "3,3",
+     "DPS": "1,6",
+     "Turnover": "83,93",
+     "equityratio": "42,46",
+     "deptratio": "57,54"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "5,08",
+     "EPSdiluted": "4,99",
+     "DPS": "2",
+     "Turnover": "93,58",
+     "equityratio": "42,65",
+     "deptratio": "57,35"
+    }
+   ]
+  },
+  {
+   "name": "Allianz Aktie [WKN: 840400 / ISIN: DE0008404005]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "11,2",
+     "EPSdiluted": "11,12",
+     "DPS": "4,5",
+     "Turnover": "202,64",
+     "equityratio": "7,27",
+     "deptratio": "92,73"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "5,63",
+     "EPSdiluted": "5,48",
+     "DPS": "4,5",
+     "Turnover": "205,75",
+     "equityratio": "7,15",
+     "deptratio": "92,85"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "11,42",
+     "EPSdiluted": "11,34",
+     "DPS": "4,5",
+     "Turnover": "216,62",
+     "equityratio": "7,86",
+     "deptratio": "92,14"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "13,23",
+     "EPSdiluted": "13,05",
+     "DPS": "5,3",
+     "Turnover": "218,2",
+     "equityratio": "7,17",
+     "deptratio": "92,83"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "13,71",
+     "EPSdiluted": "13,64",
+     "DPS": "6,85",
+     "Turnover": "213,09",
+     "equityratio": "7,51",
+     "deptratio": "92,49"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "14,56",
+     "EPSdiluted": "14,55",
+     "DPS": "7,3",
+     "Turnover": "229,5",
+     "equityratio": "7,41",
+     "deptratio": "92,59"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "15,14",
+     "EPSdiluted": "15",
+     "DPS": "7,6",
+     "Turnover": "228,7",
+     "equityratio": "7,59",
+     "deptratio": "92,41"
+    }
+   ]
+  },
+  {
+   "name": "BASF Aktie [WKN DE: BASF11 / ISIN: DE000BASF111]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "4,96",
+     "EPSdiluted": "4,96",
+     "DPS": "2,2",
+     "Turnover": "69,54",
+     "equityratio": "36,04",
+     "deptratio": "63,96"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "6,74",
+     "EPSdiluted": "6,73",
+     "DPS": "2,5",
+     "Turnover": "80,02",
+     "equityratio": "39,46",
+     "deptratio": "60,54"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "5,31",
+     "EPSdiluted": "5,31",
+     "DPS": "2,6",
+     "Turnover": "85,72",
+     "equityratio": "38,21",
+     "deptratio": "61,79"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "5,27",
+     "EPSdiluted": "5,27",
+     "DPS": "2,7",
+     "Turnover": "80,54",
+     "equityratio": "42,11",
+     "deptratio": "57,89"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "5,61",
+     "EPSdiluted": "5,6",
+     "DPS": "2,8",
+     "Turnover": "80,74",
+     "equityratio": "37,06",
+     "deptratio": "62,94"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "4,34",
+     "EPSdiluted": "4,33",
+     "DPS": "2,9",
+     "Turnover": "76,51",
+     "equityratio": "41,94",
+     "deptratio": "58,06"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "4,42",
+     "EPSdiluted": "4,41",
+     "DPS": "3",
+     "Turnover": "62,57",
+     "equityratio": "40",
+     "deptratio": "60"
+    }
+   ]
+  },
+  {
+   "name": "Bayer Aktie [WKN DE: BAY001 / ISIN: DE000BAY0017]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,57",
+     "EPSdiluted": "1,57",
+     "DPS": "1,5",
+     "Turnover": "42,43",
+     "equityratio": "34,72",
+     "deptratio": "65,28"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "2,99",
+     "EPSdiluted": "2,99",
+     "DPS": "1,65",
+     "Turnover": "44,17",
+     "equityratio": "34,37",
+     "deptratio": "65,63"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "2,96",
+     "EPSdiluted": "2,96",
+     "DPS": "1,9",
+     "Turnover": "48,08",
+     "equityratio": "33,21",
+     "deptratio": "66,79"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "3,86",
+     "EPSdiluted": "3,86",
+     "DPS": "2,1",
+     "Turnover": "48,56",
+     "equityratio": "37,55",
+     "deptratio": "62,45"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "4,14",
+     "EPSdiluted": "4,14",
+     "DPS": "2,25",
+     "Turnover": "51,08",
+     "equityratio": "26,85",
+     "deptratio": "73,15"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "4,97",
+     "EPSdiluted": "4,97",
+     "DPS": "2,5",
+     "Turnover": "56,02",
+     "equityratio": "31,14",
+     "deptratio": "68,86"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "5,44",
+     "EPSdiluted": "5,44",
+     "DPS": "2,7",
+     "Turnover": "56,18",
+     "equityratio": "31,43",
+     "deptratio": "68,57"
+    }
+   ]
+  },
+  {
+   "name": "Beiersdorf Aktie [WKN: 520000 / ISIN: DE0005200000]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,4",
+     "EPSdiluted": "1,4",
+     "DPS": "0,7",
+     "Turnover": "27,31",
+     "equityratio": "57,06",
+     "deptratio": "42,94"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,1",
+     "EPSdiluted": "1,1",
+     "DPS": "0,7",
+     "Turnover": "24,83",
+     "equityratio": "56,91",
+     "deptratio": "43,09"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,95",
+     "EPSdiluted": "1,95",
+     "DPS": "0,7",
+     "Turnover": "26,63",
+     "equityratio": "58,74",
+     "deptratio": "41,26"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "2,35",
+     "EPSdiluted": "2,35",
+     "DPS": "0,7",
+     "Turnover": "27,07",
+     "equityratio": "58,52",
+     "deptratio": "41,48"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "2,33",
+     "EPSdiluted": "2,33",
+     "DPS": "0,7",
+     "Turnover": "27,71",
+     "equityratio": "56,93",
+     "deptratio": "43,07"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "2,91",
+     "EPSdiluted": "2,91",
+     "DPS": "0,7",
+     "Turnover": "29,48",
+     "equityratio": "60,44",
+     "deptratio": "39,56"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "3,13",
+     "EPSdiluted": "3,13",
+     "DPS": "0,7",
+     "Turnover": "29,77",
+     "equityratio": "61,06",
+     "deptratio": "38,94"
+    }
+   ]
+  },
+  {
+   "name": "BMW Aktie [WKN: 519000 / ISIN: DE0005190003]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "4,91",
+     "EPSdiluted": "4,91",
+     "DPS": "1,3",
+     "Turnover": "92,38",
+     "equityratio": "21,19",
+     "deptratio": "78,81"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "7,45",
+     "EPSdiluted": "7,45",
+     "DPS": "2,3",
+     "Turnover": "105,04",
+     "equityratio": "21,91",
+     "deptratio": "78,09"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "7,77",
+     "EPSdiluted": "7,77",
+     "DPS": "2,5",
+     "Turnover": "117,22",
+     "equityratio": "22,98",
+     "deptratio": "77,02"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "8,1",
+     "EPSdiluted": "8,1",
+     "DPS": "2,6",
+     "Turnover": "115,94",
+     "equityratio": "25,62",
+     "deptratio": "74,38"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "8,83",
+     "EPSdiluted": "8,83",
+     "DPS": "2,9",
+     "Turnover": "122,51",
+     "equityratio": "24,04",
+     "deptratio": "75,96"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "9,7",
+     "EPSdiluted": "9,7",
+     "DPS": "3,2",
+     "Turnover": "140,4",
+     "equityratio": "23,35",
+     "deptratio": "76,65"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "10,45",
+     "EPSdiluted": "10,45",
+     "DPS": "3,5",
+     "Turnover": "143,37",
+     "equityratio": "23,62",
+     "deptratio": "76,38"
+    }
+   ]
+  },
+  {
+   "name": "Commerzbank Aktie [WKN DE: CBK100 / ISIN: DE000CBK1001]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "7,25",
+     "EPSdiluted": "7,25",
+     "DPS": "0",
+     "Turnover": "125,63",
+     "equityratio": "3,7",
+     "deptratio": "96,3"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,35",
+     "EPSdiluted": "1,35",
+     "DPS": "0",
+     "Turnover": "53,1",
+     "equityratio": "3,64",
+     "deptratio": "96,36"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "0,01",
+     "EPSdiluted": "0,01",
+     "DPS": "0",
+     "Turnover": "26,48",
+     "equityratio": "4,11",
+     "deptratio": "95,89"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "0,09",
+     "EPSdiluted": "0,09",
+     "DPS": "0",
+     "Turnover": "19,78",
+     "equityratio": "4,73",
+     "deptratio": "95,27"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,23",
+     "DPS": "0",
+     "Turnover": "14,89",
+     "equityratio": "4,6",
+     "deptratio": "95,4"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "0,88",
+     "EPSdiluted": "0,88",
+     "DPS": "0,2",
+     "Turnover": "13,74",
+     "equityratio": "5,44",
+     "deptratio": "94,56"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,22",
+     "DPS": "0",
+     "Turnover": "11,49",
+     "equityratio": "5,88",
+     "deptratio": "94,12"
+    }
+   ]
+  },
+  {
+   "name": "Continental Aktie [WKN: 543900 / ISIN: DE0005439004]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,88",
+     "EPSdiluted": "2,88",
+     "DPS": "0",
+     "Turnover": "130,23",
+     "equityratio": "23,99",
+     "deptratio": "76,01"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "6,21",
+     "EPSdiluted": "6,21",
+     "DPS": "1,5",
+     "Turnover": "152,52",
+     "equityratio": "27,44",
+     "deptratio": "72,56"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "9,42",
+     "EPSdiluted": "9,42",
+     "DPS": "2,25",
+     "Turnover": "163,68",
+     "equityratio": "32,06",
+     "deptratio": "67,94"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "9,62",
+     "EPSdiluted": "9,62",
+     "DPS": "2,5",
+     "Turnover": "166,66",
+     "equityratio": "33,6",
+     "deptratio": "66,4"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "11,88",
+     "EPSdiluted": "11,88",
+     "DPS": "3,25",
+     "Turnover": "172,53",
+     "equityratio": "35,29",
+     "deptratio": "64,71"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "13,64",
+     "EPSdiluted": "13,64",
+     "DPS": "3,75",
+     "Turnover": "196,16",
+     "equityratio": "37,84",
+     "deptratio": "62,16"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "14,01",
+     "EPSdiluted": "14,01",
+     "DPS": "4,25",
+     "Turnover": "202,75",
+     "equityratio": "38,21",
+     "deptratio": "61,79"
+    }
+   ]
+  },
+  {
+   "name": "Daimler Aktie [WKN: 710000 / ISIN: DE0007100000]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "4,28",
+     "EPSdiluted": "4,28",
+     "DPS": "1,85",
+     "Turnover": "92,97",
+     "equityratio": "26,78",
+     "deptratio": "73,22"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "5,32",
+     "EPSdiluted": "5,31",
+     "DPS": "2,2",
+     "Turnover": "99,84",
+     "equityratio": "26,75",
+     "deptratio": "73,25"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "5,71",
+     "EPSdiluted": "5,71",
+     "DPS": "2,2",
+     "Turnover": "107,11",
+     "equityratio": "26,92",
+     "deptratio": "73,08"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "6,4",
+     "EPSdiluted": "6,4",
+     "DPS": "2,25",
+     "Turnover": "110,36",
+     "equityratio": "25,33",
+     "deptratio": "74,67"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "6,51",
+     "EPSdiluted": "6,51",
+     "DPS": "2,45",
+     "Turnover": "121,4",
+     "equityratio": "23,03",
+     "deptratio": "76,97"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "7,87",
+     "EPSdiluted": "7,87",
+     "DPS": "3,25",
+     "Turnover": "139,71",
+     "equityratio": "24,66",
+     "deptratio": "75,34"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "7,97",
+     "EPSdiluted": "7,97",
+     "DPS": "3,25",
+     "Turnover": "143,26",
+     "equityratio": "23,85",
+     "deptratio": "76,15"
+    }
+   ]
+  },
+  {
+   "name": "Deutsche Bank Aktie [WKN: 514000 / ISIN: DE0005140008]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,61",
+     "EPSdiluted": "2,49",
+     "DPS": "0,64",
+     "Turnover": "50,36",
+     "equityratio": "2,56",
+     "deptratio": "97,44"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "3,79",
+     "EPSdiluted": "3,66",
+     "DPS": "0,64",
+     "Turnover": "47,51",
+     "equityratio": "2,47",
+     "deptratio": "97,53"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "0,21",
+     "EPSdiluted": "0,21",
+     "DPS": "0,64",
+     "Turnover": "47,3",
+     "equityratio": "2,68",
+     "deptratio": "97,32"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "0,57",
+     "EPSdiluted": "0,55",
+     "DPS": "0,64",
+     "Turnover": "38,45",
+     "equityratio": "3,4",
+     "deptratio": "96,6"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,2",
+     "EPSdiluted": "1,17",
+     "DPS": "0,67",
+     "Turnover": "33,25",
+     "equityratio": "3,98",
+     "deptratio": "96,02"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "-4,52",
+     "EPSdiluted": "-4,52",
+     "DPS": "0",
+     "Turnover": "30,91",
+     "equityratio": "3,83",
+     "deptratio": "96,17"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "-1,08",
+     "EPSdiluted": "-1,08",
+     "DPS": "0,19",
+     "Turnover": "27,11",
+     "equityratio": "3,74",
+     "deptratio": "96,26"
+    }
+   ]
+  },
+  {
+   "name": "Deutsche Börse Aktie [WKN: 581005 / ISIN: DE0005810055]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,25",
+     "EPSdiluted": "2,24",
+     "DPS": "2,1",
+     "Turnover": "12,44",
+     "equityratio": "1,98",
+     "deptratio": "98,02"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "4,57",
+     "EPSdiluted": "4,56",
+     "DPS": "2,3",
+     "Turnover": "13,88",
+     "equityratio": "1,35",
+     "deptratio": "98,65"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "3,44",
+     "EPSdiluted": "3,44",
+     "DPS": "2,1",
+     "Turnover": "12,17",
+     "equityratio": "1,36",
+     "deptratio": "98,64"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "2,6",
+     "EPSdiluted": "2,6",
+     "DPS": "2,1",
+     "Turnover": "12,08",
+     "equityratio": "1,6",
+     "deptratio": "98,4"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "4,14",
+     "EPSdiluted": "4,14",
+     "DPS": "2,1",
+     "Turnover": "13,14",
+     "equityratio": "1,59",
+     "deptratio": "98,41"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "3,6",
+     "EPSdiluted": "3,6",
+     "DPS": "2,25",
+     "Turnover": "15,21",
+     "equityratio": "1,97",
+     "deptratio": "98,03"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "6,81",
+     "EPSdiluted": "6,81",
+     "DPS": "2,35",
+     "Turnover": "15,28",
+     "equityratio": "2,74",
+     "deptratio": "97,26"
+    }
+   ]
+  },
+  {
+   "name": "Deutsche Post Aktie [WKN: 555200 / ISIN: DE0005552004]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,1",
+     "EPSdiluted": "2,1",
+     "DPS": "0,65",
+     "Turnover": "42,57",
+     "equityratio": "27,13",
+     "deptratio": "72,87"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "0,96",
+     "EPSdiluted": "0,96",
+     "DPS": "0,7",
+     "Turnover": "43,64",
+     "equityratio": "28,66",
+     "deptratio": "71,34"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,37",
+     "EPSdiluted": "1,32",
+     "DPS": "0,7",
+     "Turnover": "44,04",
+     "equityratio": "35,03",
+     "deptratio": "64,97"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,73",
+     "EPSdiluted": "1,66",
+     "DPS": "0,8",
+     "Turnover": "43,65",
+     "equityratio": "27,78",
+     "deptratio": "72,22"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,71",
+     "EPSdiluted": "1,64",
+     "DPS": "0,85",
+     "Turnover": "44,85",
+     "equityratio": "25,11",
+     "deptratio": "74,89"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "1,27",
+     "EPSdiluted": "1,22",
+     "DPS": "0,85",
+     "Turnover": "46,91",
+     "equityratio": "28,94",
+     "deptratio": "71,06"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "2,19",
+     "EPSdiluted": "2,1",
+     "DPS": "1,05",
+     "Turnover": "45,6",
+     "equityratio": "28,78",
+     "deptratio": "71,22"
+    }
+   ]
+  },
+  {
+   "name": "Deutsche Telekom Aktie [WKN: 555750 / ISIN: DE0005557508]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "0,39",
+     "EPSdiluted": "0,39",
+     "DPS": "0,7",
+     "Turnover": "14,4",
+     "equityratio": "29,74",
+     "deptratio": "70,26"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "0,13",
+     "EPSdiluted": "0,13",
+     "DPS": "0,7",
+     "Turnover": "13,64",
+     "equityratio": "28,8",
+     "deptratio": "71,2"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "-1,22",
+     "EPSdiluted": "-1,22",
+     "DPS": "0,7",
+     "Turnover": "13,53",
+     "equityratio": "24,01",
+     "deptratio": "75,99"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "0,21",
+     "EPSdiluted": "0,21",
+     "DPS": "0,5",
+     "Turnover": "13,76",
+     "equityratio": "20,21",
+     "deptratio": "79,79"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "0,65",
+     "EPSdiluted": "0,65",
+     "DPS": "0,5",
+     "Turnover": "14",
+     "equityratio": "19,66",
+     "deptratio": "80,34"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "0,71",
+     "EPSdiluted": "0,71",
+     "DPS": "0,55",
+     "Turnover": "15,2",
+     "equityratio": "20,43",
+     "deptratio": "79,57"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "0,58",
+     "EPSdiluted": "0,58",
+     "DPS": "0,6",
+     "Turnover": "15,8",
+     "equityratio": "19,74",
+     "deptratio": "80,26"
+    }
+   ]
+  },
+  {
+   "name": "EON Aktie [WKN DE: ENAG99 / ISIN: DE000ENAG999]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "3,07",
+     "EPSdiluted": "3,07",
+     "DPS": "1,5",
+     "Turnover": "48,75",
+     "equityratio": "27,25",
+     "deptratio": "72,75"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "-1,16",
+     "EPSdiluted": "-1,16",
+     "DPS": "1",
+     "Turnover": "59,29",
+     "equityratio": "23,38",
+     "deptratio": "76,62"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,16",
+     "EPSdiluted": "1,16",
+     "DPS": "1,1",
+     "Turnover": "69,3",
+     "equityratio": "24,89",
+     "deptratio": "75,11"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,12",
+     "EPSdiluted": "1,12",
+     "DPS": "0,6",
+     "Turnover": "64,21",
+     "equityratio": "25,6",
+     "deptratio": "74,4"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "-1,64",
+     "EPSdiluted": "-1,64",
+     "DPS": "0,5",
+     "Turnover": "58,01",
+     "equityratio": "19,56",
+     "deptratio": "80,44"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "-3,6",
+     "EPSdiluted": "-3,6",
+     "DPS": "0,5",
+     "Turnover": "59,78",
+     "equityratio": "13,33",
+     "deptratio": "86,67"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "-4,33",
+     "EPSdiluted": "-4,33",
+     "DPS": "0,21",
+     "Turnover": "19,56",
+     "equityratio": "-1,58",
+     "deptratio": "101,58"
+    }
+   ]
+  },
+  {
+   "name": "Fresenius Medical Care Aktie [WKN: 578580 / ISIN: DE0005785802]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,46",
+     "EPSdiluted": "2,45",
+     "DPS": "0,65",
+     "Turnover": "30,15",
+     "equityratio": "43,16",
+     "deptratio": "56,84"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "2,55",
+     "EPSdiluted": "2,52",
+     "DPS": "0,69",
+     "Turnover": "30,19",
+     "equityratio": "40,45",
+     "deptratio": "59,55"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "3,03",
+     "EPSdiluted": "3,01",
+     "DPS": "0,75",
+     "Turnover": "35,01",
+     "equityratio": "40,05",
+     "deptratio": "59,95"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "2,75",
+     "EPSdiluted": "2,75",
+     "DPS": "0,77",
+     "Turnover": "36,14",
+     "equityratio": "39,94",
+     "deptratio": "60,06"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "2,61",
+     "EPSdiluted": "2,6",
+     "DPS": "0,78",
+     "Turnover": "39,41",
+     "equityratio": "37,11",
+     "deptratio": "62,89"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "3,05",
+     "EPSdiluted": "3,05",
+     "DPS": "0,8",
+     "Turnover": "49,5",
+     "equityratio": "38,72",
+     "deptratio": "61,28"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "3,68",
+     "EPSdiluted": "3,67",
+     "DPS": "0,96",
+     "Turnover": "52,87",
+     "equityratio": "40,13",
+     "deptratio": "59,87"
+    }
+   ]
+  },
+  {
+   "name": "Fresenius Aktie [WKN: 578560 / ISIN: DE0005785604]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,28",
+     "EPSdiluted": "1,26",
+     "DPS": "0,29",
+     "Turnover": "32,7",
+     "equityratio": "21,06",
+     "deptratio": "78,94"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,41",
+     "EPSdiluted": "1,39",
+     "DPS": "0,32",
+     "Turnover": "33,52",
+     "equityratio": "22,69",
+     "deptratio": "77,31"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,78",
+     "EPSdiluted": "1,76",
+     "DPS": "0,37",
+     "Turnover": "36,84",
+     "equityratio": "24,89",
+     "deptratio": "75,11"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,84",
+     "EPSdiluted": "1,83",
+     "DPS": "0,42",
+     "Turnover": "38,07",
+     "equityratio": "25,51",
+     "deptratio": "74,49"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,98",
+     "EPSdiluted": "1,96",
+     "DPS": "0,44",
+     "Turnover": "43,1",
+     "equityratio": "23,83",
+     "deptratio": "76,17"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "2,55",
+     "EPSdiluted": "2,53",
+     "DPS": "0,55",
+     "Turnover": "51,07",
+     "equityratio": "25,71",
+     "deptratio": "74,29"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "2,86",
+     "EPSdiluted": "2,83",
+     "DPS": "0,62",
+     "Turnover": "53,58",
+     "equityratio": "27,12",
+     "deptratio": "72,88"
+    }
+   ]
+  },
+  {
+   "name": "HeidelbergCement Aktie [WKN: 604700 / ISIN: DE0006047004]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,83",
+     "EPSdiluted": "1,83",
+     "DPS": "0,25",
+     "Turnover": "62,73",
+     "equityratio": "43,49",
+     "deptratio": "56,51"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,86",
+     "EPSdiluted": "1,86",
+     "DPS": "0,35",
+     "Turnover": "68,81",
+     "equityratio": "43,48",
+     "deptratio": "56,52"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,61",
+     "EPSdiluted": "1,61",
+     "DPS": "0,47",
+     "Turnover": "74,77",
+     "equityratio": "45,04",
+     "deptratio": "54,96"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "3,98",
+     "EPSdiluted": "3,98",
+     "DPS": "0,6",
+     "Turnover": "74,32",
+     "equityratio": "43,26",
+     "deptratio": "56,74"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "2,59",
+     "EPSdiluted": "2,59",
+     "DPS": "0,75",
+     "Turnover": "67,14",
+     "equityratio": "46,74",
+     "deptratio": "53,26"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "4,26",
+     "EPSdiluted": "4,26",
+     "DPS": "1,3",
+     "Turnover": "71,65",
+     "equityratio": "50,63",
+     "deptratio": "49,37"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "3,66",
+     "EPSdiluted": "3,66",
+     "DPS": "1,6",
+     "Turnover": "78,57",
+     "equityratio": "41,96",
+     "deptratio": "58,04"
+    }
+   ]
+  },
+  {
+   "name": "Henkel vz Aktie [WKN: 604843 / ISIN: DE0006048432]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,58",
+     "EPSdiluted": "2,58",
+     "DPS": "0,72",
+     "Turnover": "34,77",
+     "equityratio": "44,84",
+     "deptratio": "55,16"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "2,89",
+     "EPSdiluted": "2,89",
+     "DPS": "0,8",
+     "Turnover": "35,93",
+     "equityratio": "46,51",
+     "deptratio": "53,49"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "3,48",
+     "EPSdiluted": "3,48",
+     "DPS": "0,95",
+     "Turnover": "38,02",
+     "equityratio": "48,02",
+     "deptratio": "51,98"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "3,63",
+     "EPSdiluted": "3,63",
+     "DPS": "1,22",
+     "Turnover": "37,66",
+     "equityratio": "51,92",
+     "deptratio": "48,08"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "3,75",
+     "EPSdiluted": "3,75",
+     "DPS": "1,31",
+     "Turnover": "37,83",
+     "equityratio": "53,89",
+     "deptratio": "46,11"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "4,42",
+     "EPSdiluted": "4,42",
+     "DPS": "1,47",
+     "Turnover": "41,65",
+     "equityratio": "60,05",
+     "deptratio": "39,95"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "4,73",
+     "EPSdiluted": "4,73",
+     "DPS": "1,62",
+     "Turnover": "43,09",
+     "equityratio": "52,85",
+     "deptratio": "47,15"
+    }
+   ]
+  },
+  {
+   "name": "Infineon Aktie [WKN: 623100 / ISIN: DE0006231004]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "0,52",
+     "EPSdiluted": "0,48",
+     "DPS": "0,1",
+     "Turnover": "2,81",
+     "equityratio": "52,57",
+     "deptratio": "47,43"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "0,7",
+     "EPSdiluted": "0,65",
+     "DPS": "0,12",
+     "Turnover": "3,45",
+     "equityratio": "57,13",
+     "deptratio": "42,87"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "0,39",
+     "EPSdiluted": "0,39",
+     "DPS": "0,12",
+     "Turnover": "3,44",
+     "equityratio": "60,61",
+     "deptratio": "39,39"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "0,25",
+     "EPSdiluted": "0,25",
+     "DPS": "0,12",
+     "Turnover": "3,57",
+     "equityratio": "63,95",
+     "deptratio": "36,05"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "0,48",
+     "EPSdiluted": "0,48",
+     "DPS": "0,18",
+     "Turnover": "3,85",
+     "equityratio": "64,52",
+     "deptratio": "35,48"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "0,56",
+     "EPSdiluted": "0,56",
+     "DPS": "0,2",
+     "Turnover": "5,15",
+     "equityratio": "51,56",
+     "deptratio": "48,44"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "0,66",
+     "EPSdiluted": "0,66",
+     "DPS": "0,22",
+     "Turnover": "5,73",
+     "equityratio": "55,28",
+     "deptratio": "44,72"
+    }
+   ]
+  },
+  {
+   "name": "Linde Aktie [WKN: 648300 / ISIN: DE0006483001]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "5,94",
+     "EPSdiluted": "5,86",
+     "DPS": "2,2",
+     "Turnover": "74,97",
+     "equityratio": "40,35",
+     "deptratio": "59,65"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "6,88",
+     "EPSdiluted": "6,82",
+     "DPS": "2,5",
+     "Turnover": "80,04",
+     "equityratio": "40,13",
+     "deptratio": "59,87"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "7,03",
+     "EPSdiluted": "6,97",
+     "DPS": "2,7",
+     "Turnover": "85,25",
+     "equityratio": "39,11",
+     "deptratio": "60,89"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "7,1",
+     "EPSdiluted": "7,08",
+     "DPS": "3",
+     "Turnover": "89,52",
+     "equityratio": "38,98",
+     "deptratio": "61,02"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "5,94",
+     "EPSdiluted": "5,91",
+     "DPS": "3,15",
+     "Turnover": "91,47",
+     "equityratio": "36,87",
+     "deptratio": "63,13"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "6,19",
+     "EPSdiluted": "6,18",
+     "DPS": "3,45",
+     "Turnover": "96,44",
+     "equityratio": "39,14",
+     "deptratio": "60,86"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "6,22",
+     "EPSdiluted": "6,2",
+     "DPS": "3,7",
+     "Turnover": "91,12",
+     "equityratio": "39,41",
+     "deptratio": "60,59"
+    }
+   ]
+  },
+  {
+   "name": "Lufthansa Aktie [WKN: 823212 / ISIN: DE0008232125]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,47",
+     "EPSdiluted": "2,47",
+     "DPS": "0,6",
+     "Turnover": "59,62",
+     "equityratio": "28,11",
+     "deptratio": "71,89"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "0,26",
+     "EPSdiluted": "0,26",
+     "DPS": "0,25",
+     "Turnover": "62,75",
+     "equityratio": "28,31",
+     "deptratio": "71,69"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,91",
+     "EPSdiluted": "1,91",
+     "DPS": "0",
+     "Turnover": "65,74",
+     "equityratio": "28,99",
+     "deptratio": "71,01"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "0,68",
+     "EPSdiluted": "0,68",
+     "DPS": "0,45",
+     "Turnover": "65,26",
+     "equityratio": "20,82",
+     "deptratio": "79,18"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,12",
+     "DPS": "0",
+     "Turnover": "65,04",
+     "equityratio": "12,75",
+     "deptratio": "87,25"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "3,67",
+     "EPSdiluted": "3,67",
+     "DPS": "0,5",
+     "Turnover": "69,22",
+     "equityratio": "17,28",
+     "deptratio": "82,72"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "3,81",
+     "EPSdiluted": "3,81",
+     "DPS": "0,5",
+     "Turnover": "67,95",
+     "equityratio": "19,72",
+     "deptratio": "80,28"
+    }
+   ]
+  },
+  {
+   "name": "Merck Aktie [WKN: 659990 / ISIN: DE0006599905]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,46",
+     "EPSdiluted": "1,46",
+     "DPS": "0,63",
+     "Turnover": "21,37",
+     "equityratio": "46,14",
+     "deptratio": "53,86"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,42",
+     "EPSdiluted": "1,42",
+     "DPS": "0,75",
+     "Turnover": "23,63",
+     "equityratio": "47,23",
+     "deptratio": "52,77"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,31",
+     "EPSdiluted": "1,31",
+     "DPS": "0,85",
+     "Turnover": "25,7",
+     "equityratio": "47,87",
+     "deptratio": "52,13"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "2,77",
+     "EPSdiluted": "2,77",
+     "DPS": "0,95",
+     "Turnover": "25,52",
+     "equityratio": "52,93",
+     "deptratio": "47,07"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "2,66",
+     "EPSdiluted": "2,66",
+     "DPS": "1",
+     "Turnover": "26,45",
+     "equityratio": "44,26",
+     "deptratio": "55,74"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "2,56",
+     "EPSdiluted": "2,56",
+     "DPS": "1,05",
+     "Turnover": "29,54",
+     "equityratio": "32,97",
+     "deptratio": "67,03"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "3,75",
+     "EPSdiluted": "3,75",
+     "DPS": "1,2",
+     "Turnover": "34,56",
+     "equityratio": "35,87",
+     "deptratio": "64,13"
+    }
+   ]
+  },
+  {
+   "name": "Münchener Rückversicherungs-Gesellschaft Aktie [WKN: 843002 / ISIN: DE0008430026]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "13,06",
+     "EPSdiluted": "13,06",
+     "DPS": "6,25",
+     "Turnover": "283,7",
+     "equityratio": "9,87",
+     "deptratio": "90,13"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "3,94",
+     "EPSdiluted": "3,94",
+     "DPS": "6,25",
+     "Turnover": "318,13",
+     "equityratio": "9,53",
+     "deptratio": "90,47"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "17,98",
+     "EPSdiluted": "17,98",
+     "DPS": "7",
+     "Turnover": "335,81",
+     "equityratio": "10,76",
+     "deptratio": "89,24"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "18,5",
+     "EPSdiluted": "18,5",
+     "DPS": "7,25",
+     "Turnover": "325,04",
+     "equityratio": "10,44",
+     "deptratio": "89,56"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "18,31",
+     "EPSdiluted": "18,31",
+     "DPS": "7,75",
+     "Turnover": "327,7",
+     "equityratio": "11,22",
+     "deptratio": "88,78"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "18,73",
+     "EPSdiluted": "18,73",
+     "DPS": "8,25",
+     "Turnover": "342,73",
+     "equityratio": "11,27",
+     "deptratio": "88,73"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "16,13",
+     "EPSdiluted": "16,13",
+     "DPS": "8,6",
+     "Turnover": "389,22",
+     "equityratio": "11,58",
+     "deptratio": "88,42"
+    }
+   ]
+  },
+  {
+   "name": "ProSiebenSat1 Media Aktie [WKN DE: PSM777 / ISIN: DE000PSM7770]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,45",
+     "EPSdiluted": "1,45",
+     "DPS": "1,14",
+     "Turnover": "14,1",
+     "equityratio": "16,11",
+     "deptratio": "83,89"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,4",
+     "EPSdiluted": "1,4",
+     "DPS": "1,17",
+     "Turnover": "12,82",
+     "equityratio": "28,44",
+     "deptratio": "71,56"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,39",
+     "EPSdiluted": "1,38",
+     "DPS": "5,65",
+     "Turnover": "11,04",
+     "equityratio": "27,64",
+     "deptratio": "72,36"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,1",
+     "EPSdiluted": "1,09",
+     "DPS": "1,47",
+     "Turnover": "12,11",
+     "equityratio": "15,68",
+     "deptratio": "84,32"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,75",
+     "EPSdiluted": "1,68",
+     "DPS": "1,6",
+     "Turnover": "13,37",
+     "equityratio": "18,52",
+     "deptratio": "81,48"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "1,83",
+     "EPSdiluted": "1,81",
+     "DPS": "1,8",
+     "Turnover": "15,14",
+     "equityratio": "17,01",
+     "deptratio": "82,99"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "1,85",
+     "EPSdiluted": "1,82",
+     "DPS": "1,9",
+     "Turnover": "17,45",
+     "equityratio": "21,02",
+     "deptratio": "78,98"
+    }
+   ]
+  },
+  {
+   "name": "RWE Aktie [WKN: 703712 / ISIN: DE0007037129]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "6,18",
+     "EPSdiluted": "6,18",
+     "DPS": "3,49",
+     "Turnover": "94,75",
+     "equityratio": "15,66",
+     "deptratio": "84,34"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "3,35",
+     "EPSdiluted": "3,35",
+     "DPS": "2",
+     "Turnover": "91,2",
+     "equityratio": "15,09",
+     "deptratio": "84,91"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "2,13",
+     "EPSdiluted": "2,13",
+     "DPS": "2",
+     "Turnover": "82,62",
+     "equityratio": "13,74",
+     "deptratio": "86,26"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "-4,49",
+     "EPSdiluted": "-4,49",
+     "DPS": "1",
+     "Turnover": "83,6",
+     "equityratio": "9,14",
+     "deptratio": "90,86"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "2,77",
+     "EPSdiluted": "2,77",
+     "DPS": "1",
+     "Turnover": "75,07",
+     "equityratio": "8,21",
+     "deptratio": "91,79"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "-0,28",
+     "EPSdiluted": "-0,28",
+     "DPS": "0",
+     "Turnover": "75,41",
+     "equityratio": "7,15",
+     "deptratio": "92,85"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "-9,29",
+     "EPSdiluted": "-9,29",
+     "DPS": "0",
+     "Turnover": "70,91",
+     "equityratio": "3,4",
+     "deptratio": "96,6"
+    }
+   ]
+  },
+  {
+   "name": "SAP Aktie [WKN: 716460 / ISIN: DE0007164600]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,53",
+     "EPSdiluted": "1,53",
+     "DPS": "0,6",
+     "Turnover": "10,48",
+     "equityratio": "47,06",
+     "deptratio": "52,94"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "2,89",
+     "EPSdiluted": "2,89",
+     "DPS": "0,75",
+     "Turnover": "11,96",
+     "equityratio": "54,68",
+     "deptratio": "45,32"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "2,37",
+     "EPSdiluted": "2,37",
+     "DPS": "0,85",
+     "Turnover": "13,6",
+     "equityratio": "52,78",
+     "deptratio": "47,22"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "2,79",
+     "EPSdiluted": "2,78",
+     "DPS": "1",
+     "Turnover": "14,07",
+     "equityratio": "59,2",
+     "deptratio": "40,8"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "2,74",
+     "EPSdiluted": "2,74",
+     "DPS": "1,1",
+     "Turnover": "14,67",
+     "equityratio": "50,65",
+     "deptratio": "49,35"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "2,56",
+     "EPSdiluted": "2,56",
+     "DPS": "1,15",
+     "Turnover": "17,36",
+     "equityratio": "56,21",
+     "deptratio": "43,79"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "3,04",
+     "EPSdiluted": "3,04",
+     "DPS": "1,25",
+     "Turnover": "18,4",
+     "equityratio": "59,57",
+     "deptratio": "40,43"
+    }
+   ]
+  },
+  {
+   "name": "Siemens Aktie [WKN: 723610 / ISIN: DE0007236101]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "4,46",
+     "EPSdiluted": "4,41",
+     "DPS": "2,7",
+     "Turnover": "86,59",
+     "equityratio": "27,57",
+     "deptratio": "72,43"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "7,04",
+     "EPSdiluted": "6,96",
+     "DPS": "3",
+     "Turnover": "83,29",
+     "equityratio": "30,25",
+     "deptratio": "69,75"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "5,09",
+     "EPSdiluted": "5,09",
+     "DPS": "3",
+     "Turnover": "88,54",
+     "equityratio": "28,38",
+     "deptratio": "71,62"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "5,08",
+     "EPSdiluted": "5,03",
+     "DPS": "3",
+     "Turnover": "89,04",
+     "equityratio": "27,58",
+     "deptratio": "72,42"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "6,37",
+     "EPSdiluted": "6,31",
+     "DPS": "3,3",
+     "Turnover": "84,42",
+     "equityratio": "29,51",
+     "deptratio": "70,49"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "6,54",
+     "EPSdiluted": "6,46",
+     "DPS": "3,5",
+     "Turnover": "90,82",
+     "equityratio": "28,65",
+     "deptratio": "71,35"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "6,61",
+     "EPSdiluted": "6,52",
+     "DPS": "3,6",
+     "Turnover": "97,14",
+     "equityratio": "27,21",
+     "deptratio": "72,79"
+    }
+   ]
+  },
+  {
+   "name": "thyssenkrupp Aktie [WKN: 750000 / ISIN: DE0007500001]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,78",
+     "EPSdiluted": "1,78",
+     "DPS": "0,45",
+     "Turnover": "91,86",
+     "equityratio": "19,45",
+     "deptratio": "80,55"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "-2,71",
+     "EPSdiluted": "-2,71",
+     "DPS": "0,45",
+     "Turnover": "91,04",
+     "equityratio": "20,67",
+     "deptratio": "79,33"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "-9,07",
+     "EPSdiluted": "-9,07",
+     "DPS": "0",
+     "Turnover": "77,99",
+     "equityratio": "9,3",
+     "deptratio": "90,7"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "-2,71",
+     "EPSdiluted": "-2,71",
+     "DPS": "0",
+     "Turnover": "74,95",
+     "equityratio": "6,35",
+     "deptratio": "93,65"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "0,38",
+     "EPSdiluted": "0,38",
+     "DPS": "0,11",
+     "Turnover": "74,14",
+     "equityratio": "8,27",
+     "deptratio": "91,73"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "0,55",
+     "EPSdiluted": "0,55",
+     "DPS": "0,15",
+     "Turnover": "75,59",
+     "equityratio": "7,8",
+     "deptratio": "92,2"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "0,52",
+     "EPSdiluted": "0,52",
+     "DPS": "0,15",
+     "Turnover": "69,38",
+     "equityratio": "5,15",
+     "deptratio": "94,85"
+    }
+   ]
+  },
+  {
+   "name": "Volkswagen (VW) vz Aktie [WKN: 766403 / ISIN: DE0007664039]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "15,19",
+     "EPSdiluted": "15,19",
+     "DPS": "2,2",
+     "Turnover": "281,98",
+     "equityratio": "23,06",
+     "deptratio": "76,94"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "33,12",
+     "EPSdiluted": "33,12",
+     "DPS": "3",
+     "Turnover": "342,5",
+     "equityratio": "22,69",
+     "deptratio": "77,31"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "46,45",
+     "EPSdiluted": "46,45",
+     "DPS": "3,5",
+     "Turnover": "412,08",
+     "equityratio": "25,03",
+     "deptratio": "74,97"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "18,66",
+     "EPSdiluted": "18,66",
+     "DPS": "4",
+     "Turnover": "405,28",
+     "equityratio": "27,05",
+     "deptratio": "72,95"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "21,87",
+     "EPSdiluted": "21,87",
+     "DPS": "4,8",
+     "Turnover": "408,12",
+     "equityratio": "22,87",
+     "deptratio": "77,13"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "-3,16",
+     "EPSdiluted": "-3,16",
+     "DPS": "0,11",
+     "Turnover": "425,48",
+     "equityratio": "19,83",
+     "deptratio": "80,17"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "10,26",
+     "EPSdiluted": "10,26",
+     "DPS": "2",
+     "Turnover": "433,41",
+     "equityratio": "19,57",
+     "deptratio": "80,43"
+    }
+   ]
+  },
+  {
+   "name": "Vonovia Aktie [WKN DE: A1ML7J / ISIN: DE000A1ML7J1]",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "-",
+     "Turnover": "-",
+     "equityratio": "17,13",
+     "deptratio": "82,87"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "-",
+     "Turnover": "-",
+     "equityratio": "20,72",
+     "deptratio": "79,28"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "0,73",
+     "EPSdiluted": "0,73",
+     "DPS": "-",
+     "Turnover": "5,96",
+     "equityratio": "25,14",
+     "deptratio": "74,86"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "2,15",
+     "EPSdiluted": "2,15",
+     "DPS": "0,67",
+     "Turnover": "6,75",
+     "equityratio": "34,31",
+     "deptratio": "65,69"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,56",
+     "EPSdiluted": "1,56",
+     "DPS": "0,74",
+     "Turnover": "6,23",
+     "equityratio": "33,42",
+     "deptratio": "66,58"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "2,29",
+     "EPSdiluted": "2,29",
+     "DPS": "0,94",
+     "Turnover": "7,14",
+     "equityratio": "34,3",
+     "deptratio": "65,7"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "4,94",
+     "EPSdiluted": "4,94",
+     "DPS": "1,12",
+     "Turnover": "7,53",
+     "equityratio": "38,34",
+     "deptratio": "61,66"
+    }
+   ]
+  }
+ ]
+}
