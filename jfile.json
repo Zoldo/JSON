@@ -2,6 +2,7 @@
  "Aktien": [
   {
    "name": "adidas Aktie [WKN DE: A1EWWW / ISIN: DE000A1EWWW0]",
+   "URL": "http://www.finanzen.at/bilanz_guv/adidas",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -75,10 +76,69 @@
      "equityratio": "42,65",
      "deptratio": "57,35"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "12.05.16",
+     "Dividende": "1,60"
+    },
+    {
+     "Datum": "07.05.15",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "08.05.14",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "08.05.13",
+     "Dividende": "1,35"
+    },
+    {
+     "Datum": "10.05.12",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "12.05.11",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "06.05.10",
+     "Dividende": "0,35"
+    },
+    {
+     "Datum": "07.05.09",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "08.05.08",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "10.05.07",
+     "Dividende": "0,42"
+    },
+    {
+     "Datum": "11.05.06",
+     "Dividende": "0,33"
+    },
+    {
+     "Datum": "04.05.05",
+     "Dividende": "0,33"
+    },
+    {
+     "Datum": "13.05.04",
+     "Dividende": "0,25"
+    },
+    {
+     "Datum": "08.05.03",
+     "Dividende": "0,25"
+    }
    ]
   },
   {
    "name": "Allianz Aktie [WKN: 840400 / ISIN: DE0008404005]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Allianz",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -152,10 +212,77 @@
      "equityratio": "7,59",
      "deptratio": "92,41"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "09.05.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "05.05.16",
+     "Dividende": "7,30"
+    },
+    {
+     "Datum": "04.05.16",
+     "Dividende": "7,30"
+    },
+    {
+     "Datum": "06.05.15",
+     "Dividende": "6,85"
+    },
+    {
+     "Datum": "07.05.14",
+     "Dividende": "5,30"
+    },
+    {
+     "Datum": "07.05.13",
+     "Dividende": "4,50"
+    },
+    {
+     "Datum": "09.05.12",
+     "Dividende": "4,50"
+    },
+    {
+     "Datum": "04.05.11",
+     "Dividende": "4,50"
+    },
+    {
+     "Datum": "05.05.10",
+     "Dividende": "4,10"
+    },
+    {
+     "Datum": "29.04.09",
+     "Dividende": "3,50"
+    },
+    {
+     "Datum": "21.05.08",
+     "Dividende": "5,50"
+    },
+    {
+     "Datum": "02.05.07",
+     "Dividende": "3,80"
+    },
+    {
+     "Datum": "03.05.06",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "04.05.05",
+     "Dividende": "1,75"
+    },
+    {
+     "Datum": "05.05.04",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "29.04.03",
+     "Dividende": "1,50"
+    }
    ]
   },
   {
    "name": "BASF Aktie [WKN DE: BASF11 / ISIN: DE000BASF111]",
+   "URL": "http://www.finanzen.at/bilanz_guv/BASF",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -229,10 +356,109 @@
      "equityratio": "40",
      "deptratio": "60"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "04.05.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "29.04.16",
+     "Dividende": "2,90"
+    },
+    {
+     "Datum": "02.05.15",
+     "Dividende": "2,80"
+    },
+    {
+     "Datum": "30.04.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "02.05.14",
+     "Dividende": "2,70"
+    },
+    {
+     "Datum": "02.05.13",
+     "Dividende": "2,60"
+    },
+    {
+     "Datum": "26.04.13",
+     "Dividende": "2,60"
+    },
+    {
+     "Datum": "27.04.12",
+     "Dividende": "2,50"
+    },
+    {
+     "Datum": "06.05.11",
+     "Dividende": "2,20"
+    },
+    {
+     "Datum": "29.04.10",
+     "Dividende": "1,70"
+    },
+    {
+     "Datum": "30.04.09",
+     "Dividende": "1,95"
+    },
+    {
+     "Datum": "02.12.08",
+     "Dividende": "2,50"
+    },
+    {
+     "Datum": "24.04.08",
+     "Dividende": "1,95"
+    },
+    {
+     "Datum": "07.03.08",
+     "Dividende": "2,50"
+    },
+    {
+     "Datum": "26.04.07",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "08.03.07",
+     "Dividende": "3,00"
+    },
+    {
+     "Datum": "04.05.06",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "02.03.06",
+     "Dividende": "3,00"
+    },
+    {
+     "Datum": "28.04.05",
+     "Dividende": "0,85"
+    },
+    {
+     "Datum": "03.03.05",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "29.04.04",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "26.02.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "06.05.03",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "06.03.03",
+     "Dividende": "-"
+    }
    ]
   },
   {
    "name": "Bayer Aktie [WKN DE: BAY001 / ISIN: DE000BAY0017]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Bayer",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -306,10 +532,105 @@
      "equityratio": "31,43",
      "deptratio": "68,57"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "25.05.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "29.04.16",
+     "Dividende": "2,50"
+    },
+    {
+     "Datum": "27.05.15",
+     "Dividende": "2,25"
+    },
+    {
+     "Datum": "29.04.14",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "26.04.13",
+     "Dividende": "1,90"
+    },
+    {
+     "Datum": "27.04.12",
+     "Dividende": "1,65"
+    },
+    {
+     "Datum": "29.04.11",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "30.04.10",
+     "Dividende": "1,40"
+    },
+    {
+     "Datum": "12.05.09",
+     "Dividende": "1,40"
+    },
+    {
+     "Datum": "16.05.08",
+     "Dividende": "0,04"
+    },
+    {
+     "Datum": "25.04.08",
+     "Dividende": "1,35"
+    },
+    {
+     "Datum": "24.05.07",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "27.04.07",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "17.01.07",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "13.09.06",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "28.04.06",
+     "Dividende": "0,95"
+    },
+    {
+     "Datum": "19.04.06",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "29.04.05",
+     "Dividende": "0,55"
+    },
+    {
+     "Datum": "14.04.05",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "30.04.04",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "16.04.04",
+     "Dividende": "0,93"
+    },
+    {
+     "Datum": "25.04.03",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "10.04.03",
+     "Dividende": "0,93"
+    }
    ]
   },
   {
    "name": "Beiersdorf Aktie [WKN: 520000 / ISIN: DE0005200000]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Beiersdorf",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -383,10 +704,77 @@
      "equityratio": "61,06",
      "deptratio": "38,94"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "31.03.16",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "31.03.15",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "17.04.14",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "18.04.13",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "11.04.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "10.05.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "26.04.12",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "21.04.11",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "29.04.10",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "30.04.09",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "30.04.08",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "26.04.07",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "17.05.06",
+     "Dividende": "0,57"
+    },
+    {
+     "Datum": "18.05.05",
+     "Dividende": "0,53"
+    },
+    {
+     "Datum": "03.06.04",
+     "Dividende": "0,53"
+    },
+    {
+     "Datum": "11.06.03",
+     "Dividende": "0,47"
+    }
    ]
   },
   {
    "name": "BMW Aktie [WKN: 519000 / ISIN: DE0005190003]",
+   "URL": "http://www.finanzen.at/bilanz_guv/BMW",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -460,10 +848,73 @@
      "equityratio": "23,62",
      "deptratio": "76,38"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "17.05.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "12.05.16",
+     "Dividende": "3,20"
+    },
+    {
+     "Datum": "13.05.15",
+     "Dividende": "2,90"
+    },
+    {
+     "Datum": "15.05.14",
+     "Dividende": "2,60"
+    },
+    {
+     "Datum": "14.05.13",
+     "Dividende": "2,50"
+    },
+    {
+     "Datum": "16.05.12",
+     "Dividende": "2,30"
+    },
+    {
+     "Datum": "12.05.11",
+     "Dividende": "1,30"
+    },
+    {
+     "Datum": "18.05.10",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "14.05.09",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "08.05.08",
+     "Dividende": "1,06"
+    },
+    {
+     "Datum": "15.05.07",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "16.05.06",
+     "Dividende": "0,64"
+    },
+    {
+     "Datum": "12.05.05",
+     "Dividende": "0,62"
+    },
+    {
+     "Datum": "13.05.04",
+     "Dividende": "0,58"
+    },
+    {
+     "Datum": "15.05.03",
+     "Dividende": "0,52"
+    }
    ]
   },
   {
    "name": "Commerzbank Aktie [WKN DE: CBK100 / ISIN: DE000CBK1001]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Commerzbank",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -537,10 +988,89 @@
      "equityratio": "5,88",
      "deptratio": "94,12"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "20.04.16",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "30.04.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.05.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "22.05.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "23.05.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "18.05.11",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "19.05.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "15.05.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "15.05.08",
+     "Dividende": "10,00"
+    },
+    {
+     "Datum": "29.08.07",
+     "Dividende": "1,10"
+    },
+    {
+     "Datum": "16.05.07",
+     "Dividende": "7,50"
+    },
+    {
+     "Datum": "29.05.06",
+     "Dividende": "0,65"
+    },
+    {
+     "Datum": "17.05.06",
+     "Dividende": "5,00"
+    },
+    {
+     "Datum": "25.05.05",
+     "Dividende": "0,55"
+    },
+    {
+     "Datum": "20.05.05",
+     "Dividende": "2,50"
+    },
+    {
+     "Datum": "17.05.04",
+     "Dividende": "0,45"
+    },
+    {
+     "Datum": "12.05.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "30.05.03",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "19.05.03",
+     "Dividende": "0,45"
+    }
    ]
   },
   {
    "name": "Continental Aktie [WKN: 543900 / ISIN: DE0005439004]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Continental",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -614,10 +1144,81 @@
      "equityratio": "38,21",
      "deptratio": "61,79"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "27.04.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "29.04.16",
+     "Dividende": "3,75"
+    },
+    {
+     "Datum": "30.04.15",
+     "Dividende": "3,25"
+    },
+    {
+     "Datum": "25.04.14",
+     "Dividende": "2,50"
+    },
+    {
+     "Datum": "15.05.13",
+     "Dividende": "2,25"
+    },
+    {
+     "Datum": "27.04.12",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "28.04.11",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "28.04.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "23.04.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "26.04.08",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "01.08.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "24.04.07",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "24.05.06",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "05.05.06",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "12.05.05",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "14.05.04",
+     "Dividende": "0,52"
+    },
+    {
+     "Datum": "23.05.03",
+     "Dividende": "0,45"
+    }
    ]
   },
   {
    "name": "Daimler Aktie [WKN: 710000 / ISIN: DE0007100000]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Daimler",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -691,10 +1292,77 @@
      "equityratio": "23,85",
      "deptratio": "76,15"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "05.04.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "06.04.16",
+     "Dividende": "3,25"
+    },
+    {
+     "Datum": "01.04.15",
+     "Dividende": "2,45"
+    },
+    {
+     "Datum": "09.04.14",
+     "Dividende": "2,25"
+    },
+    {
+     "Datum": "10.04.13",
+     "Dividende": "2,20"
+    },
+    {
+     "Datum": "04.04.12",
+     "Dividende": "2,20"
+    },
+    {
+     "Datum": "13.04.11",
+     "Dividende": "1,85"
+    },
+    {
+     "Datum": "14.04.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.04.09",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "09.04.08",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "04.10.07",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "04.04.07",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "12.04.06",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "06.04.05",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "07.04.04",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "09.04.03",
+     "Dividende": "1,50"
+    }
    ]
   },
   {
    "name": "Deutsche Bank Aktie [WKN: 514000 / ISIN: DE0005140008]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Deutsche_Bank",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -768,10 +1436,137 @@
      "equityratio": "3,74",
      "deptratio": "96,26"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "19.05.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "28.08.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "28.05.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "21.05.15",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "09.07.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "22.05.14",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "28.05.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "23.05.13",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "05.06.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "31.05.12",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "26.05.11",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "24.05.11",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.05.10",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "29.04.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "26.05.09",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "22.04.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "29.05.08",
+     "Dividende": "4,50"
+    },
+    {
+     "Datum": "08.05.08",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "30.08.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "24.05.07",
+     "Dividende": "4,00"
+    },
+    {
+     "Datum": "10.05.07",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "01.06.06",
+     "Dividende": "2,50"
+    },
+    {
+     "Datum": "11.05.06",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "09.06.05",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "19.05.05",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "18.05.05",
+     "Dividende": "1,70"
+    },
+    {
+     "Datum": "03.06.04",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "02.06.04",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "11.05.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "12.06.03",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "22.05.03",
+     "Dividende": "1,30"
+    }
    ]
   },
   {
    "name": "Deutsche Börse Aktie [WKN: 581005 / ISIN: DE0005810055]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Deutsche_Boerse",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -845,10 +1640,69 @@
      "equityratio": "2,74",
      "deptratio": "97,26"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "11.05.16",
+     "Dividende": "2,25"
+    },
+    {
+     "Datum": "13.05.15",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "15.05.14",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "15.05.13",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "16.05.12",
+     "Dividende": "2,30"
+    },
+    {
+     "Datum": "12.05.11",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "27.05.10",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "20.05.09",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "21.05.08",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "11.05.07",
+     "Dividende": "1,70"
+    },
+    {
+     "Datum": "24.05.06",
+     "Dividende": "1,05"
+    },
+    {
+     "Datum": "25.05.05",
+     "Dividende": "0,35"
+    },
+    {
+     "Datum": "19.05.04",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "14.05.03",
+     "Dividende": "0,22"
+    }
    ]
   },
   {
    "name": "Deutsche Post Aktie [WKN: 555200 / ISIN: DE0005552004]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Deutsche_Post",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -922,10 +1776,69 @@
      "equityratio": "28,78",
      "deptratio": "71,22"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "18.05.16",
+     "Dividende": "0,85"
+    },
+    {
+     "Datum": "27.05.15",
+     "Dividende": "0,85"
+    },
+    {
+     "Datum": "27.05.14",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "29.05.13",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "09.05.12",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "25.05.11",
+     "Dividende": "0,65"
+    },
+    {
+     "Datum": "28.04.10",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "21.04.09",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "06.05.08",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "08.05.07",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "10.05.06",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "18.05.05",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "06.05.04",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "05.06.03",
+     "Dividende": "0,40"
+    }
    ]
   },
   {
    "name": "Deutsche Telekom Aktie [WKN: 555750 / ISIN: DE0005557508]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Deutsche_Telekom",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -999,10 +1912,73 @@
      "equityratio": "19,74",
      "deptratio": "80,26"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "16.05.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "25.05.16",
+     "Dividende": "0,55"
+    },
+    {
+     "Datum": "21.05.15",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "15.05.14",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "16.05.13",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "24.05.12",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "12.05.11",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "03.05.10",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "30.04.09",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "15.05.08",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "03.05.07",
+     "Dividende": "0,72"
+    },
+    {
+     "Datum": "03.05.06",
+     "Dividende": "0,72"
+    },
+    {
+     "Datum": "26.04.05",
+     "Dividende": "0,62"
+    },
+    {
+     "Datum": "18.05.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "20.05.03",
+     "Dividende": "-"
+    }
    ]
   },
   {
    "name": "EON Aktie [WKN DE: ENAG99 / ISIN: DE000ENAG999]",
+   "URL": "http://www.finanzen.at/bilanz_guv/EON",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -1076,10 +2052,73 @@
      "equityratio": "-1,58",
      "deptratio": "101,58"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "08.05.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.06.16",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "07.05.15",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "30.04.14",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "03.05.13",
+     "Dividende": "1,10"
+    },
+    {
+     "Datum": "03.05.12",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "05.05.11",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "06.05.10",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "06.05.09",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "30.04.08",
+     "Dividende": "1,37"
+    },
+    {
+     "Datum": "03.05.07",
+     "Dividende": "1,12"
+    },
+    {
+     "Datum": "04.05.06",
+     "Dividende": "2,33"
+    },
+    {
+     "Datum": "27.04.05",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "28.04.04",
+     "Dividende": "0,67"
+    },
+    {
+     "Datum": "30.04.03",
+     "Dividende": "0,58"
+    }
    ]
   },
   {
    "name": "Fresenius Medical Care Aktie [WKN: 578580 / ISIN: DE0005785802]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Fresenius_Medical_Care",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -1153,10 +2192,69 @@
      "equityratio": "40,13",
      "deptratio": "59,87"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "12.05.16",
+     "Dividende": "0,81"
+    },
+    {
+     "Datum": "19.05.15",
+     "Dividende": "0,88"
+    },
+    {
+     "Datum": "15.05.14",
+     "Dividende": "0,99"
+    },
+    {
+     "Datum": "16.05.13",
+     "Dividende": "0,91"
+    },
+    {
+     "Datum": "10.05.12",
+     "Dividende": "0,85"
+    },
+    {
+     "Datum": "12.05.11",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "11.05.10",
+     "Dividende": "0,72"
+    },
+    {
+     "Datum": "07.05.09",
+     "Dividende": "0,73"
+    },
+    {
+     "Datum": "20.05.08",
+     "Dividende": "0,79"
+    },
+    {
+     "Datum": "15.05.07",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "09.05.06",
+     "Dividende": "0,48"
+    },
+    {
+     "Datum": "24.05.05",
+     "Dividende": "0,45"
+    },
+    {
+     "Datum": "27.05.04",
+     "Dividende": "0,38"
+    },
+    {
+     "Datum": "22.05.03",
+     "Dividende": "0,34"
+    }
    ]
   },
   {
    "name": "Fresenius Aktie [WKN: 578560 / ISIN: DE0005785604]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Fresenius",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -1230,10 +2328,77 @@
      "equityratio": "27,12",
      "deptratio": "72,88"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "17.05.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "13.05.16",
+     "Dividende": "0,55"
+    },
+    {
+     "Datum": "20.05.15",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "19.05.14",
+     "Dividende": "0,42"
+    },
+    {
+     "Datum": "16.05.14",
+     "Dividende": "0,42"
+    },
+    {
+     "Datum": "17.05.13",
+     "Dividende": "0,37"
+    },
+    {
+     "Datum": "11.05.12",
+     "Dividende": "0,32"
+    },
+    {
+     "Datum": "13.05.11",
+     "Dividende": "0,29"
+    },
+    {
+     "Datum": "12.05.10",
+     "Dividende": "0,25"
+    },
+    {
+     "Datum": "08.05.09",
+     "Dividende": "0,23"
+    },
+    {
+     "Datum": "21.05.08",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "16.05.07",
+     "Dividende": "0,19"
+    },
+    {
+     "Datum": "10.05.06",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "25.05.05",
+     "Dividende": "0,15"
+    },
+    {
+     "Datum": "28.05.04",
+     "Dividende": "0,14"
+    },
+    {
+     "Datum": "28.05.03",
+     "Dividende": "0,13"
+    }
    ]
   },
   {
    "name": "HeidelbergCement Aktie [WKN: 604700 / ISIN: DE0006047004]",
+   "URL": "http://www.finanzen.at/bilanz_guv/HeidelbergCement",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -1307,10 +2472,69 @@
      "equityratio": "41,96",
      "deptratio": "58,04"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "04.05.16",
+     "Dividende": "1,30"
+    },
+    {
+     "Datum": "07.05.15",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "07.05.14",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "08.05.13",
+     "Dividende": "0,47"
+    },
+    {
+     "Datum": "03.05.12",
+     "Dividende": "0,35"
+    },
+    {
+     "Datum": "05.05.11",
+     "Dividende": "0,25"
+    },
+    {
+     "Datum": "06.05.10",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "07.05.09",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "08.05.08",
+     "Dividende": "1,30"
+    },
+    {
+     "Datum": "09.05.07",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "04.05.06",
+     "Dividende": "1,15"
+    },
+    {
+     "Datum": "04.05.05",
+     "Dividende": "0,55"
+    },
+    {
+     "Datum": "06.05.04",
+     "Dividende": "1,15"
+    },
+    {
+     "Datum": "08.05.03",
+     "Dividende": "-"
+    }
    ]
   },
   {
    "name": "Henkel vz Aktie [WKN: 604843 / ISIN: DE0006048432]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Henkel_vz",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -1388,6 +2612,7 @@
   },
   {
    "name": "Infineon Aktie [WKN: 623100 / ISIN: DE0006231004]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Infineon",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -1461,10 +2686,77 @@
      "equityratio": "55,28",
      "deptratio": "44,72"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "16.02.17",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "18.02.16",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "12.02.15",
+     "Dividende": "0,18"
+    },
+    {
+     "Datum": "13.02.14",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "28.03.13",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "28.02.13",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "08.03.12",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "17.02.11",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "11.02.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "12.02.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "14.02.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "15.02.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "16.02.06",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "25.01.05",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "20.01.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "21.01.03",
+     "Dividende": "-"
+    }
    ]
   },
   {
    "name": "Linde Aktie [WKN: 648300 / ISIN: DE0006483001]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Linde",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -1538,10 +2830,73 @@
      "equityratio": "39,41",
      "deptratio": "60,59"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "03.05.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "03.05.16",
+     "Dividende": "3,45"
+    },
+    {
+     "Datum": "12.05.15",
+     "Dividende": "3,15"
+    },
+    {
+     "Datum": "20.05.14",
+     "Dividende": "3,00"
+    },
+    {
+     "Datum": "29.05.13",
+     "Dividende": "2,70"
+    },
+    {
+     "Datum": "04.05.12",
+     "Dividende": "2,50"
+    },
+    {
+     "Datum": "12.05.11",
+     "Dividende": "2,20"
+    },
+    {
+     "Datum": "04.05.10",
+     "Dividende": "1,80"
+    },
+    {
+     "Datum": "15.05.09",
+     "Dividende": "1,80"
+    },
+    {
+     "Datum": "03.06.08",
+     "Dividende": "1,70"
+    },
+    {
+     "Datum": "05.06.07",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "04.05.06",
+     "Dividende": "1,40"
+    },
+    {
+     "Datum": "08.06.05",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "18.05.04",
+     "Dividende": "1,13"
+    },
+    {
+     "Datum": "27.05.03",
+     "Dividende": "1,13"
+    }
    ]
   },
   {
    "name": "Lufthansa Aktie [WKN: 823212 / ISIN: DE0008232125]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Lufthansa",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -1615,10 +2970,77 @@
      "equityratio": "19,72",
      "deptratio": "80,28"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "08.05.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "28.04.16",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "29.04.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "29.04.14",
+     "Dividende": "0,45"
+    },
+    {
+     "Datum": "07.05.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.05.12",
+     "Dividende": "0,25"
+    },
+    {
+     "Datum": "03.05.11",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "29.04.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "24.04.09",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "29.04.08",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "25.04.08",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "18.04.07",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "17.05.06",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "25.05.05",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "16.06.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "18.06.03",
+     "Dividende": "0,60"
+    }
    ]
   },
   {
    "name": "Merck Aktie [WKN: 659990 / ISIN: DE0006599905]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Merck",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -1692,10 +3114,185 @@
      "equityratio": "35,87",
      "deptratio": "64,13"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "27.04.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "29.04.16",
+     "Dividende": "1,05"
+    },
+    {
+     "Datum": "11.04.16",
+     "Dividende": "1,47"
+    },
+    {
+     "Datum": "17.04.15",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "13.04.15",
+     "Dividende": "1,31"
+    },
+    {
+     "Datum": "09.05.14",
+     "Dividende": "0,95"
+    },
+    {
+     "Datum": "11.04.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "04.04.14",
+     "Dividende": "1,22"
+    },
+    {
+     "Datum": "26.04.13",
+     "Dividende": "0,85"
+    },
+    {
+     "Datum": "15.04.13",
+     "Dividende": "0,95"
+    },
+    {
+     "Datum": "20.04.12",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "16.04.12",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "11.04.11",
+     "Dividende": "0,72"
+    },
+    {
+     "Datum": "08.04.11",
+     "Dividende": "0,63"
+    },
+    {
+     "Datum": "03.06.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "19.04.10",
+     "Dividende": "0,53"
+    },
+    {
+     "Datum": "09.04.10",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "12.05.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "20.04.09",
+     "Dividende": "0,53"
+    },
+    {
+     "Datum": "03.04.09",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "08.05.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "14.04.08",
+     "Dividende": "0,53"
+    },
+    {
+     "Datum": "28.03.08",
+     "Dividende": "1,60"
+    },
+    {
+     "Datum": "04.05.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.04.07",
+     "Dividende": "0,53"
+    },
+    {
+     "Datum": "16.04.07",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "05.01.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "30.06.06",
+     "Dividende": "0,43"
+    },
+    {
+     "Datum": "26.04.06",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "25.04.06",
+     "Dividende": "10,00"
+    },
+    {
+     "Datum": "10.04.06",
+     "Dividende": "0,45"
+    },
+    {
+     "Datum": "27.04.05",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "26.04.05",
+     "Dividende": "9,00"
+    },
+    {
+     "Datum": "18.04.05",
+     "Dividende": "0,43"
+    },
+    {
+     "Datum": "31.03.05",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "25.05.04",
+     "Dividende": "8,00"
+    },
+    {
+     "Datum": "28.04.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "19.04.04",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "26.03.04",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "06.05.03",
+     "Dividende": "7,00"
+    },
+    {
+     "Datum": "30.04.03",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "14.04.03",
+     "Dividende": "0,37"
+    },
+    {
+     "Datum": "28.03.03",
+     "Dividende": "0,50"
+    }
    ]
   },
   {
    "name": "Münchener Rückversicherungs-Gesellschaft Aktie [WKN: 843002 / ISIN: DE0008430026]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Munich_Re",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -1769,10 +3366,109 @@
      "equityratio": "11,58",
      "deptratio": "88,42"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "30.04.19",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "25.04.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "10.05.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.04.16",
+     "Dividende": "8,25"
+    },
+    {
+     "Datum": "23.04.15",
+     "Dividende": "7,75"
+    },
+    {
+     "Datum": "30.04.14",
+     "Dividende": "7,25"
+    },
+    {
+     "Datum": "25.04.13",
+     "Dividende": "7,00"
+    },
+    {
+     "Datum": "26.04.12",
+     "Dividende": "6,25"
+    },
+    {
+     "Datum": "20.04.11",
+     "Dividende": "6,25"
+    },
+    {
+     "Datum": "12.05.10",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "28.04.10",
+     "Dividende": "5,75"
+    },
+    {
+     "Datum": "05.05.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "22.04.09",
+     "Dividende": "5,50"
+    },
+    {
+     "Datum": "05.05.08",
+     "Dividende": "13,25"
+    },
+    {
+     "Datum": "17.04.08",
+     "Dividende": "5,50"
+    },
+    {
+     "Datum": "09.05.07",
+     "Dividende": "1,60"
+    },
+    {
+     "Datum": "26.04.07",
+     "Dividende": "4,50"
+    },
+    {
+     "Datum": "19.04.06",
+     "Dividende": "3,10"
+    },
+    {
+     "Datum": "12.04.06",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "28.04.05",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "12.04.05",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "26.05.04",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "19.05.04",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "11.06.03",
+     "Dividende": "1,25"
+    }
    ]
   },
   {
    "name": "ProSiebenSat1 Media Aktie [WKN DE: PSM777 / ISIN: DE000PSM7770]",
+   "URL": "http://www.finanzen.at/bilanz_guv/ProSiebenSat1_Media",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -1846,10 +3542,81 @@
      "equityratio": "21,02",
      "deptratio": "78,98"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "30.06.16",
+     "Dividende": "1,80"
+    },
+    {
+     "Datum": "21.06.15",
+     "Dividende": "1,60"
+    },
+    {
+     "Datum": "21.05.15",
+     "Dividende": "1,60"
+    },
+    {
+     "Datum": "26.06.14",
+     "Dividende": "1,47"
+    },
+    {
+     "Datum": "23.07.13",
+     "Dividende": "5,65"
+    },
+    {
+     "Datum": "15.05.12",
+     "Dividende": "1,17"
+    },
+    {
+     "Datum": "01.07.11",
+     "Dividende": "1,14"
+    },
+    {
+     "Datum": "18.05.11",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "29.06.10",
+     "Dividende": "0,02"
+    },
+    {
+     "Datum": "04.06.09",
+     "Dividende": "0,02"
+    },
+    {
+     "Datum": "20.05.09",
+     "Dividende": "0,02"
+    },
+    {
+     "Datum": "10.06.08",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "17.07.07",
+     "Dividende": "0,89"
+    },
+    {
+     "Datum": "02.08.06",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "13.05.05",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "07.05.04",
+     "Dividende": "0,02"
+    },
+    {
+     "Datum": "16.06.03",
+     "Dividende": "0,02"
+    }
    ]
   },
   {
    "name": "RWE Aktie [WKN: 703712 / ISIN: DE0007037129]",
+   "URL": "http://www.finanzen.at/bilanz_guv/RWE",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -1923,10 +3690,73 @@
      "equityratio": "3,4",
      "deptratio": "96,6"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "26.04.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "20.04.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "23.04.15",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "16.04.14",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "18.04.13",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "19.04.12",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "20.04.11",
+     "Dividende": "3,50"
+    },
+    {
+     "Datum": "22.04.10",
+     "Dividende": "3,50"
+    },
+    {
+     "Datum": "22.04.09",
+     "Dividende": "4,50"
+    },
+    {
+     "Datum": "17.04.08",
+     "Dividende": "3,15"
+    },
+    {
+     "Datum": "18.04.07",
+     "Dividende": "3,50"
+    },
+    {
+     "Datum": "13.04.06",
+     "Dividende": "1,75"
+    },
+    {
+     "Datum": "14.04.05",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "15.04.04",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "15.05.03",
+     "Dividende": "1,10"
+    }
    ]
   },
   {
    "name": "SAP Aktie [WKN: 716460 / ISIN: DE0007164600]",
+   "URL": "http://www.finanzen.at/bilanz_guv/SAP",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -2000,10 +3830,93 @@
      "equityratio": "59,57",
      "deptratio": "40,43"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "17.05.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "12.05.16",
+     "Dividende": "1,15"
+    },
+    {
+     "Datum": "20.05.15",
+     "Dividende": "1,10"
+    },
+    {
+     "Datum": "21.05.14",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "04.06.13",
+     "Dividende": "0,85"
+    },
+    {
+     "Datum": "23.05.12",
+     "Dividende": "1,10"
+    },
+    {
+     "Datum": "25.05.11",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "08.06.10",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "19.05.09",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "03.06.08",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "22.08.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "10.05.07",
+     "Dividende": "0,46"
+    },
+    {
+     "Datum": "09.05.06",
+     "Dividende": "0,36"
+    },
+    {
+     "Datum": "28.04.06",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "09.06.05",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "12.05.05",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "08.06.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "06.05.04",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "22.05.03",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "09.05.03",
+     "Dividende": "0,15"
+    }
    ]
   },
   {
    "name": "Siemens Aktie [WKN: 723610 / ISIN: DE0007236101]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Siemens",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -2077,10 +3990,77 @@
      "equityratio": "27,21",
      "deptratio": "72,79"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "31.01.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "01.02.17",
+     "Dividende": "3,60"
+    },
+    {
+     "Datum": "26.01.16",
+     "Dividende": "3,50"
+    },
+    {
+     "Datum": "27.01.15",
+     "Dividende": "3,30"
+    },
+    {
+     "Datum": "28.01.14",
+     "Dividende": "3,00"
+    },
+    {
+     "Datum": "23.01.13",
+     "Dividende": "3,00"
+    },
+    {
+     "Datum": "24.01.12",
+     "Dividende": "3,00"
+    },
+    {
+     "Datum": "25.01.11",
+     "Dividende": "2,70"
+    },
+    {
+     "Datum": "26.01.10",
+     "Dividende": "1,60"
+    },
+    {
+     "Datum": "27.01.09",
+     "Dividende": "1,60"
+    },
+    {
+     "Datum": "24.01.08",
+     "Dividende": "1,60"
+    },
+    {
+     "Datum": "25.01.07",
+     "Dividende": "1,45"
+    },
+    {
+     "Datum": "26.01.06",
+     "Dividende": "1,35"
+    },
+    {
+     "Datum": "27.01.05",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "22.01.04",
+     "Dividende": "1,10"
+    },
+    {
+     "Datum": "23.01.03",
+     "Dividende": "1,00"
+    }
    ]
   },
   {
    "name": "thyssenkrupp Aktie [WKN: 750000 / ISIN: DE0007500001]",
+   "URL": "http://www.finanzen.at/bilanz_guv/thyssenkrupp",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -2154,10 +4134,77 @@
      "equityratio": "5,15",
      "deptratio": "94,85"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "19.01.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.01.17",
+     "Dividende": "0,15"
+    },
+    {
+     "Datum": "29.01.16",
+     "Dividende": "0,15"
+    },
+    {
+     "Datum": "30.01.15",
+     "Dividende": "0,11"
+    },
+    {
+     "Datum": "17.01.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "18.01.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "20.01.12",
+     "Dividende": "0,45"
+    },
+    {
+     "Datum": "21.01.11",
+     "Dividende": "0,45"
+    },
+    {
+     "Datum": "21.01.10",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "23.01.09",
+     "Dividende": "1,30"
+    },
+    {
+     "Datum": "18.01.08",
+     "Dividende": "1,30"
+    },
+    {
+     "Datum": "19.01.07",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "27.01.06",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "21.01.05",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "23.01.04",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "21.02.03",
+     "Dividende": "0,40"
+    }
    ]
   },
   {
    "name": "Volkswagen (VW) vz Aktie [WKN: 766403 / ISIN: DE0007664039]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Volkswagen_vz",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -2231,10 +4278,77 @@
      "equityratio": "19,57",
      "deptratio": "80,43"
     }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "22.06.16",
+     "Dividende": "0,17"
+    },
+    {
+     "Datum": "21.04.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "05.05.15",
+     "Dividende": "4,86"
+    },
+    {
+     "Datum": "13.05.14",
+     "Dividende": "4,06"
+    },
+    {
+     "Datum": "25.04.13",
+     "Dividende": "3,56"
+    },
+    {
+     "Datum": "19.04.12",
+     "Dividende": "3,06"
+    },
+    {
+     "Datum": "03.05.11",
+     "Dividende": "2,26"
+    },
+    {
+     "Datum": "22.04.10",
+     "Dividende": "1,66"
+    },
+    {
+     "Datum": "03.12.09",
+     "Dividende": "1,99"
+    },
+    {
+     "Datum": "23.04.09",
+     "Dividende": "1,99"
+    },
+    {
+     "Datum": "24.04.08",
+     "Dividende": "1,86"
+    },
+    {
+     "Datum": "19.04.07",
+     "Dividende": "1,31"
+    },
+    {
+     "Datum": "03.05.06",
+     "Dividende": "1,21"
+    },
+    {
+     "Datum": "21.04.05",
+     "Dividende": "1,11"
+    },
+    {
+     "Datum": "22.04.04",
+     "Dividende": "1,11"
+    },
+    {
+     "Datum": "24.04.03",
+     "Dividende": "1,36"
+    }
    ]
   },
   {
    "name": "Vonovia Aktie [WKN DE: A1ML7J / ISIN: DE000A1ML7J1]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Vonovia",
    "Bilanzdaten": [
     {
      "Jahr": "",
@@ -2307,6 +4421,20 @@
      "Turnover": "7,53",
      "equityratio": "38,34",
      "deptratio": "61,66"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "12.05.16",
+     "Dividende": "0,94"
+    },
+    {
+     "Datum": "30.04.15",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "09.05.14",
+     "Dividende": "0,70"
     }
    ]
   }
