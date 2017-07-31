@@ -1,0 +1,6050 @@
+{
+ "Aktien": [
+  {
+   "name": "Omnicom Group Aktie [WKN: 871706 / ISIN: US6819191064]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Omnicom_Group",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,74",
+     "EPSdiluted": "2,7",
+     "DPS": "0,8",
+     "Turnover": "41,33",
+     "equityratio": "18,3",
+     "deptratio": "81,7"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "3,38",
+     "EPSdiluted": "3,33",
+     "DPS": "1",
+     "Turnover": "48,97",
+     "equityratio": "17,09",
+     "deptratio": "82,91"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "3,64",
+     "EPSdiluted": "3,61",
+     "DPS": "1,2",
+     "Turnover": "52,66",
+     "equityratio": "15,62",
+     "deptratio": "84,38"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "3,73",
+     "EPSdiluted": "3,71",
+     "DPS": "1,6",
+     "Turnover": "56,01",
+     "equityratio": "16,21",
+     "deptratio": "83,79"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "4,27",
+     "EPSdiluted": "4,24",
+     "DPS": "1,9",
+     "Turnover": "60",
+     "equityratio": "13,22",
+     "deptratio": "86,78"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "4,43",
+     "EPSdiluted": "4,41",
+     "DPS": "2",
+     "Turnover": "61,72",
+     "equityratio": "11,09",
+     "deptratio": "88,91"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "4,8",
+     "EPSdiluted": "4,77",
+     "DPS": "2,15",
+     "Turnover": "64,45",
+     "equityratio": "9,33",
+     "deptratio": "90,67"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "24.05.16",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "18.05.15",
+     "Dividende": "1,90"
+    },
+    {
+     "Datum": "20.05.14",
+     "Dividende": "1,60"
+    },
+    {
+     "Datum": "21.05.13",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "22.05.12",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "24.05.11",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "25.05.10",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "19.05.09",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "16.05.08",
+     "Dividende": "0,56"
+    },
+    {
+     "Datum": "22.05.07",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "23.05.06",
+     "Dividende": "0,46"
+    },
+    {
+     "Datum": "24.05.05",
+     "Dividende": "0,45"
+    },
+    {
+     "Datum": "25.05.04",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "20.05.03",
+     "Dividende": "0,40"
+    }
+   ]
+  },
+  {
+   "name": "ONEOK Aktie [WKN: 911060 / ISIN: US6826801036]",
+   "URL": "http://www.finanzen.at/bilanz_guv/ONEOK",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,58",
+     "EPSdiluted": "1,55",
+     "DPS": "0,91",
+     "Turnover": "59,67",
+     "equityratio": "19,59",
+     "deptratio": "80,41"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,72",
+     "EPSdiluted": "1,68",
+     "DPS": "1,08",
+     "Turnover": "68,81",
+     "equityratio": "16,34",
+     "deptratio": "83,66"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,68",
+     "EPSdiluted": "1,65",
+     "DPS": "1,27",
+     "Turnover": "59,24",
+     "equityratio": "13,43",
+     "deptratio": "86,57"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,29",
+     "EPSdiluted": "1,27",
+     "DPS": "1,48",
+     "Turnover": "69,54",
+     "equityratio": "13,2",
+     "deptratio": "86,8"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,5",
+     "EPSdiluted": "1,49",
+     "DPS": "2,13",
+     "Turnover": "58,05",
+     "equityratio": "3,87",
+     "deptratio": "96,13"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "1,17",
+     "EPSdiluted": "1,16",
+     "DPS": "2,43",
+     "Turnover": "36,49",
+     "equityratio": "2,17",
+     "deptratio": "97,83"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "1,67",
+     "EPSdiluted": "1,66",
+     "DPS": "2,46",
+     "Turnover": "41,88",
+     "equityratio": "1,17",
+     "deptratio": "98,83"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "25.05.16",
+     "Dividende": "2,43"
+    },
+    {
+     "Datum": "20.05.15",
+     "Dividende": "2,13"
+    },
+    {
+     "Datum": "21.05.14",
+     "Dividende": "1,48"
+    },
+    {
+     "Datum": "22.05.13",
+     "Dividende": "1,27"
+    },
+    {
+     "Datum": "23.05.12",
+     "Dividende": "1,08"
+    },
+    {
+     "Datum": "25.05.11",
+     "Dividende": "0,91"
+    }
+   ]
+  },
+  {
+   "name": "Oracle Aktie [WKN: 871460 / ISIN: US68389X1054]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Oracle",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,69",
+     "EPSdiluted": "1,67",
+     "DPS": "0,21",
+     "Turnover": "6,95",
+     "equityratio": "54,09",
+     "deptratio": "45,91"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,99",
+     "EPSdiluted": "1,96",
+     "DPS": "0,24",
+     "Turnover": "7,29",
+     "equityratio": "55,78",
+     "deptratio": "44,22"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "2,29",
+     "EPSdiluted": "2,26",
+     "DPS": "0,3",
+     "Turnover": "7,68",
+     "equityratio": "54,57",
+     "deptratio": "45,43"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "2,42",
+     "EPSdiluted": "2,38",
+     "DPS": "0,48",
+     "Turnover": "8,31",
+     "equityratio": "51,89",
+     "deptratio": "48,11"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "2,26",
+     "EPSdiluted": "2,21",
+     "DPS": "0,51",
+     "Turnover": "8,49",
+     "equityratio": "43,88",
+     "deptratio": "56,12"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "2,11",
+     "EPSdiluted": "2,07",
+     "DPS": "0,6",
+     "Turnover": "8,61",
+     "equityratio": "42,15",
+     "deptratio": "57,85"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "2,27",
+     "EPSdiluted": "2,21",
+     "DPS": "0,64",
+     "Turnover": "8,95",
+     "equityratio": "39,9",
+     "deptratio": "60,1"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "16.11.16",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "18.11.15",
+     "Dividende": "0,51"
+    },
+    {
+     "Datum": "05.11.14",
+     "Dividende": "0,48"
+    },
+    {
+     "Datum": "31.10.13",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "07.11.12",
+     "Dividende": "0,24"
+    },
+    {
+     "Datum": "12.10.11",
+     "Dividende": "0,21"
+    },
+    {
+     "Datum": "06.10.10",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "07.10.09",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "10.10.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "02.11.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "09.10.06",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "29.10.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "13.10.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Paccar Aktie [WKN: 861114 / ISIN: US6937181088]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Paccar",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,25",
+     "EPSdiluted": "1,25",
+     "DPS": "0,72",
+     "Turnover": "28,11",
+     "equityratio": "37,64",
+     "deptratio": "62,36"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "2,87",
+     "EPSdiluted": "2,86",
+     "DPS": "1,36",
+     "Turnover": "44,88",
+     "equityratio": "31,24",
+     "deptratio": "68,76"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "3,13",
+     "EPSdiluted": "3,12",
+     "DPS": "1,6",
+     "Turnover": "47,92",
+     "equityratio": "31,39",
+     "deptratio": "68,61"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "3,31",
+     "EPSdiluted": "3,3",
+     "DPS": "0,8",
+     "Turnover": "48,21",
+     "equityratio": "32,01",
+     "deptratio": "67,99"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "3,83",
+     "EPSdiluted": "3,82",
+     "DPS": "0,88",
+     "Turnover": "53,35",
+     "equityratio": "32,75",
+     "deptratio": "67,25"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "4,52",
+     "EPSdiluted": "4,51",
+     "DPS": "0,94",
+     "Turnover": "53,75",
+     "equityratio": "32,88",
+     "deptratio": "67,12"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "1,49",
+     "EPSdiluted": "1,48",
+     "DPS": "0,96",
+     "Turnover": "48,34",
+     "equityratio": "32,84",
+     "deptratio": "67,16"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "26.04.16",
+     "Dividende": "0,92"
+    },
+    {
+     "Datum": "21.04.15",
+     "Dividende": "0,86"
+    },
+    {
+     "Datum": "29.04.14",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "29.04.13",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "24.04.12",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "20.04.11",
+     "Dividende": "0,69"
+    },
+    {
+     "Datum": "20.04.10",
+     "Dividende": "0,54"
+    },
+    {
+     "Datum": "28.04.09",
+     "Dividende": "0,82"
+    },
+    {
+     "Datum": "22.04.08",
+     "Dividende": "1,65"
+    },
+    {
+     "Datum": "24.04.07",
+     "Dividende": "1,84"
+    },
+    {
+     "Datum": "25.04.06",
+     "Dividende": "1,27"
+    },
+    {
+     "Datum": "26.04.05",
+     "Dividende": "1,22"
+    },
+    {
+     "Datum": "27.04.04",
+     "Dividende": "0,61"
+    },
+    {
+     "Datum": "22.04.03",
+     "Dividende": "0,45"
+    }
+   ]
+  },
+  {
+   "name": "Parker Hannifin Aktie [WKN: 855950 / ISIN: US7010941042]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Parker_Hannifin",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "3,44",
+     "EPSdiluted": "3,4",
+     "DPS": "1,01",
+     "Turnover": "61,34",
+     "equityratio": "44,07",
+     "deptratio": "55,93"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "6,51",
+     "EPSdiluted": "6,37",
+     "DPS": "1,25",
+     "Turnover": "74,92",
+     "equityratio": "49,45",
+     "deptratio": "50,55"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "7,62",
+     "EPSdiluted": "7,45",
+     "DPS": "1,54",
+     "Turnover": "85",
+     "equityratio": "43,84",
+     "deptratio": "56,16"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "6,36",
+     "EPSdiluted": "6,26",
+     "DPS": "1,7",
+     "Turnover": "85,86",
+     "equityratio": "45,76",
+     "deptratio": "54,24"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "6,98",
+     "EPSdiluted": "6,87",
+     "DPS": "1,86",
+     "Turnover": "87,27",
+     "equityratio": "50,17",
+     "deptratio": "49,83"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "7,08",
+     "EPSdiluted": "6,97",
+     "DPS": "2,37",
+     "Turnover": "87,6",
+     "equityratio": "41,52",
+     "deptratio": "58,48"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "5,96",
+     "EPSdiluted": "5,89",
+     "DPS": "2,52",
+     "Turnover": "82,98",
+     "equityratio": "37,95",
+     "deptratio": "62,05"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "26.10.16",
+     "Dividende": "2,52"
+    },
+    {
+     "Datum": "28.10.15",
+     "Dividende": "2,37"
+    },
+    {
+     "Datum": "22.10.14",
+     "Dividende": "1,86"
+    },
+    {
+     "Datum": "23.10.13",
+     "Dividende": "1,70"
+    },
+    {
+     "Datum": "24.10.12",
+     "Dividende": "1,54"
+    },
+    {
+     "Datum": "26.10.11",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "27.10.10",
+     "Dividende": "1,01"
+    },
+    {
+     "Datum": "28.10.09",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "22.10.08",
+     "Dividende": "0,84"
+    },
+    {
+     "Datum": "24.10.07",
+     "Dividende": "0,69"
+    },
+    {
+     "Datum": "25.10.06",
+     "Dividende": "0,61"
+    },
+    {
+     "Datum": "26.10.05",
+     "Dividende": "0,52"
+    },
+    {
+     "Datum": "27.10.04",
+     "Dividende": "0,51"
+    },
+    {
+     "Datum": "22.10.03",
+     "Dividende": "0,49"
+    }
+   ]
+  },
+  {
+   "name": "Patterson Companies Aktie [WKN: A0B6VB / ISIN: US7033951036]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Patterson_Companies",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,91",
+     "EPSdiluted": "1,89",
+     "DPS": "0,42",
+     "Turnover": "28,69",
+     "equityratio": "60,84",
+     "deptratio": "39,16"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,93",
+     "EPSdiluted": "1,92",
+     "DPS": "0,5",
+     "Turnover": "31,84",
+     "equityratio": "50,2",
+     "deptratio": "49,8"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "2,04",
+     "EPSdiluted": "2,03",
+     "DPS": "0,58",
+     "Turnover": "35,09",
+     "equityratio": "52",
+     "deptratio": "48"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,99",
+     "EPSdiluted": "1,97",
+     "DPS": "0,68",
+     "Turnover": "40,12",
+     "equityratio": "51,37",
+     "deptratio": "48,63"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "2,26",
+     "EPSdiluted": "2,24",
+     "DPS": "0,82",
+     "Turnover": "44,29",
+     "equityratio": "51,37",
+     "deptratio": "48,63"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "1,68",
+     "EPSdiluted": "1,66",
+     "DPS": "0,9",
+     "Turnover": "55,73",
+     "equityratio": "40,95",
+     "deptratio": "59,05"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "1,8",
+     "EPSdiluted": "1,79",
+     "DPS": "0,98",
+     "Turnover": "59,47",
+     "equityratio": "39,75",
+     "deptratio": "60,25"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "12.09.16",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "21.09.15",
+     "Dividende": "0,82"
+    },
+    {
+     "Datum": "08.09.14",
+     "Dividende": "0,68"
+    },
+    {
+     "Datum": "09.09.13",
+     "Dividende": "0,58"
+    },
+    {
+     "Datum": "10.09.12",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "12.09.11",
+     "Dividende": "0,42"
+    },
+    {
+     "Datum": "13.09.10",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "14.09.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.09.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "10.09.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "18.09.06",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "12.09.05",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "13.09.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.09.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Paychex Aktie [WKN: 868284 / ISIN: US7043261079]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Paychex",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,42",
+     "EPSdiluted": "1,42",
+     "DPS": "1,24",
+     "Turnover": "5,75",
+     "equityratio": "27,74",
+     "deptratio": "72,26"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,51",
+     "EPSdiluted": "1,51",
+     "DPS": "1,27",
+     "Turnover": "6,14",
+     "equityratio": "24,76",
+     "deptratio": "75,24"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,56",
+     "EPSdiluted": "1,56",
+     "DPS": "1,31",
+     "Turnover": "6,38",
+     "equityratio": "28,78",
+     "deptratio": "71,22"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,72",
+     "EPSdiluted": "1,71",
+     "DPS": "1,4",
+     "Turnover": "6,88",
+     "equityratio": "27,9",
+     "deptratio": "72,1"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "1,86",
+     "EPSdiluted": "1,85",
+     "DPS": "1,52",
+     "Turnover": "7,51",
+     "equityratio": "27,54",
+     "deptratio": "72,46"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "2,1",
+     "EPSdiluted": "2,09",
+     "DPS": "1,68",
+     "Turnover": "8,14",
+     "equityratio": "29,68",
+     "deptratio": "70,32"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "2,27",
+     "EPSdiluted": "2,25",
+     "DPS": "1,84",
+     "Turnover": "8,69",
+     "equityratio": "28,61",
+     "deptratio": "71,39"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "12.10.16",
+     "Dividende": "1,68"
+    },
+    {
+     "Datum": "14.10.15",
+     "Dividende": "1,52"
+    },
+    {
+     "Datum": "15.10.14",
+     "Dividende": "1,40"
+    },
+    {
+     "Datum": "16.10.13",
+     "Dividende": "1,31"
+    },
+    {
+     "Datum": "23.10.12",
+     "Dividende": "1,27"
+    },
+    {
+     "Datum": "11.10.11",
+     "Dividende": "1,24"
+    },
+    {
+     "Datum": "13.10.10",
+     "Dividende": "1,24"
+    },
+    {
+     "Datum": "13.10.09",
+     "Dividende": "1,24"
+    },
+    {
+     "Datum": "07.10.08",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "03.10.07",
+     "Dividende": "0,79"
+    },
+    {
+     "Datum": "05.10.06",
+     "Dividende": "0,61"
+    },
+    {
+     "Datum": "12.10.05",
+     "Dividende": "0,51"
+    },
+    {
+     "Datum": "06.10.04",
+     "Dividende": "0,47"
+    },
+    {
+     "Datum": "02.10.03",
+     "Dividende": "0,44"
+    }
+   ]
+  },
+  {
+   "name": "PayPal Aktie [WKN DE: A14R7U / ISIN: US70450Y1038]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PayPal",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "0,64",
+     "EPSdiluted": "0,64",
+     "DPS": "-",
+     "Turnover": "4,59",
+     "equityratio": "-",
+     "deptratio": "-"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "0,78",
+     "EPSdiluted": "0,78",
+     "DPS": "-",
+     "Turnover": "5,5",
+     "equityratio": "38,57",
+     "deptratio": "61,43"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "0,34",
+     "EPSdiluted": "0,34",
+     "DPS": "-",
+     "Turnover": "6,59",
+     "equityratio": "37,63",
+     "deptratio": "62,37"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "1",
+     "EPSdiluted": "1",
+     "DPS": "0",
+     "Turnover": "7,38",
+     "equityratio": "47,64",
+     "deptratio": "52,36"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "1,16",
+     "EPSdiluted": "1,15",
+     "DPS": "0",
+     "Turnover": "8,8",
+     "equityratio": "44,44",
+     "deptratio": "55,56"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "25.05.16",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Pentair Aktie [WKN DE: A115FG / ISIN: IE00BLS09M33]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pentair_2",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,02",
+     "EPSdiluted": "2",
+     "DPS": "0,76",
+     "Turnover": "30,52",
+     "equityratio": "52,68",
+     "deptratio": "47,32"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "0,35",
+     "EPSdiluted": "0,34",
+     "DPS": "0,8",
+     "Turnover": "34,65",
+     "equityratio": "42,15",
+     "deptratio": "57,85"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "-0,84",
+     "EPSdiluted": "-0,84",
+     "DPS": "0,88",
+     "Turnover": "34,67",
+     "equityratio": "53,98",
+     "deptratio": "46,02"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "2,67",
+     "EPSdiluted": "2,62",
+     "DPS": "0,96",
+     "Turnover": "36,56",
+     "equityratio": "51,9",
+     "deptratio": "48,1"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "3,15",
+     "EPSdiluted": "3,1",
+     "DPS": "1,1",
+     "Turnover": "36,34",
+     "equityratio": "43,77",
+     "deptratio": "56,23"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "-0,39",
+     "EPSdiluted": "-0,39",
+     "DPS": "1,28",
+     "Turnover": "35,32",
+     "equityratio": "33,81",
+     "deptratio": "66,19"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "2,88",
+     "EPSdiluted": "2,85",
+     "DPS": "1,34",
+     "Turnover": "26,71",
+     "equityratio": "36,88",
+     "deptratio": "63,12"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "10.05.16",
+     "Dividende": "1,28"
+    },
+    {
+     "Datum": "05.05.15",
+     "Dividende": "1,10"
+    },
+    {
+     "Datum": "20.05.14",
+     "Dividende": "0,96"
+    },
+    {
+     "Datum": "29.04.13",
+     "Dividende": "0,88"
+    },
+    {
+     "Datum": "25.04.12",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "28.04.11",
+     "Dividende": "0,76"
+    }
+   ]
+  },
+  {
+   "name": "Peoples United Financial Aktie [WKN DE: A0MP68 / ISIN: US7127041058]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Peoples_United_Financial",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "0,24",
+     "EPSdiluted": "0,24",
+     "DPS": "0,62",
+     "Turnover": "3,13",
+     "equityratio": "20,75",
+     "deptratio": "79,25"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "0,57",
+     "EPSdiluted": "0,57",
+     "DPS": "0,63",
+     "Turnover": "3,88",
+     "equityratio": "18,83",
+     "deptratio": "81,17"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "0,72",
+     "EPSdiluted": "0,72",
+     "DPS": "0,64",
+     "Turnover": "3,97",
+     "equityratio": "16,5",
+     "deptratio": "83,5"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "0,74",
+     "EPSdiluted": "0,74",
+     "DPS": "0,65",
+     "Turnover": "4,23",
+     "equityratio": "13,65",
+     "deptratio": "86,35"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "0,84",
+     "EPSdiluted": "0,84",
+     "DPS": "0,66",
+     "Turnover": "4,52",
+     "equityratio": "12,78",
+     "deptratio": "87,22"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "0,86",
+     "EPSdiluted": "0,86",
+     "DPS": "0,67",
+     "Turnover": "4,64",
+     "equityratio": "12,08",
+     "deptratio": "87,92"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "0,92",
+     "EPSdiluted": "0,92",
+     "DPS": "0,68",
+     "Turnover": "4,76",
+     "equityratio": "11,97",
+     "deptratio": "88,03"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "21.04.16",
+     "Dividende": "0,67"
+    },
+    {
+     "Datum": "16.04.15",
+     "Dividende": "0,66"
+    },
+    {
+     "Datum": "17.04.14",
+     "Dividende": "0,65"
+    },
+    {
+     "Datum": "18.04.13",
+     "Dividende": "0,64"
+    },
+    {
+     "Datum": "19.04.12",
+     "Dividende": "0,63"
+    },
+    {
+     "Datum": "21.04.11",
+     "Dividende": "0,62"
+    }
+   ]
+  },
+  {
+   "name": "PepsiCo Aktie [WKN: 851995 / ISIN: US7134481081]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PepsiCo",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "3,97",
+     "EPSdiluted": "3,92",
+     "DPS": "1,89",
+     "Turnover": "35,84",
+     "equityratio": "31,21",
+     "deptratio": "68,79"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "4,08",
+     "EPSdiluted": "4,03",
+     "DPS": "2,03",
+     "Turnover": "41,64",
+     "equityratio": "28,41",
+     "deptratio": "71,59"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "3,96",
+     "EPSdiluted": "3,92",
+     "DPS": "2,13",
+     "Turnover": "41,58",
+     "equityratio": "30,03",
+     "deptratio": "69,97"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "4,37",
+     "EPSdiluted": "4,32",
+     "DPS": "2,24",
+     "Turnover": "42,57",
+     "equityratio": "31,5",
+     "deptratio": "68,5"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "4,31",
+     "EPSdiluted": "4,27",
+     "DPS": "2,53",
+     "Turnover": "43,67",
+     "equityratio": "24,93",
+     "deptratio": "75,07"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "3,71",
+     "EPSdiluted": "3,67",
+     "DPS": "2,76",
+     "Turnover": "42,46",
+     "equityratio": "17,32",
+     "deptratio": "82,68"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "4,39",
+     "EPSdiluted": "4,36",
+     "DPS": "2,96",
+     "Turnover": "43,25",
+     "equityratio": "15,17",
+     "deptratio": "84,83"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "04.05.16",
+     "Dividende": "2,76"
+    },
+    {
+     "Datum": "06.05.15",
+     "Dividende": "2,53"
+    },
+    {
+     "Datum": "07.05.14",
+     "Dividende": "2,24"
+    },
+    {
+     "Datum": "01.05.13",
+     "Dividende": "2,13"
+    },
+    {
+     "Datum": "02.05.12",
+     "Dividende": "2,03"
+    },
+    {
+     "Datum": "04.05.11",
+     "Dividende": "1,89"
+    },
+    {
+     "Datum": "05.05.10",
+     "Dividende": "1,78"
+    },
+    {
+     "Datum": "27.05.09",
+     "Dividende": "0,65"
+    },
+    {
+     "Datum": "06.05.09",
+     "Dividende": "1,65"
+    },
+    {
+     "Datum": "28.05.08",
+     "Dividende": "0,53"
+    },
+    {
+     "Datum": "07.05.08",
+     "Dividende": "1,43"
+    },
+    {
+     "Datum": "23.05.07",
+     "Dividende": "0,41"
+    },
+    {
+     "Datum": "02.05.07",
+     "Dividende": "1,16"
+    },
+    {
+     "Datum": "24.05.06",
+     "Dividende": "0,29"
+    },
+    {
+     "Datum": "03.05.06",
+     "Dividende": "1,01"
+    },
+    {
+     "Datum": "25.05.05",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "04.05.05",
+     "Dividende": "0,85"
+    },
+    {
+     "Datum": "26.05.04",
+     "Dividende": "0,04"
+    },
+    {
+     "Datum": "05.05.04",
+     "Dividende": "0,63"
+    },
+    {
+     "Datum": "28.05.03",
+     "Dividende": "0,04"
+    },
+    {
+     "Datum": "07.05.03",
+     "Dividende": "0,59"
+    }
+   ]
+  },
+  {
+   "name": "PerkinElmer Aktie [WKN: 850943 / ISIN: US7140461093]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PerkinElmer",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "3,28",
+     "EPSdiluted": "3,25",
+     "DPS": "0,28",
+     "Turnover": "14,45",
+     "equityratio": "60,01",
+     "deptratio": "39,99"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "0,01",
+     "EPSdiluted": "0,01",
+     "DPS": "0,28",
+     "Turnover": "16,87",
+     "equityratio": "48,05",
+     "deptratio": "51,95"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "0,6",
+     "EPSdiluted": "0,6",
+     "DPS": "0,28",
+     "Turnover": "18,42",
+     "equityratio": "49,72",
+     "deptratio": "50,28"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,5",
+     "EPSdiluted": "1,48",
+     "DPS": "0,28",
+     "Turnover": "19,09",
+     "equityratio": "50,54",
+     "deptratio": "49,46"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,4",
+     "EPSdiluted": "1,39",
+     "DPS": "0,28",
+     "Turnover": "19,67",
+     "equityratio": "49,4",
+     "deptratio": "50,6"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "1,89",
+     "EPSdiluted": "1,87",
+     "DPS": "0,28",
+     "Turnover": "19,97",
+     "equityratio": "50,66",
+     "deptratio": "49,34"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "2,13",
+     "EPSdiluted": "2,12",
+     "DPS": "0,28",
+     "Turnover": "19,18",
+     "equityratio": "50,36",
+     "deptratio": "49,64"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "26.04.16",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "28.04.15",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "22.04.14",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "23.04.13",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "24.04.12",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "26.04.11",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "27.04.10",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "28.04.09",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "22.04.08",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "24.04.07",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "25.04.06",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "26.04.05",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "27.04.04",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "22.04.03",
+     "Dividende": "0,28"
+    }
+   ]
+  },
+  {
+   "name": "Perrigo Company Aktie [WKN DE: A1XAEY / ISIN: IE00BGH1M568]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Perrigo_Company_2",
+   "HVDiv": [
+    {
+     "Datum": "20.07.17",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "26.04.16",
+     "Dividende": "0,46"
+    },
+    {
+     "Datum": "04.11.15",
+     "Dividende": "0,39"
+    },
+    {
+     "Datum": "04.11.14",
+     "Dividende": "0,35"
+    },
+    {
+     "Datum": "06.11.12",
+     "Dividende": "0,27"
+    }
+   ]
+  },
+  {
+   "name": "Pfizer Aktie [WKN: 852009 / ISIN: US7170811035]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pfizer",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,03",
+     "EPSdiluted": "1,02",
+     "DPS": "0,74",
+     "Turnover": "8,4",
+     "equityratio": "45",
+     "deptratio": "55"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,11",
+     "EPSdiluted": "1,11",
+     "DPS": "0,82",
+     "Turnover": "8,57",
+     "equityratio": "43,69",
+     "deptratio": "56,31"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,31",
+     "EPSdiluted": "1,3",
+     "DPS": "0,9",
+     "Turnover": "7,86",
+     "equityratio": "43,71",
+     "deptratio": "56,29"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,71",
+     "EPSdiluted": "1,69",
+     "DPS": "0,98",
+     "Turnover": "7,48",
+     "equityratio": "44,32",
+     "deptratio": "55,68"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,43",
+     "EPSdiluted": "1,41",
+     "DPS": "1,06",
+     "Turnover": "7,72",
+     "equityratio": "42,1",
+     "deptratio": "57,9"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "1,13",
+     "EPSdiluted": "1,11",
+     "DPS": "1,14",
+     "Turnover": "7,81",
+     "equityratio": "38,63",
+     "deptratio": "61,37"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "1,18",
+     "EPSdiluted": "1,17",
+     "DPS": "1,22",
+     "Turnover": "8,58",
+     "equityratio": "34,68",
+     "deptratio": "65,32"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "28.04.16",
+     "Dividende": "1,12"
+    },
+    {
+     "Datum": "23.04.15",
+     "Dividende": "1,04"
+    },
+    {
+     "Datum": "24.04.14",
+     "Dividende": "0,96"
+    },
+    {
+     "Datum": "25.04.13",
+     "Dividende": "0,88"
+    },
+    {
+     "Datum": "26.04.12",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "28.04.11",
+     "Dividende": "0,72"
+    },
+    {
+     "Datum": "26.05.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "22.04.10",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "04.06.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "23.04.09",
+     "Dividende": "1,28"
+    },
+    {
+     "Datum": "29.05.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "24.04.08",
+     "Dividende": "1,16"
+    },
+    {
+     "Datum": "16.05.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "26.04.07",
+     "Dividende": "0,96"
+    },
+    {
+     "Datum": "25.05.06",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.04.06",
+     "Dividende": "0,76"
+    },
+    {
+     "Datum": "31.05.05",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "28.04.05",
+     "Dividende": "0,68"
+    },
+    {
+     "Datum": "06.05.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "22.04.04",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "04.11.03",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "24.04.03",
+     "Dividende": "0,52"
+    }
+   ]
+  },
+  {
+   "name": "PG&E Aktie [WKN: 851962 / ISIN: US69331C1080]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PG_E",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,86",
+     "EPSdiluted": "2,82",
+     "DPS": "1,82",
+     "Turnover": "35,31",
+     "equityratio": "23,82",
+     "deptratio": "76,18"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "2,1",
+     "EPSdiluted": "2,1",
+     "DPS": "1,82",
+     "Turnover": "37,2",
+     "equityratio": "23,49",
+     "deptratio": "76,51"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,92",
+     "EPSdiluted": "1,92",
+     "DPS": "1,82",
+     "Turnover": "35,39",
+     "equityratio": "24,1",
+     "deptratio": "75,9"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,83",
+     "EPSdiluted": "1,83",
+     "DPS": "1,82",
+     "Turnover": "35,05",
+     "equityratio": "25,03",
+     "deptratio": "74,97"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "3,07",
+     "EPSdiluted": "3,06",
+     "DPS": "1,82",
+     "Turnover": "36,36",
+     "equityratio": "25,45",
+     "deptratio": "74,55"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "1,81",
+     "EPSdiluted": "1,79",
+     "DPS": "1,82",
+     "Turnover": "34,56",
+     "equityratio": "25,19",
+     "deptratio": "74,81"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "2,79",
+     "EPSdiluted": "2,78",
+     "DPS": "1,93",
+     "Turnover": "35,26",
+     "equityratio": "25,3",
+     "deptratio": "74,7"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "23.05.16",
+     "Dividende": "1,82"
+    },
+    {
+     "Datum": "04.05.15",
+     "Dividende": "1,82"
+    },
+    {
+     "Datum": "12.05.14",
+     "Dividende": "1,82"
+    },
+    {
+     "Datum": "06.05.13",
+     "Dividende": "1,82"
+    },
+    {
+     "Datum": "14.05.12",
+     "Dividende": "1,82"
+    },
+    {
+     "Datum": "11.05.11",
+     "Dividende": "1,82"
+    },
+    {
+     "Datum": "12.05.10",
+     "Dividende": "1,68"
+    },
+    {
+     "Datum": "13.05.09",
+     "Dividende": "1,56"
+    },
+    {
+     "Datum": "14.05.08",
+     "Dividende": "1,44"
+    },
+    {
+     "Datum": "18.04.07",
+     "Dividende": "1,32"
+    },
+    {
+     "Datum": "19.04.06",
+     "Dividende": "1,23"
+    },
+    {
+     "Datum": "20.04.05",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "21.04.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "16.04.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Philip Morris Aktie [WKN DE: A0NDBJ / ISIN: US7181721090]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Philip_Morris",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "3,93",
+     "EPSdiluted": "3,92",
+     "DPS": "2,44",
+     "Turnover": "14,76",
+     "equityratio": "10",
+     "deptratio": "90"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "4,85",
+     "EPSdiluted": "4,85",
+     "DPS": "2,82",
+     "Turnover": "17,66",
+     "equityratio": "0,65",
+     "deptratio": "99,35"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "5,17",
+     "EPSdiluted": "5,17",
+     "DPS": "3,24",
+     "Turnover": "18,51",
+     "equityratio": "-9,23",
+     "deptratio": "109,23"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "5,26",
+     "EPSdiluted": "5,26",
+     "DPS": "3,58",
+     "Turnover": "19,05",
+     "equityratio": "-20,35",
+     "deptratio": "120,35"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "4,76",
+     "EPSdiluted": "4,76",
+     "DPS": "3,88",
+     "Turnover": "18,93",
+     "equityratio": "-35,89",
+     "deptratio": "135,89"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "4,42",
+     "EPSdiluted": "4,42",
+     "DPS": "4,04",
+     "Turnover": "17,2",
+     "equityratio": "-39",
+     "deptratio": "139"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "4,48",
+     "EPSdiluted": "4,48",
+     "DPS": "4,12",
+     "Turnover": "17,23",
+     "equityratio": "-34,43",
+     "deptratio": "134,43"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "04.05.16",
+     "Dividende": "4,04"
+    },
+    {
+     "Datum": "06.05.15",
+     "Dividende": "3,88"
+    },
+    {
+     "Datum": "07.05.14",
+     "Dividende": "3,58"
+    },
+    {
+     "Datum": "08.05.13",
+     "Dividende": "3,24"
+    },
+    {
+     "Datum": "09.05.12",
+     "Dividende": "2,82"
+    },
+    {
+     "Datum": "11.05.11",
+     "Dividende": "2,44"
+    }
+   ]
+  },
+  {
+   "name": "Phillips 66 Aktie [WKN DE: A1JWQU / ISIN: US7185461040]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Phillips_66",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,14",
+     "EPSdiluted": "1,14",
+     "DPS": "-",
+     "Turnover": "228,33",
+     "equityratio": "57,84",
+     "deptratio": "42,16"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "7,43",
+     "EPSdiluted": "7,43",
+     "DPS": "-",
+     "Turnover": "305,92",
+     "equityratio": "53,84",
+     "deptratio": "46,16"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "6,55",
+     "EPSdiluted": "6,48",
+     "DPS": "0,45",
+     "Turnover": "260,83",
+     "equityratio": "43,22",
+     "deptratio": "56,78"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "6,07",
+     "EPSdiluted": "6,02",
+     "DPS": "1,33",
+     "Turnover": "254,79",
+     "equityratio": "44,08",
+     "deptratio": "55,92"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "8,4",
+     "EPSdiluted": "8,33",
+     "DPS": "1,89",
+     "Turnover": "255,21",
+     "equityratio": "44,3",
+     "deptratio": "55,7"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "7,78",
+     "EPSdiluted": "7,73",
+     "DPS": "2,18",
+     "Turnover": "155,46",
+     "equityratio": "47,55",
+     "deptratio": "52,45"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "2,94",
+     "EPSdiluted": "2,92",
+     "DPS": "2,45",
+     "Turnover": "134,6",
+     "equityratio": "43,35",
+     "deptratio": "56,65"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "04.05.16",
+     "Dividende": "2,18"
+    },
+    {
+     "Datum": "06.05.15",
+     "Dividende": "1,89"
+    },
+    {
+     "Datum": "07.05.14",
+     "Dividende": "1,33"
+    },
+    {
+     "Datum": "08.05.13",
+     "Dividende": "0,45"
+    }
+   ]
+  },
+  {
+   "name": "Pinnacle West Capital Aktie [WKN: 853915 / ISIN: US7234841010]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pinnacle_West_Capital",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "3,05",
+     "EPSdiluted": "3,03",
+     "DPS": "2,1",
+     "Turnover": "30,45",
+     "equityratio": "29,79",
+     "deptratio": "70,21"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "3,02",
+     "EPSdiluted": "3",
+     "DPS": "2,1",
+     "Turnover": "29,48",
+     "equityratio": "29,15",
+     "deptratio": "70,85"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "3,48",
+     "EPSdiluted": "3,45",
+     "DPS": "2,12",
+     "Turnover": "29,85",
+     "equityratio": "29,69",
+     "deptratio": "70,31"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "3,69",
+     "EPSdiluted": "3,66",
+     "DPS": "2,2",
+     "Turnover": "31,17",
+     "equityratio": "31,05",
+     "deptratio": "68,95"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "3,59",
+     "EPSdiluted": "3,58",
+     "DPS": "2,3",
+     "Turnover": "31,4",
+     "equityratio": "30,51",
+     "deptratio": "69,49"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "3,94",
+     "EPSdiluted": "3,92",
+     "DPS": "2,41",
+     "Turnover": "31,33",
+     "equityratio": "30,5",
+     "deptratio": "69,5"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "3,97",
+     "EPSdiluted": "3,95",
+     "DPS": "2,53",
+     "Turnover": "31,22",
+     "equityratio": "30,01",
+     "deptratio": "69,99"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "18.05.16",
+     "Dividende": "2,41"
+    },
+    {
+     "Datum": "20.05.15",
+     "Dividende": "2,30"
+    },
+    {
+     "Datum": "21.05.14",
+     "Dividende": "2,20"
+    },
+    {
+     "Datum": "15.05.13",
+     "Dividende": "2,12"
+    },
+    {
+     "Datum": "16.05.12",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "18.05.11",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "19.05.10",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "20.05.09",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "21.05.08",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "23.05.07",
+     "Dividende": "2,03"
+    },
+    {
+     "Datum": "17.05.06",
+     "Dividende": "1,93"
+    },
+    {
+     "Datum": "18.05.05",
+     "Dividende": "1,83"
+    },
+    {
+     "Datum": "19.05.04",
+     "Dividende": "1,73"
+    },
+    {
+     "Datum": "21.05.03",
+     "Dividende": "1,63"
+    }
+   ]
+  },
+  {
+   "name": "Pioneer Natural Resources Aktie [WKN: 908678 / ISIN: US7237871071]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pioneer_Natural_Resources",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "5,14",
+     "EPSdiluted": "5,08",
+     "DPS": "0,08",
+     "Turnover": "14,74",
+     "equityratio": "42,57",
+     "deptratio": "57,43"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "7,01",
+     "EPSdiluted": "6,88",
+     "DPS": "0,08",
+     "Turnover": "18,97",
+     "equityratio": "47,63",
+     "deptratio": "52,37"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,54",
+     "EPSdiluted": "1,5",
+     "DPS": "0,08",
+     "Turnover": "22,28",
+     "equityratio": "43,53",
+     "deptratio": "56,47"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "-6,16",
+     "EPSdiluted": "-6,16",
+     "DPS": "0,08",
+     "Turnover": "25,63",
+     "equityratio": "53,7",
+     "deptratio": "46,3"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "6,39",
+     "EPSdiluted": "6,39",
+     "DPS": "0,08",
+     "Turnover": "30,03",
+     "equityratio": "57,49",
+     "deptratio": "42,51"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "-1,83",
+     "EPSdiluted": "-1,83",
+     "DPS": "0,08",
+     "Turnover": "21,09",
+     "equityratio": "55,22",
+     "deptratio": "44,78"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "-3,35",
+     "EPSdiluted": "-3,35",
+     "DPS": "0,08",
+     "Turnover": "23,8",
+     "equityratio": "63,21",
+     "deptratio": "36,79"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "19.05.16",
+     "Dividende": "0,08"
+    },
+    {
+     "Datum": "20.05.15",
+     "Dividende": "0,08"
+    },
+    {
+     "Datum": "28.05.14",
+     "Dividende": "0,08"
+    },
+    {
+     "Datum": "23.05.13",
+     "Dividende": "0,08"
+    },
+    {
+     "Datum": "17.05.12",
+     "Dividende": "0,08"
+    }
+   ]
+  },
+  {
+   "name": "PNC Financial Services Group Aktie [WKN: 867679 / ISIN: US6934751057]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PNC_Financial_Services_Group",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "5,17",
+     "EPSdiluted": "5,11",
+     "DPS": "0,4",
+     "Turnover": "32,73",
+     "equityratio": "11",
+     "deptratio": "89"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "5,7",
+     "EPSdiluted": "5,64",
+     "DPS": "1,15",
+     "Turnover": "28,86",
+     "equityratio": "11,78",
+     "deptratio": "88,22"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "5,36",
+     "EPSdiluted": "5,3",
+     "DPS": "1,55",
+     "Turnover": "30,72",
+     "equityratio": "11,42",
+     "deptratio": "88,58"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "7,49",
+     "EPSdiluted": "7,39",
+     "DPS": "1,72",
+     "Turnover": "31,44",
+     "equityratio": "11,87",
+     "deptratio": "88,13"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "7,44",
+     "EPSdiluted": "7,3",
+     "DPS": "1,88",
+     "Turnover": "29,66",
+     "equityratio": "11,64",
+     "deptratio": "88,36"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "7,52",
+     "EPSdiluted": "7,38",
+     "DPS": "2,01",
+     "Turnover": "30,05",
+     "equityratio": "11,4",
+     "deptratio": "88,6"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "7,41",
+     "EPSdiluted": "7,3",
+     "DPS": "2,12",
+     "Turnover": "32,54",
+     "equityratio": "12,37",
+     "deptratio": "87,63"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "26.04.16",
+     "Dividende": "2,01"
+    },
+    {
+     "Datum": "28.04.15",
+     "Dividende": "1,88"
+    },
+    {
+     "Datum": "22.04.14",
+     "Dividende": "1,72"
+    },
+    {
+     "Datum": "23.04.13",
+     "Dividende": "1,55"
+    },
+    {
+     "Datum": "24.04.12",
+     "Dividende": "1,15"
+    },
+    {
+     "Datum": "26.04.11",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "27.04.10",
+     "Dividende": "0,96"
+    },
+    {
+     "Datum": "28.04.09",
+     "Dividende": "2,61"
+    },
+    {
+     "Datum": "29.04.08",
+     "Dividende": "1,60"
+    },
+    {
+     "Datum": "22.04.08",
+     "Dividende": "2,44"
+    },
+    {
+     "Datum": "24.04.07",
+     "Dividende": "2,15"
+    },
+    {
+     "Datum": "25.04.06",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "26.04.05",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "27.04.04",
+     "Dividende": "1,94"
+    },
+    {
+     "Datum": "29.04.03",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "22.04.03",
+     "Dividende": "1,92"
+    }
+   ]
+  },
+  {
+   "name": "PPG Industries Aktie [WKN: 852026 / ISIN: US6935061076]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PPG_Industries",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,34",
+     "EPSdiluted": "2,32",
+     "DPS": "1,09",
+     "Turnover": "40,46",
+     "equityratio": "24,29",
+     "deptratio": "75,71"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "3,48",
+     "EPSdiluted": "3,44",
+     "DPS": "1,13",
+     "Turnover": "46,72",
+     "equityratio": "22,59",
+     "deptratio": "77,41"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "3,07",
+     "EPSdiluted": "3,03",
+     "DPS": "1,17",
+     "Turnover": "49",
+     "equityratio": "25,59",
+     "deptratio": "74,41"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "11,27",
+     "EPSdiluted": "11,14",
+     "DPS": "1,21",
+     "Turnover": "52,06",
+     "equityratio": "31,09",
+     "deptratio": "68,91"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "4,18",
+     "EPSdiluted": "4,13",
+     "DPS": "1,31",
+     "Turnover": "54,93",
+     "equityratio": "29,46",
+     "deptratio": "70,54"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "5,18",
+     "EPSdiluted": "5,14",
+     "DPS": "1,42",
+     "Turnover": "56,04",
+     "equityratio": "29,18",
+     "deptratio": "70,82"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "1,72",
+     "EPSdiluted": "1,71",
+     "DPS": "1,56",
+     "Turnover": "55,16",
+     "equityratio": "30,6",
+     "deptratio": "69,4"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "21.04.16",
+     "Dividende": "1,44"
+    },
+    {
+     "Datum": "16.04.15",
+     "Dividende": "1,31"
+    },
+    {
+     "Datum": "17.04.14",
+     "Dividende": "1,21"
+    },
+    {
+     "Datum": "18.04.13",
+     "Dividende": "1,17"
+    },
+    {
+     "Datum": "19.04.12",
+     "Dividende": "1,13"
+    },
+    {
+     "Datum": "21.04.11",
+     "Dividende": "1,09"
+    },
+    {
+     "Datum": "15.04.10",
+     "Dividende": "1,07"
+    },
+    {
+     "Datum": "16.04.09",
+     "Dividende": "1,05"
+    },
+    {
+     "Datum": "17.04.08",
+     "Dividende": "1,02"
+    },
+    {
+     "Datum": "19.04.07",
+     "Dividende": "0,96"
+    },
+    {
+     "Datum": "20.04.06",
+     "Dividende": "0,93"
+    },
+    {
+     "Datum": "21.04.05",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "15.04.04",
+     "Dividende": "0,87"
+    },
+    {
+     "Datum": "17.04.03",
+     "Dividende": "0,85"
+    }
+   ]
+  },
+  {
+   "name": "PPL Aktie [WKN: 895250 / ISIN: US69351T1060]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PPL",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,17",
+     "EPSdiluted": "2,16",
+     "DPS": "1,4",
+     "Turnover": "10,39",
+     "equityratio": "25",
+     "deptratio": "75"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "2,71",
+     "EPSdiluted": "2,7",
+     "DPS": "1,4",
+     "Turnover": "13,6",
+     "equityratio": "25,39",
+     "deptratio": "74,61"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "2,61",
+     "EPSdiluted": "2,6",
+     "DPS": "1,44",
+     "Turnover": "13,97",
+     "equityratio": "24,02",
+     "deptratio": "75,98"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,85",
+     "EPSdiluted": "1,76",
+     "DPS": "1,47",
+     "Turnover": "17,58",
+     "equityratio": "26,95",
+     "deptratio": "73,05"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "2,28",
+     "EPSdiluted": "2,25",
+     "DPS": "1,49",
+     "Turnover": "19,25",
+     "equityratio": "27,89",
+     "deptratio": "72,11"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "2,33",
+     "EPSdiluted": "2,32",
+     "DPS": "1,5",
+     "Turnover": "11,4",
+     "equityratio": "25,24",
+     "deptratio": "74,76"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "2,8",
+     "EPSdiluted": "2,79",
+     "DPS": "1,52",
+     "Turnover": "11,05",
+     "equityratio": "25,84",
+     "deptratio": "74,16"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "25.05.16",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "20.05.15",
+     "Dividende": "1,49"
+    },
+    {
+     "Datum": "21.05.14",
+     "Dividende": "1,47"
+    },
+    {
+     "Datum": "15.05.13",
+     "Dividende": "1,44"
+    },
+    {
+     "Datum": "16.05.12",
+     "Dividende": "1,40"
+    },
+    {
+     "Datum": "18.05.11",
+     "Dividende": "1,40"
+    },
+    {
+     "Datum": "19.05.10",
+     "Dividende": "1,38"
+    },
+    {
+     "Datum": "20.05.09",
+     "Dividende": "1,34"
+    },
+    {
+     "Datum": "21.05.08",
+     "Dividende": "1,22"
+    },
+    {
+     "Datum": "23.05.07",
+     "Dividende": "1,10"
+    },
+    {
+     "Datum": "28.04.06",
+     "Dividende": "0,96"
+    },
+    {
+     "Datum": "22.04.05",
+     "Dividende": "0,82"
+    },
+    {
+     "Datum": "23.04.04",
+     "Dividende": "0,77"
+    },
+    {
+     "Datum": "25.04.03",
+     "Dividende": "0,72"
+    }
+   ]
+  },
+  {
+   "name": "Praxair Aktie [WKN: 884364 / ISIN: US74005P1049]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Praxair",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "3,9",
+     "EPSdiluted": "3,84",
+     "DPS": "1,8",
+     "Turnover": "32,49",
+     "equityratio": "37,92",
+     "deptratio": "62,08"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "5,53",
+     "EPSdiluted": "5,45",
+     "DPS": "2",
+     "Turnover": "36,68",
+     "equityratio": "33,55",
+     "deptratio": "66,45"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "5,67",
+     "EPSdiluted": "5,61",
+     "DPS": "2,2",
+     "Turnover": "37,18",
+     "equityratio": "33,52",
+     "deptratio": "66,48"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "5,94",
+     "EPSdiluted": "5,87",
+     "DPS": "2,4",
+     "Turnover": "39,89",
+     "equityratio": "32,63",
+     "deptratio": "67,37"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "5,79",
+     "EPSdiluted": "5,73",
+     "DPS": "2,6",
+     "Turnover": "41,52",
+     "equityratio": "28,4",
+     "deptratio": "71,6"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "5,39",
+     "EPSdiluted": "5,35",
+     "DPS": "2,86",
+     "Turnover": "37,28",
+     "equityratio": "23,96",
+     "deptratio": "76,04"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "5,25",
+     "EPSdiluted": "5,21",
+     "DPS": "3",
+     "Turnover": "36,61",
+     "equityratio": "25,97",
+     "deptratio": "74,03"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "26.04.16",
+     "Dividende": "2,86"
+    },
+    {
+     "Datum": "28.04.15",
+     "Dividende": "2,60"
+    },
+    {
+     "Datum": "22.04.14",
+     "Dividende": "2,40"
+    },
+    {
+     "Datum": "23.04.13",
+     "Dividende": "2,20"
+    },
+    {
+     "Datum": "24.04.12",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "26.04.11",
+     "Dividende": "1,80"
+    },
+    {
+     "Datum": "27.04.10",
+     "Dividende": "1,60"
+    },
+    {
+     "Datum": "28.04.09",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "22.04.08",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "24.04.07",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "25.04.06",
+     "Dividende": "0,72"
+    },
+    {
+     "Datum": "26.04.05",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "27.04.04",
+     "Dividende": "0,46"
+    },
+    {
+     "Datum": "22.04.03",
+     "Dividende": "0,38"
+    }
+   ]
+  },
+  {
+   "name": "Pricelinecom Aktie [WKN: 766054 / ISIN: US7415034039]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pricelinecom",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "11",
+     "EPSdiluted": "10,35",
+     "DPS": "0",
+     "Turnover": "60,5",
+     "equityratio": "62,4",
+     "deptratio": "37,6"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "21,27",
+     "EPSdiluted": "20,63",
+     "DPS": "0",
+     "Turnover": "85,05",
+     "equityratio": "64,83",
+     "deptratio": "35,17"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "28,48",
+     "EPSdiluted": "27,66",
+     "DPS": "0",
+     "Turnover": "102,5",
+     "equityratio": "59,32",
+     "deptratio": "40,68"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "37,17",
+     "EPSdiluted": "36,11",
+     "DPS": "0",
+     "Turnover": "129,61",
+     "equityratio": "66,16",
+     "deptratio": "33,84"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "46,3",
+     "EPSdiluted": "45,67",
+     "DPS": "0",
+     "Turnover": "159,21",
+     "equityratio": "57,34",
+     "deptratio": "42,66"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "50,09",
+     "EPSdiluted": "49,45",
+     "DPS": "0",
+     "Turnover": "178,78",
+     "equityratio": "50,49",
+     "deptratio": "49,51"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "43,14",
+     "EPSdiluted": "42,65",
+     "DPS": "0",
+     "Turnover": "214,59",
+     "equityratio": "49,5",
+     "deptratio": "50,5"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "02.06.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "04.06.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "05.06.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "06.06.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "07.06.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "02.06.11",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Principal Financial Group Aktie [WKN: 694660 / ISIN: US74251V1026]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Principal_Financial_Group",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,08",
+     "EPSdiluted": "2,06",
+     "DPS": "0,55",
+     "Turnover": "29,53",
+     "equityratio": "6,68",
+     "deptratio": "93,32"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "2,17",
+     "EPSdiluted": "2,15",
+     "DPS": "0,7",
+     "Turnover": "28,49",
+     "equityratio": "6,5",
+     "deptratio": "93,5"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "2,6",
+     "EPSdiluted": "2,57",
+     "DPS": "0,78",
+     "Turnover": "31,07",
+     "equityratio": "6,02",
+     "deptratio": "93,98"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "2,99",
+     "EPSdiluted": "2,95",
+     "DPS": "0,98",
+     "Turnover": "31,9",
+     "equityratio": "4,65",
+     "deptratio": "95,35"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "3,7",
+     "EPSdiluted": "3,65",
+     "DPS": "1,28",
+     "Turnover": "35,24",
+     "equityratio": "4,65",
+     "deptratio": "95,35"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "4,11",
+     "EPSdiluted": "4,06",
+     "DPS": "1,5",
+     "Turnover": "40,15",
+     "equityratio": "4,26",
+     "deptratio": "95,74"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "4,55",
+     "EPSdiluted": "4,5",
+     "DPS": "1,61",
+     "Turnover": "42,79",
+     "equityratio": "4,49",
+     "deptratio": "95,51"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "17.05.16",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "19.05.15",
+     "Dividende": "1,28"
+    },
+    {
+     "Datum": "20.05.14",
+     "Dividende": "0,98"
+    },
+    {
+     "Datum": "21.05.13",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "22.05.12",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "17.05.11",
+     "Dividende": "0,55"
+    },
+    {
+     "Datum": "18.05.10",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "19.05.09",
+     "Dividende": "0,45"
+    },
+    {
+     "Datum": "20.05.08",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "22.05.07",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "16.05.06",
+     "Dividende": "0,65"
+    },
+    {
+     "Datum": "17.05.05",
+     "Dividende": "0,55"
+    },
+    {
+     "Datum": "18.05.04",
+     "Dividende": "0,45"
+    },
+    {
+     "Datum": "19.05.03",
+     "Dividende": "0,25"
+    }
+   ]
+  },
+  {
+   "name": "Procter & Gamble Aktie [WKN: 852062 / ISIN: US7427181091]",
+   "URL": "http://www.finanzen.at/bilanz_guv/ProcterGamble",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "3,77",
+     "EPSdiluted": "3,53",
+     "DPS": "1,8",
+     "Turnover": "25,47",
+     "equityratio": "46,69",
+     "deptratio": "53,31"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "4,12",
+     "EPSdiluted": "3,93",
+     "DPS": "1,97",
+     "Turnover": "27,5",
+     "equityratio": "48",
+     "deptratio": "52"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "3,3",
+     "EPSdiluted": "3,18",
+     "DPS": "2,14",
+     "Turnover": "28,45",
+     "equityratio": "47,07",
+     "deptratio": "52,93"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "4,04",
+     "EPSdiluted": "3,86",
+     "DPS": "2,29",
+     "Turnover": "28,72",
+     "equityratio": "48,06",
+     "deptratio": "51,94"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "4,19",
+     "EPSdiluted": "4,01",
+     "DPS": "2,45",
+     "Turnover": "28,6",
+     "equityratio": "47,21",
+     "deptratio": "52,79"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "2,48",
+     "EPSdiluted": "2,42",
+     "DPS": "2,59",
+     "Turnover": "26,45",
+     "equityratio": "47,37",
+     "deptratio": "52,63"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "3,64",
+     "EPSdiluted": "3,55",
+     "DPS": "2,66",
+     "Turnover": "22,96",
+     "equityratio": "44,29",
+     "deptratio": "55,71"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "11.10.16",
+     "Dividende": "2,66"
+    },
+    {
+     "Datum": "13.10.15",
+     "Dividende": "2,59"
+    },
+    {
+     "Datum": "14.10.14",
+     "Dividende": "2,45"
+    },
+    {
+     "Datum": "08.10.13",
+     "Dividende": "2,29"
+    },
+    {
+     "Datum": "09.10.12",
+     "Dividende": "2,14"
+    },
+    {
+     "Datum": "11.10.11",
+     "Dividende": "1,97"
+    },
+    {
+     "Datum": "12.10.10",
+     "Dividende": "1,80"
+    },
+    {
+     "Datum": "13.10.09",
+     "Dividende": "1,64"
+    },
+    {
+     "Datum": "14.10.08",
+     "Dividende": "1,45"
+    },
+    {
+     "Datum": "09.10.07",
+     "Dividende": "1,28"
+    },
+    {
+     "Datum": "10.10.06",
+     "Dividende": "1,15"
+    },
+    {
+     "Datum": "13.12.05",
+     "Dividende": "3,81"
+    },
+    {
+     "Datum": "11.10.05",
+     "Dividende": "1,03"
+    },
+    {
+     "Datum": "15.12.04",
+     "Dividende": "1,91"
+    },
+    {
+     "Datum": "12.10.04",
+     "Dividende": "0,93"
+    },
+    {
+     "Datum": "03.02.04",
+     "Dividende": "1,91"
+    },
+    {
+     "Datum": "14.10.03",
+     "Dividende": "0,82"
+    },
+    {
+     "Datum": "15.05.03",
+     "Dividende": "0,04"
+    }
+   ]
+  },
+  {
+   "name": "Progressive Aktie [WKN: 865496 / ISIN: US7433151039]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Progressive",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,62",
+     "EPSdiluted": "1,61",
+     "DPS": "0,16",
+     "Turnover": "22,56",
+     "equityratio": "28,6",
+     "deptratio": "71,4"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,61",
+     "EPSdiluted": "1,59",
+     "DPS": "0,4",
+     "Turnover": "24,34",
+     "equityratio": "26,58",
+     "deptratio": "73,42"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,5",
+     "EPSdiluted": "1,48",
+     "DPS": "0,41",
+     "Turnover": "28,09",
+     "equityratio": "25,63",
+     "deptratio": "74,37"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,95",
+     "EPSdiluted": "1,93",
+     "DPS": "0,28",
+     "Turnover": "30,09",
+     "equityratio": "24,59",
+     "deptratio": "75,41"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "2,17",
+     "EPSdiluted": "2,15",
+     "DPS": "0,49",
+     "Turnover": "32,58",
+     "equityratio": "26,13",
+     "deptratio": "73,87"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "2,16",
+     "EPSdiluted": "2,15",
+     "DPS": "0,69",
+     "Turnover": "35,4",
+     "equityratio": "23,79",
+     "deptratio": "76,21"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "1,77",
+     "EPSdiluted": "1,76",
+     "DPS": "0,89",
+     "Turnover": "40,18",
+     "equityratio": "23,17",
+     "deptratio": "76,83"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "13.05.16",
+     "Dividende": "0,89"
+    },
+    {
+     "Datum": "15.05.15",
+     "Dividende": "0,69"
+    },
+    {
+     "Datum": "16.05.14",
+     "Dividende": "0,49"
+    },
+    {
+     "Datum": "16.05.13",
+     "Dividende": "1,28"
+    },
+    {
+     "Datum": "20.04.12",
+     "Dividende": "0,41"
+    },
+    {
+     "Datum": "29.04.11",
+     "Dividende": "1,40"
+    },
+    {
+     "Datum": "23.04.10",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "24.04.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "18.04.08",
+     "Dividende": "2,15"
+    },
+    {
+     "Datum": "20.04.07",
+     "Dividende": "0,03"
+    },
+    {
+     "Datum": "21.04.06",
+     "Dividende": "0,03"
+    },
+    {
+     "Datum": "15.04.05",
+     "Dividende": "0,03"
+    },
+    {
+     "Datum": "16.04.04",
+     "Dividende": "0,03"
+    },
+    {
+     "Datum": "18.04.03",
+     "Dividende": "0,03"
+    }
+   ]
+  },
+  {
+   "name": "Prologis Aktie [WKN DE: A1JBD1 / ISIN: US74340W1036]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Prologis",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "-0,06",
+     "EPSdiluted": "-0,06",
+     "DPS": "1,12",
+     "Turnover": "3,91",
+     "equityratio": "42,01",
+     "deptratio": "57,99"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "-0,67",
+     "EPSdiluted": "-0,67",
+     "DPS": "1,12",
+     "Turnover": "4,14",
+     "equityratio": "47,18",
+     "deptratio": "52,82"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "-0,25",
+     "EPSdiluted": "-0,25",
+     "DPS": "1,12",
+     "Turnover": "4,36",
+     "equityratio": "45,72",
+     "deptratio": "54,28"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "0,41",
+     "EPSdiluted": "0,41",
+     "DPS": "1,12",
+     "Turnover": "3,56",
+     "equityratio": "55,39",
+     "deptratio": "44,61"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,25",
+     "EPSdiluted": "1,24",
+     "DPS": "1,32",
+     "Turnover": "3,48",
+     "equityratio": "53,83",
+     "deptratio": "46,17"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "1,66",
+     "EPSdiluted": "1,64",
+     "DPS": "1,52",
+     "Turnover": "4,11",
+     "equityratio": "46,47",
+     "deptratio": "53,53"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "2,29",
+     "EPSdiluted": "2,27",
+     "DPS": "1,68",
+     "Turnover": "4,63",
+     "equityratio": "49,3",
+     "deptratio": "50,7"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "04.05.16",
+     "Dividende": "1,52"
+    },
+    {
+     "Datum": "29.04.15",
+     "Dividende": "1,32"
+    },
+    {
+     "Datum": "01.05.14",
+     "Dividende": "1,12"
+    },
+    {
+     "Datum": "02.05.13",
+     "Dividende": "1,12"
+    },
+    {
+     "Datum": "03.05.12",
+     "Dividende": "1,06"
+    },
+    {
+     "Datum": "01.06.11",
+     "Dividende": "0,56"
+    },
+    {
+     "Datum": "14.05.10",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "20.05.09",
+     "Dividende": "2,07"
+    },
+    {
+     "Datum": "09.05.08",
+     "Dividende": "1,84"
+    },
+    {
+     "Datum": "15.05.07",
+     "Dividende": "1,60"
+    },
+    {
+     "Datum": "26.05.06",
+     "Dividende": "1,48"
+    },
+    {
+     "Datum": "18.05.05",
+     "Dividende": "1,46"
+    },
+    {
+     "Datum": "18.05.04",
+     "Dividende": "1,44"
+    },
+    {
+     "Datum": "20.05.03",
+     "Dividende": "1,42"
+    }
+   ]
+  },
+  {
+   "name": "Prudential Financial Aktie [WKN: 764959 / ISIN: US7443201022]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Prudential_Financial",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "6,82",
+     "EPSdiluted": "6,69",
+     "DPS": "1,15",
+     "Turnover": "79,84",
+     "equityratio": "6",
+     "deptratio": "94"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "7,6",
+     "EPSdiluted": "7,47",
+     "DPS": "1,45",
+     "Turnover": "96,74",
+     "equityratio": "5,96",
+     "deptratio": "94,04"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1",
+     "EPSdiluted": "1",
+     "DPS": "1,6",
+     "Turnover": "184,62",
+     "equityratio": "5,44",
+     "deptratio": "94,56"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "-1,43",
+     "EPSdiluted": "-1,43",
+     "DPS": "1,73",
+     "Turnover": "102,03",
+     "equityratio": "4,82",
+     "deptratio": "95,18"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "3",
+     "EPSdiluted": "2,94",
+     "DPS": "2,17",
+     "Turnover": "120,58",
+     "equityratio": "5,45",
+     "deptratio": "94,55"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "12,37",
+     "EPSdiluted": "12,17",
+     "DPS": "2,44",
+     "Turnover": "115,6",
+     "equityratio": "5,53",
+     "deptratio": "94,47"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "9,85",
+     "EPSdiluted": "9,71",
+     "DPS": "2,8",
+     "Turnover": "128,74",
+     "equityratio": "5,85",
+     "deptratio": "94,15"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "10.05.16",
+     "Dividende": "2,44"
+    },
+    {
+     "Datum": "12.05.15",
+     "Dividende": "2,17"
+    },
+    {
+     "Datum": "13.05.14",
+     "Dividende": "1,73"
+    },
+    {
+     "Datum": "14.05.13",
+     "Dividende": "1,60"
+    },
+    {
+     "Datum": "08.05.12",
+     "Dividende": "1,45"
+    },
+    {
+     "Datum": "10.05.11",
+     "Dividende": "1,15"
+    },
+    {
+     "Datum": "19.05.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "11.05.10",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "05.11.09",
+     "Dividende": "0,58"
+    },
+    {
+     "Datum": "12.05.09",
+     "Dividende": "0,58"
+    },
+    {
+     "Datum": "13.05.08",
+     "Dividende": "1,15"
+    },
+    {
+     "Datum": "08.05.07",
+     "Dividende": "0,95"
+    },
+    {
+     "Datum": "09.05.06",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "07.06.05",
+     "Dividende": "0,63"
+    },
+    {
+     "Datum": "08.06.04",
+     "Dividende": "0,50"
+    }
+   ]
+  },
+  {
+   "name": "Public Service Enterprise Group Aktie [WKN: 852070 / ISIN: US7445731067]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Public_Service_Enterprise_Group",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "3,08",
+     "EPSdiluted": "3,07",
+     "DPS": "1,37",
+     "Turnover": "22,92",
+     "equityratio": "32,21",
+     "deptratio": "67,79"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "3,07",
+     "EPSdiluted": "3,07",
+     "DPS": "1,37",
+     "Turnover": "21,03",
+     "equityratio": "34,44",
+     "deptratio": "65,56"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "2,52",
+     "EPSdiluted": "2,51",
+     "DPS": "1,42",
+     "Turnover": "18,68",
+     "equityratio": "33,98",
+     "deptratio": "66,02"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "2,46",
+     "EPSdiluted": "2,45",
+     "DPS": "1,44",
+     "Turnover": "19,87",
+     "equityratio": "35,69",
+     "deptratio": "64,31"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "3",
+     "EPSdiluted": "2,99",
+     "DPS": "1,48",
+     "Turnover": "22,16",
+     "equityratio": "34,49",
+     "deptratio": "65,51"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "3,32",
+     "EPSdiluted": "3,31",
+     "DPS": "1,56",
+     "Turnover": "19,65",
+     "equityratio": "34,81",
+     "deptratio": "65,19"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "1,76",
+     "EPSdiluted": "1,75",
+     "DPS": "1,64",
+     "Turnover": "17,38",
+     "equityratio": "32,77",
+     "deptratio": "67,23"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "19.04.16",
+     "Dividende": "1,56"
+    },
+    {
+     "Datum": "21.04.15",
+     "Dividende": "1,48"
+    },
+    {
+     "Datum": "15.04.14",
+     "Dividende": "1,44"
+    },
+    {
+     "Datum": "16.04.13",
+     "Dividende": "1,42"
+    },
+    {
+     "Datum": "17.04.12",
+     "Dividende": "1,37"
+    },
+    {
+     "Datum": "19.04.11",
+     "Dividende": "1,37"
+    },
+    {
+     "Datum": "20.04.10",
+     "Dividende": "1,33"
+    },
+    {
+     "Datum": "21.04.09",
+     "Dividende": "1,29"
+    },
+    {
+     "Datum": "15.04.08",
+     "Dividende": "1,17"
+    },
+    {
+     "Datum": "17.04.07",
+     "Dividende": "1,14"
+    },
+    {
+     "Datum": "21.11.06",
+     "Dividende": "1,12"
+    },
+    {
+     "Datum": "19.07.05",
+     "Dividende": "1,10"
+    },
+    {
+     "Datum": "20.04.04",
+     "Dividende": "1,08"
+    },
+    {
+     "Datum": "15.04.03",
+     "Dividende": "1,08"
+    }
+   ]
+  },
+  {
+   "name": "Public Storage Aktie [WKN: 867609 / ISIN: US74460D1090]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Public_Storage_1",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "2,36",
+     "EPSdiluted": "2,35",
+     "DPS": "3,05",
+     "Turnover": "9,7",
+     "equityratio": "55,61",
+     "deptratio": "44,39"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "3,31",
+     "EPSdiluted": "3,29",
+     "DPS": "3,65",
+     "Turnover": "10,26",
+     "equityratio": "57,96",
+     "deptratio": "42,04"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "3,86",
+     "EPSdiluted": "3,83",
+     "DPS": "4,4",
+     "Turnover": "10,64",
+     "equityratio": "59,77",
+     "deptratio": "40,23"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "4,92",
+     "EPSdiluted": "4,89",
+     "DPS": "5,15",
+     "Turnover": "11,48",
+     "equityratio": "52,95",
+     "deptratio": "47,05"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "5,27",
+     "EPSdiluted": "5,25",
+     "DPS": "5,6",
+     "Turnover": "12,68",
+     "equityratio": "52,51",
+     "deptratio": "47,49"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "6,1",
+     "EPSdiluted": "6,07",
+     "DPS": "6,5",
+     "Turnover": "13,73",
+     "equityratio": "52,32",
+     "deptratio": "47,68"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "6,84",
+     "EPSdiluted": "6,81",
+     "DPS": "7,3",
+     "Turnover": "14,73",
+     "equityratio": "49,8",
+     "deptratio": "50,2"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "25.04.16",
+     "Dividende": "6,50"
+    },
+    {
+     "Datum": "30.04.15",
+     "Dividende": "5,60"
+    },
+    {
+     "Datum": "01.05.14",
+     "Dividende": "5,15"
+    },
+    {
+     "Datum": "09.05.13",
+     "Dividende": "4,40"
+    },
+    {
+     "Datum": "03.05.12",
+     "Dividende": "3,65"
+    },
+    {
+     "Datum": "05.05.11",
+     "Dividende": "3,05"
+    }
+   ]
+  },
+  {
+   "name": "PulteGroup Aktie [WKN: 854435 / ISIN: US7458671010]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PulteGroup",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "-2,9",
+     "EPSdiluted": "-2,9",
+     "DPS": "0",
+     "Turnover": "11,89",
+     "equityratio": "27,73",
+     "deptratio": "72,27"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "-0,55",
+     "EPSdiluted": "-0,55",
+     "DPS": "0",
+     "Turnover": "10,74",
+     "equityratio": "28,15",
+     "deptratio": "71,85"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "0,54",
+     "EPSdiluted": "0,54",
+     "DPS": "0",
+     "Turnover": "12,25",
+     "equityratio": "32,51",
+     "deptratio": "67,49"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "6,79",
+     "EPSdiluted": "6,72",
+     "DPS": "0,15",
+     "Turnover": "14,48",
+     "equityratio": "53,23",
+     "deptratio": "46,77"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,27",
+     "EPSdiluted": "1,26",
+     "DPS": "0,23",
+     "Turnover": "15,38",
+     "equityratio": "56,07",
+     "deptratio": "43,93"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "1,38",
+     "EPSdiluted": "1,36",
+     "DPS": "0,33",
+     "Turnover": "16,4",
+     "equityratio": "53,08",
+     "deptratio": "46,92"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "1,76",
+     "EPSdiluted": "1,75",
+     "DPS": "0,36",
+     "Turnover": "22,09",
+     "equityratio": "45,78",
+     "deptratio": "54,22"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "04.05.16",
+     "Dividende": "0,33"
+    },
+    {
+     "Datum": "06.05.15",
+     "Dividende": "0,23"
+    },
+    {
+     "Datum": "07.05.14",
+     "Dividende": "0,15"
+    },
+    {
+     "Datum": "08.05.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "09.05.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "11.05.11",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "12.05.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "14.05.09",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "10.07.08",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "15.05.08",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "12.07.07",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "10.05.07",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "13.07.06",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "11.05.06",
+     "Dividende": "0,13"
+    },
+    {
+     "Datum": "12.05.05",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "15.07.04",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "13.05.04",
+     "Dividende": "0,06"
+    },
+    {
+     "Datum": "25.02.04",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "17.07.03",
+     "Dividende": "0,08"
+    },
+    {
+     "Datum": "15.05.03",
+     "Dividende": "0,04"
+    }
+   ]
+  },
+  {
+   "name": "PVH Aktie [WKN DE: A1JHA5 / ISIN: US6936561009]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PVH",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "0,82",
+     "EPSdiluted": "0,8",
+     "DPS": "0,15",
+     "Turnover": "68,82",
+     "equityratio": "33,46",
+     "deptratio": "66,54"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "4,46",
+     "EPSdiluted": "4,36",
+     "DPS": "0,15",
+     "Turnover": "80,78",
+     "equityratio": "37,42",
+     "deptratio": "62,58"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "5,98",
+     "EPSdiluted": "5,87",
+     "DPS": "0,15",
+     "Turnover": "81,8",
+     "equityratio": "41,8",
+     "deptratio": "58,2"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,77",
+     "EPSdiluted": "1,74",
+     "DPS": "0,15",
+     "Turnover": "99,09",
+     "equityratio": "37,45",
+     "deptratio": "62,55"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "5,33",
+     "EPSdiluted": "5,27",
+     "DPS": "0,15",
+     "Turnover": "98,93",
+     "equityratio": "39,92",
+     "deptratio": "60,08"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "6,95",
+     "EPSdiluted": "6,89",
+     "DPS": "0,15",
+     "Turnover": "96,51",
+     "equityratio": "42,56",
+     "deptratio": "57,44"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "6,85",
+     "EPSdiluted": "6,79",
+     "DPS": "0,15",
+     "Turnover": "101,4",
+     "equityratio": "43,41",
+     "deptratio": "56,59"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "16.06.16",
+     "Dividende": "0,15"
+    },
+    {
+     "Datum": "18.06.15",
+     "Dividende": "0,15"
+    },
+    {
+     "Datum": "19.06.14",
+     "Dividende": "0,15"
+    },
+    {
+     "Datum": "20.06.13",
+     "Dividende": "0,15"
+    },
+    {
+     "Datum": "21.06.12",
+     "Dividende": "0,15"
+    }
+   ]
+  },
+  {
+   "name": "Qorvo Aktie [WKN DE: A12CY9 / ISIN: US74736K1016]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Qorvo",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,84",
+     "EPSdiluted": "1,76",
+     "DPS": "0",
+     "Turnover": "15",
+     "equityratio": "65,96",
+     "deptratio": "34,04"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "0,01",
+     "EPSdiluted": "0,01",
+     "DPS": "0",
+     "Turnover": "12,33",
+     "equityratio": "69,7",
+     "deptratio": "30,3"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "-0,76",
+     "EPSdiluted": "-0,76",
+     "DPS": "0",
+     "Turnover": "13,84",
+     "equityratio": "68,56",
+     "deptratio": "31,44"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "0,16",
+     "EPSdiluted": "0,16",
+     "DPS": "0",
+     "Turnover": "15,94",
+     "equityratio": "73,49",
+     "deptratio": "26,51"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "2,17",
+     "EPSdiluted": "2,11",
+     "DPS": "0",
+     "Turnover": "18,36",
+     "equityratio": "89,57",
+     "deptratio": "10,43"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "-0,2",
+     "EPSdiluted": "-0,2",
+     "DPS": "0",
+     "Turnover": "18,39",
+     "equityratio": "75,79",
+     "deptratio": "24,21"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "-0,13",
+     "EPSdiluted": "-0,13",
+     "DPS": "0",
+     "Turnover": "23,86",
+     "equityratio": "75,08",
+     "deptratio": "24,92"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "03.08.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "10.08.15",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "QUALCOMM Aktie [WKN: 883121 / ISIN: US7475251036]",
+   "URL": "http://www.finanzen.at/bilanz_guv/QUALCOMM",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,98",
+     "EPSdiluted": "1,96",
+     "DPS": "0,72",
+     "Turnover": "6,63",
+     "equityratio": "68,23",
+     "deptratio": "31,77"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "2,57",
+     "EPSdiluted": "2,52",
+     "DPS": "0,81",
+     "Turnover": "8,85",
+     "equityratio": "74",
+     "deptratio": "26"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "2,9",
+     "EPSdiluted": "2,83",
+     "DPS": "0,93",
+     "Turnover": "10,98",
+     "equityratio": "77,94",
+     "deptratio": "22,06"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "4",
+     "EPSdiluted": "3,91",
+     "DPS": "1,2",
+     "Turnover": "14,18",
+     "equityratio": "79,29",
+     "deptratio": "20,71"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "4,48",
+     "EPSdiluted": "4,4",
+     "DPS": "1,54",
+     "Turnover": "15,45",
+     "equityratio": "80,64",
+     "deptratio": "19,36"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "3,26",
+     "EPSdiluted": "3,22",
+     "DPS": "1,8",
+     "Turnover": "15,42",
+     "equityratio": "61,86",
+     "deptratio": "38,14"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "3,84",
+     "EPSdiluted": "3,81",
+     "DPS": "2,02",
+     "Turnover": "15,72",
+     "equityratio": "60,69",
+     "deptratio": "39,31"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "08.03.16",
+     "Dividende": "1,80"
+    },
+    {
+     "Datum": "09.03.15",
+     "Dividende": "1,54"
+    },
+    {
+     "Datum": "04.03.14",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "05.03.13",
+     "Dividende": "0,93"
+    },
+    {
+     "Datum": "06.03.12",
+     "Dividende": "0,81"
+    },
+    {
+     "Datum": "08.03.11",
+     "Dividende": "0,72"
+    },
+    {
+     "Datum": "02.03.10",
+     "Dividende": "0,66"
+    },
+    {
+     "Datum": "03.03.09",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "11.03.08",
+     "Dividende": "0,52"
+    },
+    {
+     "Datum": "13.03.07",
+     "Dividende": "0,42"
+    },
+    {
+     "Datum": "07.03.06",
+     "Dividende": "0,32"
+    },
+    {
+     "Datum": "08.03.05",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "02.03.04",
+     "Dividende": "0,08"
+    }
+   ]
+  },
+  {
+   "name": "Quanta Services Aktie [WKN: 912294 / ISIN: US74762E1029]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Quanta_Services",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "0,73",
+     "EPSdiluted": "0,72",
+     "DPS": "0",
+     "Turnover": "18,56",
+     "equityratio": "76,41",
+     "deptratio": "23,59"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "0,62",
+     "EPSdiluted": "0,62",
+     "DPS": "0",
+     "Turnover": "21,69",
+     "equityratio": "70,79",
+     "deptratio": "29,21"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,51",
+     "EPSdiluted": "1,51",
+     "DPS": "0",
+     "Turnover": "27,82",
+     "equityratio": "72,02",
+     "deptratio": "27,98"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,87",
+     "EPSdiluted": "1,87",
+     "DPS": "0",
+     "Turnover": "30,34",
+     "equityratio": "72,01",
+     "deptratio": "27,99"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,35",
+     "EPSdiluted": "1,35",
+     "DPS": "0",
+     "Turnover": "35,74",
+     "equityratio": "71,52",
+     "deptratio": "28,48"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "0,2",
+     "EPSdiluted": "0,2",
+     "DPS": "0",
+     "Turnover": "38,81",
+     "equityratio": "59,18",
+     "deptratio": "40,82"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "1,26",
+     "EPSdiluted": "1,26",
+     "DPS": "0",
+     "Turnover": "48,65",
+     "equityratio": "62,37",
+     "deptratio": "37,63"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "26.05.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "21.05.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "22.05.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "23.05.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "17.05.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "19.05.11",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Quest Diagnostics Aktie [WKN: 904533 / ISIN: US74834L1008]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Quest_Diagnostics",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "4,08",
+     "EPSdiluted": "4,05",
+     "DPS": "0,4",
+     "Turnover": "41,56",
+     "equityratio": "47,3",
+     "deptratio": "52,7"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "2,95",
+     "EPSdiluted": "2,92",
+     "DPS": "0,47",
+     "Turnover": "46,89",
+     "equityratio": "39,65",
+     "deptratio": "60,35"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "3,49",
+     "EPSdiluted": "3,46",
+     "DPS": "0,81",
+     "Turnover": "46,12",
+     "equityratio": "44,84",
+     "deptratio": "55,16"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "5,58",
+     "EPSdiluted": "5,54",
+     "DPS": "1,2",
+     "Turnover": "46,71",
+     "equityratio": "44,12",
+     "deptratio": "55,88"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "3,82",
+     "EPSdiluted": "3,82",
+     "DPS": "1,32",
+     "Turnover": "51,28",
+     "equityratio": "43,55",
+     "deptratio": "56,45"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "4,9",
+     "EPSdiluted": "4,87",
+     "DPS": "1,52",
+     "Turnover": "51,68",
+     "equityratio": "47,02",
+     "deptratio": "52,98"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "4,59",
+     "EPSdiluted": "4,52",
+     "DPS": "1,65",
+     "Turnover": "52,92",
+     "equityratio": "45,82",
+     "deptratio": "54,18"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "18.05.16",
+     "Dividende": "1,52"
+    },
+    {
+     "Datum": "15.05.15",
+     "Dividende": "1,32"
+    },
+    {
+     "Datum": "21.05.14",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "21.05.13",
+     "Dividende": "0,81"
+    },
+    {
+     "Datum": "11.05.12",
+     "Dividende": "0,47"
+    },
+    {
+     "Datum": "17.05.11",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "06.05.10",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "14.05.09",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "16.05.08",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "08.05.07",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "04.05.06",
+     "Dividende": "0,36"
+    },
+    {
+     "Datum": "10.05.05",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "04.05.04",
+     "Dividende": "0,08"
+    },
+    {
+     "Datum": "13.05.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Ralph Lauren a Aktie [WKN DE: A1JD3A / ISIN: US7512121010]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Ralph_Lauren_a",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "5,91",
+     "EPSdiluted": "5,75",
+     "DPS": "0,5",
+     "Turnover": "57,35",
+     "equityratio": "66,34",
+     "deptratio": "33,66"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "7,35",
+     "EPSdiluted": "7,13",
+     "DPS": "0,8",
+     "Turnover": "71,83",
+     "equityratio": "67,43",
+     "deptratio": "32,57"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "8,21",
+     "EPSdiluted": "8",
+     "DPS": "1,6",
+     "Turnover": "74,12",
+     "equityratio": "69,85",
+     "deptratio": "30,15"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "8,55",
+     "EPSdiluted": "8,43",
+     "DPS": "1,7",
+     "Turnover": "80,98",
+     "equityratio": "66,24",
+     "deptratio": "33,76"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "7,96",
+     "EPSdiluted": "7,88",
+     "DPS": "1,85",
+     "Turnover": "85,52",
+     "equityratio": "63,72",
+     "deptratio": "36,28"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "4,65",
+     "EPSdiluted": "4,61",
+     "DPS": "2",
+     "Turnover": "86,2",
+     "equityratio": "60,26",
+     "deptratio": "39,74"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "-1,2",
+     "EPSdiluted": "-1,2",
+     "DPS": "2",
+     "Turnover": "80,44",
+     "equityratio": "58,38",
+     "deptratio": "41,62"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "10.08.17",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "11.08.16",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "06.08.15",
+     "Dividende": "1,85"
+    },
+    {
+     "Datum": "07.08.14",
+     "Dividende": "1,70"
+    },
+    {
+     "Datum": "08.08.13",
+     "Dividende": "1,60"
+    },
+    {
+     "Datum": "09.08.12",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "11.08.11",
+     "Dividende": "0,50"
+    }
+   ]
+  },
+  {
+   "name": "Range Resources Aktie [WKN: 867939 / ISIN: US75281A1097]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Range_Resources",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "-1,53",
+     "EPSdiluted": "-1,53",
+     "DPS": "0,16",
+     "Turnover": "5,41",
+     "equityratio": "40,44",
+     "deptratio": "59,56"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "0,36",
+     "EPSdiluted": "0,36",
+     "DPS": "0,16",
+     "Turnover": "6,66",
+     "equityratio": "40,93",
+     "deptratio": "59,07"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "0,08",
+     "EPSdiluted": "0,08",
+     "DPS": "0,16",
+     "Turnover": "7,06",
+     "equityratio": "35,03",
+     "deptratio": "64,97"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "0,71",
+     "EPSdiluted": "0,7",
+     "DPS": "0,16",
+     "Turnover": "10,61",
+     "equityratio": "33,08",
+     "deptratio": "66,92"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "3,81",
+     "EPSdiluted": "3,79",
+     "DPS": "0,16",
+     "Turnover": "12,36",
+     "equityratio": "39,53",
+     "deptratio": "60,47"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "-4,29",
+     "EPSdiluted": "-4,29",
+     "DPS": "0,16",
+     "Turnover": "7,1",
+     "equityratio": "39,99",
+     "deptratio": "60,01"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "-2,75",
+     "EPSdiluted": "-2,75",
+     "DPS": "0,08",
+     "Turnover": "7,17",
+     "equityratio": "47,94",
+     "deptratio": "52,06"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "18.05.16",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "19.05.15",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "20.05.14",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "22.05.13",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "23.05.12",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "18.05.11",
+     "Dividende": "0,16"
+    }
+   ]
+  },
+  {
+   "name": "Raymond James Financial Aktie [WKN: 875072 / ISIN: US7547301090]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Raymond_James_Financial",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,91",
+     "EPSdiluted": "1,91",
+     "DPS": "0,44",
+     "Turnover": "25,01",
+     "equityratio": "12,85",
+     "deptratio": "87,15"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "2,2",
+     "EPSdiluted": "2,19",
+     "DPS": "0,52",
+     "Turnover": "27,76",
+     "equityratio": "14,34",
+     "deptratio": "85,66"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "2,22",
+     "EPSdiluted": "2,2",
+     "DPS": "0,52",
+     "Turnover": "29,6",
+     "equityratio": "15,42",
+     "deptratio": "84,58"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "2,64",
+     "EPSdiluted": "2,58",
+     "DPS": "0,56",
+     "Turnover": "32,47",
+     "equityratio": "15,76",
+     "deptratio": "84,24"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "3,41",
+     "EPSdiluted": "3,32",
+     "DPS": "0,64",
+     "Turnover": "34,75",
+     "equityratio": "17,72",
+     "deptratio": "82,28"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "3,51",
+     "EPSdiluted": "3,43",
+     "DPS": "0,72",
+     "Turnover": "35,94",
+     "equityratio": "17,05",
+     "deptratio": "82,95"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "3,72",
+     "EPSdiluted": "3,65",
+     "DPS": "0,8",
+     "Turnover": "38,2",
+     "equityratio": "15,53",
+     "deptratio": "84,47"
+    }
+   ]
+  },
+  {
+   "name": "Raytheon Aktie [WKN: 785159 / ISIN: US7551115071]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Raytheon",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "4,94",
+     "EPSdiluted": "4,88",
+     "DPS": "1,5",
+     "Turnover": "66,8",
+     "equityratio": "39,94",
+     "deptratio": "60,06"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "5,3",
+     "EPSdiluted": "5,28",
+     "DPS": "1,72",
+     "Turnover": "70,29",
+     "equityratio": "31,64",
+     "deptratio": "68,36"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "5,67",
+     "EPSdiluted": "5,65",
+     "DPS": "2",
+     "Turnover": "73,05",
+     "equityratio": "30,08",
+     "deptratio": "69,92"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "6,17",
+     "EPSdiluted": "6,16",
+     "DPS": "2,2",
+     "Turnover": "73,12",
+     "equityratio": "42,5",
+     "deptratio": "57,5"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "7,19",
+     "EPSdiluted": "7,18",
+     "DPS": "2,42",
+     "Turnover": "73,02",
+     "equityratio": "34,14",
+     "deptratio": "65,86"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "6,8",
+     "EPSdiluted": "6,8",
+     "DPS": "2,68",
+     "Turnover": "76,17",
+     "equityratio": "34,59",
+     "deptratio": "65,41"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "7,46",
+     "EPSdiluted": "7,45",
+     "DPS": "2,93",
+     "Turnover": "81,1",
+     "equityratio": "33,5",
+     "deptratio": "66,5"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "26.05.16",
+     "Dividende": "2,68"
+    },
+    {
+     "Datum": "28.05.15",
+     "Dividende": "2,42"
+    },
+    {
+     "Datum": "29.05.14",
+     "Dividende": "2,20"
+    },
+    {
+     "Datum": "30.05.13",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "26.05.11",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "27.05.10",
+     "Dividende": "1,24"
+    },
+    {
+     "Datum": "28.05.09",
+     "Dividende": "1,12"
+    },
+    {
+     "Datum": "29.05.08",
+     "Dividende": "1,02"
+    },
+    {
+     "Datum": "02.05.07",
+     "Dividende": "0,96"
+    },
+    {
+     "Datum": "03.05.06",
+     "Dividende": "0,88"
+    },
+    {
+     "Datum": "04.05.05",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "05.05.04",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "23.04.03",
+     "Dividende": "0,80"
+    }
+   ]
+  },
+  {
+   "name": "Realty Aktie [WKN: 899744 / ISIN: US7561091049]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Realty",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "0,93",
+     "EPSdiluted": "0,93",
+     "DPS": "1,72",
+     "Turnover": "3,26",
+     "equityratio": "42,41",
+     "deptratio": "57,59"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,01",
+     "EPSdiluted": "1,01",
+     "DPS": "1,74",
+     "Turnover": "3,34",
+     "equityratio": "43,16",
+     "deptratio": "56,84"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "0,79",
+     "EPSdiluted": "0,79",
+     "DPS": "1,78",
+     "Turnover": "3,58",
+     "equityratio": "33,13",
+     "deptratio": "66,87"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "0,72",
+     "EPSdiluted": "0,72",
+     "DPS": "2,18",
+     "Turnover": "4,06",
+     "equityratio": "48,12",
+     "deptratio": "51,88"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,03",
+     "EPSdiluted": "1,03",
+     "DPS": "2,19",
+     "Turnover": "4,3",
+     "equityratio": "47,38",
+     "deptratio": "52,62"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "1,09",
+     "EPSdiluted": "1,09",
+     "DPS": "2,28",
+     "Turnover": "4,37",
+     "equityratio": "51,71",
+     "deptratio": "48,29"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "1,13",
+     "EPSdiluted": "1,13",
+     "DPS": "2,4",
+     "Turnover": "4,35",
+     "equityratio": "48,44",
+     "deptratio": "51,56"
+    }
+   ]
+  },
+  {
+   "name": "Red Hat Aktie [WKN: 923989 / ISIN: US7565771026]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Red_Hat",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "0,56",
+     "EPSdiluted": "0,55",
+     "DPS": "0",
+     "Turnover": "4,63",
+     "equityratio": "58,69",
+     "deptratio": "41,31"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "0,76",
+     "EPSdiluted": "0,75",
+     "DPS": "0",
+     "Turnover": "5,77",
+     "equityratio": "56,15",
+     "deptratio": "43,85"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "0,78",
+     "EPSdiluted": "0,77",
+     "DPS": "0",
+     "Turnover": "6,79",
+     "equityratio": "54,03",
+     "deptratio": "45,97"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "0,94",
+     "EPSdiluted": "0,93",
+     "DPS": "0",
+     "Turnover": "7,99",
+     "equityratio": "49,93",
+     "deptratio": "50,07"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "0,97",
+     "EPSdiluted": "0,95",
+     "DPS": "0",
+     "Turnover": "9,46",
+     "equityratio": "33,88",
+     "deptratio": "66,12"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "1,09",
+     "EPSdiluted": "1,07",
+     "DPS": "0",
+     "Turnover": "11,03",
+     "equityratio": "32,12",
+     "deptratio": "67,88"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "1,41",
+     "EPSdiluted": "1,39",
+     "DPS": "0",
+     "Turnover": "13,18",
+     "equityratio": "27,5",
+     "deptratio": "72,5"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "10.08.17",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "11.08.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "06.08.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "07.08.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.08.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "09.08.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "11.08.11",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "12.08.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "13.08.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "14.08.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "16.08.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "17.08.06",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Regency Centers Aktie [WKN: 888499 / ISIN: US7588491032]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Regency_Centers",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "-0,19",
+     "EPSdiluted": "-0,19",
+     "DPS": "1,85",
+     "Turnover": "5,87",
+     "equityratio": "35,83",
+     "deptratio": "64,17"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "0,29",
+     "EPSdiluted": "0,29",
+     "DPS": "1,85",
+     "Turnover": "5,67",
+     "equityratio": "38,38",
+     "deptratio": "61,62"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "-0,32",
+     "EPSdiluted": "-0,32",
+     "DPS": "1,85",
+     "Turnover": "5,54",
+     "equityratio": "36,48",
+     "deptratio": "63,52"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "0,77",
+     "EPSdiluted": "0,77",
+     "DPS": "1,85",
+     "Turnover": "5,22",
+     "equityratio": "38,8",
+     "deptratio": "61,2"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,2",
+     "EPSdiluted": "1,2",
+     "DPS": "1,88",
+     "Turnover": "5,83",
+     "equityratio": "37,68",
+     "deptratio": "62,32"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "0,99",
+     "EPSdiluted": "0,98",
+     "DPS": "1,94",
+     "Turnover": "4,68",
+     "equityratio": "41,25",
+     "deptratio": "58,75"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "0,96",
+     "EPSdiluted": "0,95",
+     "DPS": "2",
+     "Turnover": "5,49",
+     "equityratio": "50,49",
+     "deptratio": "49,51"
+    }
+   ]
+  },
+  {
+   "name": "Regeneron Pharmaceuticals Aktie [WKN: 881535 / ISIN: US75886F1075]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Regeneron",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "-1,26",
+     "EPSdiluted": "-1,26",
+     "DPS": "0",
+     "Turnover": "5,54",
+     "equityratio": "48,45",
+     "deptratio": "51,55"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "-2,45",
+     "EPSdiluted": "-2,45",
+     "DPS": "0",
+     "Turnover": "4,92",
+     "equityratio": "36,7",
+     "deptratio": "63,3"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "7,92",
+     "EPSdiluted": "6,75",
+     "DPS": "0",
+     "Turnover": "11,95",
+     "equityratio": "59,86",
+     "deptratio": "40,14"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "4,33",
+     "EPSdiluted": "3,81",
+     "DPS": "0",
+     "Turnover": "18,91",
+     "equityratio": "66,15",
+     "deptratio": "33,85"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "3,46",
+     "EPSdiluted": "3,07",
+     "DPS": "0",
+     "Turnover": "24,86",
+     "equityratio": "65,66",
+     "deptratio": "34,34"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "6,17",
+     "EPSdiluted": "5,52",
+     "DPS": "0",
+     "Turnover": "35,61",
+     "equityratio": "65,16",
+     "deptratio": "34,84"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "8,55",
+     "EPSdiluted": "7,7",
+     "DPS": "0",
+     "Turnover": "41,77",
+     "equityratio": "63,8",
+     "deptratio": "36,2"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "10.06.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "12.06.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "13.06.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "14.06.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.06.12",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Regions Financial Aktie [WKN: A0B6XA / ISIN: US7591EP1005]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Regions_Financial",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "-0,62",
+     "EPSdiluted": "-0,62",
+     "DPS": "0,04",
+     "Turnover": "6,57",
+     "equityratio": "10,03",
+     "deptratio": "89,97"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "-0,34",
+     "EPSdiluted": "-0,34",
+     "DPS": "0,04",
+     "Turnover": "5,01",
+     "equityratio": "10,24",
+     "deptratio": "89,76"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "0,72",
+     "EPSdiluted": "0,71",
+     "DPS": "0,04",
+     "Turnover": "4,31",
+     "equityratio": "12,31",
+     "deptratio": "87,69"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "0,78",
+     "EPSdiluted": "0,77",
+     "DPS": "0,1",
+     "Turnover": "4,07",
+     "equityratio": "12,97",
+     "deptratio": "87,03"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "0,8",
+     "EPSdiluted": "0,8",
+     "DPS": "0,18",
+     "Turnover": "3,93",
+     "equityratio": "13,38",
+     "deptratio": "86,62"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "0,75",
+     "EPSdiluted": "0,75",
+     "DPS": "0,23",
+     "Turnover": "4,13",
+     "equityratio": "12,64",
+     "deptratio": "87,36"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "0,88",
+     "EPSdiluted": "0,87",
+     "DPS": "0,26",
+     "Turnover": "4,65",
+     "equityratio": "12,5",
+     "deptratio": "87,5"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "21.04.16",
+     "Dividende": "0,23"
+    },
+    {
+     "Datum": "23.04.15",
+     "Dividende": "0,18"
+    },
+    {
+     "Datum": "24.04.14",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "16.05.13",
+     "Dividende": "0,04"
+    },
+    {
+     "Datum": "17.05.12",
+     "Dividende": "0,04"
+    },
+    {
+     "Datum": "19.05.11",
+     "Dividende": "0,04"
+    },
+    {
+     "Datum": "13.05.10",
+     "Dividende": "0,13"
+    },
+    {
+     "Datum": "16.04.09",
+     "Dividende": "0,96"
+    },
+    {
+     "Datum": "17.04.08",
+     "Dividende": "1,46"
+    },
+    {
+     "Datum": "19.04.07",
+     "Dividende": "1,40"
+    },
+    {
+     "Datum": "18.05.06",
+     "Dividende": "1,36"
+    },
+    {
+     "Datum": "19.05.05",
+     "Dividende": "1,33"
+    },
+    {
+     "Datum": "08.06.04",
+     "Dividende": "1,24"
+    },
+    {
+     "Datum": "14.05.03",
+     "Dividende": "1,16"
+    }
+   ]
+  },
+  {
+   "name": "Republic Services Aktie [WKN: 915201 / ISIN: US7607591002]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Republic_Services",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "1,32",
+     "EPSdiluted": "1,32",
+     "DPS": "0,78",
+     "Turnover": "21,06",
+     "equityratio": "40,32",
+     "deptratio": "59,68"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,57",
+     "EPSdiluted": "1,56",
+     "DPS": "0,84",
+     "Turnover": "21,72",
+     "equityratio": "39,29",
+     "deptratio": "60,71"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,56",
+     "EPSdiluted": "1,55",
+     "DPS": "0,91",
+     "Turnover": "22,05",
+     "equityratio": "39,27",
+     "deptratio": "60,73"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,63",
+     "EPSdiluted": "1,62",
+     "DPS": "0,99",
+     "Turnover": "23,16",
+     "equityratio": "39,62",
+     "deptratio": "60,38"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,54",
+     "EPSdiluted": "1,53",
+     "DPS": "1,08",
+     "Turnover": "24,54",
+     "equityratio": "38,55",
+     "deptratio": "61,45"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "2,14",
+     "EPSdiluted": "2,13",
+     "DPS": "1,16",
+     "Turnover": "25,94",
+     "equityratio": "37,78",
+     "deptratio": "62,22"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "1,79",
+     "EPSdiluted": "1,78",
+     "DPS": "1,24",
+     "Turnover": "27,26",
+     "equityratio": "37,28",
+     "deptratio": "62,72"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "06.05.16",
+     "Dividende": "1,16"
+    },
+    {
+     "Datum": "14.05.15",
+     "Dividende": "1,08"
+    },
+    {
+     "Datum": "08.05.14",
+     "Dividende": "0,99"
+    },
+    {
+     "Datum": "09.05.13",
+     "Dividende": "0,91"
+    },
+    {
+     "Datum": "17.05.12",
+     "Dividende": "0,84"
+    },
+    {
+     "Datum": "12.05.11",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "22.05.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "17.05.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "25.05.06",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "20.05.05",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "21.05.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "21.05.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Reynolds American Aktie [WKN: A0B7KR / ISIN: US7617131062]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Reynolds_American",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "0,96",
+     "EPSdiluted": "0,95",
+     "DPS": "0,92",
+     "Turnover": "7,31",
+     "equityratio": "38,12",
+     "deptratio": "61,88"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,21",
+     "EPSdiluted": "1,2",
+     "DPS": "1,08",
+     "Turnover": "7,3",
+     "equityratio": "38,46",
+     "deptratio": "61,54"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,13",
+     "EPSdiluted": "1,12",
+     "DPS": "1,17",
+     "Turnover": "7,31",
+     "equityratio": "31,75",
+     "deptratio": "68,25"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,58",
+     "EPSdiluted": "1,57",
+     "DPS": "1,24",
+     "Turnover": "7,53",
+     "equityratio": "33,55",
+     "deptratio": "66,45"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "1,38",
+     "EPSdiluted": "1,38",
+     "DPS": "1,34",
+     "Turnover": "7,92",
+     "equityratio": "29,76",
+     "deptratio": "70,24"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "2,57",
+     "EPSdiluted": "2,57",
+     "DPS": "1,39",
+     "Turnover": "8,42",
+     "equityratio": "34,29",
+     "deptratio": "65,71"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "4,26",
+     "EPSdiluted": "4,25",
+     "DPS": "1,76",
+     "Turnover": "8,74",
+     "equityratio": "42,49",
+     "deptratio": "57,51"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "05.05.16",
+     "Dividende": "1,39"
+    },
+    {
+     "Datum": "07.05.15",
+     "Dividende": "1,34"
+    },
+    {
+     "Datum": "08.05.14",
+     "Dividende": "1,24"
+    },
+    {
+     "Datum": "09.05.13",
+     "Dividende": "1,17"
+    },
+    {
+     "Datum": "03.05.12",
+     "Dividende": "1,08"
+    },
+    {
+     "Datum": "06.05.11",
+     "Dividende": "0,92"
+    },
+    {
+     "Datum": "07.05.10",
+     "Dividende": "0,87"
+    },
+    {
+     "Datum": "06.05.09",
+     "Dividende": "0,85"
+    },
+    {
+     "Datum": "06.05.08",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "11.05.07",
+     "Dividende": "0,69"
+    },
+    {
+     "Datum": "03.05.06",
+     "Dividende": "0,53"
+    },
+    {
+     "Datum": "06.05.05",
+     "Dividende": "0,48"
+    },
+    {
+     "Datum": "30.04.04",
+     "Dividende": "0,48"
+    }
+   ]
+  },
+  {
+   "name": "Robert Half Aktie [WKN: 856701 / ISIN: US7703231032]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Robert_Half",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "0,45",
+     "EPSdiluted": "0,44",
+     "DPS": "0,52",
+     "Turnover": "22,04",
+     "equityratio": "65,49",
+     "deptratio": "34,51"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "1,05",
+     "EPSdiluted": "1,04",
+     "DPS": "0,56",
+     "Turnover": "26,64",
+     "equityratio": "61,02",
+     "deptratio": "38,98"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "1,51",
+     "EPSdiluted": "1,5",
+     "DPS": "0,6",
+     "Turnover": "29,49",
+     "equityratio": "60,96",
+     "deptratio": "39,04"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "1,85",
+     "EPSdiluted": "1,83",
+     "DPS": "0,64",
+     "Turnover": "30,86",
+     "equityratio": "61,71",
+     "deptratio": "38,29"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "2,28",
+     "EPSdiluted": "2,26",
+     "DPS": "0,72",
+     "Turnover": "34,64",
+     "equityratio": "59,48",
+     "deptratio": "40,52"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "2,72",
+     "EPSdiluted": "2,69",
+     "DPS": "0,8",
+     "Turnover": "38,33",
+     "equityratio": "58,94",
+     "deptratio": "41,06"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "2,68",
+     "EPSdiluted": "2,67",
+     "DPS": "0,88",
+     "Turnover": "40,77",
+     "equityratio": "61,11",
+     "deptratio": "38,89"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "16.05.16",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "21.05.15",
+     "Dividende": "0,72"
+    },
+    {
+     "Datum": "22.05.14",
+     "Dividende": "0,64"
+    },
+    {
+     "Datum": "23.05.13",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "24.04.12",
+     "Dividende": "0,56"
+    },
+    {
+     "Datum": "04.05.11",
+     "Dividende": "0,52"
+    },
+    {
+     "Datum": "06.05.10",
+     "Dividende": "0,48"
+    },
+    {
+     "Datum": "05.05.09",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "06.05.08",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "03.05.07",
+     "Dividende": "0,32"
+    },
+    {
+     "Datum": "02.05.06",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "03.05.05",
+     "Dividende": "0,18"
+    },
+    {
+     "Datum": "04.05.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.05.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Rockwell Automation Aktie [WKN: 903978 / ISIN: US7739031091]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Rockwell_Automation",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2010",
+     "EPSundiluted": "3,26",
+     "EPSdiluted": "3,22",
+     "DPS": "1,22",
+     "Turnover": "33,74",
+     "equityratio": "30,76",
+     "deptratio": "69,24"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "4,88",
+     "EPSdiluted": "4,8",
+     "DPS": "1,48",
+     "Turnover": "41,32",
+     "equityratio": "33,08",
+     "deptratio": "66,92"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "5,2",
+     "EPSdiluted": "5,13",
+     "DPS": "1,75",
+     "Turnover": "43,66",
+     "equityratio": "32,85",
+     "deptratio": "67,15"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "5,43",
+     "EPSdiluted": "5,36",
+     "DPS": "1,98",
+     "Turnover": "45,07",
+     "equityratio": "44,24",
+     "deptratio": "55,76"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "5,98",
+     "EPSdiluted": "5,91",
+     "DPS": "2,32",
+     "Turnover": "47,43",
+     "equityratio": "42,67",
+     "deptratio": "57,33"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "6,15",
+     "EPSdiluted": "6,09",
+     "DPS": "2,6",
+     "Turnover": "46,55",
+     "equityratio": "35,24",
+     "deptratio": "64,76"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "5,6",
+     "EPSdiluted": "5,56",
+     "DPS": "2,9",
+     "Turnover": "44,89",
+     "equityratio": "27,53",
+     "deptratio": "72,47"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "07.02.17",
+     "Dividende": "2,90"
+    },
+    {
+     "Datum": "02.02.16",
+     "Dividende": "2,60"
+    },
+    {
+     "Datum": "04.02.14",
+     "Dividende": "1,98"
+    },
+    {
+     "Datum": "05.02.13",
+     "Dividende": "1,75"
+    },
+    {
+     "Datum": "07.02.12",
+     "Dividende": "1,48"
+    },
+    {
+     "Datum": "01.02.11",
+     "Dividende": "1,22"
+    },
+    {
+     "Datum": "02.02.10",
+     "Dividende": "1,16"
+    },
+    {
+     "Datum": "04.02.09",
+     "Dividende": "1,16"
+    },
+    {
+     "Datum": "06.02.08",
+     "Dividende": "1,16"
+    },
+    {
+     "Datum": "07.02.07",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "01.02.06",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "02.02.05",
+     "Dividende": "0,66"
+    },
+    {
+     "Datum": "04.02.04",
+     "Dividende": "0,66"
+    },
+    {
+     "Datum": "05.02.03",
+     "Dividende": "0,66"
+    }
+   ]
+  }
+ ]
+}
