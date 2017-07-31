@@ -10,7 +10,7 @@ import datetime
 import csv
 
 def extractJsonData(filename, csvWriter):
-    with open('jfile' + filename + '.json', 'r') as file:
+    with open(filename + '.json', 'r') as file:
         array = json.load(file)
     
     for entry in array['Aktien']:
@@ -25,6 +25,7 @@ def extractJsonData(filename, csvWriter):
         EPSdilCounter = 0
         lastEQR = 0
         payedDividend = True
+        Currency = 'invalid'
         oldestDivDate = datetime.datetime.today().year
         newestEQRDate = datetime.datetime.today().year - 10
         for year in {'2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010'
@@ -73,6 +74,11 @@ def extractJsonData(filename, csvWriter):
                                     lastEQR = EQR
                             except ValueError:
                                 pass
+                            try: 
+                                Currency = GUV['DieAktie']
+                                Currency = Currency.split("(in ")[1].split(")")[0]
+                            except ValueError:
+                                pass
                 except KeyError:
                     print('There is a problem in GUV Data')
             except KeyError:
@@ -85,20 +91,21 @@ def extractJsonData(filename, csvWriter):
             print('Defensive Graham value is: ', AvgEPSdil*20)
             print('Dividend payed continously since at least ', oldestDivDate)
             print('Last EQR: ', lastEQR, '%')
+            print('Currency: ', Currency)
             if lastEQR <= 50:
                 print('Be carful, lastEQR only ', lastEQR, '%, is it a public utility company?')
             else:
-                csvWriter.writerow([ISIN, entry['name'], AvgDPS, AvgEPSdil, lastEQR, oldestDivDate])   
+                csvWriter.writerow([ISIN, entry['name'], Currency, AvgDPS, AvgEPSdil, lastEQR, oldestDivDate])   
         elif not payedDividend:
             print('Dividend not payed continuously')
         elif not lastEQR > 30:
             print('Latest Equity ratio only: ', lastEQR, '%')
             
-filename = 'NIKKEI225p1'
+filename = 'ATX'
 
-csvFile = open('csvfile' + filename + '.csv', 'w', newline='')
+csvFile = open(filename + '.csv', 'w', newline='')
 writer = csv.writer(csvFile, delimiter=',')
-writer.writerow(['ISIN', 'Name', 'AvgDPS', 'AvgEPSdil', 'lastEQR', 'oldestDivDate'])
+writer.writerow(['ISIN', 'Name', 'Cur', 'AvgDPS', 'AvgEPSdil', 'lastEQR', 'oldestDivDate'])
 extractJsonData(filename, writer)
 
 csvFile.close()
