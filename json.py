@@ -8,9 +8,10 @@ Created on Thu Jun 29 17:12:56 2017
 import json
 import datetime
 import csv
+import os
 
 def extractJsonData(filename, csvWriter):
-    with open(filename + '.json', 'r') as file:
+    with open(filename, 'r') as file:
         array = json.load(file)
     
     for entry in array['Aktien']:
@@ -95,18 +96,24 @@ def extractJsonData(filename, csvWriter):
             if lastEQR <= 50:
                 print('Be carful, lastEQR only ', lastEQR, '%, is it a public utility company?')
             else:
-                csvWriter.writerow([ISIN, entry['name'], Currency, AvgDPS, AvgEPSdil, lastEQR, oldestDivDate])   
+                csvWriter.writerow([ISIN, entry['name'], entry['URL'], Currency, AvgDPS, AvgEPSdil, lastEQR, oldestDivDate])   
         elif not payedDividend:
             print('Dividend not payed continuously')
         elif not lastEQR > 30:
             print('Latest Equity ratio only: ', lastEQR, '%')
             
-filename = 'ATX'
+filename = 'AllJson'
 
 csvFile = open(filename + '.csv', 'w', newline='')
 writer = csv.writer(csvFile, delimiter=',')
-writer.writerow(['ISIN', 'Name', 'Cur', 'AvgDPS', 'AvgEPSdil', 'lastEQR', 'oldestDivDate'])
-extractJsonData(filename, writer)
+writer.writerow(['ISIN', 'Name', 'URL', 'Cur', 'AvgDPS', 'AvgEPSdil', 'lastEQR', 'oldestDivDate'])
+
+path_to_json = os.path.dirname(__file__)
+json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
+print(json_files)  # for me this prints ['foo.json']
+
+for json_file in json_files:
+    extractJsonData(json_file, writer)
 
 csvFile.close()
         
