@@ -1,0 +1,836 @@
+{
+ "Aktien": [
+  {
+   "name": "XL Group Aktie [WKN DE: A2ANWT / ISIN: BMG982941046]",
+   "URL": "http://www.finanzen.at/bilanz_guv/XL_Group_2",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "XL Group Ltd: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "XL Group Ltd: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "XL Group Ltd: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,74",
+     "EPSdiluted": "1,73",
+     "DPS": "0,4",
+     "GUV": "XL Group Ltd: GuV (in Mio. USD)",
+     "Turnover": "19,58",
+     "equityratio": "23,57",
+     "deptratio": "76,43"
+    },
+    {
+     "DieAktie": "XL Group Ltd: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "-1,52",
+     "EPSdiluted": "-1,52",
+     "DPS": "0,44",
+     "GUV": "XL Group Ltd: GuV (in Mio. USD)",
+     "Turnover": "21,91",
+     "equityratio": "21,12",
+     "deptratio": "78,88"
+    },
+    {
+     "DieAktie": "XL Group Ltd: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,12",
+     "EPSdiluted": "2,1",
+     "DPS": "0,44",
+     "GUV": "XL Group Ltd: GuV (in Mio. USD)",
+     "Turnover": "23,37",
+     "equityratio": "23,16",
+     "deptratio": "76,84"
+    },
+    {
+     "DieAktie": "XL Group Ltd: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "3,68",
+     "EPSdiluted": "3,63",
+     "DPS": "0,56",
+     "GUV": "XL Group Ltd: GuV (in Mio. USD)",
+     "Turnover": "25,4",
+     "equityratio": "21,9",
+     "deptratio": "78,1"
+    },
+    {
+     "DieAktie": "XL Group Ltd: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,71",
+     "EPSdiluted": "0,69",
+     "DPS": "0,64",
+     "GUV": "XL Group Ltd: GuV (in Mio. USD)",
+     "Turnover": "25,29",
+     "equityratio": "22,27",
+     "deptratio": "77,73"
+    },
+    {
+     "DieAktie": "XL Group Ltd: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "4,22",
+     "EPSdiluted": "4,15",
+     "DPS": "0,72",
+     "GUV": "XL Group Ltd: GuV (in Mio. USD)",
+     "Turnover": "32,07",
+     "equityratio": "19,9",
+     "deptratio": "80,1"
+    },
+    {
+     "DieAktie": "XL Group Ltd: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,58",
+     "EPSdiluted": "1,56",
+     "DPS": "0,8",
+     "GUV": "XL Group Ltd: GuV (in Mio. USD)",
+     "Turnover": "37,33",
+     "equityratio": "18,72",
+     "deptratio": "81,28"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "13.05.16",
+     "Dividende": "0,72"
+    },
+    {
+     "Datum": "08.05.15",
+     "Dividende": "0,64"
+    },
+    {
+     "Datum": "25.04.14",
+     "Dividende": "0,56"
+    },
+    {
+     "Datum": "26.04.13",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "27.04.12",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "06.05.11",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "30.04.10",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "24.04.09",
+     "Dividende": "1,14"
+    },
+    {
+     "Datum": "25.04.08",
+     "Dividende": "1,52"
+    },
+    {
+     "Datum": "27.04.07",
+     "Dividende": "1,52"
+    },
+    {
+     "Datum": "28.04.06",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "29.04.05",
+     "Dividende": "1,96"
+    },
+    {
+     "Datum": "30.04.04",
+     "Dividende": "1,92"
+    },
+    {
+     "Datum": "09.05.03",
+     "Dividende": "1,88"
+    }
+   ]
+  },
+  {
+   "name": "Xylem Aktie [WKN DE: A1JMBU / ISIN: US98419M1009]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Xylem",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Xylem Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Xylem Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Xylem Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "-",
+     "GUV": "Xylem Inc.: GuV (in Mio. USD)",
+     "Turnover": "-",
+     "equityratio": "72,8",
+     "deptratio": "27,2"
+    },
+    {
+     "DieAktie": "Xylem Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,51",
+     "EPSdiluted": "1,5",
+     "DPS": "0,1",
+     "GUV": "Xylem Inc.: GuV (in Mio. USD)",
+     "Turnover": "20,52",
+     "equityratio": "41,59",
+     "deptratio": "58,41"
+    },
+    {
+     "DieAktie": "Xylem Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,6",
+     "EPSdiluted": "1,59",
+     "DPS": "0,4",
+     "GUV": "Xylem Inc.: GuV (in Mio. USD)",
+     "Turnover": "20,35",
+     "equityratio": "44,33",
+     "deptratio": "55,67"
+    },
+    {
+     "DieAktie": "Xylem Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,23",
+     "EPSdiluted": "1,23",
+     "DPS": "0,47",
+     "GUV": "Xylem Inc.: GuV (in Mio. USD)",
+     "Turnover": "20,61",
+     "equityratio": "45,77",
+     "deptratio": "54,23"
+    },
+    {
+     "DieAktie": "Xylem Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,84",
+     "EPSdiluted": "1,83",
+     "DPS": "0,51",
+     "GUV": "Xylem Inc.: GuV (in Mio. USD)",
+     "Turnover": "21,28",
+     "equityratio": "43,73",
+     "deptratio": "56,27"
+    },
+    {
+     "DieAktie": "Xylem Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,88",
+     "EPSdiluted": "1,87",
+     "DPS": "0,56",
+     "GUV": "Xylem Inc.: GuV (in Mio. USD)",
+     "Turnover": "20,21",
+     "equityratio": "44,75",
+     "deptratio": "55,25"
+    },
+    {
+     "DieAktie": "Xylem Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,45",
+     "EPSdiluted": "1,44",
+     "DPS": "0,62",
+     "GUV": "Xylem Inc.: GuV (in Mio. USD)",
+     "Turnover": "20,93",
+     "equityratio": "33,83",
+     "deptratio": "66,17"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "11.05.16",
+     "Dividende": "0,56"
+    },
+    {
+     "Datum": "12.05.15",
+     "Dividende": "0,51"
+    },
+    {
+     "Datum": "06.05.14",
+     "Dividende": "0,47"
+    },
+    {
+     "Datum": "07.05.13",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "10.05.12",
+     "Dividende": "0,10"
+    }
+   ]
+  },
+  {
+   "name": "YUM! Brands Aktie [WKN: 909190 / ISIN: US9884981013]",
+   "URL": "http://www.finanzen.at/bilanz_guv/YUM!_Brands",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "YUM! Brands Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "YUM! Brands Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "YUM! Brands Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "2,44",
+     "EPSdiluted": "2,38",
+     "DPS": "0,92",
+     "GUV": "YUM! Brands Inc.: GuV (in Mio. USD)",
+     "Turnover": "23,34",
+     "equityratio": "18,95",
+     "deptratio": "81,05"
+    },
+    {
+     "DieAktie": "YUM! Brands Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,81",
+     "EPSdiluted": "2,74",
+     "DPS": "1,07",
+     "GUV": "YUM! Brands Inc.: GuV (in Mio. USD)",
+     "Turnover": "26,25",
+     "equityratio": "20,64",
+     "deptratio": "79,36"
+    },
+    {
+     "DieAktie": "YUM! Brands Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "3,46",
+     "EPSdiluted": "3,38",
+     "DPS": "1,24",
+     "GUV": "YUM! Brands Inc.: GuV (in Mio. USD)",
+     "Turnover": "28,82",
+     "equityratio": "23,9",
+     "deptratio": "76,1"
+    },
+    {
+     "DieAktie": "YUM! Brands Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,41",
+     "EPSdiluted": "2,36",
+     "DPS": "1,41",
+     "GUV": "YUM! Brands Inc.: GuV (in Mio. USD)",
+     "Turnover": "28,38",
+     "equityratio": "24,91",
+     "deptratio": "75,09"
+    },
+    {
+     "DieAktie": "YUM! Brands Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,37",
+     "EPSdiluted": "2,32",
+     "DPS": "1,56",
+     "GUV": "YUM! Brands Inc.: GuV (in Mio. USD)",
+     "Turnover": "29,31",
+     "equityratio": "18,54",
+     "deptratio": "81,46"
+    },
+    {
+     "DieAktie": "YUM! Brands Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,97",
+     "EPSdiluted": "2,92",
+     "DPS": "1,74",
+     "GUV": "YUM! Brands Inc.: GuV (in Mio. USD)",
+     "Turnover": "29,58",
+     "equityratio": "11,28",
+     "deptratio": "88,72"
+    },
+    {
+     "DieAktie": "YUM! Brands Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "4,11",
+     "EPSdiluted": "4,05",
+     "DPS": "1,73",
+     "GUV": "YUM! Brands Inc.: GuV (in Mio. USD)",
+     "Turnover": "15,92",
+     "equityratio": "-103,25",
+     "deptratio": "203,25"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "20.05.16",
+     "Dividende": "1,74"
+    },
+    {
+     "Datum": "01.05.15",
+     "Dividende": "1,56"
+    },
+    {
+     "Datum": "01.05.14",
+     "Dividende": "1,41"
+    },
+    {
+     "Datum": "15.05.13",
+     "Dividende": "1,24"
+    },
+    {
+     "Datum": "17.05.12",
+     "Dividende": "1,07"
+    },
+    {
+     "Datum": "19.05.11",
+     "Dividende": "0,92"
+    },
+    {
+     "Datum": "20.05.10",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "21.05.09",
+     "Dividende": "0,72"
+    },
+    {
+     "Datum": "15.05.08",
+     "Dividende": "0,45"
+    },
+    {
+     "Datum": "17.05.07",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "19.05.06",
+     "Dividende": "0,23"
+    },
+    {
+     "Datum": "19.05.05",
+     "Dividende": "0,15"
+    },
+    {
+     "Datum": "20.05.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "15.05.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Zimmer Biomet Aktie [WKN: 753718 / ISIN: US98956P1021]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Zimmer",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Zimmer Biomet: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Zimmer Biomet: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Zimmer Biomet: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "2,98",
+     "EPSdiluted": "2,97",
+     "DPS": "0",
+     "GUV": "Zimmer Biomet: GuV (in Mio. USD)",
+     "Turnover": "20,99",
+     "equityratio": "72,14",
+     "deptratio": "27,86"
+    },
+    {
+     "DieAktie": "Zimmer Biomet: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "4,05",
+     "EPSdiluted": "4,03",
+     "DPS": "0,18",
+     "GUV": "Zimmer Biomet: GuV (in Mio. USD)",
+     "Turnover": "23,59",
+     "equityratio": "64,67",
+     "deptratio": "35,33"
+    },
+    {
+     "DieAktie": "Zimmer Biomet: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "4,32",
+     "EPSdiluted": "4,29",
+     "DPS": "0,54",
+     "GUV": "Zimmer Biomet: GuV (in Mio. USD)",
+     "Turnover": "25,41",
+     "equityratio": "65,03",
+     "deptratio": "34,97"
+    },
+    {
+     "DieAktie": "Zimmer Biomet: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "4,49",
+     "EPSdiluted": "4,43",
+     "DPS": "0,8",
+     "GUV": "Zimmer Biomet: GuV (in Mio. USD)",
+     "Turnover": "26,91",
+     "equityratio": "65,73",
+     "deptratio": "34,27"
+    },
+    {
+     "DieAktie": "Zimmer Biomet: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "4,26",
+     "EPSdiluted": "4,19",
+     "DPS": "0,88",
+     "GUV": "Zimmer Biomet: GuV (in Mio. USD)",
+     "Turnover": "27,22",
+     "equityratio": "67,68",
+     "deptratio": "32,32"
+    },
+    {
+     "DieAktie": "Zimmer Biomet: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,78",
+     "EPSdiluted": "0,77",
+     "DPS": "0,88",
+     "GUV": "Zimmer Biomet: GuV (in Mio. USD)",
+     "Turnover": "31,6",
+     "equityratio": "36,33",
+     "deptratio": "63,67"
+    },
+    {
+     "DieAktie": "Zimmer Biomet: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,53",
+     "EPSdiluted": "1,51",
+     "DPS": "0,96",
+     "GUV": "Zimmer Biomet: GuV (in Mio. USD)",
+     "Turnover": "37,96",
+     "equityratio": "36,23",
+     "deptratio": "63,77"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "03.05.16",
+     "Dividende": "0,88"
+    },
+    {
+     "Datum": "05.05.15",
+     "Dividende": "0,88"
+    },
+    {
+     "Datum": "06.05.14",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "07.05.13",
+     "Dividende": "0,54"
+    },
+    {
+     "Datum": "08.05.12",
+     "Dividende": "0,18"
+    },
+    {
+     "Datum": "02.05.11",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "03.05.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "04.05.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "05.05.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "07.05.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "01.05.06",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "02.05.05",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "10.05.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "13.05.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Zions Bancorporation Aktie [WKN: 856942 / ISIN: US9897011071]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Zions_Bancorporation",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Zions Bancorporation: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Zions Bancorporation: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Zions Bancorporation: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "-2,48",
+     "EPSdiluted": "-2,48",
+     "DPS": "0,04",
+     "GUV": "Zions Bancorporation: GuV (in Mio. USD)",
+     "Turnover": "17,06",
+     "equityratio": "8,91",
+     "deptratio": "91,09"
+    },
+    {
+     "DieAktie": "Zions Bancorporation: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,83",
+     "EPSdiluted": "0,83",
+     "DPS": "0,04",
+     "GUV": "Zions Bancorporation: GuV (in Mio. USD)",
+     "Turnover": "15,04",
+     "equityratio": "8,6",
+     "deptratio": "91,4"
+    },
+    {
+     "DieAktie": "Zions Bancorporation: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,97",
+     "EPSdiluted": "0,97",
+     "DPS": "0,04",
+     "GUV": "Zions Bancorporation: GuV (in Mio. USD)",
+     "Turnover": "14,19",
+     "equityratio": "8,8",
+     "deptratio": "91,2"
+    },
+    {
+     "DieAktie": "Zions Bancorporation: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,58",
+     "EPSdiluted": "1,58",
+     "DPS": "0,13",
+     "GUV": "Zions Bancorporation: GuV (in Mio. USD)",
+     "Turnover": "13,44",
+     "equityratio": "9,69",
+     "deptratio": "90,31"
+    },
+    {
+     "DieAktie": "Zions Bancorporation: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,68",
+     "EPSdiluted": "1,68",
+     "DPS": "0,16",
+     "GUV": "Zions Bancorporation: GuV (in Mio. USD)",
+     "Turnover": "12,31",
+     "equityratio": "11,08",
+     "deptratio": "88,92"
+    },
+    {
+     "DieAktie": "Zions Bancorporation: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,2",
+     "EPSdiluted": "1,2",
+     "DPS": "0,22",
+     "GUV": "Zions Bancorporation: GuV (in Mio. USD)",
+     "Turnover": "10,79",
+     "equityratio": "11,15",
+     "deptratio": "88,85"
+    },
+    {
+     "DieAktie": "Zions Bancorporation: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "2",
+     "EPSdiluted": "1,99",
+     "DPS": "0,28",
+     "GUV": "Zions Bancorporation: GuV (in Mio. USD)",
+     "Turnover": "11,95",
+     "equityratio": "10,91",
+     "deptratio": "89,09"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "27.05.16",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "22.05.15",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "30.05.14",
+     "Dividende": "0,13"
+    },
+    {
+     "Datum": "24.05.13",
+     "Dividende": "0,04"
+    },
+    {
+     "Datum": "25.05.12",
+     "Dividende": "0,04"
+    },
+    {
+     "Datum": "27.05.11",
+     "Dividende": "0,04"
+    },
+    {
+     "Datum": "28.05.10",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "02.06.09",
+     "Dividende": "1,61"
+    },
+    {
+     "Datum": "24.04.08",
+     "Dividende": "1,68"
+    },
+    {
+     "Datum": "04.05.07",
+     "Dividende": "1,47"
+    },
+    {
+     "Datum": "01.05.06",
+     "Dividende": "1,44"
+    },
+    {
+     "Datum": "06.05.05",
+     "Dividende": "1,26"
+    },
+    {
+     "Datum": "30.04.04",
+     "Dividende": "1,02"
+    },
+    {
+     "Datum": "25.04.03",
+     "Dividende": "0,80"
+    }
+   ]
+  },
+  {
+   "name": "Zoeti a Aktie [WKN DE: A1KBYX / ISIN: US98978V1035]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Zoetis",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Zoetis Inc (A): Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Zoetis Inc (A): GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Zoetis Inc (A): Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,22",
+     "DPS": "-",
+     "GUV": "Zoetis Inc (A): GuV (in Mio. USD)",
+     "Turnover": "7,16",
+     "equityratio": "63,29",
+     "deptratio": "36,71"
+    },
+    {
+     "DieAktie": "Zoetis Inc (A): Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "-",
+     "GUV": "Zoetis Inc (A): GuV (in Mio. USD)",
+     "Turnover": "-",
+     "equityratio": "65,14",
+     "deptratio": "34,86"
+    },
+    {
+     "DieAktie": "Zoetis Inc (A): Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,87",
+     "EPSdiluted": "0,87",
+     "DPS": "-",
+     "GUV": "Zoetis Inc (A): GuV (in Mio. USD)",
+     "Turnover": "8,67",
+     "equityratio": "64,29",
+     "deptratio": "35,71"
+    },
+    {
+     "DieAktie": "Zoetis Inc (A): Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,01",
+     "EPSdiluted": "1,01",
+     "DPS": "0,27",
+     "GUV": "Zoetis Inc (A): GuV (in Mio. USD)",
+     "Turnover": "9,12",
+     "equityratio": "14,33",
+     "deptratio": "85,67"
+    },
+    {
+     "DieAktie": "Zoetis Inc (A): Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,16",
+     "EPSdiluted": "1,16",
+     "DPS": "0,3",
+     "GUV": "Zoetis Inc (A): GuV (in Mio. USD)",
+     "Turnover": "9,53",
+     "equityratio": "19,84",
+     "deptratio": "80,16"
+    },
+    {
+     "DieAktie": "Zoetis Inc (A): Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,68",
+     "EPSdiluted": "0,68",
+     "DPS": "0,34",
+     "GUV": "Zoetis Inc (A): GuV (in Mio. USD)",
+     "Turnover": "9,49",
+     "equityratio": "13,5",
+     "deptratio": "86,5"
+    },
+    {
+     "DieAktie": "Zoetis Inc (A): Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,66",
+     "EPSdiluted": "1,65",
+     "DPS": "0,39",
+     "GUV": "Zoetis Inc (A): GuV (in Mio. USD)",
+     "Turnover": "9,81",
+     "equityratio": "19,44",
+     "deptratio": "80,56"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "12.05.16",
+     "Dividende": "0,34"
+    },
+    {
+     "Datum": "01.05.15",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "13.05.14",
+     "Dividende": "0,27"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4848 @@
+{
+ "Aktien": [
+  {
+   "name": "Hino Motors Aktie [WKN: 853852 / ISIN: JP3792600003]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Hino_Motors",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Hino Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Hino Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Hino Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "-17,61",
+     "EPSdiluted": "-17,61",
+     "DPS": "5",
+     "GUV": "Hino Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2178,87",
+     "equityratio": "26,61",
+     "deptratio": "73,39"
+    },
+    {
+     "DieAktie": "Hino Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "28,6",
+     "EPSdiluted": "28,59",
+     "DPS": "8",
+     "GUV": "Hino Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2304,93",
+     "equityratio": "24,79",
+     "deptratio": "75,21"
+    },
+    {
+     "DieAktie": "Hino Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "83,55",
+     "EPSdiluted": "83,42",
+     "DPS": "23",
+     "GUV": "Hino Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2696,29",
+     "equityratio": "29,34",
+     "deptratio": "70,66"
+    },
+    {
+     "DieAktie": "Hino Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "155,79",
+     "EPSdiluted": "155,43",
+     "DPS": "38",
+     "GUV": "Hino Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2963,88",
+     "equityratio": "33,71",
+     "deptratio": "66,29"
+    },
+    {
+     "DieAktie": "Hino Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "130,06",
+     "EPSdiluted": "129,87",
+     "DPS": "40",
+     "GUV": "Hino Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2937,77",
+     "equityratio": "37,26",
+     "deptratio": "62,74"
+    },
+    {
+     "DieAktie": "Hino Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "113,62",
+     "EPSdiluted": "113,51",
+     "DPS": "38",
+     "GUV": "Hino Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "3042,2",
+     "equityratio": "38,35",
+     "deptratio": "61,65"
+    },
+    {
+     "DieAktie": "Hino Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "86,15",
+     "EPSdiluted": "86,11",
+     "DPS": "26",
+     "GUV": "Hino Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2934,33",
+     "equityratio": "39,03",
+     "deptratio": "60,97"
+    }
+   ]
+  },
+  {
+   "name": "Hitachi Construction Machinery Aktie [WKN: 869254 / ISIN: JP3787000003]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Hitachi_Construction_Machinery",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Hitachi Construction Machinery Co LtdShs: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Hitachi Construction Machinery Co LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Hitachi Construction Machinery Co LtdShs: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "52,44",
+     "EPSdiluted": "52,41",
+     "DPS": "20",
+     "GUV": "Hitachi Construction Machinery Co LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "3657,59",
+     "equityratio": "32,49",
+     "deptratio": "67,51"
+    },
+    {
+     "DieAktie": "Hitachi Construction Machinery Co LtdShs: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "108,88",
+     "EPSdiluted": "108,86",
+     "DPS": "30",
+     "GUV": "Hitachi Construction Machinery Co LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "3861,54",
+     "equityratio": "29,77",
+     "deptratio": "70,23"
+    },
+    {
+     "DieAktie": "Hitachi Construction Machinery Co LtdShs: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "110,77",
+     "EPSdiluted": "110,75",
+     "DPS": "40",
+     "GUV": "Hitachi Construction Machinery Co LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "3645,58",
+     "equityratio": "32,91",
+     "deptratio": "67,09"
+    },
+    {
+     "DieAktie": "Hitachi Construction Machinery Co LtdShs: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "136,24",
+     "EPSdiluted": "136,2",
+     "DPS": "50",
+     "GUV": "Hitachi Construction Machinery Co LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "3779,2",
+     "equityratio": "35,79",
+     "deptratio": "64,21"
+    },
+    {
+     "DieAktie": "Hitachi Construction Machinery Co LtdShs: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "122,44",
+     "EPSdiluted": "122,42",
+     "DPS": "60",
+     "GUV": "Hitachi Construction Machinery Co LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "3837,66",
+     "equityratio": "40,32",
+     "deptratio": "59,68"
+    },
+    {
+     "DieAktie": "Hitachi Construction Machinery Co LtdShs: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "41,41",
+     "EPSdiluted": "41,41",
+     "DPS": "40",
+     "GUV": "Hitachi Construction Machinery Co LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "3566,6",
+     "equityratio": "42,48",
+     "deptratio": "57,52"
+    },
+    {
+     "DieAktie": "Hitachi Construction Machinery Co LtdShs: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "37,72",
+     "EPSdiluted": "37,72",
+     "DPS": "12",
+     "GUV": "Hitachi Construction Machinery Co LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "3545,28",
+     "equityratio": "39,76",
+     "deptratio": "60,24"
+    }
+   ]
+  },
+  {
+   "name": "Hitachi Aktie [WKN: 853219 / ISIN: JP3788600009]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Hitachi",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Hitachi Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Hitachi Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Hitachi Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "52,89",
+     "EPSdiluted": "49,38",
+     "DPS": "6",
+     "GUV": "Hitachi Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1928,27",
+     "equityratio": "15,68",
+     "deptratio": "84,32"
+    },
+    {
+     "DieAktie": "Hitachi Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "76,81",
+     "EPSdiluted": "71,86",
+     "DPS": "8",
+     "GUV": "Hitachi Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2000,85",
+     "equityratio": "18,81",
+     "deptratio": "81,19"
+    },
+    {
+     "DieAktie": "Hitachi Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "37,28",
+     "EPSdiluted": "36,29",
+     "DPS": "10",
+     "GUV": "Hitachi Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1871,57",
+     "equityratio": "21,23",
+     "deptratio": "78,77"
+    },
+    {
+     "DieAktie": "Hitachi Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "54,86",
+     "EPSdiluted": "54,85",
+     "DPS": "10,5",
+     "GUV": "Hitachi Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1991,03",
+     "equityratio": "24,07",
+     "deptratio": "75,93"
+    },
+    {
+     "DieAktie": "Hitachi Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "45,04",
+     "EPSdiluted": "45",
+     "DPS": "12",
+     "GUV": "Hitachi Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2024,29",
+     "equityratio": "23,66",
+     "deptratio": "76,34"
+    },
+    {
+     "DieAktie": "Hitachi Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "35,65",
+     "EPSdiluted": "35,62",
+     "DPS": "12",
+     "GUV": "Hitachi Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2078,2",
+     "equityratio": "21,79",
+     "deptratio": "78,21"
+    },
+    {
+     "DieAktie": "Hitachi Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "47,9",
+     "EPSdiluted": "47,88",
+     "DPS": "13",
+     "GUV": "Hitachi Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1897,08",
+     "equityratio": "30,7",
+     "deptratio": "69,3"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "22.06.16",
+     "Dividende": "12,00"
+    },
+    {
+     "Datum": "25.06.15",
+     "Dividende": "12,00"
+    },
+    {
+     "Datum": "21.06.13",
+     "Dividende": "10,00"
+    }
+   ]
+  },
+  {
+   "name": "Hitachi Zosen Aktie [WKN: 858468 / ISIN: JP3789000001]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Hitachi_Zosen",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Hitachi Zosen Corp.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Hitachi Zosen Corp.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Hitachi Zosen Corp.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "60,95",
+     "EPSdiluted": "53,7",
+     "DPS": "10",
+     "GUV": "Hitachi Zosen Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1586,07",
+     "equityratio": "22,91",
+     "deptratio": "77,09"
+    },
+    {
+     "DieAktie": "Hitachi Zosen Corp.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "58,7",
+     "EPSdiluted": "53,35",
+     "DPS": "10",
+     "GUV": "Hitachi Zosen Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1718,92",
+     "equityratio": "25,36",
+     "deptratio": "74,64"
+    },
+    {
+     "DieAktie": "Hitachi Zosen Corp.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "46,8",
+     "EPSdiluted": "44,8",
+     "DPS": "10",
+     "GUV": "Hitachi Zosen Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1782,07",
+     "equityratio": "26,86",
+     "deptratio": "73,14"
+    },
+    {
+     "DieAktie": "Hitachi Zosen Corp.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "23,77",
+     "EPSdiluted": "23,77",
+     "DPS": "10",
+     "GUV": "Hitachi Zosen Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2130,28",
+     "equityratio": "26,44",
+     "deptratio": "73,56"
+    },
+    {
+     "DieAktie": "Hitachi Zosen Corp.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "30,52",
+     "EPSdiluted": "30,52",
+     "DPS": "10",
+     "GUV": "Hitachi Zosen Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2150,58",
+     "equityratio": "26,61",
+     "deptratio": "73,39"
+    },
+    {
+     "DieAktie": "Hitachi Zosen Corp.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "34,96",
+     "EPSdiluted": "34,96",
+     "DPS": "12",
+     "GUV": "Hitachi Zosen Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2313,9",
+     "equityratio": "28,42",
+     "deptratio": "71,58"
+    },
+    {
+     "DieAktie": "Hitachi Zosen Corp.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "34,79",
+     "EPSdiluted": "34,79",
+     "DPS": "12",
+     "GUV": "Hitachi Zosen Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2369,09",
+     "equityratio": "29,4",
+     "deptratio": "70,6"
+    }
+   ]
+  },
+  {
+   "name": "Hokuetsu Paper Mills Aktie [WKN: 875974 / ISIN: JP3841800000]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Hokuetsu_Paper_Mills",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Hokuetsu Paper Mills Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Hokuetsu Paper Mills Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Hokuetsu Paper Mills Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "26,21",
+     "EPSdiluted": "26,21",
+     "DPS": "12",
+     "GUV": "Hokuetsu Paper Mills Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1047,04",
+     "equityratio": "43,18",
+     "deptratio": "56,82"
+    },
+    {
+     "DieAktie": "Hokuetsu Paper Mills Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "62,7",
+     "EPSdiluted": "62,68",
+     "DPS": "12",
+     "GUV": "Hokuetsu Paper Mills Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1129,35",
+     "equityratio": "45,29",
+     "deptratio": "54,71"
+    },
+    {
+     "DieAktie": "Hokuetsu Paper Mills Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "41,11",
+     "EPSdiluted": "41,07",
+     "DPS": "12",
+     "GUV": "Hokuetsu Paper Mills Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1020,77",
+     "equityratio": "46,33",
+     "deptratio": "53,67"
+    },
+    {
+     "DieAktie": "Hokuetsu Paper Mills Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "31,23",
+     "EPSdiluted": "31,18",
+     "DPS": "12",
+     "GUV": "Hokuetsu Paper Mills Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1118,18",
+     "equityratio": "45,51",
+     "deptratio": "54,49"
+    },
+    {
+     "DieAktie": "Hokuetsu Paper Mills Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "44,39",
+     "EPSdiluted": "44,31",
+     "DPS": "12",
+     "GUV": "Hokuetsu Paper Mills Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1210,78",
+     "equityratio": "47,69",
+     "deptratio": "52,31"
+    },
+    {
+     "DieAktie": "Hokuetsu Paper Mills Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "39,69",
+     "EPSdiluted": "38,57",
+     "DPS": "12",
+     "GUV": "Hokuetsu Paper Mills Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1308,07",
+     "equityratio": "46,39",
+     "deptratio": "53,61"
+    },
+    {
+     "DieAktie": "Hokuetsu Paper Mills Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "55,08",
+     "EPSdiluted": "52,99",
+     "DPS": "12",
+     "GUV": "Hokuetsu Paper Mills Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1389,3",
+     "equityratio": "49,82",
+     "deptratio": "50,18"
+    }
+   ]
+  },
+  {
+   "name": "Honda Motor Aktie [WKN: 853226 / ISIN: JP3854600008]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Honda",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Honda Motor Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Honda Motor Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Honda Motor Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "295,67",
+     "EPSdiluted": "295,67",
+     "DPS": "54",
+     "GUV": "Honda Motor Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "4947,44",
+     "equityratio": "38,46",
+     "deptratio": "61,54"
+    },
+    {
+     "DieAktie": "Honda Motor Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "117,34",
+     "EPSdiluted": "117,34",
+     "DPS": "60",
+     "GUV": "Honda Motor Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "4409,97",
+     "equityratio": "37,37",
+     "deptratio": "62,63"
+    },
+    {
+     "DieAktie": "Honda Motor Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "203,71",
+     "EPSdiluted": "203,71",
+     "DPS": "76",
+     "GUV": "Honda Motor Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "5480,75",
+     "equityratio": "36,94",
+     "deptratio": "63,06"
+    },
+    {
+     "DieAktie": "Honda Motor Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "318,54",
+     "EPSdiluted": "318,54",
+     "DPS": "82",
+     "GUV": "Honda Motor Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "6570,76",
+     "equityratio": "37,89",
+     "deptratio": "62,11"
+    },
+    {
+     "DieAktie": "Honda Motor Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "282,66",
+     "EPSdiluted": "282,66",
+     "DPS": "88",
+     "GUV": "Honda Motor Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "7395,09",
+     "equityratio": "38,58",
+     "deptratio": "61,42"
+    },
+    {
+     "DieAktie": "Honda Motor Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "191,16",
+     "EPSdiluted": "191,16",
+     "DPS": "88",
+     "GUV": "Honda Motor Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "8101,47",
+     "equityratio": "37,09",
+     "deptratio": "62,91"
+    },
+    {
+     "DieAktie": "Honda Motor Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "342,1",
+     "EPSdiluted": "342,1",
+     "DPS": "92",
+     "GUV": "Honda Motor Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "7767,49",
+     "equityratio": "38,48",
+     "deptratio": "61,52"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "16.06.16",
+     "Dividende": "66,00"
+    },
+    {
+     "Datum": "17.06.15",
+     "Dividende": "88,00"
+    },
+    {
+     "Datum": "17.06.14",
+     "Dividende": "82,00"
+    },
+    {
+     "Datum": "13.06.14",
+     "Dividende": "82,00"
+    },
+    {
+     "Datum": "19.06.13",
+     "Dividende": "76,00"
+    },
+    {
+     "Datum": "21.06.12",
+     "Dividende": "60,00"
+    },
+    {
+     "Datum": "23.06.11",
+     "Dividende": "51,00"
+    }
+   ]
+  },
+  {
+   "name": "IHI Aktie [WKN: 854347 / ISIN: JP3134800006]",
+   "URL": "http://www.finanzen.at/bilanz_guv/IHI_1",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "IHI Corp: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "IHI Corp: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "IHI Corp: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "20,29",
+     "EPSdiluted": "20,28",
+     "DPS": "3",
+     "GUV": "IHI Corp: GuV (in Mio. JPY)",
+     "Turnover": "809,01",
+     "equityratio": "17,52",
+     "deptratio": "82,48"
+    },
+    {
+     "DieAktie": "IHI Corp: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "16,26",
+     "EPSdiluted": "15,37",
+     "DPS": "4",
+     "GUV": "IHI Corp: GuV (in Mio. JPY)",
+     "Turnover": "790,49",
+     "equityratio": "18,73",
+     "deptratio": "81,27"
+    },
+    {
+     "DieAktie": "IHI Corp: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "22,81",
+     "EPSdiluted": "21,58",
+     "DPS": "5",
+     "GUV": "IHI Corp: GuV (in Mio. JPY)",
+     "Turnover": "813,52",
+     "equityratio": "21,18",
+     "deptratio": "78,82"
+    },
+    {
+     "DieAktie": "IHI Corp: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "22,51",
+     "EPSdiluted": "21,31",
+     "DPS": "6",
+     "GUV": "IHI Corp: GuV (in Mio. JPY)",
+     "Turnover": "843,87",
+     "equityratio": "23,11",
+     "deptratio": "76,89"
+    },
+    {
+     "DieAktie": "IHI Corp: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "5,88",
+     "EPSdiluted": "5,88",
+     "DPS": "6",
+     "GUV": "IHI Corp: GuV (in Mio. JPY)",
+     "Turnover": "942,02",
+     "equityratio": "20,49",
+     "deptratio": "79,51"
+    },
+    {
+     "DieAktie": "IHI Corp: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,99",
+     "EPSdiluted": "0,99",
+     "DPS": "3",
+     "GUV": "IHI Corp: GuV (in Mio. JPY)",
+     "Turnover": "996,27",
+     "equityratio": "18,6",
+     "deptratio": "81,4"
+    },
+    {
+     "DieAktie": "IHI Corp: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "3,4",
+     "EPSdiluted": "3,4",
+     "DPS": "0",
+     "GUV": "IHI Corp: GuV (in Mio. JPY)",
+     "Turnover": "961,97",
+     "equityratio": "18,84",
+     "deptratio": "81,16"
+    }
+   ]
+  },
+  {
+   "name": "Inpex Aktie [WKN DE: A0JD4G / ISIN: JP3294460005]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Inpex",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Inpex Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Inpex Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Inpex Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "15",
+     "GUV": "Inpex Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "-",
+     "equityratio": "74,5",
+     "deptratio": "25,5"
+    },
+    {
+     "DieAktie": "Inpex Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "17,5",
+     "GUV": "Inpex Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "-",
+     "equityratio": "71,07",
+     "deptratio": "28,93"
+    },
+    {
+     "DieAktie": "Inpex Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "17,5",
+     "GUV": "Inpex Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "-",
+     "equityratio": "68,62",
+     "deptratio": "31,38"
+    },
+    {
+     "DieAktie": "Inpex Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "18",
+     "GUV": "Inpex Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "-",
+     "equityratio": "69,12",
+     "deptratio": "30,88"
+    },
+    {
+     "DieAktie": "Inpex Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "18",
+     "GUV": "Inpex Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "-",
+     "equityratio": "68,16",
+     "deptratio": "31,84"
+    },
+    {
+     "DieAktie": "Inpex Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "11,49",
+     "EPSdiluted": "11,49",
+     "DPS": "18",
+     "GUV": "Inpex Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "691,31",
+     "equityratio": "67,12",
+     "deptratio": "32,88"
+    },
+    {
+     "DieAktie": "Inpex Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "31,61",
+     "EPSdiluted": "31,61",
+     "DPS": "18",
+     "GUV": "Inpex Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "598,77",
+     "equityratio": "68,25",
+     "deptratio": "31,75"
+    }
+   ]
+  },
+  {
+   "name": "Isetan Mitsukoshi Aktie [WKN DE: A0NFRG / ISIN: JP3894900004]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Isetan_Mitsukoshi",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Isetan Mitsukoshi Holdings Ltd: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Isetan Mitsukoshi Holdings Ltd: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Isetan Mitsukoshi Holdings Ltd: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "6,69",
+     "EPSdiluted": "6,69",
+     "DPS": "7",
+     "GUV": "Isetan Mitsukoshi Holdings Ltd: GuV (in Mio. JPY)",
+     "Turnover": "3094",
+     "equityratio": "32,93",
+     "deptratio": "67,07"
+    },
+    {
+     "DieAktie": "Isetan Mitsukoshi Holdings Ltd: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "149,28",
+     "EPSdiluted": "149,03",
+     "DPS": "10",
+     "GUV": "Isetan Mitsukoshi Holdings Ltd: GuV (in Mio. JPY)",
+     "Turnover": "3137,8",
+     "equityratio": "37,28",
+     "deptratio": "62,72"
+    },
+    {
+     "DieAktie": "Isetan Mitsukoshi Holdings Ltd: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "64,11",
+     "EPSdiluted": "63,95",
+     "DPS": "10",
+     "GUV": "Isetan Mitsukoshi Holdings Ltd: GuV (in Mio. JPY)",
+     "Turnover": "3125,98",
+     "equityratio": "40,24",
+     "deptratio": "59,76"
+    },
+    {
+     "DieAktie": "Isetan Mitsukoshi Holdings Ltd: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "53,65",
+     "EPSdiluted": "53,47",
+     "DPS": "11",
+     "GUV": "Isetan Mitsukoshi Holdings Ltd: GuV (in Mio. JPY)",
+     "Turnover": "3338,61",
+     "equityratio": "40,95",
+     "deptratio": "59,05"
+    },
+    {
+     "DieAktie": "Isetan Mitsukoshi Holdings Ltd: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "75,74",
+     "EPSdiluted": "75,47",
+     "DPS": "11",
+     "GUV": "Isetan Mitsukoshi Holdings Ltd: GuV (in Mio. JPY)",
+     "Turnover": "3212,47",
+     "equityratio": "43,51",
+     "deptratio": "56,49"
+    },
+    {
+     "DieAktie": "Isetan Mitsukoshi Holdings Ltd: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "67,41",
+     "EPSdiluted": "67,15",
+     "DPS": "12",
+     "GUV": "Isetan Mitsukoshi Holdings Ltd: GuV (in Mio. JPY)",
+     "Turnover": "3261,33",
+     "equityratio": "43,69",
+     "deptratio": "56,31"
+    },
+    {
+     "DieAktie": "Isetan Mitsukoshi Holdings Ltd: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "38,27",
+     "EPSdiluted": "38,11",
+     "DPS": "12",
+     "GUV": "Isetan Mitsukoshi Holdings Ltd: GuV (in Mio. JPY)",
+     "Turnover": "3190,03",
+     "equityratio": "43,58",
+     "deptratio": "56,42"
+    }
+   ]
+  },
+  {
+   "name": "Isuzu Motors Aktie [WKN: 858329 / ISIN: JP3137200006]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Isuzu_Motors",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Isuzu Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Isuzu Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Isuzu Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "60,9",
+     "EPSdiluted": "60,9",
+     "DPS": "8",
+     "GUV": "Isuzu Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1670,8",
+     "equityratio": "29,49",
+     "deptratio": "70,51"
+    },
+    {
+     "DieAktie": "Isuzu Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "107,72",
+     "EPSdiluted": "107,72",
+     "DPS": "12",
+     "GUV": "Isuzu Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1652,62",
+     "equityratio": "34,24",
+     "deptratio": "65,76"
+    },
+    {
+     "DieAktie": "Isuzu Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "113,96",
+     "EPSdiluted": "113,96",
+     "DPS": "20",
+     "GUV": "Isuzu Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1954,3",
+     "equityratio": "39,45",
+     "deptratio": "60,55"
+    },
+    {
+     "DieAktie": "Isuzu Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "140,86",
+     "EPSdiluted": "140,86",
+     "DPS": "24",
+     "GUV": "Isuzu Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2078,71",
+     "equityratio": "41,62",
+     "deptratio": "58,38"
+    },
+    {
+     "DieAktie": "Isuzu Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "139,34",
+     "EPSdiluted": "139,34",
+     "DPS": "30",
+     "GUV": "Isuzu Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2237,21",
+     "equityratio": "41,87",
+     "deptratio": "58,13"
+    },
+    {
+     "DieAktie": "Isuzu Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "138,42",
+     "EPSdiluted": "138,42",
+     "DPS": "32",
+     "GUV": "Isuzu Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2326,03",
+     "equityratio": "41,53",
+     "deptratio": "58,47"
+    },
+    {
+     "DieAktie": "Isuzu Motors Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "119,13",
+     "EPSdiluted": "119,13",
+     "DPS": "32",
+     "GUV": "Isuzu Motors Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2479,14",
+     "equityratio": "43,51",
+     "deptratio": "56,49"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "29.06.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "26.06.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.06.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.06.13",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "28.06.12",
+     "Dividende": "0,08"
+    },
+    {
+     "Datum": "29.06.11",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "29.06.10",
+     "Dividende": "0,04"
+    }
+   ]
+  },
+  {
+   "name": "Itochu Aktie [WKN: 855471 / ISIN: JP3143600009]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Itochu",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Itochu Corp.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Itochu Corp.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Itochu Corp.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "101,84",
+     "EPSdiluted": "101,69",
+     "DPS": "18",
+     "GUV": "Itochu Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2309,05",
+     "equityratio": "20,35",
+     "deptratio": "79,65"
+    },
+    {
+     "DieAktie": "Itochu Corp.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "190,13",
+     "EPSdiluted": "190,13",
+     "DPS": "44",
+     "GUV": "Itochu Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2704,47",
+     "equityratio": "20,96",
+     "deptratio": "79,04"
+    },
+    {
+     "DieAktie": "Itochu Corp.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "177,35",
+     "EPSdiluted": "177,35",
+     "DPS": "40",
+     "GUV": "Itochu Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2899,79",
+     "equityratio": "24,8",
+     "deptratio": "75,2"
+    },
+    {
+     "DieAktie": "Itochu Corp.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "155,21",
+     "EPSdiluted": "154,71",
+     "DPS": "46",
+     "GUV": "Itochu Corp.: GuV (in Mio. JPY)",
+     "Turnover": "3535,3",
+     "equityratio": "26,28",
+     "deptratio": "73,72"
+    },
+    {
+     "DieAktie": "Itochu Corp.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "189,13",
+     "EPSdiluted": "187,29",
+     "DPS": "46",
+     "GUV": "Itochu Corp.: GuV (in Mio. JPY)",
+     "Turnover": "3518,34",
+     "equityratio": "28,42",
+     "deptratio": "71,58"
+    },
+    {
+     "DieAktie": "Itochu Corp.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "152,14",
+     "EPSdiluted": "152,14",
+     "DPS": "50",
+     "GUV": "Itochu Corp.: GuV (in Mio. JPY)",
+     "Turnover": "3217,56",
+     "equityratio": "27,3",
+     "deptratio": "72,7"
+    },
+    {
+     "DieAktie": "Itochu Corp.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "223,67",
+     "EPSdiluted": "223,67",
+     "DPS": "55",
+     "GUV": "Itochu Corp.: GuV (in Mio. JPY)",
+     "Turnover": "3072,61",
+     "equityratio": "29,57",
+     "deptratio": "70,43"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "24.06.16",
+     "Dividende": "50,00"
+    },
+    {
+     "Datum": "19.06.15",
+     "Dividende": "46,00"
+    }
+   ]
+  },
+  {
+   "name": "J FRONT RETAILING Aktie [WKN DE: A0MYXR / ISIN: JP3386380004]",
+   "URL": "http://www.finanzen.at/bilanz_guv/J_FRONT_RETAILING",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "J. FRONT RETAILING Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "J. FRONT RETAILING Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "J. FRONT RETAILING Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "33,52",
+     "EPSdiluted": "33,52",
+     "DPS": "14",
+     "GUV": "J. FRONT RETAILING Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "3593,75",
+     "equityratio": "41,05",
+     "deptratio": "58,95"
+    },
+    {
+     "DieAktie": "J. FRONT RETAILING Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "71,14",
+     "EPSdiluted": "71,14",
+     "DPS": "16",
+     "GUV": "J. FRONT RETAILING Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "3561,57",
+     "equityratio": "43,39",
+     "deptratio": "56,61"
+    },
+    {
+     "DieAktie": "J. FRONT RETAILING Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "46,1",
+     "EPSdiluted": "46,1",
+     "DPS": "18",
+     "GUV": "J. FRONT RETAILING Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "4134,98",
+     "equityratio": "33,82",
+     "deptratio": "66,18"
+    },
+    {
+     "DieAktie": "J. FRONT RETAILING Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "119,54",
+     "EPSdiluted": "119,54",
+     "DPS": "22",
+     "GUV": "J. FRONT RETAILING Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "4340,5",
+     "equityratio": "37,07",
+     "deptratio": "62,93"
+    },
+    {
+     "DieAktie": "J. FRONT RETAILING Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "75,47",
+     "EPSdiluted": "75,47",
+     "DPS": "25",
+     "GUV": "J. FRONT RETAILING Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "4355,4",
+     "equityratio": "36,92",
+     "deptratio": "63,08"
+    },
+    {
+     "DieAktie": "J. FRONT RETAILING Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "100,42",
+     "EPSdiluted": "100,41",
+     "DPS": "27",
+     "GUV": "J. FRONT RETAILING Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "4440,13",
+     "equityratio": "37,65",
+     "deptratio": "62,35"
+    },
+    {
+     "DieAktie": "J. FRONT RETAILING Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "103,04",
+     "EPSdiluted": "103,04",
+     "DPS": "28",
+     "GUV": "J. FRONT RETAILING Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "4238,26",
+     "equityratio": "38,69",
+     "deptratio": "61,31"
+    }
+   ]
+  },
+  {
+   "name": "Japan Tobacco Aktie [WKN: 893151 / ISIN: JP3726800000]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Japan_Tobacco",
+   "HVDiv": [
+    {
+     "Datum": "23.03.16",
+     "Dividende": "118,00"
+    },
+    {
+     "Datum": "20.03.15",
+     "Dividende": "100,00"
+    },
+    {
+     "Datum": "22.06.12",
+     "Dividende": "50,00"
+    },
+    {
+     "Datum": "23.06.09",
+     "Dividende": "27,00"
+    },
+    {
+     "Datum": "24.06.08",
+     "Dividende": "24,00"
+    }
+   ]
+  },
+  {
+   "name": "JFE Aktie [WKN: 724564 / ISIN: JP3386030005]",
+   "URL": "http://www.finanzen.at/bilanz_guv/JFE",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "JFE Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "JFE Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "JFE Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "110,73",
+     "EPSdiluted": "109,68",
+     "DPS": "35",
+     "GUV": "JFE Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "5661,2",
+     "equityratio": "36,15",
+     "deptratio": "63,85"
+    },
+    {
+     "DieAktie": "JFE Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "-68,71",
+     "EPSdiluted": "-68,71",
+     "DPS": "20",
+     "GUV": "JFE Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "5939,32",
+     "equityratio": "35,29",
+     "deptratio": "64,71"
+    },
+    {
+     "DieAktie": "JFE Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "71,2",
+     "EPSdiluted": "71,2",
+     "DPS": "20",
+     "GUV": "JFE Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "5734,05",
+     "equityratio": "37,95",
+     "deptratio": "62,05"
+    },
+    {
+     "DieAktie": "JFE Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "177,44",
+     "EPSdiluted": "177,44",
+     "DPS": "40",
+     "GUV": "JFE Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "6354,88",
+     "equityratio": "40,13",
+     "deptratio": "59,87"
+    },
+    {
+     "DieAktie": "JFE Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "241,6",
+     "EPSdiluted": "241,6",
+     "DPS": "60",
+     "GUV": "JFE Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "6675,3",
+     "equityratio": "41,79",
+     "deptratio": "58,21"
+    },
+    {
+     "DieAktie": "JFE Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "58,36",
+     "EPSdiluted": "58,36",
+     "DPS": "30",
+     "GUV": "JFE Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "5950,24",
+     "equityratio": "42,6",
+     "deptratio": "57,4"
+    },
+    {
+     "DieAktie": "JFE Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "117,81",
+     "EPSdiluted": "117,81",
+     "DPS": "30",
+     "GUV": "JFE Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "5737,94",
+     "equityratio": "43,03",
+     "deptratio": "56,97"
+    }
+   ]
+  },
+  {
+   "name": "JGC Aktie [WKN: 859157 / ISIN: JP3667600005]",
+   "URL": "http://www.finanzen.at/bilanz_guv/JGC_2",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "JGC Corp: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "JGC Corp: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "JGC Corp: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "100,83",
+     "EPSdiluted": "100,83",
+     "DPS": "30",
+     "GUV": "JGC Corp: GuV (in Mio. JPY)",
+     "Turnover": "1769,87",
+     "equityratio": "56,35",
+     "deptratio": "43,65"
+    },
+    {
+     "DieAktie": "JGC Corp: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "154,9",
+     "EPSdiluted": "154,9",
+     "DPS": "38,5",
+     "GUV": "JGC Corp: GuV (in Mio. JPY)",
+     "Turnover": "2205,84",
+     "equityratio": "55,19",
+     "deptratio": "44,81"
+    },
+    {
+     "DieAktie": "JGC Corp: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "182,91",
+     "EPSdiluted": "182,91",
+     "DPS": "45,5",
+     "GUV": "JGC Corp: GuV (in Mio. JPY)",
+     "Turnover": "2474,15",
+     "equityratio": "53,36",
+     "deptratio": "46,64"
+    },
+    {
+     "DieAktie": "JGC Corp: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "186,9",
+     "EPSdiluted": "186,9",
+     "DPS": "46,5",
+     "GUV": "JGC Corp: GuV (in Mio. JPY)",
+     "Turnover": "2677,23",
+     "equityratio": "49,95",
+     "deptratio": "50,05"
+    },
+    {
+     "DieAktie": "JGC Corp: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "81,73",
+     "EPSdiluted": "81,73",
+     "DPS": "21",
+     "GUV": "JGC Corp: GuV (in Mio. JPY)",
+     "Turnover": "3165,89",
+     "equityratio": "53,46",
+     "deptratio": "46,54"
+    },
+    {
+     "DieAktie": "JGC Corp: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "169,6",
+     "EPSdiluted": "169,6",
+     "DPS": "42,5",
+     "GUV": "JGC Corp: GuV (in Mio. JPY)",
+     "Turnover": "3487,49",
+     "equityratio": "60,4",
+     "deptratio": "39,6"
+    },
+    {
+     "DieAktie": "JGC Corp: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "-87,42",
+     "EPSdiluted": "-87,42",
+     "DPS": "30",
+     "GUV": "JGC Corp: GuV (in Mio. JPY)",
+     "Turnover": "2747,25",
+     "equityratio": "59,14",
+     "deptratio": "40,86"
+    }
+   ]
+  },
+  {
+   "name": "JTEKT Aktie [WKN: 859112 / ISIN: JP3292200007]",
+   "URL": "http://www.finanzen.at/bilanz_guv/JTEKT",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "JTEKT Corp. O.N.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "JTEKT Corp. O.N.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "JTEKT Corp. O.N.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "59,39",
+     "EPSdiluted": "59,39",
+     "DPS": "16",
+     "GUV": "JTEKT Corp. O.N.: GuV (in Mio. JPY)",
+     "Turnover": "2829,99",
+     "equityratio": "37,8",
+     "deptratio": "62,2"
+    },
+    {
+     "DieAktie": "JTEKT Corp. O.N.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "38,91",
+     "EPSdiluted": "38,91",
+     "DPS": "16",
+     "GUV": "JTEKT Corp. O.N.: GuV (in Mio. JPY)",
+     "Turnover": "3078,91",
+     "equityratio": "33,79",
+     "deptratio": "66,21"
+    },
+    {
+     "DieAktie": "JTEKT Corp. O.N.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "40,54",
+     "EPSdiluted": "40,54",
+     "DPS": "16",
+     "GUV": "JTEKT Corp. O.N.: GuV (in Mio. JPY)",
+     "Turnover": "3122,39",
+     "equityratio": "35,41",
+     "deptratio": "64,59"
+    },
+    {
+     "DieAktie": "JTEKT Corp. O.N.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "68,4",
+     "EPSdiluted": "68,4",
+     "DPS": "18",
+     "GUV": "JTEKT Corp. O.N.: GuV (in Mio. JPY)",
+     "Turnover": "3685,96",
+     "equityratio": "37,12",
+     "deptratio": "62,88"
+    },
+    {
+     "DieAktie": "JTEKT Corp. O.N.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "124,24",
+     "EPSdiluted": "124,24",
+     "DPS": "34",
+     "GUV": "JTEKT Corp. O.N.: GuV (in Mio. JPY)",
+     "Turnover": "3962,2",
+     "equityratio": "42,04",
+     "deptratio": "57,96"
+    },
+    {
+     "DieAktie": "JTEKT Corp. O.N.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "141,91",
+     "EPSdiluted": "141,91",
+     "DPS": "42",
+     "GUV": "JTEKT Corp. O.N.: GuV (in Mio. JPY)",
+     "Turnover": "4081,83",
+     "equityratio": "42,32",
+     "deptratio": "57,68"
+    },
+    {
+     "DieAktie": "JTEKT Corp. O.N.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "138,56",
+     "EPSdiluted": "138,56",
+     "DPS": "42",
+     "GUV": "JTEKT Corp. O.N.: GuV (in Mio. JPY)",
+     "Turnover": "3843,73",
+     "equityratio": "43,63",
+     "deptratio": "56,37"
+    }
+   ]
+  },
+  {
+   "name": "JX Aktie [WKN DE: A1CS9H / ISIN: JP3386450005]",
+   "URL": "http://www.finanzen.at/bilanz_guv/JX",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "JX Holdings Inc: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "JX Holdings Inc: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "JX Holdings Inc: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "125,35",
+     "EPSdiluted": "125,35",
+     "DPS": "15,5",
+     "GUV": "JX Holdings Inc: GuV (in Mio. JPY)",
+     "Turnover": "3874,07",
+     "equityratio": "26,01",
+     "deptratio": "73,99"
+    },
+    {
+     "DieAktie": "JX Holdings Inc: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "68,6",
+     "EPSdiluted": "68,6",
+     "DPS": "16",
+     "GUV": "JX Holdings Inc: GuV (in Mio. JPY)",
+     "Turnover": "4312,13",
+     "equityratio": "26,07",
+     "deptratio": "73,93"
+    },
+    {
+     "DieAktie": "JX Holdings Inc: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "64,13",
+     "EPSdiluted": "64,13",
+     "DPS": "16",
+     "GUV": "JX Holdings Inc: GuV (in Mio. JPY)",
+     "Turnover": "4511,92",
+     "equityratio": "26,7",
+     "deptratio": "73,3"
+    },
+    {
+     "DieAktie": "JX Holdings Inc: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "43,05",
+     "EPSdiluted": "43,05",
+     "DPS": "16",
+     "GUV": "JX Holdings Inc: GuV (in Mio. JPY)",
+     "Turnover": "4991,68",
+     "equityratio": "27,44",
+     "deptratio": "72,56"
+    },
+    {
+     "DieAktie": "JX Holdings Inc: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "-111,49",
+     "EPSdiluted": "-111,49",
+     "DPS": "16",
+     "GUV": "JX Holdings Inc: GuV (in Mio. JPY)",
+     "Turnover": "4376,68",
+     "equityratio": "26,09",
+     "deptratio": "73,91"
+    },
+    {
+     "DieAktie": "JX Holdings Inc: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "-112,01",
+     "EPSdiluted": "-112,01",
+     "DPS": "16",
+     "GUV": "JX Holdings Inc: GuV (in Mio. JPY)",
+     "Turnover": "3514,25",
+     "equityratio": "22,29",
+     "deptratio": "77,71"
+    },
+    {
+     "DieAktie": "JX Holdings Inc: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "60,33",
+     "EPSdiluted": "60,33",
+     "DPS": "16",
+     "GUV": "JX Holdings Inc: GuV (in Mio. JPY)",
+     "Turnover": "2825,48",
+     "equityratio": "25,13",
+     "deptratio": "74,87"
+    }
+   ]
+  },
+  {
+   "name": "KAJIMA Aktie [WKN: 857003 / ISIN: JP3210200006]",
+   "URL": "http://www.finanzen.at/bilanz_guv/KAJIMA",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "KAJIMA CORP: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "KAJIMA CORP: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "KAJIMA CORP: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "24,87",
+     "EPSdiluted": "-",
+     "DPS": "6",
+     "GUV": "KAJIMA CORP: GuV (in Mio. JPY)",
+     "Turnover": "1275,63",
+     "equityratio": "15,37",
+     "deptratio": "84,63"
+    },
+    {
+     "DieAktie": "KAJIMA CORP: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "3,69",
+     "EPSdiluted": "3,69",
+     "DPS": "5",
+     "GUV": "KAJIMA CORP: GuV (in Mio. JPY)",
+     "Turnover": "1403,27",
+     "equityratio": "15,22",
+     "deptratio": "84,78"
+    },
+    {
+     "DieAktie": "KAJIMA CORP: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "22,55",
+     "EPSdiluted": "22,55",
+     "DPS": "5",
+     "GUV": "KAJIMA CORP: GuV (in Mio. JPY)",
+     "Turnover": "1429,54",
+     "equityratio": "19,01",
+     "deptratio": "80,99"
+    },
+    {
+     "DieAktie": "KAJIMA CORP: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "19,98",
+     "EPSdiluted": "19,98",
+     "DPS": "5",
+     "GUV": "KAJIMA CORP: GuV (in Mio. JPY)",
+     "Turnover": "1464,6",
+     "equityratio": "20,58",
+     "deptratio": "79,42"
+    },
+    {
+     "DieAktie": "KAJIMA CORP: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "14,58",
+     "EPSdiluted": "14,58",
+     "DPS": "5",
+     "GUV": "KAJIMA CORP: GuV (in Mio. JPY)",
+     "Turnover": "1631,09",
+     "equityratio": "23,65",
+     "deptratio": "76,35"
+    },
+    {
+     "DieAktie": "KAJIMA CORP: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "69,66",
+     "EPSdiluted": "69,66",
+     "DPS": "12",
+     "GUV": "KAJIMA CORP: GuV (in Mio. JPY)",
+     "Turnover": "1678,45",
+     "equityratio": "24,98",
+     "deptratio": "75,02"
+    },
+    {
+     "DieAktie": "KAJIMA CORP: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "101,01",
+     "EPSdiluted": "101,01",
+     "DPS": "20",
+     "GUV": "KAJIMA CORP: GuV (in Mio. JPY)",
+     "Turnover": "1754,96",
+     "equityratio": "27,53",
+     "deptratio": "72,47"
+    }
+   ]
+  },
+  {
+   "name": "Kao Aktie [WKN: 857031 / ISIN: JP3205800000]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Kao",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Kao Corp.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Kao Corp.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Kao Corp.: Die Aktie (in JPY)",
+     "Jahr": "2010",
+     "EPSundiluted": "75,57",
+     "EPSdiluted": "75,55",
+     "DPS": "57",
+     "GUV": "Kao Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2209,14",
+     "equityratio": "53,12",
+     "deptratio": "46,88"
+    },
+    {
+     "DieAktie": "Kao Corp.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "87,69",
+     "EPSdiluted": "87,67",
+     "DPS": "58",
+     "GUV": "Kao Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2226,16",
+     "equityratio": "51,82",
+     "deptratio": "48,18"
+    },
+    {
+     "DieAktie": "Kao Corp.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "160,62",
+     "EPSdiluted": "160,56",
+     "DPS": "122",
+     "GUV": "Kao Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2586,26",
+     "equityratio": "57,08",
+     "deptratio": "42,92"
+    },
+    {
+     "DieAktie": "Kao Corp.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "126,03",
+     "EPSdiluted": "125,89",
+     "DPS": "64",
+     "GUV": "Kao Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2556,65",
+     "equityratio": "55,58",
+     "deptratio": "44,42"
+    },
+    {
+     "DieAktie": "Kao Corp.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "156,46",
+     "EPSdiluted": "156,24",
+     "DPS": "70",
+     "GUV": "Kao Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2751,7",
+     "equityratio": "55,01",
+     "deptratio": "44,99"
+    },
+    {
+     "DieAktie": "Kao Corp.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "197,19",
+     "EPSdiluted": "196,92",
+     "DPS": "80",
+     "GUV": "Kao Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2931,55",
+     "equityratio": "52,77",
+     "deptratio": "47,23"
+    },
+    {
+     "DieAktie": "Kao Corp.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "253,43",
+     "EPSdiluted": "253,18",
+     "DPS": "94",
+     "GUV": "Kao Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2916,16",
+     "equityratio": "50,8",
+     "deptratio": "49,2"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "25.03.16",
+     "Dividende": "80,00"
+    },
+    {
+     "Datum": "25.03.15",
+     "Dividende": "70,00"
+    },
+    {
+     "Datum": "28.03.14",
+     "Dividende": "64,00"
+    },
+    {
+     "Datum": "26.03.13",
+     "Dividende": "60,00"
+    },
+    {
+     "Datum": "28.06.12",
+     "Dividende": "58,00"
+    },
+    {
+     "Datum": "29.06.11",
+     "Dividende": "58,00"
+    },
+    {
+     "Datum": "29.06.10",
+     "Dividende": "57,00"
+    },
+    {
+     "Datum": "26.06.09",
+     "Dividende": "56,00"
+    }
+   ]
+  },
+  {
+   "name": "Kawasaki Heavy Industries Aktie [WKN: 858920 / ISIN: JP3224200000]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Kawasaki_Heavy_Industries",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Kawasaki Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Kawasaki Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Kawasaki Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "15,55",
+     "EPSdiluted": "15,32",
+     "DPS": "3",
+     "GUV": "Kawasaki Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "722,84",
+     "equityratio": "21,34",
+     "deptratio": "78,66"
+    },
+    {
+     "DieAktie": "Kawasaki Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "13,95",
+     "EPSdiluted": "13,85",
+     "DPS": "5",
+     "GUV": "Kawasaki Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "773,99",
+     "equityratio": "22,47",
+     "deptratio": "77,53"
+    },
+    {
+     "DieAktie": "Kawasaki Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "18,46",
+     "EPSdiluted": "18,46",
+     "DPS": "5",
+     "GUV": "Kawasaki Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "770,95",
+     "equityratio": "23,07",
+     "deptratio": "76,93"
+    },
+    {
+     "DieAktie": "Kawasaki Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "23,09",
+     "EPSdiluted": "23,09",
+     "DPS": "6",
+     "GUV": "Kawasaki Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "828,75",
+     "equityratio": "23,36",
+     "deptratio": "76,64"
+    },
+    {
+     "DieAktie": "Kawasaki Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "30,89",
+     "EPSdiluted": "30,89",
+     "DPS": "10",
+     "GUV": "Kawasaki Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "889,02",
+     "equityratio": "25,99",
+     "deptratio": "74,01"
+    },
+    {
+     "DieAktie": "Kawasaki Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "27,56",
+     "EPSdiluted": "27,56",
+     "DPS": "12",
+     "GUV": "Kawasaki Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "922,49",
+     "equityratio": "26,62",
+     "deptratio": "73,38"
+    },
+    {
+     "DieAktie": "Kawasaki Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "15,69",
+     "EPSdiluted": "15,69",
+     "DPS": "6",
+     "GUV": "Kawasaki Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "909,17",
+     "equityratio": "25,91",
+     "deptratio": "74,09"
+    }
+   ]
+  },
+  {
+   "name": "Kawasaki Kisen Kaisha Aktie [WKN: 862868 / ISIN: JP3223800008]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Kawasaki_Kisen_Kaisha",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Kawasaki Kisen Kaisha Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Kawasaki Kisen Kaisha Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Kawasaki Kisen Kaisha Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "40,08",
+     "EPSdiluted": "38,41",
+     "DPS": "9,5",
+     "GUV": "Kawasaki Kisen Kaisha Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1236,51",
+     "equityratio": "28,25",
+     "deptratio": "71,75"
+    },
+    {
+     "DieAktie": "Kawasaki Kisen Kaisha Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "-54,14",
+     "EPSdiluted": "-54,14",
+     "DPS": "0",
+     "GUV": "Kawasaki Kisen Kaisha Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1273,02",
+     "equityratio": "22,74",
+     "deptratio": "77,26"
+    },
+    {
+     "DieAktie": "Kawasaki Kisen Kaisha Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "12,07",
+     "EPSdiluted": "12,07",
+     "DPS": "4,5",
+     "GUV": "Kawasaki Kisen Kaisha Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1283,33",
+     "equityratio": "28,85",
+     "deptratio": "71,15"
+    },
+    {
+     "DieAktie": "Kawasaki Kisen Kaisha Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "17,75",
+     "EPSdiluted": "16,33",
+     "DPS": "4,5",
+     "GUV": "Kawasaki Kisen Kaisha Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1200,92",
+     "equityratio": "30,99",
+     "deptratio": "69,01"
+    },
+    {
+     "DieAktie": "Kawasaki Kisen Kaisha Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "28,6",
+     "EPSdiluted": "24,43",
+     "DPS": "8,5",
+     "GUV": "Kawasaki Kisen Kaisha Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1232,23",
+     "equityratio": "36,09",
+     "deptratio": "63,91"
+    },
+    {
+     "DieAktie": "Kawasaki Kisen Kaisha Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "-54,95",
+     "EPSdiluted": "-54,95",
+     "DPS": "5",
+     "GUV": "Kawasaki Kisen Kaisha Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1327,24",
+     "equityratio": "31,87",
+     "deptratio": "68,13"
+    },
+    {
+     "DieAktie": "Kawasaki Kisen Kaisha Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "-148,82",
+     "EPSdiluted": "-148,82",
+     "DPS": "0",
+     "GUV": "Kawasaki Kisen Kaisha Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1099,21",
+     "equityratio": "21",
+     "deptratio": "79"
+    }
+   ]
+  },
+  {
+   "name": "KDDI Aktie [WKN: 887603 / ISIN: JP3496400007]",
+   "URL": "http://www.finanzen.at/bilanz_guv/KDDI",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "KDDI Corp.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "KDDI Corp.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "KDDI Corp.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "96,92",
+     "EPSdiluted": "96,92",
+     "DPS": "23,33",
+     "GUV": "KDDI Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1304,72",
+     "equityratio": "55,7",
+     "deptratio": "44,3"
+    },
+    {
+     "DieAktie": "KDDI Corp.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "96,86",
+     "EPSdiluted": "94,45",
+     "DPS": "26,67",
+     "GUV": "KDDI Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1414,26",
+     "equityratio": "51,5",
+     "deptratio": "48,5"
+    },
+    {
+     "DieAktie": "KDDI Corp.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "105,3",
+     "EPSdiluted": "96,42",
+     "DPS": "30",
+     "GUV": "KDDI Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1463,31",
+     "equityratio": "55,09",
+     "deptratio": "44,91"
+    },
+    {
+     "DieAktie": "KDDI Corp.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "132,87",
+     "EPSdiluted": "132,87",
+     "DPS": "43,33",
+     "GUV": "KDDI Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1787,97",
+     "equityratio": "55,07",
+     "deptratio": "44,93"
+    },
+    {
+     "DieAktie": "KDDI Corp.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "170,84",
+     "EPSdiluted": "170,84",
+     "DPS": "56,67",
+     "GUV": "KDDI Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1825,65",
+     "equityratio": "57,34",
+     "deptratio": "42,66"
+    },
+    {
+     "DieAktie": "KDDI Corp.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "197,56",
+     "EPSdiluted": "197,54",
+     "DPS": "70",
+     "GUV": "KDDI Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1784,25",
+     "equityratio": "56,97",
+     "deptratio": "43,03"
+    },
+    {
+     "DieAktie": "KDDI Corp.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "221,65",
+     "EPSdiluted": "221,6",
+     "DPS": "85",
+     "GUV": "KDDI Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1924,8",
+     "equityratio": "56,75",
+     "deptratio": "43,25"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "22.06.16",
+     "Dividende": "70,00"
+    },
+    {
+     "Datum": "17.06.15",
+     "Dividende": "170,00"
+    }
+   ]
+  },
+  {
+   "name": "Keio Aktie [WKN: 863378 / ISIN: JP3277800003]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Keio",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Keio Corp: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Keio Corp: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Keio Corp: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "15,18",
+     "EPSdiluted": "15,18",
+     "DPS": "6",
+     "GUV": "Keio Corp: GuV (in Mio. JPY)",
+     "Turnover": "640,19",
+     "equityratio": "33,66",
+     "deptratio": "66,34"
+    },
+    {
+     "DieAktie": "Keio Corp: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "20,35",
+     "EPSdiluted": "20,35",
+     "DPS": "6",
+     "GUV": "Keio Corp: GuV (in Mio. JPY)",
+     "Turnover": "639,07",
+     "equityratio": "32,9",
+     "deptratio": "67,1"
+    },
+    {
+     "DieAktie": "Keio Corp: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "24,14",
+     "EPSdiluted": "24,14",
+     "DPS": "7",
+     "GUV": "Keio Corp: GuV (in Mio. JPY)",
+     "Turnover": "649,57",
+     "equityratio": "35,13",
+     "deptratio": "64,87"
+    },
+    {
+     "DieAktie": "Keio Corp: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "26,52",
+     "EPSdiluted": "26,52",
+     "DPS": "7,5",
+     "GUV": "Keio Corp: GuV (in Mio. JPY)",
+     "Turnover": "668,06",
+     "equityratio": "37,12",
+     "deptratio": "62,88"
+    },
+    {
+     "DieAktie": "Keio Corp: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "28,25",
+     "EPSdiluted": "28,25",
+     "DPS": "8",
+     "GUV": "Keio Corp: GuV (in Mio. JPY)",
+     "Turnover": "668,24",
+     "equityratio": "39,3",
+     "deptratio": "60,7"
+    },
+    {
+     "DieAktie": "Keio Corp: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "31,88",
+     "EPSdiluted": "31,88",
+     "DPS": "8,5",
+     "GUV": "Keio Corp: GuV (in Mio. JPY)",
+     "Turnover": "681,73",
+     "equityratio": "37,99",
+     "deptratio": "62,01"
+    },
+    {
+     "DieAktie": "Keio Corp: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "34,67",
+     "EPSdiluted": "34,67",
+     "DPS": "9",
+     "GUV": "Keio Corp: GuV (in Mio. JPY)",
+     "Turnover": "686,24",
+     "equityratio": "39,75",
+     "deptratio": "60,25"
+    }
+   ]
+  },
+  {
+   "name": "Keisei Electric Railway Aktie [WKN: 867002 / ISIN: JP3278600006]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Keisei_Electric_Railway",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Keisei Electric Railway Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Keisei Electric Railway Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Keisei Electric Railway Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "71,22",
+     "EPSdiluted": "71,22",
+     "DPS": "11",
+     "GUV": "Keisei Electric Railway Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1408,79",
+     "equityratio": "24,57",
+     "deptratio": "75,43"
+    },
+    {
+     "DieAktie": "Keisei Electric Railway Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "79,58",
+     "EPSdiluted": "79,58",
+     "DPS": "10",
+     "GUV": "Keisei Electric Railway Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1360,47",
+     "equityratio": "25,97",
+     "deptratio": "74,03"
+    },
+    {
+     "DieAktie": "Keisei Electric Railway Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "129,82",
+     "EPSdiluted": "129,82",
+     "DPS": "11",
+     "GUV": "Keisei Electric Railway Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1441,9",
+     "equityratio": "28,42",
+     "deptratio": "71,58"
+    },
+    {
+     "DieAktie": "Keisei Electric Railway Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "159,8",
+     "EPSdiluted": "159,8",
+     "DPS": "12",
+     "GUV": "Keisei Electric Railway Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1447,41",
+     "equityratio": "31,1",
+     "deptratio": "68,9"
+    },
+    {
+     "DieAktie": "Keisei Electric Railway Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "151,72",
+     "EPSdiluted": "151,72",
+     "DPS": "12",
+     "GUV": "Keisei Electric Railway Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1470,94",
+     "equityratio": "33,35",
+     "deptratio": "66,65"
+    },
+    {
+     "DieAktie": "Keisei Electric Railway Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "183,1",
+     "EPSdiluted": "183,1",
+     "DPS": "13",
+     "GUV": "Keisei Electric Railway Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1483,87",
+     "equityratio": "36,84",
+     "deptratio": "63,16"
+    },
+    {
+     "DieAktie": "Keisei Electric Railway Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "210,96",
+     "EPSdiluted": "210,96",
+     "DPS": "14",
+     "GUV": "Keisei Electric Railway Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1452,25",
+     "equityratio": "40,49",
+     "deptratio": "59,51"
+    }
+   ]
+  },
+  {
+   "name": "Kikkoman Aktie [WKN: 856983 / ISIN: JP3240400006]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Kikkoman",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Kikkoman Corp.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Kikkoman Corp.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Kikkoman Corp.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "37,74",
+     "EPSdiluted": "37,74",
+     "DPS": "15",
+     "GUV": "Kikkoman Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1376,68",
+     "equityratio": "53,84",
+     "deptratio": "46,16"
+    },
+    {
+     "DieAktie": "Kikkoman Corp.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "43,8",
+     "EPSdiluted": "43,8",
+     "DPS": "15",
+     "GUV": "Kikkoman Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1380,99",
+     "equityratio": "50,08",
+     "deptratio": "49,92"
+    },
+    {
+     "DieAktie": "Kikkoman Corp.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "54,87",
+     "EPSdiluted": "54,87",
+     "DPS": "18",
+     "GUV": "Kikkoman Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1495,69",
+     "equityratio": "55,29",
+     "deptratio": "44,71"
+    },
+    {
+     "DieAktie": "Kikkoman Corp.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "62,82",
+     "EPSdiluted": "62,78",
+     "DPS": "20",
+     "GUV": "Kikkoman Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1715,54",
+     "equityratio": "59,93",
+     "deptratio": "40,07"
+    },
+    {
+     "DieAktie": "Kikkoman Corp.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "78,2",
+     "EPSdiluted": "78,19",
+     "DPS": "24",
+     "GUV": "Kikkoman Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1887,63",
+     "equityratio": "62,44",
+     "deptratio": "37,56"
+    },
+    {
+     "DieAktie": "Kikkoman Corp.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "102,66",
+     "EPSdiluted": "102,66",
+     "DPS": "32",
+     "GUV": "Kikkoman Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2100,01",
+     "equityratio": "61,17",
+     "deptratio": "38,83"
+    },
+    {
+     "DieAktie": "Kikkoman Corp.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "123,28",
+     "EPSdiluted": "123,28",
+     "DPS": "34",
+     "GUV": "Kikkoman Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2082,26",
+     "equityratio": "66,44",
+     "deptratio": "33,56"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "23.06.16",
+     "Dividende": "32,00"
+    },
+    {
+     "Datum": "24.06.15",
+     "Dividende": "24,00"
+    },
+    {
+     "Datum": "24.06.14",
+     "Dividende": "20,00"
+    },
+    {
+     "Datum": "25.06.13",
+     "Dividende": "20,00"
+    },
+    {
+     "Datum": "26.06.12",
+     "Dividende": "15,00"
+    },
+    {
+     "Datum": "24.06.10",
+     "Dividende": "15,00"
+    },
+    {
+     "Datum": "23.06.09",
+     "Dividende": "15,00"
+    }
+   ]
+  },
+  {
+   "name": "Kirin Aktie [WKN: 853682 / ISIN: JP3258000003]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Kirin",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Kirin Holdings Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Kirin Holdings Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Kirin Holdings Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2010",
+     "EPSundiluted": "11,95",
+     "EPSdiluted": "11,93",
+     "DPS": "25",
+     "GUV": "Kirin Holdings Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2283,06",
+     "equityratio": "36,34",
+     "deptratio": "63,66"
+    },
+    {
+     "DieAktie": "Kirin Holdings Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "7,7",
+     "EPSdiluted": "7,14",
+     "DPS": "27",
+     "GUV": "Kirin Holdings Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2154,05",
+     "equityratio": "29,89",
+     "deptratio": "70,11"
+    },
+    {
+     "DieAktie": "Kirin Holdings Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "58,44",
+     "EPSdiluted": "57,31",
+     "DPS": "29",
+     "GUV": "Kirin Holdings Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2273,32",
+     "equityratio": "32,16",
+     "deptratio": "67,84"
+    },
+    {
+     "DieAktie": "Kirin Holdings Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "90,76",
+     "EPSdiluted": "90,73",
+     "DPS": "36",
+     "GUV": "Kirin Holdings Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2389,02",
+     "equityratio": "37,15",
+     "deptratio": "62,85"
+    },
+    {
+     "DieAktie": "Kirin Holdings Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "35,27",
+     "EPSdiluted": "35,24",
+     "DPS": "38",
+     "GUV": "Kirin Holdings Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2390,59",
+     "equityratio": "37,16",
+     "deptratio": "62,84"
+    },
+    {
+     "DieAktie": "Kirin Holdings Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "-51,87",
+     "EPSdiluted": "-51,87",
+     "DPS": "38",
+     "GUV": "Kirin Holdings Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2407,49",
+     "equityratio": "27,18",
+     "deptratio": "72,82"
+    },
+    {
+     "DieAktie": "Kirin Holdings Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "129,49",
+     "EPSdiluted": "129,47",
+     "DPS": "39",
+     "GUV": "Kirin Holdings Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2273,99",
+     "equityratio": "29,01",
+     "deptratio": "70,99"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "30.03.16",
+     "Dividende": "38,00"
+    },
+    {
+     "Datum": "30.03.15",
+     "Dividende": "38,00"
+    },
+    {
+     "Datum": "27.03.14",
+     "Dividende": "36,00"
+    },
+    {
+     "Datum": "28.03.13",
+     "Dividende": "29,00"
+    },
+    {
+     "Datum": "29.03.12",
+     "Dividende": "27,00"
+    },
+    {
+     "Datum": "29.03.11",
+     "Dividende": "25,00"
+    },
+    {
+     "Datum": "26.03.10",
+     "Dividende": "23,00"
+    },
+    {
+     "Datum": "26.03.09",
+     "Dividende": "23,00"
+    }
+   ]
+  },
+  {
+   "name": "Kobe Steel Aktie [WKN: 858737 / ISIN: JP3289800009]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Kobe_Steel",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Kobe Steel Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Kobe Steel Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Kobe Steel Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "176,3",
+     "EPSdiluted": "176,3",
+     "DPS": "30",
+     "GUV": "Kobe Steel Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "6190,89",
+     "equityratio": "24,59",
+     "deptratio": "75,41"
+    },
+    {
+     "DieAktie": "Kobe Steel Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "-47,5",
+     "EPSdiluted": "-47,5",
+     "DPS": "10",
+     "GUV": "Kobe Steel Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "6213,67",
+     "equityratio": "23,88",
+     "deptratio": "76,12"
+    },
+    {
+     "DieAktie": "Kobe Steel Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "-89,9",
+     "EPSdiluted": "-89,9",
+     "DPS": "0",
+     "GUV": "Kobe Steel Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "5616,72",
+     "equityratio": "22,99",
+     "deptratio": "77,01"
+    },
+    {
+     "DieAktie": "Kobe Steel Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "226,3",
+     "EPSdiluted": "226,3",
+     "DPS": "40",
+     "GUV": "Kobe Steel Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "5882,61",
+     "equityratio": "29,23",
+     "deptratio": "70,77"
+    },
+    {
+     "DieAktie": "Kobe Steel Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "238,2",
+     "EPSdiluted": "238,2",
+     "DPS": "40",
+     "GUV": "Kobe Steel Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "5192,86",
+     "equityratio": "33,76",
+     "deptratio": "66,24"
+    },
+    {
+     "DieAktie": "Kobe Steel Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "-59,3",
+     "EPSdiluted": "-59,3",
+     "DPS": "20",
+     "GUV": "Kobe Steel Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "5018,43",
+     "equityratio": "30,6",
+     "deptratio": "69,4"
+    },
+    {
+     "DieAktie": "Kobe Steel Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "-63,54",
+     "EPSdiluted": "-63,54",
+     "DPS": "0",
+     "GUV": "Kobe Steel Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "4676,09",
+     "equityratio": "29,17",
+     "deptratio": "70,83"
+    }
+   ]
+  },
+  {
+   "name": "Komatsu Aktie [WKN: 854658 / ISIN: JP3304200003]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Komatsu",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Komatsu Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Komatsu Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Komatsu Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "155,77",
+     "EPSdiluted": "155,66",
+     "DPS": "38",
+     "GUV": "Komatsu Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1903,12",
+     "equityratio": "42,99",
+     "deptratio": "57,01"
+    },
+    {
+     "DieAktie": "Komatsu Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "173,47",
+     "EPSdiluted": "173,32",
+     "DPS": "42",
+     "GUV": "Komatsu Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2056,25",
+     "equityratio": "43,51",
+     "deptratio": "56,49"
+    },
+    {
+     "DieAktie": "Komatsu Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "132,64",
+     "EPSdiluted": "132,51",
+     "DPS": "48",
+     "GUV": "Komatsu Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1977,38",
+     "equityratio": "47,39",
+     "deptratio": "52,61"
+    },
+    {
+     "DieAktie": "Komatsu Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "167,36",
+     "EPSdiluted": "167,18",
+     "DPS": "58",
+     "GUV": "Komatsu Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2047,48",
+     "equityratio": "51,91",
+     "deptratio": "48,09"
+    },
+    {
+     "DieAktie": "Komatsu Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "162,07",
+     "EPSdiluted": "161,86",
+     "DPS": "58",
+     "GUV": "Komatsu Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "2079,54",
+     "equityratio": "54,64",
+     "deptratio": "45,36"
+    },
+    {
+     "DieAktie": "Komatsu Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "145,8",
+     "EPSdiluted": "145,61",
+     "DPS": "58",
+     "GUV": "Komatsu Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1965,47",
+     "equityratio": "58,03",
+     "deptratio": "41,97"
+    },
+    {
+     "DieAktie": "Komatsu Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "120,26",
+     "EPSdiluted": "120,1",
+     "DPS": "58",
+     "GUV": "Komatsu Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1909,84",
+     "equityratio": "59,35",
+     "deptratio": "40,65"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "22.06.16",
+     "Dividende": "58,00"
+    },
+    {
+     "Datum": "24.06.15",
+     "Dividende": "58,00"
+    }
+   ]
+  },
+  {
+   "name": "Konami Aktie [WKN: 870269 / ISIN: JP3300200007]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Konami",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Konami Corp.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Konami Corp.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Konami Corp.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "96,48",
+     "EPSdiluted": "96,48",
+     "DPS": "32",
+     "GUV": "Konami Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1924,34",
+     "equityratio": "61,78",
+     "deptratio": "38,22"
+    },
+    {
+     "DieAktie": "Konami Corp.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "166,23",
+     "EPSdiluted": "166,23",
+     "DPS": "50",
+     "GUV": "Konami Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1919,75",
+     "equityratio": "65,69",
+     "deptratio": "34,31"
+    },
+    {
+     "DieAktie": "Konami Corp.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "95,04",
+     "EPSdiluted": "95,04",
+     "DPS": "50",
+     "GUV": "Konami Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1630,33",
+     "equityratio": "69,8",
+     "deptratio": "30,2"
+    },
+    {
+     "DieAktie": "Konami Corp.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "27,66",
+     "EPSdiluted": "27,66",
+     "DPS": "34",
+     "GUV": "Konami Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1569,78",
+     "equityratio": "70,3",
+     "deptratio": "29,7"
+    },
+    {
+     "DieAktie": "Konami Corp.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "71,55",
+     "EPSdiluted": "71,55",
+     "DPS": "21",
+     "GUV": "Konami Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1573,88",
+     "equityratio": "69,9",
+     "deptratio": "30,1"
+    },
+    {
+     "DieAktie": "Konami Corp.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "76,44",
+     "EPSdiluted": "76,13",
+     "DPS": "23",
+     "GUV": "Konami Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1807,64",
+     "equityratio": "64,83",
+     "deptratio": "35,17"
+    },
+    {
+     "DieAktie": "Konami Corp.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "191,89",
+     "EPSdiluted": "189,08",
+     "DPS": "58",
+     "GUV": "Konami Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1672,93",
+     "equityratio": "68,39",
+     "deptratio": "31,61"
+    }
+   ]
+  },
+  {
+   "name": "Konica Minolta Aktie [WKN: 857929 / ISIN: JP3300600008]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Konica_Minolta_1",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Konica Minolta Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Konica Minolta Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Konica Minolta Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "48,84",
+     "EPSdiluted": "47,28",
+     "DPS": "15",
+     "GUV": "Konica Minolta Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "1420,34",
+     "equityratio": "50,66",
+     "deptratio": "49,34"
+    },
+    {
+     "DieAktie": "Konica Minolta Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "38,52",
+     "EPSdiluted": "37,28",
+     "DPS": "15",
+     "GUV": "Konica Minolta Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "1401,51",
+     "equityratio": "48,15",
+     "deptratio": "51,85"
+    },
+    {
+     "DieAktie": "Konica Minolta Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "28,52",
+     "EPSdiluted": "27,86",
+     "DPS": "15",
+     "GUV": "Konica Minolta Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "1497,64",
+     "equityratio": "49,51",
+     "deptratio": "50,49"
+    },
+    {
+     "DieAktie": "Konica Minolta Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "41,38",
+     "EPSdiluted": "41,28",
+     "DPS": "15",
+     "GUV": "Konica Minolta Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "1782,19",
+     "equityratio": "49,62",
+     "deptratio": "50,38"
+    },
+    {
+     "DieAktie": "Konica Minolta Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "81,01",
+     "EPSdiluted": "80,79",
+     "DPS": "20",
+     "GUV": "Konica Minolta Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "1979,02",
+     "equityratio": "53,15",
+     "deptratio": "46,85"
+    },
+    {
+     "DieAktie": "Konica Minolta Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "64,39",
+     "EPSdiluted": "64,21",
+     "DPS": "30",
+     "GUV": "Konica Minolta Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "2071,87",
+     "equityratio": "52,67",
+     "deptratio": "47,33"
+    },
+    {
+     "DieAktie": "Konica Minolta Holdings Inc.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "63,65",
+     "EPSdiluted": "63,47",
+     "DPS": "30",
+     "GUV": "Konica Minolta Holdings Inc.: GuV (in Mio. JPY)",
+     "Turnover": "1936,87",
+     "equityratio": "52,15",
+     "deptratio": "47,85"
+    }
+   ]
+  },
+  {
+   "name": "Kubota Aktie [WKN: 857751 / ISIN: JP3266400005]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Kubota_3"
+  },
+  {
+   "name": "Kuraray Aktie [WKN: 858272 / ISIN: JP3269600007]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Kuraray"
+  },
+  {
+   "name": "Kyocera Aktie [WKN: 860614 / ISIN: JP3249600002]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Kyocera",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Kyocera Corp.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Kyocera Corp.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Kyocera Corp.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "333,62",
+     "EPSdiluted": "333,62",
+     "DPS": "65",
+     "GUV": "Kyocera Corp.: GuV (in Mio. JPY)",
+     "Turnover": "3451,79",
+     "equityratio": "72,96",
+     "deptratio": "27,04"
+    },
+    {
+     "DieAktie": "Kyocera Corp.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "216,29",
+     "EPSdiluted": "216,29",
+     "DPS": "60",
+     "GUV": "Kyocera Corp.: GuV (in Mio. JPY)",
+     "Turnover": "3245,71",
+     "equityratio": "73,69",
+     "deptratio": "26,31"
+    },
+    {
+     "DieAktie": "Kyocera Corp.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "181,18",
+     "EPSdiluted": "181,18",
+     "DPS": "60",
+     "GUV": "Kyocera Corp.: GuV (in Mio. JPY)",
+     "Turnover": "3488,72",
+     "equityratio": "72,11",
+     "deptratio": "27,89"
+    },
+    {
+     "DieAktie": "Kyocera Corp.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "241,93",
+     "EPSdiluted": "241,93",
+     "DPS": "60",
+     "GUV": "Kyocera Corp.: GuV (in Mio. JPY)",
+     "Turnover": "3945,08",
+     "equityratio": "72,44",
+     "deptratio": "27,56"
+    },
+    {
+     "DieAktie": "Kyocera Corp.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "315,85",
+     "EPSdiluted": "315,85",
+     "DPS": "100",
+     "GUV": "Kyocera Corp.: GuV (in Mio. JPY)",
+     "Turnover": "4162,27",
+     "equityratio": "73,33",
+     "deptratio": "26,67"
+    },
+    {
+     "DieAktie": "Kyocera Corp.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "297,24",
+     "EPSdiluted": "297,24",
+     "DPS": "100",
+     "GUV": "Kyocera Corp.: GuV (in Mio. JPY)",
+     "Turnover": "4033,51",
+     "equityratio": "73,8",
+     "deptratio": "26,2"
+    },
+    {
+     "DieAktie": "Kyocera Corp.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "282,62",
+     "EPSdiluted": "282,62",
+     "DPS": "110",
+     "GUV": "Kyocera Corp.: GuV (in Mio. JPY)",
+     "Turnover": "3872,51",
+     "equityratio": "75,04",
+     "deptratio": "24,96"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "24.06.16",
+     "Dividende": "100,00"
+    },
+    {
+     "Datum": "24.06.15",
+     "Dividende": "100,00"
+    },
+    {
+     "Datum": "26.06.14",
+     "Dividende": "80,00"
+    },
+    {
+     "Datum": "26.06.13",
+     "Dividende": "60,00"
+    },
+    {
+     "Datum": "27.06.12",
+     "Dividende": "60,00"
+    },
+    {
+     "Datum": "31.08.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.07.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "20.04.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "10.06.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "05.06.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "23.05.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "30.05.06",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "15.06.05",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "15.06.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "01.07.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Kyowa Hakko Kogyo Aktie [WKN: 858523 / ISIN: JP3256000005]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Kyowa_Hakko_Kogyo",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Kyowa Hakko Kogyo Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Kyowa Hakko Kogyo Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Kyowa Hakko Kogyo Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2010",
+     "EPSundiluted": "38,96",
+     "EPSdiluted": "38,94",
+     "DPS": "20",
+     "GUV": "Kyowa Hakko Kogyo Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "725,88",
+     "equityratio": "78,19",
+     "deptratio": "21,81"
+    },
+    {
+     "DieAktie": "Kyowa Hakko Kogyo Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "45,16",
+     "EPSdiluted": "45,14",
+     "DPS": "20",
+     "GUV": "Kyowa Hakko Kogyo Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "605,83",
+     "equityratio": "81,82",
+     "deptratio": "18,18"
+    },
+    {
+     "DieAktie": "Kyowa Hakko Kogyo Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "44,12",
+     "EPSdiluted": "44,1",
+     "DPS": "20",
+     "GUV": "Kyowa Hakko Kogyo Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "607,13",
+     "equityratio": "81,71",
+     "deptratio": "18,29"
+    },
+    {
+     "DieAktie": "Kyowa Hakko Kogyo Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "54,95",
+     "EPSdiluted": "54,91",
+     "DPS": "25",
+     "GUV": "Kyowa Hakko Kogyo Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "621,84",
+     "equityratio": "82,62",
+     "deptratio": "17,38"
+    },
+    {
+     "DieAktie": "Kyowa Hakko Kogyo Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "29,05",
+     "EPSdiluted": "29,02",
+     "DPS": "25",
+     "GUV": "Kyowa Hakko Kogyo Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "608,76",
+     "equityratio": "84,18",
+     "deptratio": "15,82"
+    },
+    {
+     "DieAktie": "Kyowa Hakko Kogyo Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "54,4",
+     "EPSdiluted": "54,36",
+     "DPS": "25",
+     "GUV": "Kyowa Hakko Kogyo Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "665,14",
+     "equityratio": "85,31",
+     "deptratio": "14,69"
+    },
+    {
+     "DieAktie": "Kyowa Hakko Kogyo Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "34,12",
+     "EPSdiluted": "34,08",
+     "DPS": "25",
+     "GUV": "Kyowa Hakko Kogyo Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "626,25",
+     "equityratio": "86,17",
+     "deptratio": "13,83"
+    }
+   ]
+  },
+  {
+   "name": "Marubeni Aktie [WKN: 860414 / ISIN: JP3877600001]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Marubeni",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Marubeni Corp.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Marubeni Corp.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Marubeni Corp.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "78,63",
+     "EPSdiluted": "78,63",
+     "DPS": "12",
+     "GUV": "Marubeni Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2121,5",
+     "equityratio": "16,53",
+     "deptratio": "83,47"
+    },
+    {
+     "DieAktie": "Marubeni Corp.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "99,13",
+     "EPSdiluted": "99,13",
+     "DPS": "20",
+     "GUV": "Marubeni Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2528,54",
+     "equityratio": "16,61",
+     "deptratio": "83,39"
+    },
+    {
+     "DieAktie": "Marubeni Corp.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "118,48",
+     "EPSdiluted": "118,48",
+     "DPS": "24",
+     "GUV": "Marubeni Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2800,07",
+     "equityratio": "18,97",
+     "deptratio": "81,03"
+    },
+    {
+     "DieAktie": "Marubeni Corp.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "121,52",
+     "EPSdiluted": "121,52",
+     "DPS": "25",
+     "GUV": "Marubeni Corp.: GuV (in Mio. JPY)",
+     "Turnover": "4064,57",
+     "equityratio": "19,09",
+     "deptratio": "80,91"
+    },
+    {
+     "DieAktie": "Marubeni Corp.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "60,85",
+     "EPSdiluted": "60,85",
+     "DPS": "26",
+     "GUV": "Marubeni Corp.: GuV (in Mio. JPY)",
+     "Turnover": "4514,44",
+     "equityratio": "19,79",
+     "deptratio": "80,21"
+    },
+    {
+     "DieAktie": "Marubeni Corp.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "35,88",
+     "EPSdiluted": "35,88",
+     "DPS": "21",
+     "GUV": "Marubeni Corp.: GuV (in Mio. JPY)",
+     "Turnover": "4206,77",
+     "equityratio": "18,5",
+     "deptratio": "81,5"
+    },
+    {
+     "DieAktie": "Marubeni Corp.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "88,08",
+     "EPSdiluted": "88,06",
+     "DPS": "23",
+     "GUV": "Marubeni Corp.: GuV (in Mio. JPY)",
+     "Turnover": "4107,19",
+     "equityratio": "20,88",
+     "deptratio": "79,12"
+    }
+   ]
+  },
+  {
+   "name": "Maruha Nichiro Seafoods, Aktie [WKN DE: A1XFC8 / ISIN: JP3876600002]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Maruha_Nichiro_Seafoods,",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Maruha Nichiro Seafoods, Inc.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Maruha Nichiro Seafoods, Inc.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Maruha Nichiro Seafoods, Inc.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "6,2",
+     "EPSdiluted": "6,2",
+     "DPS": "-",
+     "GUV": "Maruha Nichiro Seafoods, Inc.: GuV (in Mio. JPY)",
+     "Turnover": "592,63",
+     "equityratio": "22,97",
+     "deptratio": "77,03"
+    },
+    {
+     "DieAktie": "Maruha Nichiro Seafoods, Inc.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,54",
+     "EPSdiluted": "2,54",
+     "DPS": "-",
+     "GUV": "Maruha Nichiro Seafoods, Inc.: GuV (in Mio. JPY)",
+     "Turnover": "779,99",
+     "equityratio": "14,99",
+     "deptratio": "85,01"
+    },
+    {
+     "DieAktie": "Maruha Nichiro Seafoods, Inc.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "9,73",
+     "EPSdiluted": "9,73",
+     "DPS": "-",
+     "GUV": "Maruha Nichiro Seafoods, Inc.: GuV (in Mio. JPY)",
+     "Turnover": "764,98",
+     "equityratio": "18,45",
+     "deptratio": "81,55"
+    },
+    {
+     "DieAktie": "Maruha Nichiro Seafoods, Inc.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "6,18",
+     "EPSdiluted": "6,06",
+     "DPS": "0",
+     "GUV": "Maruha Nichiro Seafoods, Inc.: GuV (in Mio. JPY)",
+     "Turnover": "1617,42",
+     "equityratio": "14,87",
+     "deptratio": "85,13"
+    },
+    {
+     "DieAktie": "Maruha Nichiro Seafoods, Inc.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "145,5",
+     "EPSdiluted": "137,05",
+     "DPS": "30",
+     "GUV": "Maruha Nichiro Seafoods, Inc.: GuV (in Mio. JPY)",
+     "Turnover": "16407,2",
+     "equityratio": "17,71",
+     "deptratio": "82,29"
+    },
+    {
+     "DieAktie": "Maruha Nichiro Seafoods, Inc.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "77,83",
+     "EPSdiluted": "77,83",
+     "DPS": "30",
+     "GUV": "Maruha Nichiro Seafoods, Inc.: GuV (in Mio. JPY)",
+     "Turnover": "16808,4",
+     "equityratio": "17,53",
+     "deptratio": "82,47"
+    },
+    {
+     "DieAktie": "Maruha Nichiro Seafoods, Inc.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "293,44",
+     "EPSdiluted": "293,44",
+     "DPS": "40",
+     "GUV": "Maruha Nichiro Seafoods, Inc.: GuV (in Mio. JPY)",
+     "Turnover": "16590,9",
+     "equityratio": "20,08",
+     "deptratio": "79,92"
+    }
+   ]
+  },
+  {
+   "name": "MARUI GROUP Aktie [WKN: 855670 / ISIN: JP3870400003]",
+   "URL": "http://www.finanzen.at/bilanz_guv/MARUI_GROUP",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "MARUI GROUP CO LTD: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "MARUI GROUP CO LTD: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "MARUI GROUP CO LTD: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "-86,36",
+     "EPSdiluted": "-86,36",
+     "DPS": "14",
+     "GUV": "MARUI GROUP CO LTD: GuV (in Mio. JPY)",
+     "Turnover": "1485,02",
+     "equityratio": "45,24",
+     "deptratio": "54,76"
+    },
+    {
+     "DieAktie": "MARUI GROUP CO LTD: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "19,19",
+     "EPSdiluted": "19,19",
+     "DPS": "14",
+     "GUV": "MARUI GROUP CO LTD: GuV (in Mio. JPY)",
+     "Turnover": "1506,72",
+     "equityratio": "47,14",
+     "deptratio": "52,86"
+    },
+    {
+     "DieAktie": "MARUI GROUP CO LTD: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "48,43",
+     "EPSdiluted": "48,42",
+     "DPS": "15",
+     "GUV": "MARUI GROUP CO LTD: GuV (in Mio. JPY)",
+     "Turnover": "1488,02",
+     "equityratio": "48,65",
+     "deptratio": "51,35"
+    },
+    {
+     "DieAktie": "MARUI GROUP CO LTD: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "56,29",
+     "EPSdiluted": "56,29",
+     "DPS": "18",
+     "GUV": "MARUI GROUP CO LTD: GuV (in Mio. JPY)",
+     "Turnover": "1521,25",
+     "equityratio": "47,51",
+     "deptratio": "52,49"
+    },
+    {
+     "DieAktie": "MARUI GROUP CO LTD: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "58,86",
+     "EPSdiluted": "58,85",
+     "DPS": "19",
+     "GUV": "MARUI GROUP CO LTD: GuV (in Mio. JPY)",
+     "Turnover": "1486,16",
+     "equityratio": "45,41",
+     "deptratio": "54,59"
+    },
+    {
+     "DieAktie": "MARUI GROUP CO LTD: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "70,68",
+     "EPSdiluted": "70,67",
+     "DPS": "22",
+     "GUV": "MARUI GROUP CO LTD: GuV (in Mio. JPY)",
+     "Turnover": "977,75",
+     "equityratio": "38,58",
+     "deptratio": "61,42"
+    },
+    {
+     "DieAktie": "MARUI GROUP CO LTD: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "80,24",
+     "EPSdiluted": "80,24",
+     "DPS": "33",
+     "GUV": "MARUI GROUP CO LTD: GuV (in Mio. JPY)",
+     "Turnover": "1015,72",
+     "equityratio": "33,96",
+     "deptratio": "66,04"
+    }
+   ]
+  },
+  {
+   "name": "Matsui Securities Aktie [WKN: 694425 / ISIN: JP3863800003]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Matsui_Securities",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Matsui Securities Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Matsui Securities Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Matsui Securities Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "21,07",
+     "EPSdiluted": "19,86",
+     "DPS": "15",
+     "GUV": "Matsui Securities Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "81,07",
+     "equityratio": "17,55",
+     "deptratio": "82,45"
+    },
+    {
+     "DieAktie": "Matsui Securities Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "16,6",
+     "EPSdiluted": "-",
+     "DPS": "15",
+     "GUV": "Matsui Securities Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "68,96",
+     "equityratio": "18,09",
+     "deptratio": "81,91"
+    },
+    {
+     "DieAktie": "Matsui Securities Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "25,03",
+     "EPSdiluted": "25,03",
+     "DPS": "20",
+     "GUV": "Matsui Securities Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "81,01",
+     "equityratio": "13,24",
+     "deptratio": "86,76"
+    },
+    {
+     "DieAktie": "Matsui Securities Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "63,49",
+     "EPSdiluted": "63,49",
+     "DPS": "50",
+     "GUV": "Matsui Securities Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "155,35",
+     "equityratio": "12,4",
+     "deptratio": "87,6"
+    },
+    {
+     "DieAktie": "Matsui Securities Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "60,65",
+     "EPSdiluted": "60,65",
+     "DPS": "40",
+     "GUV": "Matsui Securities Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "133,98",
+     "equityratio": "11,02",
+     "deptratio": "88,98"
+    },
+    {
+     "DieAktie": "Matsui Securities Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "57,5",
+     "EPSdiluted": "57,49",
+     "DPS": "45",
+     "GUV": "Matsui Securities Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "134,39",
+     "equityratio": "13,98",
+     "deptratio": "86,02"
+    },
+    {
+     "DieAktie": "Matsui Securities Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "41,67",
+     "EPSdiluted": "41,65",
+     "DPS": "33",
+     "GUV": "Matsui Securities Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "107,95",
+     "equityratio": "12,3",
+     "deptratio": "87,7"
+    }
+   ]
+  },
+  {
+   "name": "Mazda Motor Aktie [WKN: 854131 / ISIN: JP3868400007]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Mazda_Motor",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Mazda Motor Corp.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Mazda Motor Corp.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Mazda Motor Corp.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "-169,6",
+     "EPSdiluted": "-169,6",
+     "DPS": "0",
+     "GUV": "Mazda Motor Corp.: GuV (in Mio. JPY)",
+     "Turnover": "6569,01",
+     "equityratio": "24,23",
+     "deptratio": "75,77"
+    },
+    {
+     "DieAktie": "Mazda Motor Corp.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "-289",
+     "EPSdiluted": "-289",
+     "DPS": "0",
+     "GUV": "Mazda Motor Corp.: GuV (in Mio. JPY)",
+     "Turnover": "5453,63",
+     "equityratio": "24,48",
+     "deptratio": "75,52"
+    },
+    {
+     "DieAktie": "Mazda Motor Corp.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "57,4",
+     "EPSdiluted": "57,4",
+     "DPS": "0",
+     "GUV": "Mazda Motor Corp.: GuV (in Mio. JPY)",
+     "Turnover": "3688,77",
+     "equityratio": "25,08",
+     "deptratio": "74,92"
+    },
+    {
+     "DieAktie": "Mazda Motor Corp.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "227",
+     "EPSdiluted": "227",
+     "DPS": "5",
+     "GUV": "Mazda Motor Corp.: GuV (in Mio. JPY)",
+     "Turnover": "4503,35",
+     "equityratio": "29,42",
+     "deptratio": "70,58"
+    },
+    {
+     "DieAktie": "Mazda Motor Corp.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "265,64",
+     "EPSdiluted": "265,64",
+     "DPS": "10",
+     "GUV": "Mazda Motor Corp.: GuV (in Mio. JPY)",
+     "Turnover": "5074,91",
+     "equityratio": "35,16",
+     "deptratio": "64,84"
+    },
+    {
+     "DieAktie": "Mazda Motor Corp.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "224,85",
+     "EPSdiluted": "224,85",
+     "DPS": "30",
+     "GUV": "Mazda Motor Corp.: GuV (in Mio. JPY)",
+     "Turnover": "5698,39",
+     "equityratio": "37,44",
+     "deptratio": "62,56"
+    },
+    {
+     "DieAktie": "Mazda Motor Corp.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "156,87",
+     "EPSdiluted": "156,86",
+     "DPS": "35",
+     "GUV": "Mazda Motor Corp.: GuV (in Mio. JPY)",
+     "Turnover": "5376,49",
+     "equityratio": "41,18",
+     "deptratio": "58,82"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "28.06.16",
+     "Dividende": "30,00"
+    },
+    {
+     "Datum": "23.06.15",
+     "Dividende": "10,00"
+    },
+    {
+     "Datum": "24.06.14",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "25.06.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.06.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "24.06.11",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Meidensha Aktie [WKN: 864751 / ISIN: JP3919800007]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Meidensha_1",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Meidensha Corporation: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Meidensha Corporation: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Meidensha Corporation: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "5,27",
+     "EPSdiluted": "5,27",
+     "DPS": "4",
+     "GUV": "Meidensha Corporation: GuV (in Mio. JPY)",
+     "Turnover": "739,04",
+     "equityratio": "24,42",
+     "deptratio": "75,58"
+    },
+    {
+     "DieAktie": "Meidensha Corporation: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "7,4",
+     "EPSdiluted": "7,4",
+     "DPS": "4",
+     "GUV": "Meidensha Corporation: GuV (in Mio. JPY)",
+     "Turnover": "798,01",
+     "equityratio": "24,18",
+     "deptratio": "75,82"
+    },
+    {
+     "DieAktie": "Meidensha Corporation: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "17,74",
+     "EPSdiluted": "17,74",
+     "DPS": "5",
+     "GUV": "Meidensha Corporation: GuV (in Mio. JPY)",
+     "Turnover": "871,3",
+     "equityratio": "25,42",
+     "deptratio": "74,58"
+    },
+    {
+     "DieAktie": "Meidensha Corporation: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "29",
+     "EPSdiluted": "29",
+     "DPS": "6",
+     "GUV": "Meidensha Corporation: GuV (in Mio. JPY)",
+     "Turnover": "952,63",
+     "equityratio": "23,98",
+     "deptratio": "76,02"
+    },
+    {
+     "DieAktie": "Meidensha Corporation: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "30,27",
+     "EPSdiluted": "30,27",
+     "DPS": "7",
+     "GUV": "Meidensha Corporation: GuV (in Mio. JPY)",
+     "Turnover": "1014,94",
+     "equityratio": "25,87",
+     "deptratio": "74,13"
+    },
+    {
+     "DieAktie": "Meidensha Corporation: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "30,68",
+     "EPSdiluted": "30,68",
+     "DPS": "8",
+     "GUV": "Meidensha Corporation: GuV (in Mio. JPY)",
+     "Turnover": "1046,31",
+     "equityratio": "26,48",
+     "deptratio": "73,52"
+    },
+    {
+     "DieAktie": "Meidensha Corporation: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "25,31",
+     "EPSdiluted": "25,31",
+     "DPS": "8",
+     "GUV": "Meidensha Corporation: GuV (in Mio. JPY)",
+     "Turnover": "970,28",
+     "equityratio": "29,57",
+     "deptratio": "70,43"
+    }
+   ]
+  },
+  {
+   "name": "Meiji Aktie [WKN DE: A0RL1S / ISIN: JP3918000005]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Meiji",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Meiji Holdings Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Meiji Holdings Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Meiji Holdings Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "64,82",
+     "EPSdiluted": "64,82",
+     "DPS": "40",
+     "GUV": "Meiji Holdings Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "7559,54",
+     "equityratio": "40,17",
+     "deptratio": "59,83"
+    },
+    {
+     "DieAktie": "Meiji Holdings Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "46,19",
+     "EPSdiluted": "46,19",
+     "DPS": "40",
+     "GUV": "Meiji Holdings Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "7528,88",
+     "equityratio": "38,88",
+     "deptratio": "61,12"
+    },
+    {
+     "DieAktie": "Meiji Holdings Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "112,99",
+     "EPSdiluted": "112,99",
+     "DPS": "40",
+     "GUV": "Meiji Holdings Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "7646,44",
+     "equityratio": "39,9",
+     "deptratio": "60,1"
+    },
+    {
+     "DieAktie": "Meiji Holdings Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "129,4",
+     "EPSdiluted": "129,4",
+     "DPS": "40",
+     "GUV": "Meiji Holdings Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "7794,13",
+     "equityratio": "41,11",
+     "deptratio": "58,89"
+    },
+    {
+     "DieAktie": "Meiji Holdings Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "209,79",
+     "EPSdiluted": "209,79",
+     "DPS": "50",
+     "GUV": "Meiji Holdings Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "7885,69",
+     "equityratio": "42,21",
+     "deptratio": "57,79"
+    },
+    {
+     "DieAktie": "Meiji Holdings Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "425,06",
+     "EPSdiluted": "425,06",
+     "DPS": "90",
+     "GUV": "Meiji Holdings Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "8311,97",
+     "equityratio": "47,76",
+     "deptratio": "52,24"
+    },
+    {
+     "DieAktie": "Meiji Holdings Co Ltd: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "413,11",
+     "EPSdiluted": "413,11",
+     "DPS": "110",
+     "GUV": "Meiji Holdings Co Ltd: GuV (in Mio. JPY)",
+     "Turnover": "8443,97",
+     "equityratio": "50,79",
+     "deptratio": "49,21"
+    }
+   ]
+  },
+  {
+   "name": "Minebea Aktie [WKN: 851838 / ISIN: JP3906000009]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Minebea",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Minebea Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Minebea Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Minebea Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "32,61",
+     "EPSdiluted": "32,61",
+     "DPS": "7",
+     "GUV": "Minebea Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "703,97",
+     "equityratio": "37,07",
+     "deptratio": "62,93"
+    },
+    {
+     "DieAktie": "Minebea Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "15,63",
+     "EPSdiluted": "15,54",
+     "DPS": "7",
+     "GUV": "Minebea Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "659,26",
+     "equityratio": "35,66",
+     "deptratio": "64,34"
+    },
+    {
+     "DieAktie": "Minebea Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "4,83",
+     "EPSdiluted": "4,65",
+     "DPS": "7",
+     "GUV": "Minebea Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "716,98",
+     "equityratio": "36,21",
+     "deptratio": "63,79"
+    },
+    {
+     "DieAktie": "Minebea Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "55,94",
+     "EPSdiluted": "53,14",
+     "DPS": "8",
+     "GUV": "Minebea Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "944,32",
+     "equityratio": "41,43",
+     "deptratio": "58,57"
+    },
+    {
+     "DieAktie": "Minebea Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "106,73",
+     "EPSdiluted": "101,32",
+     "DPS": "12",
+     "GUV": "Minebea Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1270,84",
+     "equityratio": "46,17",
+     "deptratio": "53,83"
+    },
+    {
+     "DieAktie": "Minebea Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "97,26",
+     "EPSdiluted": "92,35",
+     "DPS": "20",
+     "GUV": "Minebea Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1546,4",
+     "equityratio": "50,26",
+     "deptratio": "49,74"
+    },
+    {
+     "DieAktie": "Minebea Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "107,32",
+     "EPSdiluted": "105,64",
+     "DPS": "14",
+     "GUV": "Minebea Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1640,61",
+     "equityratio": "49,96",
+     "deptratio": "50,04"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "24.06.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "24.06.15",
+     "Dividende": "14,00"
+    },
+    {
+     "Datum": "25.06.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "26.06.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "09.06.09",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Mitsubishi Chemical Aktie [WKN: A0F6CH / ISIN: JP3897700005]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Mitsubishi_Chemical_1",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Mitsubishi Chemical Holdings CorpShs: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Mitsubishi Chemical Holdings CorpShs: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Mitsubishi Chemical Holdings CorpShs: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "58,72",
+     "EPSdiluted": "54,17",
+     "DPS": "10",
+     "GUV": "Mitsubishi Chemical Holdings CorpShs: GuV (in Mio. JPY)",
+     "Turnover": "2053,83",
+     "equityratio": "23,04",
+     "deptratio": "76,96"
+    },
+    {
+     "DieAktie": "Mitsubishi Chemical Holdings CorpShs: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "24,06",
+     "EPSdiluted": "22,67",
+     "DPS": "10",
+     "GUV": "Mitsubishi Chemical Holdings CorpShs: GuV (in Mio. JPY)",
+     "Turnover": "2051,41",
+     "equityratio": "24,3",
+     "deptratio": "75,7"
+    },
+    {
+     "DieAktie": "Mitsubishi Chemical Holdings CorpShs: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "12,61",
+     "EPSdiluted": "12,11",
+     "DPS": "12",
+     "GUV": "Mitsubishi Chemical Holdings CorpShs: GuV (in Mio. JPY)",
+     "Turnover": "2012,58",
+     "equityratio": "24,67",
+     "deptratio": "75,33"
+    },
+    {
+     "DieAktie": "Mitsubishi Chemical Holdings CorpShs: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "21,89",
+     "EPSdiluted": "21,45",
+     "DPS": "12",
+     "GUV": "Mitsubishi Chemical Holdings CorpShs: GuV (in Mio. JPY)",
+     "Turnover": "2327,57",
+     "equityratio": "25,9",
+     "deptratio": "74,1"
+    },
+    {
+     "DieAktie": "Mitsubishi Chemical Holdings CorpShs: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "41,4",
+     "EPSdiluted": "41,38",
+     "DPS": "13",
+     "GUV": "Mitsubishi Chemical Holdings CorpShs: GuV (in Mio. JPY)",
+     "Turnover": "2485,84",
+     "equityratio": "22,7",
+     "deptratio": "77,3"
+    },
+    {
+     "DieAktie": "Mitsubishi Chemical Holdings CorpShs: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "31,71",
+     "EPSdiluted": "31,69",
+     "DPS": "15",
+     "GUV": "Mitsubishi Chemical Holdings CorpShs: GuV (in Mio. JPY)",
+     "Turnover": "2608,38",
+     "equityratio": "22,97",
+     "deptratio": "77,03"
+    },
+    {
+     "DieAktie": "Mitsubishi Chemical Holdings CorpShs: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "106,73",
+     "EPSdiluted": "105,95",
+     "DPS": "20",
+     "GUV": "Mitsubishi Chemical Holdings CorpShs: GuV (in Mio. JPY)",
+     "Turnover": "2289,11",
+     "equityratio": "24,45",
+     "deptratio": "75,55"
+    }
+   ]
+  },
+  {
+   "name": "Mitsubishi Aktie [WKN: 857124 / ISIN: JP3898400001]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Mitsubishi",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Mitsubishi Corp.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Mitsubishi Corp.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Mitsubishi Corp.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "281,8",
+     "EPSdiluted": "281,05",
+     "DPS": "56",
+     "GUV": "Mitsubishi Corp.: GuV (in Mio. JPY)",
+     "Turnover": "3159,4",
+     "equityratio": "28,94",
+     "deptratio": "71,06"
+    },
+    {
+     "DieAktie": "Mitsubishi Corp.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "275,83",
+     "EPSdiluted": "275,22",
+     "DPS": "65",
+     "GUV": "Mitsubishi Corp.: GuV (in Mio. JPY)",
+     "Turnover": "3375,14",
+     "equityratio": "27,88",
+     "deptratio": "72,12"
+    },
+    {
+     "DieAktie": "Mitsubishi Corp.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "218,66",
+     "EPSdiluted": "218,18",
+     "DPS": "55",
+     "GUV": "Mitsubishi Corp.: GuV (in Mio. JPY)",
+     "Turnover": "3617,07",
+     "equityratio": "29",
+     "deptratio": "71"
+    },
+    {
+     "DieAktie": "Mitsubishi Corp.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "219,3",
+     "EPSdiluted": "218,8",
+     "DPS": "68",
+     "GUV": "Mitsubishi Corp.: GuV (in Mio. JPY)",
+     "Turnover": "4622,94",
+     "equityratio": "31,87",
+     "deptratio": "68,13"
+    },
+    {
+     "DieAktie": "Mitsubishi Corp.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "246,39",
+     "EPSdiluted": "245,83",
+     "DPS": "60",
+     "GUV": "Mitsubishi Corp.: GuV (in Mio. JPY)",
+     "Turnover": "4706,73",
+     "equityratio": "33,21",
+     "deptratio": "66,79"
+    },
+    {
+     "DieAktie": "Mitsubishi Corp.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "-93,68",
+     "EPSdiluted": "-93,68",
+     "DPS": "50",
+     "GUV": "Mitsubishi Corp.: GuV (in Mio. JPY)",
+     "Turnover": "4342,66",
+     "equityratio": "30,79",
+     "deptratio": "69,21"
+    },
+    {
+     "DieAktie": "Mitsubishi Corp.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "277,79",
+     "EPSdiluted": "277,16",
+     "DPS": "80",
+     "GUV": "Mitsubishi Corp.: GuV (in Mio. JPY)",
+     "Turnover": "4045",
+     "equityratio": "31,21",
+     "deptratio": "68,79"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "24.06.16",
+     "Dividende": "50,00"
+    },
+    {
+     "Datum": "19.06.15",
+     "Dividende": "70,00"
+    }
+   ]
+  },
+  {
+   "name": "Mitsubishi Electric Aktie [WKN: 856532 / ISIN: JP3902400005]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Mitsubishi_Electric",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Mitsubishi Electric Corp.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Mitsubishi Electric Corp.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Mitsubishi Electric Corp.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "58",
+     "EPSdiluted": "58",
+     "DPS": "12",
+     "GUV": "Mitsubishi Electric Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1697,9",
+     "equityratio": "31,52",
+     "deptratio": "68,48"
+    },
+    {
+     "DieAktie": "Mitsubishi Electric Corp.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "52,2",
+     "EPSdiluted": "52,2",
+     "DPS": "12",
+     "GUV": "Mitsubishi Electric Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1695,2",
+     "equityratio": "33,39",
+     "deptratio": "66,61"
+    },
+    {
+     "DieAktie": "Mitsubishi Electric Corp.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "32,38",
+     "EPSdiluted": "32,38",
+     "DPS": "11",
+     "GUV": "Mitsubishi Electric Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1661,55",
+     "equityratio": "38,12",
+     "deptratio": "61,88"
+    },
+    {
+     "DieAktie": "Mitsubishi Electric Corp.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "71,49",
+     "EPSdiluted": "71,49",
+     "DPS": "17",
+     "GUV": "Mitsubishi Electric Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1888,5",
+     "equityratio": "42,19",
+     "deptratio": "57,81"
+    },
+    {
+     "DieAktie": "Mitsubishi Electric Corp.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "109,32",
+     "EPSdiluted": "109,32",
+     "DPS": "27",
+     "GUV": "Mitsubishi Electric Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2013,68",
+     "equityratio": "45,38",
+     "deptratio": "54,62"
+    },
+    {
+     "DieAktie": "Mitsubishi Electric Corp.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "106,43",
+     "EPSdiluted": "106,43",
+     "DPS": "27",
+     "GUV": "Mitsubishi Electric Corp.: GuV (in Mio. JPY)",
+     "Turnover": "2046,93",
+     "equityratio": "45,29",
+     "deptratio": "54,71"
+    },
+    {
+     "DieAktie": "Mitsubishi Electric Corp.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "98,07",
+     "EPSdiluted": "98,07",
+     "DPS": "27",
+     "GUV": "Mitsubishi Electric Corp.: GuV (in Mio. JPY)",
+     "Turnover": "1974,88",
+     "equityratio": "48,79",
+     "deptratio": "51,21"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "29.06.16",
+     "Dividende": "27,00"
+    },
+    {
+     "Datum": "26.06.15",
+     "Dividende": "27,00"
+    },
+    {
+     "Datum": "27.06.14",
+     "Dividende": "17,00"
+    },
+    {
+     "Datum": "27.06.13",
+     "Dividende": "11,00"
+    },
+    {
+     "Datum": "28.06.12",
+     "Dividende": "12,00"
+    },
+    {
+     "Datum": "29.06.11",
+     "Dividende": "12,00"
+    },
+    {
+     "Datum": "29.06.10",
+     "Dividende": "4,00"
+    },
+    {
+     "Datum": "26.06.09",
+     "Dividende": "6,00"
+    }
+   ]
+  },
+  {
+   "name": "Mitsubishi Estate Aktie [WKN: 853684 / ISIN: JP3899600005]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Mitsubishi_Estate",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Mitsubishi Estate Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Mitsubishi Estate Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Mitsubishi Estate Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "46,27",
+     "EPSdiluted": "46,26",
+     "DPS": "12",
+     "GUV": "Mitsubishi Estate Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "711,97",
+     "equityratio": "28,33",
+     "deptratio": "71,67"
+    },
+    {
+     "DieAktie": "Mitsubishi Estate Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "40,72",
+     "EPSdiluted": "40,71",
+     "DPS": "12",
+     "GUV": "Mitsubishi Estate Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "729,81",
+     "equityratio": "28,66",
+     "deptratio": "71,34"
+    },
+    {
+     "DieAktie": "Mitsubishi Estate Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "32,79",
+     "EPSdiluted": "32,78",
+     "DPS": "12",
+     "GUV": "Mitsubishi Estate Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "667,93",
+     "equityratio": "26,2",
+     "deptratio": "73,8"
+    },
+    {
+     "DieAktie": "Mitsubishi Estate Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "46,34",
+     "EPSdiluted": "46,32",
+     "DPS": "12",
+     "GUV": "Mitsubishi Estate Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "774,69",
+     "equityratio": "27,8",
+     "deptratio": "72,2"
+    },
+    {
+     "DieAktie": "Mitsubishi Estate Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "52,85",
+     "EPSdiluted": "52,84",
+     "DPS": "14",
+     "GUV": "Mitsubishi Estate Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "799,95",
+     "equityratio": "30,32",
+     "deptratio": "69,68"
+    },
+    {
+     "DieAktie": "Mitsubishi Estate Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "60,13",
+     "EPSdiluted": "60,12",
+     "DPS": "16",
+     "GUV": "Mitsubishi Estate Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "727,36",
+     "equityratio": "28,29",
+     "deptratio": "71,71"
+    },
+    {
+     "DieAktie": "Mitsubishi Estate Co. Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "74",
+     "EPSdiluted": "73,98",
+     "DPS": "20",
+     "GUV": "Mitsubishi Estate Co. Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "810,86",
+     "equityratio": "28,94",
+     "deptratio": "71,06"
+    }
+   ]
+  },
+  {
+   "name": "Mitsubishi Heavy Industries Aktie [WKN: 853314 / ISIN: JP3900000005]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Mitsubishi_Heavy_Industries",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Mitsubishi Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Mitsubishi Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Mitsubishi Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "8,97",
+     "EPSdiluted": "8,96",
+     "DPS": "4",
+     "GUV": "Mitsubishi Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "864,32",
+     "equityratio": "31,68",
+     "deptratio": "68,32"
+    },
+    {
+     "DieAktie": "Mitsubishi Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "7,31",
+     "EPSdiluted": "7,3",
+     "DPS": "6",
+     "GUV": "Mitsubishi Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "839,67",
+     "equityratio": "31,71",
+     "deptratio": "68,29"
+    },
+    {
+     "DieAktie": "Mitsubishi Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "29,01",
+     "EPSdiluted": "28,95",
+     "DPS": "8",
+     "GUV": "Mitsubishi Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "838,27",
+     "equityratio": "35,09",
+     "deptratio": "64,91"
+    },
+    {
+     "DieAktie": "Mitsubishi Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "47,81",
+     "EPSdiluted": "47,71",
+     "DPS": "8",
+     "GUV": "Mitsubishi Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "996,12",
+     "equityratio": "31,64",
+     "deptratio": "68,36"
+    },
+    {
+     "DieAktie": "Mitsubishi Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "32,9",
+     "EPSdiluted": "32,82",
+     "DPS": "11",
+     "GUV": "Mitsubishi Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1186,76",
+     "equityratio": "32,31",
+     "deptratio": "67,69"
+    },
+    {
+     "DieAktie": "Mitsubishi Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "19,02",
+     "EPSdiluted": "18,97",
+     "DPS": "12",
+     "GUV": "Mitsubishi Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1202,82",
+     "equityratio": "30,63",
+     "deptratio": "69,37"
+    },
+    {
+     "DieAktie": "Mitsubishi Heavy Industries Ltd.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "26,12",
+     "EPSdiluted": "26,07",
+     "DPS": "12",
+     "GUV": "Mitsubishi Heavy Industries Ltd.: GuV (in Mio. JPY)",
+     "Turnover": "1163,28",
+     "equityratio": "32,57",
+     "deptratio": "67,43"
+    }
+   ]
+  },
+  {
+   "name": "Mitsubishi UFJ Financial Group Aktie [WKN: 657892 / ISIN: JP3902900004]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Mitsubishi_UFJ_Financial_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Mitsubishi UFJ Financial Group Inc. (MTFG): Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Mitsubishi UFJ Financial Group Inc. (MTFG): GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Mitsubishi UFJ Financial Group Inc. (MTFG): Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "39,94",
+     "EPSdiluted": "39,88",
+     "DPS": "12",
+     "GUV": "Mitsubishi UFJ Financial Group Inc. (MTFG): GuV (in Mio. JPY)",
+     "Turnover": "314,66",
+     "equityratio": "4,15",
+     "deptratio": "95,85"
+    },
+    {
+     "DieAktie": "Mitsubishi UFJ Financial Group Inc. (MTFG): Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "68,09",
+     "EPSdiluted": "67,93",
+     "DPS": "12",
+     "GUV": "Mitsubishi UFJ Financial Group Inc. (MTFG): GuV (in Mio. JPY)",
+     "Turnover": "310,65",
+     "equityratio": "4,39",
+     "deptratio": "95,61"
+    },
+    {
+     "DieAktie": "Mitsubishi UFJ Financial Group Inc. (MTFG): Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "58,99",
+     "EPSdiluted": "58,89",
+     "DPS": "13",
+     "GUV": "Mitsubishi UFJ Financial Group Inc. (MTFG): GuV (in Mio. JPY)",
+     "Turnover": "323,04",
+     "equityratio": "4,84",
+     "deptratio": "95,16"
+    },
+    {
+     "DieAktie": "Mitsubishi UFJ Financial Group Inc. (MTFG): Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "68,29",
+     "EPSdiluted": "68,04",
+     "DPS": "16",
+     "GUV": "Mitsubishi UFJ Financial Group Inc. (MTFG): GuV (in Mio. JPY)",
+     "Turnover": "342,54",
+     "equityratio": "4,91",
+     "deptratio": "95,09"
+    },
+    {
+     "DieAktie": "Mitsubishi UFJ Financial Group Inc. (MTFG): Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "73,22",
+     "EPSdiluted": "72,94",
+     "DPS": "18",
+     "GUV": "Mitsubishi UFJ Financial Group Inc. (MTFG): GuV (in Mio. JPY)",
+     "Turnover": "373,84",
+     "equityratio": "5,36",
+     "deptratio": "94,64"
+    },
+    {
+     "DieAktie": "Mitsubishi UFJ Financial Group Inc. (MTFG): Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "68,51",
+     "EPSdiluted": "68,17",
+     "DPS": "18",
+     "GUV": "Mitsubishi UFJ Financial Group Inc. (MTFG): GuV (in Mio. JPY)",
+     "Turnover": "382,08",
+     "equityratio": "5,18",
+     "deptratio": "94,82"
+    },
+    {
+     "DieAktie": "Mitsubishi UFJ Financial Group Inc. (MTFG): Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "68,28",
+     "EPSdiluted": "68",
+     "DPS": "18",
+     "GUV": "Mitsubishi UFJ Financial Group Inc. (MTFG): GuV (in Mio. JPY)",
+     "Turnover": "411,12",
+     "equityratio": "5,04",
+     "deptratio": "94,96"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "29.06.16",
+     "Dividende": "18,00"
+    },
+    {
+     "Datum": "25.06.15",
+     "Dividende": "18,00"
+    },
+    {
+     "Datum": "27.06.14",
+     "Dividende": "14,00"
+    },
+    {
+     "Datum": "28.06.12",
+     "Dividende": "12,00"
+    }
+   ]
+  },
+  {
+   "name": "The Japan Steel Works Aktie [WKN: 858684 / ISIN: JP3721400004]",
+   "URL": "http://www.finanzen.at/bilanz_guv/The_Japan_Steel_Works",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "The Japan Steel Works LtdShs: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "The Japan Steel Works LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "The Japan Steel Works LtdShs: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "222,7",
+     "EPSdiluted": "222,7",
+     "DPS": "60",
+     "GUV": "The Japan Steel Works LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "2868,35",
+     "equityratio": "35,34",
+     "deptratio": "64,66"
+    },
+    {
+     "DieAktie": "The Japan Steel Works LtdShs: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "169,65",
+     "EPSdiluted": "169,65",
+     "DPS": "50",
+     "GUV": "The Japan Steel Works LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "2982,2",
+     "equityratio": "39,21",
+     "deptratio": "60,79"
+    },
+    {
+     "DieAktie": "The Japan Steel Works LtdShs: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "111,65",
+     "EPSdiluted": "111,65",
+     "DPS": "50",
+     "GUV": "The Japan Steel Works LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "2975,06",
+     "equityratio": "43,83",
+     "deptratio": "56,17"
+    },
+    {
+     "DieAktie": "The Japan Steel Works LtdShs: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "74,6",
+     "EPSdiluted": "74,6",
+     "DPS": "25",
+     "GUV": "The Japan Steel Works LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "2546,3",
+     "equityratio": "47,09",
+     "deptratio": "52,91"
+    },
+    {
+     "DieAktie": "The Japan Steel Works LtdShs: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "-50,5",
+     "EPSdiluted": "-50,5",
+     "DPS": "20",
+     "GUV": "The Japan Steel Works LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "2628,8",
+     "equityratio": "43,02",
+     "deptratio": "56,98"
+    },
+    {
+     "DieAktie": "The Japan Steel Works LtdShs: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "-226,6",
+     "EPSdiluted": "-226,6",
+     "DPS": "25",
+     "GUV": "The Japan Steel Works LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "3048,29",
+     "equityratio": "37,53",
+     "deptratio": "62,47"
+    },
+    {
+     "DieAktie": "The Japan Steel Works LtdShs: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "-67,6",
+     "EPSdiluted": "-67,6",
+     "DPS": "25",
+     "GUV": "The Japan Steel Works LtdShs: GuV (in Mio. JPY)",
+     "Turnover": "2891,04",
+     "equityratio": "38,61",
+     "deptratio": "61,39"
+    }
+   ]
+  },
+  {
+   "name": "The Kansai Electric Power Aktie [WKN: 853264 / ISIN: JP3228600007]",
+   "URL": "http://www.finanzen.at/bilanz_guv/The_Kansai_Electric_Power",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "The Kansai Electric Power Co. Inc.: Die Aktie (in JPY)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "The Kansai Electric Power Co. Inc.: GuV (in Mio. JPY)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "The Kansai Electric Power Co. Inc.: Die Aktie (in JPY)",
+     "Jahr": "2011",
+     "EPSundiluted": "137,66",
+     "EPSdiluted": "137,66",
+     "DPS": "60",
+     "GUV": "The Kansai Electric Power Co. Inc.: GuV (in Mio. JPY)",
+     "Turnover": "3096,23",
+     "equityratio": "24,77",
+     "deptratio": "75,23"
+    },
+    {
+     "DieAktie": "The Kansai Electric Power Co. Inc.: Die Aktie (in JPY)",
+     "Jahr": "2012",
+     "EPSundiluted": "-271,12",
+     "EPSdiluted": "-271,12",
+     "DPS": "60",
+     "GUV": "The Kansai Electric Power Co. Inc.: GuV (in Mio. JPY)",
+     "Turnover": "3146,34",
+     "equityratio": "20,07",
+     "deptratio": "79,93"
+    },
+    {
+     "DieAktie": "The Kansai Electric Power Co. Inc.: Die Aktie (in JPY)",
+     "Jahr": "2013",
+     "EPSundiluted": "-272,43",
+     "EPSdiluted": "-272,43",
+     "DPS": "0",
+     "GUV": "The Kansai Electric Power Co. Inc.: GuV (in Mio. JPY)",
+     "Turnover": "3199,73",
+     "equityratio": "16,46",
+     "deptratio": "83,54"
+    },
+    {
+     "DieAktie": "The Kansai Electric Power Co. Inc.: Die Aktie (in JPY)",
+     "Jahr": "2014",
+     "EPSundiluted": "-109,01",
+     "EPSdiluted": "-109,01",
+     "DPS": "0",
+     "GUV": "The Kansai Electric Power Co. Inc.: GuV (in Mio. JPY)",
+     "Turnover": "3723,85",
+     "equityratio": "15,29",
+     "deptratio": "84,71"
+    },
+    {
+     "DieAktie": "The Kansai Electric Power Co. Inc.: Die Aktie (in JPY)",
+     "Jahr": "2015",
+     "EPSundiluted": "-166,06",
+     "EPSdiluted": "-166,06",
+     "DPS": "0",
+     "GUV": "The Kansai Electric Power Co. Inc.: GuV (in Mio. JPY)",
+     "Turnover": "3811,92",
+     "equityratio": "13,38",
+     "deptratio": "86,62"
+    },
+    {
+     "DieAktie": "The Kansai Electric Power Co. Inc.: Die Aktie (in JPY)",
+     "Jahr": "2016",
+     "EPSundiluted": "157,59",
+     "EPSdiluted": "157,59",
+     "DPS": "0",
+     "GUV": "The Kansai Electric Power Co. Inc.: GuV (in Mio. JPY)",
+     "Turnover": "3632,93",
+     "equityratio": "15,9",
+     "deptratio": "84,1"
+    },
+    {
+     "DieAktie": "The Kansai Electric Power Co. Inc.: Die Aktie (in JPY)",
+     "Jahr": "2017",
+     "EPSundiluted": "157,58",
+     "EPSdiluted": "157,58",
+     "DPS": "25",
+     "GUV": "The Kansai Electric Power Co. Inc.: GuV (in Mio. JPY)",
+     "Turnover": "3370,53",
+     "equityratio": "19,3",
+     "deptratio": "80,7"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "25.06.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "26.06.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "26.06.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.06.12",
+     "Dividende": "60,00"
+    }
+   ]
+  }
+ ]
+}
