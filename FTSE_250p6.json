@@ -1,0 +1,209 @@
+{
+ "Aktien": [
+  {
+   "name": "WS Atkins Aktie [WKN: 912859 / ISIN: GB0000608009]",
+   "URL": "http://www.finanzen.at/bilanz_guv/WS_Atkins",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "WS Atkins Plc: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "WS Atkins Plc: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "WS Atkins Plc: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,74",
+     "EPSdiluted": "0,73",
+     "DPS": "0,29",
+     "GUV": "WS Atkins Plc: GuV (in Mio. GBP)",
+     "Turnover": "15,65",
+     "equityratio": "1,58",
+     "deptratio": "98,42"
+    },
+    {
+     "DieAktie": "WS Atkins Plc: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,09",
+     "EPSdiluted": "1,07",
+     "DPS": "0,31",
+     "GUV": "WS Atkins Plc: GuV (in Mio. GBP)",
+     "Turnover": "17,1",
+     "equityratio": "11,14",
+     "deptratio": "88,86"
+    },
+    {
+     "DieAktie": "WS Atkins Plc: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,91",
+     "EPSdiluted": "0,89",
+     "DPS": "0,32",
+     "GUV": "WS Atkins Plc: GuV (in Mio. GBP)",
+     "Turnover": "17,08",
+     "equityratio": "12,92",
+     "deptratio": "87,08"
+    },
+    {
+     "DieAktie": "WS Atkins Plc: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,98",
+     "EPSdiluted": "0,96",
+     "DPS": "0,34",
+     "GUV": "WS Atkins Plc: GuV (in Mio. GBP)",
+     "Turnover": "17,46",
+     "equityratio": "12,03",
+     "deptratio": "87,97"
+    },
+    {
+     "DieAktie": "WS Atkins Plc: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,88",
+     "EPSdiluted": "0,85",
+     "DPS": "0,37",
+     "GUV": "WS Atkins Plc: GuV (in Mio. GBP)",
+     "Turnover": "17,5",
+     "equityratio": "17,05",
+     "deptratio": "82,95"
+    },
+    {
+     "DieAktie": "WS Atkins Plc: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,06",
+     "EPSdiluted": "1,03",
+     "DPS": "0,4",
+     "GUV": "WS Atkins Plc: GuV (in Mio. GBP)",
+     "Turnover": "18,59",
+     "equityratio": "20,83",
+     "deptratio": "79,17"
+    },
+    {
+     "DieAktie": "WS Atkins Plc: Die Aktie (in GBP)",
+     "Jahr": "2017",
+     "EPSundiluted": "1,33",
+     "EPSdiluted": "1,3",
+     "DPS": "-",
+     "GUV": "WS Atkins Plc: GuV (in Mio. GBP)",
+     "Turnover": "20,83",
+     "equityratio": "26,67",
+     "deptratio": "73,33"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "02.08.16",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "29.07.15",
+     "Dividende": "0,37"
+    }
+   ]
+  },
+  {
+   "name": "Zoopla Property Group Aktie [WKN DE: A116RR / ISIN: GB00BMHTHT14]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Zoopla_Property_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Zoopla Property Group PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Zoopla Property Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Zoopla Property Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "-0,01",
+     "EPSdiluted": "-0,01",
+     "DPS": "-",
+     "GUV": "Zoopla Property Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,03",
+     "equityratio": "53,57",
+     "deptratio": "46,43"
+    },
+    {
+     "DieAktie": "Zoopla Property Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0",
+     "EPSdiluted": "0",
+     "DPS": "-",
+     "GUV": "Zoopla Property Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,09",
+     "equityratio": "91,67",
+     "deptratio": "8,33"
+    },
+    {
+     "DieAktie": "Zoopla Property Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,05",
+     "EPSdiluted": "0,05",
+     "DPS": "-",
+     "GUV": "Zoopla Property Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,15",
+     "equityratio": "89,6",
+     "deptratio": "10,4"
+    },
+    {
+     "DieAktie": "Zoopla Property Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,05",
+     "EPSdiluted": "0,05",
+     "DPS": "0,01",
+     "GUV": "Zoopla Property Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,19",
+     "equityratio": "85,53",
+     "deptratio": "14,47"
+    },
+    {
+     "DieAktie": "Zoopla Property Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,06",
+     "EPSdiluted": "0,06",
+     "DPS": "0,04",
+     "GUV": "Zoopla Property Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,26",
+     "equityratio": "38,26",
+     "deptratio": "61,74"
+    },
+    {
+     "DieAktie": "Zoopla Property Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,09",
+     "EPSdiluted": "0,09",
+     "DPS": "0,05",
+     "GUV": "Zoopla Property Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,47",
+     "equityratio": "37,78",
+     "deptratio": "62,22"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "02.02.17",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "25.02.16",
+     "Dividende": "0,04"
+    },
+    {
+     "Datum": "01.10.15",
+     "Dividende": "0,04"
+    },
+    {
+     "Datum": "12.02.15",
+     "Dividende": "0,07"
+    }
+   ]
+  }
+ ]
+}

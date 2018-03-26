@@ -1,0 +1,5061 @@
+{
+ "Aktien": [
+  {
+   "name": "J D Wetherspoon Aktie [WKN: 885372 / ISIN: GB0001638955]",
+   "URL": "http://www.finanzen.at/bilanz_guv/J_D_Wetherspoon",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "J D Wetherspoon plc: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "J D Wetherspoon plc: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "J D Wetherspoon plc: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,29",
+     "EPSdiluted": "0,29",
+     "DPS": "0,12",
+     "GUV": "J D Wetherspoon plc: GuV (in Mio. GBP)",
+     "Turnover": "7,16",
+     "equityratio": "17,8",
+     "deptratio": "82,2"
+    },
+    {
+     "DieAktie": "J D Wetherspoon plc: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,35",
+     "EPSdiluted": "0,35",
+     "DPS": "0,12",
+     "GUV": "J D Wetherspoon plc: GuV (in Mio. GBP)",
+     "Turnover": "8,12",
+     "equityratio": "17,28",
+     "deptratio": "82,72"
+    },
+    {
+     "DieAktie": "J D Wetherspoon plc: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,36",
+     "EPSdiluted": "0,36",
+     "DPS": "0,12",
+     "GUV": "J D Wetherspoon plc: GuV (in Mio. GBP)",
+     "Turnover": "9,57",
+     "equityratio": "16,34",
+     "deptratio": "83,66"
+    },
+    {
+     "DieAktie": "J D Wetherspoon plc: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,38",
+     "EPSdiluted": "0,37",
+     "DPS": "0,12",
+     "GUV": "J D Wetherspoon plc: GuV (in Mio. GBP)",
+     "Turnover": "10,16",
+     "equityratio": "20,04",
+     "deptratio": "79,96"
+    },
+    {
+     "DieAktie": "J D Wetherspoon plc: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,34",
+     "EPSdiluted": "0,33",
+     "DPS": "0,12",
+     "GUV": "J D Wetherspoon plc: GuV (in Mio. GBP)",
+     "Turnover": "11,25",
+     "equityratio": "18,94",
+     "deptratio": "81,06"
+    },
+    {
+     "DieAktie": "J D Wetherspoon plc: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,38",
+     "EPSdiluted": "0,37",
+     "DPS": "0,12",
+     "GUV": "J D Wetherspoon plc: GuV (in Mio. GBP)",
+     "Turnover": "12,38",
+     "equityratio": "17,28",
+     "deptratio": "82,72"
+    },
+    {
+     "DieAktie": "J D Wetherspoon plc: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,45",
+     "EPSdiluted": "0,43",
+     "DPS": "0,12",
+     "GUV": "J D Wetherspoon plc: GuV (in Mio. GBP)",
+     "Turnover": "13,53",
+     "equityratio": "15,63",
+     "deptratio": "84,37"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "10.11.16",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "12.11.15",
+     "Dividende": "0,12"
+    }
+   ]
+  },
+  {
+   "name": "James Fisher & Sons Aktie [WKN: 871184 / ISIN: GB0003395000]",
+   "URL": "http://www.finanzen.at/bilanz_guv/James_FisherSons",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "James Fisher & Sons PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "James Fisher & Sons PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "James Fisher & Sons PLC: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,4",
+     "EPSdiluted": "0,4",
+     "DPS": "0,15",
+     "GUV": "James Fisher & Sons PLC: GuV (in Mio. GBP)",
+     "Turnover": "5,37",
+     "equityratio": "36,65",
+     "deptratio": "63,35"
+    },
+    {
+     "DieAktie": "James Fisher & Sons PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,48",
+     "EPSdiluted": "0,48",
+     "DPS": "0,16",
+     "GUV": "James Fisher & Sons PLC: GuV (in Mio. GBP)",
+     "Turnover": "6,13",
+     "equityratio": "38,57",
+     "deptratio": "61,43"
+    },
+    {
+     "DieAktie": "James Fisher & Sons PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,8",
+     "EPSdiluted": "0,79",
+     "DPS": "0,18",
+     "GUV": "James Fisher & Sons PLC: GuV (in Mio. GBP)",
+     "Turnover": "7,23",
+     "equityratio": "45,51",
+     "deptratio": "54,49"
+    },
+    {
+     "DieAktie": "James Fisher & Sons PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,77",
+     "EPSdiluted": "0,76",
+     "DPS": "0,2",
+     "GUV": "James Fisher & Sons PLC: GuV (in Mio. GBP)",
+     "Turnover": "8,19",
+     "equityratio": "45,84",
+     "deptratio": "54,16"
+    },
+    {
+     "DieAktie": "James Fisher & Sons PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,8",
+     "EPSdiluted": "0,79",
+     "DPS": "0,22",
+     "GUV": "James Fisher & Sons PLC: GuV (in Mio. GBP)",
+     "Turnover": "8,79",
+     "equityratio": "46,81",
+     "deptratio": "53,19"
+    },
+    {
+     "DieAktie": "James Fisher & Sons PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,8",
+     "EPSdiluted": "0,79",
+     "DPS": "0,24",
+     "GUV": "James Fisher & Sons PLC: GuV (in Mio. GBP)",
+     "Turnover": "8,69",
+     "equityratio": "42,99",
+     "deptratio": "57,01"
+    },
+    {
+     "DieAktie": "James Fisher & Sons PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,79",
+     "EPSdiluted": "0,79",
+     "DPS": "0,26",
+     "GUV": "James Fisher & Sons PLC: GuV (in Mio. GBP)",
+     "Turnover": "9,23",
+     "equityratio": "46,33",
+     "deptratio": "53,67"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "28.04.16",
+     "Dividende": "0,24"
+    },
+    {
+     "Datum": "30.04.15",
+     "Dividende": "0,22"
+    }
+   ]
+  },
+  {
+   "name": "Jardine Lloyd Thompson Group Aktie [WKN: 894294 / ISIN: GB0005203376]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Jardine_Lloyd_Thompson_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Jardine Lloyd Thompson Group plc: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Jardine Lloyd Thompson Group plc: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Jardine Lloyd Thompson Group plc: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,42",
+     "EPSdiluted": "0,42",
+     "DPS": "0,23",
+     "GUV": "Jardine Lloyd Thompson Group plc: GuV (in Mio. GBP)",
+     "Turnover": "3,4",
+     "equityratio": "23,42",
+     "deptratio": "76,58"
+    },
+    {
+     "DieAktie": "Jardine Lloyd Thompson Group plc: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,41",
+     "EPSdiluted": "0,4",
+     "DPS": "0,24",
+     "GUV": "Jardine Lloyd Thompson Group plc: GuV (in Mio. GBP)",
+     "Turnover": "3,74",
+     "equityratio": "21,33",
+     "deptratio": "78,67"
+    },
+    {
+     "DieAktie": "Jardine Lloyd Thompson Group plc: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,49",
+     "EPSdiluted": "0,48",
+     "DPS": "0,26",
+     "GUV": "Jardine Lloyd Thompson Group plc: GuV (in Mio. GBP)",
+     "Turnover": "4,01",
+     "equityratio": "21,83",
+     "deptratio": "78,17"
+    },
+    {
+     "DieAktie": "Jardine Lloyd Thompson Group plc: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,47",
+     "EPSdiluted": "0,46",
+     "DPS": "0,27",
+     "GUV": "Jardine Lloyd Thompson Group plc: GuV (in Mio. GBP)",
+     "Turnover": "4,46",
+     "equityratio": "17,7",
+     "deptratio": "82,3"
+    },
+    {
+     "DieAktie": "Jardine Lloyd Thompson Group plc: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,48",
+     "EPSdiluted": "0,48",
+     "DPS": "0,29",
+     "GUV": "Jardine Lloyd Thompson Group plc: GuV (in Mio. GBP)",
+     "Turnover": "5,02",
+     "equityratio": "13,18",
+     "deptratio": "86,82"
+    },
+    {
+     "DieAktie": "Jardine Lloyd Thompson Group plc: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,47",
+     "EPSdiluted": "0,47",
+     "DPS": "0,31",
+     "GUV": "Jardine Lloyd Thompson Group plc: GuV (in Mio. GBP)",
+     "Turnover": "5,27",
+     "equityratio": "13,96",
+     "deptratio": "86,04"
+    },
+    {
+     "DieAktie": "Jardine Lloyd Thompson Group plc: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,39",
+     "EPSdiluted": "0,38",
+     "DPS": "0,32",
+     "GUV": "Jardine Lloyd Thompson Group plc: GuV (in Mio. GBP)",
+     "Turnover": "5,86",
+     "equityratio": "12,5",
+     "deptratio": "87,5"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "26.04.16",
+     "Dividende": "0,31"
+    },
+    {
+     "Datum": "01.05.15",
+     "Dividende": "0,29"
+    },
+    {
+     "Datum": "30.04.14",
+     "Dividende": "0,27"
+    },
+    {
+     "Datum": "30.04.13",
+     "Dividende": "0,26"
+    },
+    {
+     "Datum": "26.04.12",
+     "Dividende": "0,24"
+    },
+    {
+     "Datum": "28.04.11",
+     "Dividende": "0,23"
+    }
+   ]
+  },
+  {
+   "name": "JD Sports Fashion Aktie [WKN DE: A2DF7G / ISIN: GB00BYX91H57]",
+   "URL": "http://www.finanzen.at/bilanz_guv/JD_Sports_Fashion_3",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "JD Sports Fashion PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "JD Sports Fashion PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "JD Sports Fashion PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,06",
+     "EPSdiluted": "0,06",
+     "DPS": "0,01",
+     "GUV": "JD Sports Fashion PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "0,91",
+     "equityratio": "50,05",
+     "deptratio": "49,95"
+    },
+    {
+     "DieAktie": "JD Sports Fashion PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,05",
+     "EPSdiluted": "0,05",
+     "DPS": "0,01",
+     "GUV": "JD Sports Fashion PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "1,09",
+     "equityratio": "43,68",
+     "deptratio": "56,32"
+    },
+    {
+     "DieAktie": "JD Sports Fashion PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,04",
+     "EPSdiluted": "0,04",
+     "DPS": "0,01",
+     "GUV": "JD Sports Fashion PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "1,29",
+     "equityratio": "47,24",
+     "deptratio": "52,76"
+    },
+    {
+     "DieAktie": "JD Sports Fashion PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,04",
+     "EPSdiluted": "0,04",
+     "DPS": "0,01",
+     "GUV": "JD Sports Fashion PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "1,37",
+     "equityratio": "43,29",
+     "deptratio": "56,71"
+    },
+    {
+     "DieAktie": "JD Sports Fashion PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,06",
+     "EPSdiluted": "0,06",
+     "DPS": "0,01",
+     "GUV": "JD Sports Fashion PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "1,56",
+     "equityratio": "43,44",
+     "deptratio": "56,56"
+    },
+    {
+     "DieAktie": "JD Sports Fashion PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,1",
+     "EPSdiluted": "0,1",
+     "DPS": "0,01",
+     "GUV": "JD Sports Fashion PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "1,87",
+     "equityratio": "48,23",
+     "deptratio": "51,77"
+    },
+    {
+     "DieAktie": "JD Sports Fashion PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,18",
+     "EPSdiluted": "0,18",
+     "DPS": "0,02",
+     "GUV": "JD Sports Fashion PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "2,44",
+     "equityratio": "46,54",
+     "deptratio": "53,46"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "17.06.16",
+     "Dividende": "0,02"
+    },
+    {
+     "Datum": "17.06.15",
+     "Dividende": "0,01"
+    }
+   ]
+  },
+  {
+   "name": "John Laing Group Aktie [WKN DE: A14NFJ / ISIN: GB00BVC3CB83]",
+   "URL": "http://www.finanzen.at/bilanz_guv/John_Laing_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "John Laing Group PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "John Laing Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "John Laing Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "-0,11",
+     "EPSdiluted": "-0,11",
+     "DPS": "-",
+     "GUV": "John Laing Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,35",
+     "equityratio": "-66,92",
+     "deptratio": "166,92"
+    },
+    {
+     "DieAktie": "John Laing Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,1",
+     "EPSdiluted": "0,1",
+     "DPS": "-",
+     "GUV": "John Laing Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,52",
+     "equityratio": "-64,29",
+     "deptratio": "164,29"
+    },
+    {
+     "DieAktie": "John Laing Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,32",
+     "EPSdiluted": "0,32",
+     "DPS": "-",
+     "GUV": "John Laing Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,39",
+     "equityratio": "-51,66",
+     "deptratio": "151,66"
+    },
+    {
+     "DieAktie": "John Laing Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "-",
+     "GUV": "John Laing Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,13",
+     "equityratio": "74,43",
+     "deptratio": "25,57"
+    },
+    {
+     "DieAktie": "John Laing Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,29",
+     "EPSdiluted": "0,29",
+     "DPS": "0,05",
+     "GUV": "John Laing Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,1",
+     "equityratio": "91,03",
+     "deptratio": "8,97"
+    },
+    {
+     "DieAktie": "John Laing Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,52",
+     "EPSdiluted": "0,51",
+     "DPS": "0,06",
+     "GUV": "John Laing Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,11",
+     "equityratio": "80,2",
+     "deptratio": "19,8"
+    }
+   ]
+  },
+  {
+   "name": "Jupiter Aktie [WKN DE: A1C0S3 / ISIN: GB00B53P2009]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Jupiter",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Jupiter PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Jupiter PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Jupiter PLC: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,16",
+     "EPSdiluted": "0,11",
+     "DPS": "0,05",
+     "GUV": "Jupiter PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,93",
+     "equityratio": "42,57",
+     "deptratio": "57,43"
+    },
+    {
+     "DieAktie": "Jupiter PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,16",
+     "EPSdiluted": "0,15",
+     "DPS": "0,08",
+     "GUV": "Jupiter PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,01",
+     "equityratio": "55,25",
+     "deptratio": "44,75"
+    },
+    {
+     "DieAktie": "Jupiter PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,15",
+     "EPSdiluted": "0,14",
+     "DPS": "0,09",
+     "GUV": "Jupiter PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,88",
+     "equityratio": "61,48",
+     "deptratio": "38,52"
+    },
+    {
+     "DieAktie": "Jupiter PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,21",
+     "EPSdiluted": "0,2",
+     "DPS": "0,13",
+     "GUV": "Jupiter PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,9",
+     "equityratio": "70,63",
+     "deptratio": "29,37"
+    },
+    {
+     "DieAktie": "Jupiter PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,28",
+     "EPSdiluted": "0,27",
+     "DPS": "0,25",
+     "GUV": "Jupiter PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,83",
+     "equityratio": "76,63",
+     "deptratio": "23,37"
+    },
+    {
+     "DieAktie": "Jupiter PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,29",
+     "EPSdiluted": "0,29",
+     "DPS": "0,26",
+     "GUV": "Jupiter PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,88",
+     "equityratio": "76,65",
+     "deptratio": "23,35"
+    },
+    {
+     "DieAktie": "Jupiter PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,3",
+     "EPSdiluted": "0,3",
+     "DPS": "0,27",
+     "GUV": "Jupiter PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,88",
+     "equityratio": "76,2",
+     "deptratio": "23,8"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "18.05.16",
+     "Dividende": "0,26"
+    },
+    {
+     "Datum": "15.04.15",
+     "Dividende": "0,25"
+    },
+    {
+     "Datum": "21.05.14",
+     "Dividende": "0,13"
+    },
+    {
+     "Datum": "18.04.13",
+     "Dividende": "0,09"
+    }
+   ]
+  },
+  {
+   "name": "JUST EAT Aktie [WKN DE: A1100K / ISIN: GB00BKX5CN86]",
+   "URL": "http://www.finanzen.at/bilanz_guv/JUST_EAT",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "JUST EAT plc: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "JUST EAT plc: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "JUST EAT plc: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "-",
+     "GUV": "JUST EAT plc: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "52,51",
+     "deptratio": "47,49"
+    },
+    {
+     "DieAktie": "JUST EAT plc: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "-",
+     "GUV": "JUST EAT plc: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "59,87",
+     "deptratio": "40,13"
+    },
+    {
+     "DieAktie": "JUST EAT plc: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "-",
+     "GUV": "JUST EAT plc: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "56,46",
+     "deptratio": "43,54"
+    },
+    {
+     "DieAktie": "JUST EAT plc: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,1",
+     "EPSdiluted": "0,09",
+     "DPS": "0",
+     "GUV": "JUST EAT plc: GuV (in Mio. GBP)",
+     "Turnover": "0,28",
+     "equityratio": "69,42",
+     "deptratio": "30,58"
+    },
+    {
+     "DieAktie": "JUST EAT plc: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,04",
+     "EPSdiluted": "0,04",
+     "DPS": "0",
+     "GUV": "JUST EAT plc: GuV (in Mio. GBP)",
+     "Turnover": "0,39",
+     "equityratio": "81,64",
+     "deptratio": "18,36"
+    },
+    {
+     "DieAktie": "JUST EAT plc: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,11",
+     "EPSdiluted": "0,11",
+     "DPS": "0",
+     "GUV": "JUST EAT plc: GuV (in Mio. GBP)",
+     "Turnover": "0,55",
+     "equityratio": "78,02",
+     "deptratio": "21,98"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "27.04.16",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Just Retirement Group Aktie [WKN DE: A1W8J6 / ISIN: GB00BCRX1J15]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Just_Retirement_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Just Retirement Group PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Just Retirement Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Just Retirement Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0",
+     "EPSdiluted": "0",
+     "DPS": "-",
+     "GUV": "Just Retirement Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,06",
+     "equityratio": "1,76",
+     "deptratio": "98,24"
+    },
+    {
+     "DieAktie": "Just Retirement Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,03",
+     "EPSdiluted": "0,03",
+     "DPS": "-",
+     "GUV": "Just Retirement Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,16",
+     "equityratio": "1,55",
+     "deptratio": "98,45"
+    },
+    {
+     "DieAktie": "Just Retirement Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,12",
+     "DPS": "-",
+     "GUV": "Just Retirement Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,77",
+     "equityratio": "2,41",
+     "deptratio": "97,59"
+    },
+    {
+     "DieAktie": "Just Retirement Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,16",
+     "EPSdiluted": "0,16",
+     "DPS": "0,02",
+     "GUV": "Just Retirement Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,61",
+     "equityratio": "11,03",
+     "deptratio": "88,97"
+    },
+    {
+     "DieAktie": "Just Retirement Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "-0,05",
+     "EPSdiluted": "-0,05",
+     "DPS": "0,03",
+     "GUV": "Just Retirement Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "4,21",
+     "equityratio": "9,28",
+     "deptratio": "90,72"
+    },
+    {
+     "DieAktie": "Just Retirement Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,13",
+     "EPSdiluted": "0,13",
+     "DPS": "0,05",
+     "GUV": "Just Retirement Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,71",
+     "equityratio": "9,03",
+     "deptratio": "90,97"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "07.12.16",
+     "Dividende": "0,03"
+    }
+   ]
+  },
+  {
+   "name": "Kazakhmys Aktie [WKN: A0HFWR / ISIN: GB00B0HZPV38]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Kazakhmys",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Kazakhmys plc: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Kazakhmys plc: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Kazakhmys plc: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,74",
+     "EPSdiluted": "1,74",
+     "DPS": "0,14",
+     "GUV": "Kazakhmys plc: GuV (in Mio. GBP)",
+     "Turnover": "3,92",
+     "equityratio": "74,63",
+     "deptratio": "25,37"
+    },
+    {
+     "DieAktie": "Kazakhmys plc: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,14",
+     "EPSdiluted": "1,14",
+     "DPS": "0,17",
+     "GUV": "Kazakhmys plc: GuV (in Mio. GBP)",
+     "Turnover": "4,16",
+     "equityratio": "75,23",
+     "deptratio": "24,77"
+    },
+    {
+     "DieAktie": "Kazakhmys plc: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "-2,72",
+     "EPSdiluted": "-2,72",
+     "DPS": "0,07",
+     "GUV": "Kazakhmys plc: GuV (in Mio. GBP)",
+     "Turnover": "4,03",
+     "equityratio": "62,63",
+     "deptratio": "37,37"
+    },
+    {
+     "DieAktie": "Kazakhmys plc: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "-1,87",
+     "EPSdiluted": "-1,87",
+     "DPS": "0",
+     "GUV": "Kazakhmys plc: GuV (in Mio. GBP)",
+     "Turnover": "3,87",
+     "equityratio": "48,93",
+     "deptratio": "51,07"
+    },
+    {
+     "DieAktie": "Kazakhmys plc: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "-0,4",
+     "EPSdiluted": "-0,4",
+     "DPS": "0",
+     "GUV": "Kazakhmys plc: GuV (in Mio. GBP)",
+     "Turnover": "1,15",
+     "equityratio": "36,74",
+     "deptratio": "63,26"
+    },
+    {
+     "DieAktie": "Kazakhmys plc: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "-0,02",
+     "EPSdiluted": "-0,02",
+     "DPS": "0",
+     "GUV": "Kazakhmys plc: GuV (in Mio. GBP)",
+     "Turnover": "0,98",
+     "equityratio": "7,67",
+     "deptratio": "92,33"
+    },
+    {
+     "DieAktie": "Kazakhmys plc: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,3",
+     "EPSdiluted": "0,3",
+     "DPS": "0",
+     "GUV": "Kazakhmys plc: GuV (in Mio. GBP)",
+     "Turnover": "1,27",
+     "equityratio": "10,54",
+     "deptratio": "89,46"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "05.05.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "07.05.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "15.08.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.05.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "07.01.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "02.08.13",
+     "Dividende": "0,11"
+    },
+    {
+     "Datum": "17.05.13",
+     "Dividende": "0,11"
+    },
+    {
+     "Datum": "11.05.12",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "13.05.11",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "14.05.10",
+     "Dividende": "0,09"
+    },
+    {
+     "Datum": "06.05.09",
+     "Dividende": "0,14"
+    }
+   ]
+  },
+  {
+   "name": "Kier Group Aktie [WKN: 918585 / ISIN: GB0004915632]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Kier_Group_2",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Kier Group PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Kier Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Kier Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,86",
+     "EPSdiluted": "0,86",
+     "DPS": "0,46",
+     "GUV": "Kier Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "44,4",
+     "equityratio": "9,24",
+     "deptratio": "90,76"
+    },
+    {
+     "DieAktie": "Kier Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,33",
+     "EPSdiluted": "1,31",
+     "DPS": "0,51",
+     "GUV": "Kier Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "45",
+     "equityratio": "13,85",
+     "deptratio": "86,15"
+    },
+    {
+     "DieAktie": "Kier Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,14",
+     "EPSdiluted": "1,12",
+     "DPS": "0,53",
+     "GUV": "Kier Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "41,93",
+     "equityratio": "13,17",
+     "deptratio": "86,83"
+    },
+    {
+     "DieAktie": "Kier Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,76",
+     "EPSdiluted": "0,76",
+     "DPS": "0,54",
+     "GUV": "Kier Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "39,11",
+     "equityratio": "13,75",
+     "deptratio": "86,25"
+    },
+    {
+     "DieAktie": "Kier Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,15",
+     "EPSdiluted": "0,15",
+     "DPS": "0,58",
+     "GUV": "Kier Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "43,16",
+     "equityratio": "17,01",
+     "deptratio": "82,99"
+    },
+    {
+     "DieAktie": "Kier Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,06",
+     "EPSdiluted": "0,06",
+     "DPS": "0,55",
+     "GUV": "Kier Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "46,14",
+     "equityratio": "20,84",
+     "deptratio": "79,16"
+    },
+    {
+     "DieAktie": "Kier Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,19",
+     "EPSdiluted": "-0,19",
+     "DPS": "0,65",
+     "GUV": "Kier Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "43,2",
+     "equityratio": "22,68",
+     "deptratio": "77,32"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "17.11.17",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "18.11.16",
+     "Dividende": "0,65"
+    },
+    {
+     "Datum": "12.11.15",
+     "Dividende": "0,55"
+    }
+   ]
+  },
+  {
+   "name": "Ladbrokes Coral Group Aktie [WKN DE: A0JEHM / ISIN: GB00B0ZSH635]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Ladbrokes",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Ladbrokes Coral Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Ladbrokes Coral Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Ladbrokes Coral Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,39",
+     "EPSdiluted": "0,38",
+     "DPS": "0,08",
+     "GUV": "Ladbrokes Coral Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "1,08",
+     "equityratio": "24,51",
+     "deptratio": "75,49"
+    },
+    {
+     "DieAktie": "Ladbrokes Coral Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,13",
+     "EPSdiluted": "0,13",
+     "DPS": "0,08",
+     "GUV": "Ladbrokes Coral Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "1,06",
+     "equityratio": "29,48",
+     "deptratio": "70,52"
+    },
+    {
+     "DieAktie": "Ladbrokes Coral Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,21",
+     "EPSdiluted": "0,21",
+     "DPS": "0,09",
+     "GUV": "Ladbrokes Coral Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "1,18",
+     "equityratio": "39,61",
+     "deptratio": "60,39"
+    },
+    {
+     "DieAktie": "Ladbrokes Coral Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,07",
+     "EPSdiluted": "0,07",
+     "DPS": "0,09",
+     "GUV": "Ladbrokes Coral Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "1,21",
+     "equityratio": "36,44",
+     "deptratio": "63,56"
+    },
+    {
+     "DieAktie": "Ladbrokes Coral Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,04",
+     "EPSdiluted": "0,04",
+     "DPS": "0,09",
+     "GUV": "Ladbrokes Coral Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "1,27",
+     "equityratio": "33,05",
+     "deptratio": "66,95"
+    },
+    {
+     "DieAktie": "Ladbrokes Coral Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,01",
+     "EPSdiluted": "0,01",
+     "DPS": "0,03",
+     "GUV": "Ladbrokes Coral Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "1,23",
+     "equityratio": "39,94",
+     "deptratio": "60,06"
+    },
+    {
+     "DieAktie": "Ladbrokes Coral Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,18",
+     "EPSdiluted": "-0,18",
+     "DPS": "0,03",
+     "GUV": "Ladbrokes Coral Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "1,28",
+     "equityratio": "42,3",
+     "deptratio": "57,7"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "05.05.16",
+     "Dividende": "0,03"
+    },
+    {
+     "Datum": "07.05.15",
+     "Dividende": "0,09"
+    },
+    {
+     "Datum": "07.05.14",
+     "Dividende": "0,09"
+    },
+    {
+     "Datum": "01.05.13",
+     "Dividende": "0,09"
+    }
+   ]
+  },
+  {
+   "name": "Lancashire Aktie [WKN DE: A0HM5W / ISIN: BMG5361W1047]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Lancashire",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Lancashire Holdings LtdShs: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Lancashire Holdings LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Lancashire Holdings LtdShs: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,35",
+     "EPSdiluted": "1,2",
+     "DPS": "0,08",
+     "GUV": "Lancashire Holdings LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "2,56",
+     "equityratio": "49,79",
+     "deptratio": "50,21"
+    },
+    {
+     "DieAktie": "Lancashire Holdings LtdShs: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,85",
+     "EPSdiluted": "0,75",
+     "DPS": "0,08",
+     "GUV": "Lancashire Holdings LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "2,2",
+     "equityratio": "54,72",
+     "deptratio": "45,28"
+    },
+    {
+     "DieAktie": "Lancashire Holdings LtdShs: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,93",
+     "EPSdiluted": "0,81",
+     "DPS": "0,1",
+     "GUV": "Lancashire Holdings LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "2,17",
+     "equityratio": "54,36",
+     "deptratio": "45,64"
+    },
+    {
+     "DieAktie": "Lancashire Holdings LtdShs: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,84",
+     "EPSdiluted": "0,75",
+     "DPS": "0,09",
+     "GUV": "Lancashire Holdings LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "2,05",
+     "equityratio": "47,72",
+     "deptratio": "52,28"
+    },
+    {
+     "DieAktie": "Lancashire Holdings LtdShs: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,75",
+     "EPSdiluted": "0,7",
+     "DPS": "0,1",
+     "GUV": "Lancashire Holdings LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "2,33",
+     "equityratio": "45,6",
+     "deptratio": "54,4"
+    },
+    {
+     "DieAktie": "Lancashire Holdings LtdShs: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,61",
+     "EPSdiluted": "0,6",
+     "DPS": "0,09",
+     "GUV": "Lancashire Holdings LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "2,03",
+     "equityratio": "45,9",
+     "deptratio": "54,1"
+    },
+    {
+     "DieAktie": "Lancashire Holdings LtdShs: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,57",
+     "EPSdiluted": "0,56",
+     "DPS": "0,12",
+     "GUV": "Lancashire Holdings LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "1,99",
+     "equityratio": "47",
+     "deptratio": "53"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "04.05.16",
+     "Dividende": "0,15"
+    },
+    {
+     "Datum": "29.04.15",
+     "Dividende": "0,15"
+    }
+   ]
+  },
+  {
+   "name": "LondonMetric Property Aktie [WKN DE: A1C37D / ISIN: GB00B4WFW713]",
+   "URL": "http://www.finanzen.at/bilanz_guv/LondonMetric_Property",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "LondonMetric Property PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "LondonMetric Property PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "LondonMetric Property PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,08",
+     "EPSdiluted": "0,08",
+     "DPS": "0,06",
+     "GUV": "LondonMetric Property PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,08",
+     "equityratio": "61,01",
+     "deptratio": "38,99"
+    },
+    {
+     "DieAktie": "LondonMetric Property PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,01",
+     "EPSdiluted": "0,01",
+     "DPS": "0,07",
+     "GUV": "LondonMetric Property PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,08",
+     "equityratio": "62,94",
+     "deptratio": "37,06"
+    },
+    {
+     "DieAktie": "LondonMetric Property PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,02",
+     "EPSdiluted": "-0,02",
+     "DPS": "0,07",
+     "GUV": "LondonMetric Property PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,08",
+     "equityratio": "57,68",
+     "deptratio": "42,32"
+    },
+    {
+     "DieAktie": "LondonMetric Property PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,2",
+     "EPSdiluted": "0,2",
+     "DPS": "0,07",
+     "GUV": "LondonMetric Property PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,09",
+     "equityratio": "59,8",
+     "deptratio": "40,2"
+    },
+    {
+     "DieAktie": "LondonMetric Property PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,26",
+     "EPSdiluted": "0,26",
+     "DPS": "0,07",
+     "GUV": "LondonMetric Property PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,1",
+     "equityratio": "63,46",
+     "deptratio": "36,54"
+    },
+    {
+     "DieAktie": "LondonMetric Property PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,13",
+     "EPSdiluted": "0,13",
+     "DPS": "0,07",
+     "GUV": "LondonMetric Property PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,12",
+     "equityratio": "58,9",
+     "deptratio": "41,1"
+    },
+    {
+     "DieAktie": "LondonMetric Property PLC: Die Aktie (in GBP)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,1",
+     "EPSdiluted": "0,1",
+     "DPS": "0,08",
+     "GUV": "LondonMetric Property PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,12",
+     "equityratio": "65,26",
+     "deptratio": "34,74"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "14.07.16",
+     "Dividende": "0,07"
+    },
+    {
+     "Datum": "16.07.15",
+     "Dividende": "0,07"
+    }
+   ]
+  },
+  {
+   "name": "Man Group Aktie [WKN DE: A1J420 / ISIN: GB00B83VD954]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Man_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Man Group PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Man Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Man Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0,14",
+     "GUV": "Man Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "61,12",
+     "deptratio": "38,88"
+    },
+    {
+     "DieAktie": "Man Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0,1",
+     "GUV": "Man Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "62,53",
+     "deptratio": "37,47"
+    },
+    {
+     "DieAktie": "Man Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0,14",
+     "GUV": "Man Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "57,31",
+     "deptratio": "42,69"
+    },
+    {
+     "DieAktie": "Man Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0,05",
+     "GUV": "Man Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "74,45",
+     "deptratio": "25,55"
+    },
+    {
+     "DieAktie": "Man Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0,06",
+     "GUV": "Man Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "71,67",
+     "deptratio": "28,33"
+    },
+    {
+     "DieAktie": "Man Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,07",
+     "EPSdiluted": "0,07",
+     "DPS": "0,07",
+     "GUV": "Man Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,44",
+     "equityratio": "65,38",
+     "deptratio": "34,62"
+    },
+    {
+     "DieAktie": "Man Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,12",
+     "EPSdiluted": "-0,12",
+     "DPS": "0,07",
+     "GUV": "Man Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,38",
+     "equityratio": "56,82",
+     "deptratio": "43,18"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "06.05.16",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "08.05.15",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "09.05.14",
+     "Dividende": "0,08"
+    },
+    {
+     "Datum": "03.05.13",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "01.05.12",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "07.07.11",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "08.07.10",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "09.07.09",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "10.07.08",
+     "Dividende": "0,20"
+    }
+   ]
+  },
+  {
+   "name": "Marshalls Aktie [WKN: A0B59C / ISIN: GB00B012BV22]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Marshalls",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Marshalls PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Marshalls PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Marshalls PLC: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,04",
+     "EPSdiluted": "0,04",
+     "DPS": "0,05",
+     "GUV": "Marshalls PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,62",
+     "equityratio": "56,56",
+     "deptratio": "43,44"
+    },
+    {
+     "DieAktie": "Marshalls PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,06",
+     "EPSdiluted": "0,06",
+     "DPS": "0,05",
+     "GUV": "Marshalls PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,68",
+     "equityratio": "53,63",
+     "deptratio": "46,37"
+    },
+    {
+     "DieAktie": "Marshalls PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "-0,03",
+     "EPSdiluted": "-0,03",
+     "DPS": "0,05",
+     "GUV": "Marshalls PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,55",
+     "equityratio": "52,45",
+     "deptratio": "47,55"
+    },
+    {
+     "DieAktie": "Marshalls PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,07",
+     "EPSdiluted": "0,07",
+     "DPS": "0,05",
+     "GUV": "Marshalls PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,54",
+     "equityratio": "53,98",
+     "deptratio": "46,02"
+    },
+    {
+     "DieAktie": "Marshalls PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,1",
+     "EPSdiluted": "0,1",
+     "DPS": "0,06",
+     "GUV": "Marshalls PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,79",
+     "equityratio": "57,12",
+     "deptratio": "42,88"
+    },
+    {
+     "DieAktie": "Marshalls PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,14",
+     "EPSdiluted": "0,14",
+     "DPS": "0,07",
+     "GUV": "Marshalls PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,93",
+     "equityratio": "58,08",
+     "deptratio": "41,92"
+    },
+    {
+     "DieAktie": "Marshalls PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,19",
+     "EPSdiluted": "0,19",
+     "DPS": "0,09",
+     "GUV": "Marshalls PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,98",
+     "equityratio": "64,75",
+     "deptratio": "35,25"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "18.05.16",
+     "Dividende": "0,06"
+    },
+    {
+     "Datum": "20.05.15",
+     "Dividende": "0,06"
+    }
+   ]
+  },
+  {
+   "name": "Marstons Aktie [WKN DE: A0LGA4 / ISIN: GB00B1JQDM80]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Marstons",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Marston's PLCShs: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Marston's PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Marston's PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,08",
+     "EPSdiluted": "0,08",
+     "DPS": "0,06",
+     "GUV": "Marston's PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,14",
+     "equityratio": "32,23",
+     "deptratio": "67,77"
+    },
+    {
+     "DieAktie": "Marston's PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,12",
+     "DPS": "0,06",
+     "GUV": "Marston's PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,19",
+     "equityratio": "32,68",
+     "deptratio": "67,32"
+    },
+    {
+     "DieAktie": "Marston's PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "-0,19",
+     "EPSdiluted": "-0,19",
+     "DPS": "0,06",
+     "GUV": "Marston's PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,25",
+     "equityratio": "30,15",
+     "deptratio": "69,85"
+    },
+    {
+     "DieAktie": "Marston's PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,1",
+     "EPSdiluted": "0,1",
+     "DPS": "0,06",
+     "GUV": "Marston's PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,36",
+     "equityratio": "32,09",
+     "deptratio": "67,91"
+    },
+    {
+     "DieAktie": "Marston's PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "-0,09",
+     "EPSdiluted": "-0,09",
+     "DPS": "0,07",
+     "GUV": "Marston's PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,37",
+     "equityratio": "29,02",
+     "deptratio": "70,98"
+    },
+    {
+     "DieAktie": "Marston's PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,04",
+     "EPSdiluted": "0,04",
+     "DPS": "0,07",
+     "GUV": "Marston's PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,46",
+     "equityratio": "27,9",
+     "deptratio": "72,1"
+    },
+    {
+     "DieAktie": "Marston's PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,13",
+     "EPSdiluted": "0,13",
+     "DPS": "0,07",
+     "GUV": "Marston's PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,56",
+     "equityratio": "26,89",
+     "deptratio": "73,11"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "24.01.17",
+     "Dividende": "0,07"
+    },
+    {
+     "Datum": "26.01.16",
+     "Dividende": "0,07"
+    }
+   ]
+  },
+  {
+   "name": "McCarthy & Stone Aktie [WKN DE: A142X0 / ISIN: GB00BYNVD082]",
+   "URL": "http://www.finanzen.at/bilanz_guv/McCarthyStone_1",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "McCarthy & Stone PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "McCarthy & Stone PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "McCarthy & Stone PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,01",
+     "EPSdiluted": "0,01",
+     "DPS": "-",
+     "GUV": "McCarthy & Stone PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,58",
+     "equityratio": "65,25",
+     "deptratio": "34,75"
+    },
+    {
+     "DieAktie": "McCarthy & Stone PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,08",
+     "EPSdiluted": "0,08",
+     "DPS": "-",
+     "GUV": "McCarthy & Stone PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,72",
+     "equityratio": "65,94",
+     "deptratio": "34,06"
+    },
+    {
+     "DieAktie": "McCarthy & Stone PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,12",
+     "DPS": "-",
+     "GUV": "McCarthy & Stone PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,9",
+     "equityratio": "71,07",
+     "deptratio": "28,93"
+    },
+    {
+     "DieAktie": "McCarthy & Stone PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,14",
+     "EPSdiluted": "0,14",
+     "DPS": "0,05",
+     "GUV": "McCarthy & Stone PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,21",
+     "equityratio": "75,81",
+     "deptratio": "24,19"
+    }
+   ]
+  },
+  {
+   "name": "Meggitt Aktie [WKN: 865048 / ISIN: GB0005758098]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Meggitt",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Meggitt plc: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Meggitt plc: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Meggitt plc: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,2",
+     "EPSdiluted": "0,2",
+     "DPS": "0,09",
+     "GUV": "Meggitt plc: GuV (in Mio. GBP)",
+     "Turnover": "1,66",
+     "equityratio": "43,56",
+     "deptratio": "56,44"
+    },
+    {
+     "DieAktie": "Meggitt plc: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,24",
+     "EPSdiluted": "0,24",
+     "DPS": "0,11",
+     "GUV": "Meggitt plc: GuV (in Mio. GBP)",
+     "Turnover": "1,88",
+     "equityratio": "44,99",
+     "deptratio": "55,01"
+    },
+    {
+     "DieAktie": "Meggitt plc: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,31",
+     "EPSdiluted": "0,31",
+     "DPS": "0,12",
+     "GUV": "Meggitt plc: GuV (in Mio. GBP)",
+     "Turnover": "2,03",
+     "equityratio": "49,05",
+     "deptratio": "50,95"
+    },
+    {
+     "DieAktie": "Meggitt plc: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,29",
+     "EPSdiluted": "0,29",
+     "DPS": "0,13",
+     "GUV": "Meggitt plc: GuV (in Mio. GBP)",
+     "Turnover": "2,04",
+     "equityratio": "54,88",
+     "deptratio": "45,12"
+    },
+    {
+     "DieAktie": "Meggitt plc: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,22",
+     "DPS": "0,14",
+     "GUV": "Meggitt plc: GuV (in Mio. GBP)",
+     "Turnover": "1,91",
+     "equityratio": "54,29",
+     "deptratio": "45,71"
+    },
+    {
+     "DieAktie": "Meggitt plc: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,23",
+     "DPS": "0,14",
+     "GUV": "Meggitt plc: GuV (in Mio. GBP)",
+     "Turnover": "2,07",
+     "equityratio": "48,04",
+     "deptratio": "51,96"
+    },
+    {
+     "DieAktie": "Meggitt plc: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,22",
+     "DPS": "0,15",
+     "GUV": "Meggitt plc: GuV (in Mio. GBP)",
+     "Turnover": "2,53",
+     "equityratio": "46,23",
+     "deptratio": "53,77"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "21.04.16",
+     "Dividende": "0,14"
+    },
+    {
+     "Datum": "23.04.15",
+     "Dividende": "0,14"
+    },
+    {
+     "Datum": "07.05.14",
+     "Dividende": "0,13"
+    },
+    {
+     "Datum": "01.05.13",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "26.04.12",
+     "Dividende": "0,11"
+    },
+    {
+     "Datum": "20.04.11",
+     "Dividende": "0,09"
+    },
+    {
+     "Datum": "21.04.10",
+     "Dividende": "0,08"
+    }
+   ]
+  },
+  {
+   "name": "Metro Bank Aktie [WKN DE: A2AFPB / ISIN: GB00BZ6STL67]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Metro_Bank",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Metro Bank PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Metro Bank PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Metro Bank PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,58",
+     "EPSdiluted": "-0,58",
+     "DPS": "-",
+     "GUV": "Metro Bank PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,54",
+     "equityratio": "21,19",
+     "deptratio": "78,81"
+    },
+    {
+     "DieAktie": "Metro Bank PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "-0,51",
+     "EPSdiluted": "-0,51",
+     "DPS": "-",
+     "GUV": "Metro Bank PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,2",
+     "equityratio": "12,62",
+     "deptratio": "87,38"
+    },
+    {
+     "DieAktie": "Metro Bank PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "-0,61",
+     "EPSdiluted": "-0,61",
+     "DPS": "-",
+     "GUV": "Metro Bank PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,95",
+     "equityratio": "6,62",
+     "deptratio": "93,38"
+    },
+    {
+     "DieAktie": "Metro Bank PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,22",
+     "EPSdiluted": "-0,22",
+     "DPS": "0",
+     "GUV": "Metro Bank PLC: GuV (in Mio. GBP)",
+     "Turnover": "3,31",
+     "equityratio": "7,99",
+     "deptratio": "92,01"
+    }
+   ]
+  },
+  {
+   "name": "Michael Page International Aktie [WKN: 658848 / ISIN: GB0030232317]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Michael_Page_International",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Michael Page International plc: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Michael Page International plc: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Michael Page International plc: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,21",
+     "DPS": "0,09",
+     "GUV": "Michael Page International plc: GuV (in Mio. GBP)",
+     "Turnover": "2,61",
+     "equityratio": "55,22",
+     "deptratio": "44,78"
+    },
+    {
+     "DieAktie": "Michael Page International plc: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,19",
+     "EPSdiluted": "0,18",
+     "DPS": "0,1",
+     "GUV": "Michael Page International plc: GuV (in Mio. GBP)",
+     "Turnover": "3,26",
+     "equityratio": "51,78",
+     "deptratio": "48,22"
+    },
+    {
+     "DieAktie": "Michael Page International plc: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,12",
+     "DPS": "0,1",
+     "GUV": "Michael Page International plc: GuV (in Mio. GBP)",
+     "Turnover": "3,21",
+     "equityratio": "52,46",
+     "deptratio": "47,54"
+    },
+    {
+     "DieAktie": "Michael Page International plc: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,14",
+     "EPSdiluted": "0,14",
+     "DPS": "0,11",
+     "GUV": "Michael Page International plc: GuV (in Mio. GBP)",
+     "Turnover": "3,24",
+     "equityratio": "57,72",
+     "deptratio": "42,28"
+    },
+    {
+     "DieAktie": "Michael Page International plc: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,19",
+     "EPSdiluted": "0,19",
+     "DPS": "0,11",
+     "GUV": "Michael Page International plc: GuV (in Mio. GBP)",
+     "Turnover": "3,37",
+     "equityratio": "57,76",
+     "deptratio": "42,24"
+    },
+    {
+     "DieAktie": "Michael Page International plc: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,21",
+     "EPSdiluted": "0,21",
+     "DPS": "0,12",
+     "GUV": "Michael Page International plc: GuV (in Mio. GBP)",
+     "Turnover": "3,39",
+     "equityratio": "56,43",
+     "deptratio": "43,57"
+    },
+    {
+     "DieAktie": "Michael Page International plc: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,23",
+     "DPS": "0,12",
+     "GUV": "Michael Page International plc: GuV (in Mio. GBP)",
+     "Turnover": "3,83",
+     "equityratio": "54,02",
+     "deptratio": "45,98"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "09.06.16",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "04.06.15",
+     "Dividende": "0,11"
+    },
+    {
+     "Datum": "05.06.14",
+     "Dividende": "0,11"
+    },
+    {
+     "Datum": "06.06.13",
+     "Dividende": "0,10"
+    }
+   ]
+  },
+  {
+   "name": "Millennium & Copthorne Hotels Aktie [WKN: 904584 / ISIN: GB0005622542]",
+   "URL": "http://www.finanzen.at/bilanz_guv/MillenniumCopthorne_Hotels",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Millennium & Copthorne Hotels PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Millennium & Copthorne Hotels PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Millennium & Copthorne Hotels PLC: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,31",
+     "EPSdiluted": "0,31",
+     "DPS": "0,1",
+     "GUV": "Millennium & Copthorne Hotels PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,38",
+     "equityratio": "60,7",
+     "deptratio": "39,3"
+    },
+    {
+     "DieAktie": "Millennium & Copthorne Hotels PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,51",
+     "EPSdiluted": "0,51",
+     "DPS": "0,13",
+     "GUV": "Millennium & Copthorne Hotels PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,59",
+     "equityratio": "61,8",
+     "deptratio": "38,2"
+    },
+    {
+     "DieAktie": "Millennium & Copthorne Hotels PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,42",
+     "EPSdiluted": "0,42",
+     "DPS": "0,14",
+     "GUV": "Millennium & Copthorne Hotels PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,38",
+     "equityratio": "63,56",
+     "deptratio": "36,44"
+    },
+    {
+     "DieAktie": "Millennium & Copthorne Hotels PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,71",
+     "EPSdiluted": "0,7",
+     "DPS": "0,14",
+     "GUV": "Millennium & Copthorne Hotels PLC: GuV (in Mio. GBP)",
+     "Turnover": "3,18",
+     "equityratio": "67,79",
+     "deptratio": "32,21"
+    },
+    {
+     "DieAktie": "Millennium & Copthorne Hotels PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,34",
+     "EPSdiluted": "0,34",
+     "DPS": "0,14",
+     "GUV": "Millennium & Copthorne Hotels PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,54",
+     "equityratio": "54,28",
+     "deptratio": "45,72"
+    },
+    {
+     "DieAktie": "Millennium & Copthorne Hotels PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,2",
+     "EPSdiluted": "0,2",
+     "DPS": "0,06",
+     "GUV": "Millennium & Copthorne Hotels PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,6",
+     "equityratio": "56,16",
+     "deptratio": "43,84"
+    },
+    {
+     "DieAktie": "Millennium & Copthorne Hotels PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,24",
+     "EPSdiluted": "0,24",
+     "DPS": "0,08",
+     "GUV": "Millennium & Copthorne Hotels PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,85",
+     "equityratio": "55,65",
+     "deptratio": "44,35"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "05.05.16",
+     "Dividende": "0,14"
+    },
+    {
+     "Datum": "07.05.15",
+     "Dividende": "0,23"
+    }
+   ]
+  },
+  {
+   "name": "Mitchells & Butlers Aktie [WKN DE: A0LB7F / ISIN: GB00B1FP6H53]",
+   "URL": "http://www.finanzen.at/bilanz_guv/MitchellsButlers_1",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Mitchells & Butlers PLCShs: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Mitchells & Butlers PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Mitchells & Butlers PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "-0,21",
+     "EPSdiluted": "-0,21",
+     "DPS": "0",
+     "GUV": "Mitchells & Butlers PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "4,82",
+     "equityratio": "19,1",
+     "deptratio": "80,9"
+    },
+    {
+     "DieAktie": "Mitchells & Butlers PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,31",
+     "EPSdiluted": "0,31",
+     "DPS": "0",
+     "GUV": "Mitchells & Butlers PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "4,37",
+     "equityratio": "24,73",
+     "deptratio": "75,27"
+    },
+    {
+     "DieAktie": "Mitchells & Butlers PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,17",
+     "EPSdiluted": "0,17",
+     "DPS": "0",
+     "GUV": "Mitchells & Butlers PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "4,58",
+     "equityratio": "24,82",
+     "deptratio": "75,18"
+    },
+    {
+     "DieAktie": "Mitchells & Butlers PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,33",
+     "EPSdiluted": "0,33",
+     "DPS": "0",
+     "GUV": "Mitchells & Butlers PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "4,6",
+     "equityratio": "27,25",
+     "deptratio": "72,75"
+    },
+    {
+     "DieAktie": "Mitchells & Butlers PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,23",
+     "DPS": "0",
+     "GUV": "Mitchells & Butlers PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "4,77",
+     "equityratio": "24,91",
+     "deptratio": "75,09"
+    },
+    {
+     "DieAktie": "Mitchells & Butlers PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,25",
+     "EPSdiluted": "0,25",
+     "DPS": "0,05",
+     "GUV": "Mitchells & Butlers PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "5,07",
+     "equityratio": "26,58",
+     "deptratio": "73,42"
+    },
+    {
+     "DieAktie": "Mitchells & Butlers PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,22",
+     "DPS": "0,08",
+     "GUV": "Mitchells & Butlers PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "5,05",
+     "equityratio": "28,36",
+     "deptratio": "71,64"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "24.01.17",
+     "Dividende": "0,08"
+    },
+    {
+     "Datum": "28.01.16",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "29.01.15",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Mitie Group Aktie [WKN: 864585 / ISIN: GB0004657408]",
+   "URL": "http://www.finanzen.at/bilanz_guv/MITIE_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Mitie Group PLCSHS: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Mitie Group PLCSHS: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Mitie Group PLCSHS: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,19",
+     "EPSdiluted": "0,18",
+     "DPS": "0,09",
+     "GUV": "Mitie Group PLCSHS: GuV (in Mio. GBP)",
+     "Turnover": "5,3",
+     "equityratio": "36,16",
+     "deptratio": "63,84"
+    },
+    {
+     "DieAktie": "Mitie Group PLCSHS: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,21",
+     "EPSdiluted": "0,2",
+     "DPS": "0,1",
+     "GUV": "Mitie Group PLCSHS: GuV (in Mio. GBP)",
+     "Turnover": "5,55",
+     "equityratio": "37,71",
+     "deptratio": "62,29"
+    },
+    {
+     "DieAktie": "Mitie Group PLCSHS: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,12",
+     "DPS": "0,1",
+     "GUV": "Mitie Group PLCSHS: GuV (in Mio. GBP)",
+     "Turnover": "5,39",
+     "equityratio": "31,95",
+     "deptratio": "68,05"
+    },
+    {
+     "DieAktie": "Mitie Group PLCSHS: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,13",
+     "EPSdiluted": "0,13",
+     "DPS": "0,11",
+     "GUV": "Mitie Group PLCSHS: GuV (in Mio. GBP)",
+     "Turnover": "5,78",
+     "equityratio": "31,95",
+     "deptratio": "68,05"
+    },
+    {
+     "DieAktie": "Mitie Group PLCSHS: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,1",
+     "EPSdiluted": "0,1",
+     "DPS": "0,12",
+     "GUV": "Mitie Group PLCSHS: GuV (in Mio. GBP)",
+     "Turnover": "6,13",
+     "equityratio": "31,14",
+     "deptratio": "68,86"
+    },
+    {
+     "DieAktie": "Mitie Group PLCSHS: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,21",
+     "EPSdiluted": "0,21",
+     "DPS": "0,12",
+     "GUV": "Mitie Group PLCSHS: GuV (in Mio. GBP)",
+     "Turnover": "6,21",
+     "equityratio": "33,18",
+     "deptratio": "66,82"
+    },
+    {
+     "DieAktie": "Mitie Group PLCSHS: Die Aktie (in GBP)",
+     "Jahr": "2017",
+     "EPSundiluted": "-0,44",
+     "EPSdiluted": "-0,44",
+     "DPS": "-",
+     "GUV": "Mitie Group PLCSHS: GuV (in Mio. GBP)",
+     "Turnover": "6,06",
+     "equityratio": "8,2",
+     "deptratio": "91,8"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "12.07.16",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "13.07.15",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "09.07.14",
+     "Dividende": "0,11"
+    },
+    {
+     "Datum": "09.07.13",
+     "Dividende": "0,10"
+    }
+   ]
+  },
+  {
+   "name": "Moneysupermarketcom Group Aktie [WKN DE: A0MW73 / ISIN: GB00B1ZBKY84]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Moneysupermarketcom_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Moneysupermarket.com Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Moneysupermarket.com Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Moneysupermarket.com Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,02",
+     "EPSdiluted": "0,02",
+     "DPS": "0,04",
+     "GUV": "Moneysupermarket.com Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "0,29",
+     "equityratio": "75,52",
+     "deptratio": "24,48"
+    },
+    {
+     "DieAktie": "Moneysupermarket.com Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,03",
+     "EPSdiluted": "0,03",
+     "DPS": "0,05",
+     "GUV": "Moneysupermarket.com Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "0,35",
+     "equityratio": "73,88",
+     "deptratio": "26,12"
+    },
+    {
+     "DieAktie": "Moneysupermarket.com Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,05",
+     "EPSdiluted": "0,05",
+     "DPS": "0,06",
+     "GUV": "Moneysupermarket.com Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "0,39",
+     "equityratio": "79,71",
+     "deptratio": "20,29"
+    },
+    {
+     "DieAktie": "Moneysupermarket.com Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,06",
+     "EPSdiluted": "0,06",
+     "DPS": "0,07",
+     "GUV": "Moneysupermarket.com Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "0,41",
+     "equityratio": "53,54",
+     "deptratio": "46,46"
+    },
+    {
+     "DieAktie": "Moneysupermarket.com Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,1",
+     "EPSdiluted": "0,1",
+     "DPS": "0,08",
+     "GUV": "Moneysupermarket.com Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "0,45",
+     "equityratio": "59,33",
+     "deptratio": "40,67"
+    },
+    {
+     "DieAktie": "Moneysupermarket.com Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,12",
+     "DPS": "0,09",
+     "GUV": "Moneysupermarket.com Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "0,51",
+     "equityratio": "74,77",
+     "deptratio": "25,23"
+    },
+    {
+     "DieAktie": "Moneysupermarket.com Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,14",
+     "EPSdiluted": "0,13",
+     "DPS": "0,1",
+     "GUV": "Moneysupermarket.com Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "0,58",
+     "equityratio": "74,7",
+     "deptratio": "25,3"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "20.04.16",
+     "Dividende": "0,09"
+    },
+    {
+     "Datum": "30.04.15",
+     "Dividende": "0,08"
+    }
+   ]
+  },
+  {
+   "name": "Morgan Advanced Materials Aktie [WKN: 857412 / ISIN: GB0006027295]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Morgan_Advanced",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Morgan Advanced Materials PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Morgan Advanced Materials PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Morgan Advanced Materials PLC: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,16",
+     "EPSdiluted": "0,15",
+     "DPS": "0,08",
+     "GUV": "Morgan Advanced Materials PLC: GuV (in Mio. GBP)",
+     "Turnover": "3,58",
+     "equityratio": "20,77",
+     "deptratio": "79,23"
+    },
+    {
+     "DieAktie": "Morgan Advanced Materials PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,27",
+     "EPSdiluted": "0,26",
+     "DPS": "0,09",
+     "GUV": "Morgan Advanced Materials PLC: GuV (in Mio. GBP)",
+     "Turnover": "3,87",
+     "equityratio": "21,99",
+     "deptratio": "78,01"
+    },
+    {
+     "DieAktie": "Morgan Advanced Materials PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,2",
+     "EPSdiluted": "0,2",
+     "DPS": "0,1",
+     "GUV": "Morgan Advanced Materials PLC: GuV (in Mio. GBP)",
+     "Turnover": "3,57",
+     "equityratio": "24,12",
+     "deptratio": "75,88"
+    },
+    {
+     "DieAktie": "Morgan Advanced Materials PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,15",
+     "EPSdiluted": "0,15",
+     "DPS": "0,11",
+     "GUV": "Morgan Advanced Materials PLC: GuV (in Mio. GBP)",
+     "Turnover": "3,37",
+     "equityratio": "26,07",
+     "deptratio": "73,93"
+    },
+    {
+     "DieAktie": "Morgan Advanced Materials PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,03",
+     "EPSdiluted": "0,03",
+     "DPS": "0,11",
+     "GUV": "Morgan Advanced Materials PLC: GuV (in Mio. GBP)",
+     "Turnover": "3,23",
+     "equityratio": "16,39",
+     "deptratio": "83,61"
+    },
+    {
+     "DieAktie": "Morgan Advanced Materials PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,12",
+     "DPS": "0,11",
+     "GUV": "Morgan Advanced Materials PLC: GuV (in Mio. GBP)",
+     "Turnover": "3,19",
+     "equityratio": "17,43",
+     "deptratio": "82,57"
+    },
+    {
+     "DieAktie": "Morgan Advanced Materials PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,18",
+     "EPSdiluted": "0,18",
+     "DPS": "0,11",
+     "GUV": "Morgan Advanced Materials PLC: GuV (in Mio. GBP)",
+     "Turnover": "3,47",
+     "equityratio": "11,26",
+     "deptratio": "88,74"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "06.05.16",
+     "Dividende": "0,11"
+    },
+    {
+     "Datum": "08.05.15",
+     "Dividende": "0,11"
+    }
+   ]
+  },
+  {
+   "name": "National Express Group Aktie [WKN: 888871 / ISIN: GB0006215205]",
+   "URL": "http://www.finanzen.at/bilanz_guv/National_Express_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "National Express Group plc: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "National Express Group plc: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "National Express Group plc: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,12",
+     "DPS": "0,06",
+     "GUV": "National Express Group plc: GuV (in Mio. GBP)",
+     "Turnover": "4,15",
+     "equityratio": "38,5",
+     "deptratio": "61,5"
+    },
+    {
+     "DieAktie": "National Express Group plc: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,2",
+     "EPSdiluted": "0,2",
+     "DPS": "0,1",
+     "GUV": "National Express Group plc: GuV (in Mio. GBP)",
+     "Turnover": "4,38",
+     "equityratio": "39,6",
+     "deptratio": "60,4"
+    },
+    {
+     "DieAktie": "National Express Group plc: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,12",
+     "DPS": "0,1",
+     "GUV": "National Express Group plc: GuV (in Mio. GBP)",
+     "Turnover": "3,58",
+     "equityratio": "36,97",
+     "deptratio": "63,03"
+    },
+    {
+     "DieAktie": "National Express Group plc: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,11",
+     "EPSdiluted": "0,11",
+     "DPS": "0,1",
+     "GUV": "National Express Group plc: GuV (in Mio. GBP)",
+     "Turnover": "3,69",
+     "equityratio": "38,95",
+     "deptratio": "61,05"
+    },
+    {
+     "DieAktie": "National Express Group plc: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,12",
+     "DPS": "0,1",
+     "GUV": "National Express Group plc: GuV (in Mio. GBP)",
+     "Turnover": "3,65",
+     "equityratio": "35,4",
+     "deptratio": "64,6"
+    },
+    {
+     "DieAktie": "National Express Group plc: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,21",
+     "EPSdiluted": "0,21",
+     "DPS": "0,11",
+     "GUV": "National Express Group plc: GuV (in Mio. GBP)",
+     "Turnover": "3,74",
+     "equityratio": "32,85",
+     "deptratio": "67,15"
+    },
+    {
+     "DieAktie": "National Express Group plc: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,23",
+     "DPS": "0,12",
+     "GUV": "National Express Group plc: GuV (in Mio. GBP)",
+     "Turnover": "4,1",
+     "equityratio": "32,22",
+     "deptratio": "67,78"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "11.05.16",
+     "Dividende": "0,11"
+    },
+    {
+     "Datum": "06.05.15",
+     "Dividende": "0,10"
+    }
+   ]
+  },
+  {
+   "name": "NewRiver REIT Aktie [WKN DE: A2AQK3 / ISIN: GB00BD7XPJ64]",
+   "URL": "http://www.finanzen.at/bilanz_guv/NewRiver_REIT",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "NewRiver REIT PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "NewRiver REIT PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "NewRiver REIT PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,23",
+     "DPS": "0,05",
+     "GUV": "NewRiver REIT PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,34",
+     "equityratio": "29,87",
+     "deptratio": "70,13"
+    },
+    {
+     "DieAktie": "NewRiver REIT PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,15",
+     "EPSdiluted": "0,15",
+     "DPS": "0,15",
+     "GUV": "NewRiver REIT PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,59",
+     "equityratio": "35,78",
+     "deptratio": "64,22"
+    },
+    {
+     "DieAktie": "NewRiver REIT PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,05",
+     "EPSdiluted": "0,05",
+     "DPS": "0,16",
+     "GUV": "NewRiver REIT PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,56",
+     "equityratio": "34,56",
+     "deptratio": "65,44"
+    },
+    {
+     "DieAktie": "NewRiver REIT PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,38",
+     "EPSdiluted": "0,36",
+     "DPS": "0,06",
+     "GUV": "NewRiver REIT PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,28",
+     "equityratio": "62,65",
+     "deptratio": "37,35"
+    },
+    {
+     "DieAktie": "NewRiver REIT PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,37",
+     "EPSdiluted": "0,36",
+     "DPS": "0,17",
+     "GUV": "NewRiver REIT PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,21",
+     "equityratio": "63",
+     "deptratio": "37"
+    },
+    {
+     "DieAktie": "NewRiver REIT PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,39",
+     "EPSdiluted": "0,39",
+     "DPS": "0,17",
+     "GUV": "NewRiver REIT PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,34",
+     "equityratio": "66,8",
+     "deptratio": "33,2"
+    },
+    {
+     "DieAktie": "NewRiver REIT PLC: Die Aktie (in GBP)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,15",
+     "EPSdiluted": "0,15",
+     "DPS": "0,2",
+     "GUV": "NewRiver REIT PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,4",
+     "equityratio": "61,12",
+     "deptratio": "38,88"
+    }
+   ]
+  },
+  {
+   "name": "NEX Group Aktie [WKN DE: A2DJNG / ISIN: GB00BZ02MH16]",
+   "URL": "http://www.finanzen.at/bilanz_guv/NEX_Group_3",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "NEX Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "NEX Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "NEX Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,5",
+     "EPSdiluted": "0,49",
+     "DPS": "0,35",
+     "GUV": "NEX Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "4,6",
+     "equityratio": "1,6",
+     "deptratio": "98,4"
+    },
+    {
+     "DieAktie": "NEX Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,37",
+     "EPSdiluted": "0,36",
+     "DPS": "0,39",
+     "GUV": "NEX Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "4,56",
+     "equityratio": "1,44",
+     "deptratio": "98,56"
+    },
+    {
+     "DieAktie": "NEX Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,12",
+     "DPS": "0,39",
+     "GUV": "NEX Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "4,02",
+     "equityratio": "5,85",
+     "deptratio": "94,15"
+    },
+    {
+     "DieAktie": "NEX Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,27",
+     "EPSdiluted": "0,27",
+     "DPS": "0,39",
+     "GUV": "NEX Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "3,78",
+     "equityratio": "3,79",
+     "deptratio": "96,21"
+    },
+    {
+     "DieAktie": "NEX Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,22",
+     "DPS": "0,39",
+     "GUV": "NEX Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "3,4",
+     "equityratio": "3,72",
+     "deptratio": "96,28"
+    },
+    {
+     "DieAktie": "NEX Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,19",
+     "EPSdiluted": "0,19",
+     "DPS": "0,39",
+     "GUV": "NEX Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "1,22",
+     "equityratio": "1,19",
+     "deptratio": "98,81"
+    },
+    {
+     "DieAktie": "NEX Group PLC Registered Shs: Die Aktie (in GBP)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,4",
+     "EPSdiluted": "0,39",
+     "DPS": "0,39",
+     "GUV": "NEX Group PLC Registered Shs: GuV (in Mio. GBP)",
+     "Turnover": "1,42",
+     "equityratio": "50,24",
+     "deptratio": "49,76"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "13.07.16",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "15.07.15",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "16.07.14",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "10.07.13",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "11.07.12",
+     "Dividende": "0,22"
+    }
+   ]
+  },
+  {
+   "name": "NMC Health Aktie [WKN DE: A1JWFV / ISIN: GB00B7FC0762]",
+   "URL": "http://www.finanzen.at/bilanz_guv/NMC_Health",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "NMC Health PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "NMC Health PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "NMC Health PLC: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,07",
+     "EPSdiluted": "0,07",
+     "DPS": "-",
+     "GUV": "NMC Health PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,35",
+     "equityratio": "24,26",
+     "deptratio": "75,74"
+    },
+    {
+     "DieAktie": "NMC Health PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,14",
+     "EPSdiluted": "0,14",
+     "DPS": "-",
+     "GUV": "NMC Health PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,49",
+     "equityratio": "27,96",
+     "deptratio": "72,04"
+    },
+    {
+     "DieAktie": "NMC Health PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,22",
+     "DPS": "0,04",
+     "GUV": "NMC Health PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,8",
+     "equityratio": "46,07",
+     "deptratio": "53,93"
+    },
+    {
+     "DieAktie": "NMC Health PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,23",
+     "DPS": "0,04",
+     "GUV": "NMC Health PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,9",
+     "equityratio": "47,38",
+     "deptratio": "52,62"
+    },
+    {
+     "DieAktie": "NMC Health PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,25",
+     "EPSdiluted": "0,25",
+     "DPS": "0,05",
+     "GUV": "NMC Health PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,11",
+     "equityratio": "47,24",
+     "deptratio": "52,76"
+    },
+    {
+     "DieAktie": "NMC Health PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,29",
+     "EPSdiluted": "0,29",
+     "DPS": "0,06",
+     "GUV": "NMC Health PLC: GuV (in Mio. GBP)",
+     "Turnover": "3,1",
+     "equityratio": "33,54",
+     "deptratio": "66,46"
+    },
+    {
+     "DieAktie": "NMC Health PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,53",
+     "EPSdiluted": "0,52",
+     "DPS": "0,11",
+     "GUV": "NMC Health PLC: GuV (in Mio. GBP)",
+     "Turnover": "4,82",
+     "equityratio": "39,14",
+     "deptratio": "60,86"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "23.05.16",
+     "Dividende": "0,09"
+    },
+    {
+     "Datum": "16.06.15",
+     "Dividende": "0,08"
+    }
+   ]
+  },
+  {
+   "name": "Northgate Aktie [WKN DE: A0YAV3 / ISIN: GB00B41H7391]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Northgate",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Northgate PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Northgate PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Northgate PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,22",
+     "DPS": "0",
+     "GUV": "Northgate PLC: GuV (in Mio. GBP)",
+     "Turnover": "3,97",
+     "equityratio": "31,99",
+     "deptratio": "68,01"
+    },
+    {
+     "DieAktie": "Northgate PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,3",
+     "EPSdiluted": "0,3",
+     "DPS": "0,03",
+     "GUV": "Northgate PLC: GuV (in Mio. GBP)",
+     "Turnover": "5,18",
+     "equityratio": "42,93",
+     "deptratio": "57,07"
+    },
+    {
+     "DieAktie": "Northgate PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,06",
+     "EPSdiluted": "-0,06",
+     "DPS": "0,07",
+     "GUV": "Northgate PLC: GuV (in Mio. GBP)",
+     "Turnover": "4,58",
+     "equityratio": "45,8",
+     "deptratio": "54,2"
+    },
+    {
+     "DieAktie": "Northgate PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,3",
+     "EPSdiluted": "0,29",
+     "DPS": "0,1",
+     "GUV": "Northgate PLC: GuV (in Mio. GBP)",
+     "Turnover": "4,19",
+     "equityratio": "47,38",
+     "deptratio": "52,62"
+    },
+    {
+     "DieAktie": "Northgate PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,5",
+     "EPSdiluted": "0,49",
+     "DPS": "0,15",
+     "GUV": "Northgate PLC: GuV (in Mio. GBP)",
+     "Turnover": "4,52",
+     "equityratio": "50,02",
+     "deptratio": "49,98"
+    },
+    {
+     "DieAktie": "Northgate PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,46",
+     "EPSdiluted": "0,46",
+     "DPS": "0,16",
+     "GUV": "Northgate PLC: GuV (in Mio. GBP)",
+     "Turnover": "4,57",
+     "equityratio": "53,62",
+     "deptratio": "46,38"
+    },
+    {
+     "DieAktie": "Northgate PLC: Die Aktie (in GBP)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,46",
+     "EPSdiluted": "0,45",
+     "DPS": "0,17",
+     "GUV": "Northgate PLC: GuV (in Mio. GBP)",
+     "Turnover": "4,95",
+     "equityratio": "54,08",
+     "deptratio": "45,92"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "21.09.16",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "17.09.15",
+     "Dividende": "0,15"
+    }
+   ]
+  },
+  {
+   "name": "Nostrum Oil & Gas Aktie [WKN DE: A114UC / ISIN: GB00BGP6Q951]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Nostrum_OilGas",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Nostrum Oil & Gas Plc: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Nostrum Oil & Gas Plc: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Nostrum Oil & Gas Plc: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,08",
+     "EPSdiluted": "-",
+     "DPS": "-",
+     "GUV": "Nostrum Oil & Gas Plc: GuV (in Mio. GBP)",
+     "Turnover": "0,62",
+     "equityratio": "44,01",
+     "deptratio": "55,99"
+    },
+    {
+     "DieAktie": "Nostrum Oil & Gas Plc: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,27",
+     "EPSdiluted": "-",
+     "DPS": "-",
+     "GUV": "Nostrum Oil & Gas Plc: GuV (in Mio. GBP)",
+     "Turnover": "1",
+     "equityratio": "44,73",
+     "deptratio": "55,27"
+    },
+    {
+     "DieAktie": "Nostrum Oil & Gas Plc: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,54",
+     "EPSdiluted": "0,54",
+     "DPS": "-",
+     "GUV": "Nostrum Oil & Gas Plc: GuV (in Mio. GBP)",
+     "Turnover": "2,47",
+     "equityratio": "43,3",
+     "deptratio": "56,7"
+    },
+    {
+     "DieAktie": "Nostrum Oil & Gas Plc: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,75",
+     "EPSdiluted": "0,75",
+     "DPS": "-",
+     "GUV": "Nostrum Oil & Gas Plc: GuV (in Mio. GBP)",
+     "Turnover": "3,09",
+     "equityratio": "47,2",
+     "deptratio": "52,8"
+    },
+    {
+     "DieAktie": "Nostrum Oil & Gas Plc: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,48",
+     "EPSdiluted": "0,48",
+     "DPS": "0,17",
+     "GUV": "Nostrum Oil & Gas Plc: GuV (in Mio. GBP)",
+     "Turnover": "2,57",
+     "equityratio": "41,49",
+     "deptratio": "58,51"
+    },
+    {
+     "DieAktie": "Nostrum Oil & Gas Plc: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "-0,33",
+     "EPSdiluted": "-0,33",
+     "DPS": "0",
+     "GUV": "Nostrum Oil & Gas Plc: GuV (in Mio. GBP)",
+     "Turnover": "1,59",
+     "equityratio": "35,28",
+     "deptratio": "64,72"
+    },
+    {
+     "DieAktie": "Nostrum Oil & Gas Plc: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,33",
+     "EPSdiluted": "-0,33",
+     "DPS": "0",
+     "GUV": "Nostrum Oil & Gas Plc: GuV (in Mio. GBP)",
+     "Turnover": "1,4",
+     "equityratio": "32,77",
+     "deptratio": "67,23"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "25.05.16",
+     "Dividende": "0,27"
+    },
+    {
+     "Datum": "26.05.15",
+     "Dividende": "0,35"
+    }
+   ]
+  },
+  {
+   "name": "Ocado Group Aktie [WKN DE: A1C2GZ / ISIN: GB00B3MBS747]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Ocado_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Ocado Group PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Ocado Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Ocado Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "-0,02",
+     "EPSdiluted": "-0,02",
+     "DPS": "0",
+     "GUV": "Ocado Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,17",
+     "equityratio": "56,89",
+     "deptratio": "43,11"
+    },
+    {
+     "DieAktie": "Ocado Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0",
+     "EPSdiluted": "0",
+     "DPS": "0",
+     "GUV": "Ocado Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,15",
+     "equityratio": "47,8",
+     "deptratio": "52,2"
+    },
+    {
+     "DieAktie": "Ocado Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0",
+     "EPSdiluted": "0",
+     "DPS": "0",
+     "GUV": "Ocado Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,3",
+     "equityratio": "45,88",
+     "deptratio": "54,12"
+    },
+    {
+     "DieAktie": "Ocado Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,02",
+     "EPSdiluted": "-0,02",
+     "DPS": "0",
+     "GUV": "Ocado Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,37",
+     "equityratio": "40,63",
+     "deptratio": "59,37"
+    },
+    {
+     "DieAktie": "Ocado Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,01",
+     "EPSdiluted": "0,01",
+     "DPS": "0",
+     "GUV": "Ocado Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,54",
+     "equityratio": "40,54",
+     "deptratio": "59,46"
+    },
+    {
+     "DieAktie": "Ocado Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,02",
+     "EPSdiluted": "0,02",
+     "DPS": "0",
+     "GUV": "Ocado Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,79",
+     "equityratio": "40,89",
+     "deptratio": "59,11"
+    },
+    {
+     "DieAktie": "Ocado Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,02",
+     "EPSdiluted": "0,02",
+     "DPS": "0",
+     "GUV": "Ocado Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,07",
+     "equityratio": "37,45",
+     "deptratio": "62,55"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "04.05.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "15.05.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "07.05.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "10.05.13",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "OneSavings Bank Aktie [WKN DE: A115BJ / ISIN: GB00BM7S7K96]",
+   "URL": "http://www.finanzen.at/bilanz_guv/OneSavings_Bank",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "OneSavings Bank PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "OneSavings Bank PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "OneSavings Bank PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "-0,05",
+     "EPSdiluted": "-0,05",
+     "DPS": "-",
+     "GUV": "OneSavings Bank PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,22",
+     "equityratio": "2,85",
+     "deptratio": "97,15"
+    },
+    {
+     "DieAktie": "OneSavings Bank PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,03",
+     "EPSdiluted": "0,03",
+     "DPS": "-",
+     "GUV": "OneSavings Bank PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,39",
+     "equityratio": "3,03",
+     "deptratio": "96,97"
+    },
+    {
+     "DieAktie": "OneSavings Bank PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,11",
+     "EPSdiluted": "0,11",
+     "DPS": "-",
+     "GUV": "OneSavings Bank PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,81",
+     "equityratio": "3,51",
+     "deptratio": "96,49"
+    },
+    {
+     "DieAktie": "OneSavings Bank PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,22",
+     "DPS": "0,04",
+     "GUV": "OneSavings Bank PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,93",
+     "equityratio": "4,61",
+     "deptratio": "95,39"
+    },
+    {
+     "DieAktie": "OneSavings Bank PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,34",
+     "EPSdiluted": "0,34",
+     "DPS": "0,09",
+     "GUV": "OneSavings Bank PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,13",
+     "equityratio": "4,98",
+     "deptratio": "95,02"
+    },
+    {
+     "DieAktie": "OneSavings Bank PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,49",
+     "EPSdiluted": "0,49",
+     "DPS": "0,11",
+     "GUV": "OneSavings Bank PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,3",
+     "equityratio": "6,02",
+     "deptratio": "93,98"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "11.05.16",
+     "Dividende": "0,09"
+    },
+    {
+     "Datum": "02.06.15",
+     "Dividende": "0,04"
+    }
+   ]
+  },
+  {
+   "name": "Paragon Group of Companies Aktie [WKN DE: A0NBD6 / ISIN: GB00B2NGPM57]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Paragon_Group_of_Companies",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Paragon Group of Companies PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Paragon Group of Companies PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Paragon Group of Companies PLC: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,18",
+     "EPSdiluted": "0,18",
+     "DPS": "0,04",
+     "GUV": "Paragon Group of Companies PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,94",
+     "equityratio": "6,5",
+     "deptratio": "93,5"
+    },
+    {
+     "DieAktie": "Paragon Group of Companies PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,2",
+     "EPSdiluted": "0,2",
+     "DPS": "0,04",
+     "GUV": "Paragon Group of Companies PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,9",
+     "equityratio": "7,07",
+     "deptratio": "92,93"
+    },
+    {
+     "DieAktie": "Paragon Group of Companies PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,24",
+     "EPSdiluted": "0,24",
+     "DPS": "0,06",
+     "GUV": "Paragon Group of Companies PLC: GuV (in Mio. GBP)",
+     "Turnover": "1",
+     "equityratio": "8,01",
+     "deptratio": "91,99"
+    },
+    {
+     "DieAktie": "Paragon Group of Companies PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,28",
+     "EPSdiluted": "0,28",
+     "DPS": "0,07",
+     "GUV": "Paragon Group of Companies PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,93",
+     "equityratio": "8,46",
+     "deptratio": "91,54"
+    },
+    {
+     "DieAktie": "Paragon Group of Companies PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,32",
+     "EPSdiluted": "0,31",
+     "DPS": "0,09",
+     "GUV": "Paragon Group of Companies PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,03",
+     "equityratio": "8,69",
+     "deptratio": "91,31"
+    },
+    {
+     "DieAktie": "Paragon Group of Companies PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,36",
+     "EPSdiluted": "0,35",
+     "DPS": "0,11",
+     "GUV": "Paragon Group of Companies PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,15",
+     "equityratio": "8,16",
+     "deptratio": "91,84"
+    },
+    {
+     "DieAktie": "Paragon Group of Companies PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,41",
+     "EPSdiluted": "0,4",
+     "DPS": "0,14",
+     "GUV": "Paragon Group of Companies PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,51",
+     "equityratio": "7,17",
+     "deptratio": "92,83"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "09.02.17",
+     "Dividende": "0,14"
+    }
+   ]
+  },
+  {
+   "name": "Paypoint Aktie [WKN: A0DK8C / ISIN: GB00B02QND93]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Paypoint",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Paypoint PLCShs: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Paypoint PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Paypoint PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,35",
+     "EPSdiluted": "0,35",
+     "DPS": "0,23",
+     "GUV": "Paypoint PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "2,85",
+     "equityratio": "67,68",
+     "deptratio": "32,32"
+    },
+    {
+     "DieAktie": "Paypoint PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,4",
+     "EPSdiluted": "0,4",
+     "DPS": "0,27",
+     "GUV": "Paypoint PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "2,95",
+     "equityratio": "68,65",
+     "deptratio": "31,35"
+    },
+    {
+     "DieAktie": "Paypoint PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,46",
+     "EPSdiluted": "0,45",
+     "DPS": "0,3",
+     "GUV": "Paypoint PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "3,05",
+     "equityratio": "32,29",
+     "deptratio": "67,71"
+    },
+    {
+     "DieAktie": "Paypoint PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,53",
+     "EPSdiluted": "0,53",
+     "DPS": "0,35",
+     "GUV": "Paypoint PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "3,11",
+     "equityratio": "35,3",
+     "deptratio": "64,7"
+    },
+    {
+     "DieAktie": "Paypoint PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,58",
+     "EPSdiluted": "0,57",
+     "DPS": "0,39",
+     "GUV": "Paypoint PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "3,2",
+     "equityratio": "37,77",
+     "deptratio": "62,23"
+    },
+    {
+     "DieAktie": "Paypoint PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,03",
+     "EPSdiluted": "-0,03",
+     "DPS": "0,42",
+     "GUV": "Paypoint PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "3,12",
+     "equityratio": "37,5",
+     "deptratio": "62,5"
+    },
+    {
+     "DieAktie": "Paypoint PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,88",
+     "EPSdiluted": "0,87",
+     "DPS": "0,82",
+     "GUV": "Paypoint PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "3,1",
+     "equityratio": "36,6",
+     "deptratio": "63,4"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "28.07.16",
+     "Dividende": "0,42"
+    },
+    {
+     "Datum": "22.07.16",
+     "Dividende": "0,42"
+    },
+    {
+     "Datum": "22.07.15",
+     "Dividende": "0,39"
+    }
+   ]
+  },
+  {
+   "name": "Paysafe Group Aktie [WKN: A0B7QM / ISIN: GB0034264548]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Paysafe",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Paysafe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Paysafe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Paysafe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0",
+     "GUV": "Paysafe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "43,26",
+     "deptratio": "56,74"
+    },
+    {
+     "DieAktie": "Paysafe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0",
+     "GUV": "Paysafe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "28,56",
+     "deptratio": "71,44"
+    },
+    {
+     "DieAktie": "Paysafe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0",
+     "GUV": "Paysafe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "29,68",
+     "deptratio": "70,32"
+    },
+    {
+     "DieAktie": "Paysafe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0",
+     "GUV": "Paysafe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "35,24",
+     "deptratio": "64,76"
+    },
+    {
+     "DieAktie": "Paysafe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0",
+     "GUV": "Paysafe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "44,12",
+     "deptratio": "55,88"
+    },
+    {
+     "DieAktie": "Paysafe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,01",
+     "EPSdiluted": "0,01",
+     "DPS": "0",
+     "GUV": "Paysafe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,94",
+     "equityratio": "58,77",
+     "deptratio": "41,23"
+    },
+    {
+     "DieAktie": "Paysafe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,21",
+     "EPSdiluted": "0,21",
+     "DPS": "0",
+     "GUV": "Paysafe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,46",
+     "equityratio": "61,76",
+     "deptratio": "38,24"
+    }
+   ]
+  },
+  {
+   "name": "Pennon Group Aktie [WKN DE: A0J371 / ISIN: GB00B18V8630]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pennon_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Pennon Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Pennon Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Pennon Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,48",
+     "EPSdiluted": "0,48",
+     "DPS": "0,25",
+     "GUV": "Pennon Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "3,25",
+     "equityratio": "18,63",
+     "deptratio": "81,37"
+    },
+    {
+     "DieAktie": "Pennon Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,48",
+     "EPSdiluted": "0,48",
+     "DPS": "0,27",
+     "GUV": "Pennon Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "3,42",
+     "equityratio": "19,01",
+     "deptratio": "80,99"
+    },
+    {
+     "DieAktie": "Pennon Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,07",
+     "EPSdiluted": "0,07",
+     "DPS": "0,28",
+     "GUV": "Pennon Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "3,28",
+     "equityratio": "15,96",
+     "deptratio": "84,04"
+    },
+    {
+     "DieAktie": "Pennon Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,39",
+     "EPSdiluted": "0,39",
+     "DPS": "0,3",
+     "GUV": "Pennon Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "3,58",
+     "equityratio": "17,97",
+     "deptratio": "82,03"
+    },
+    {
+     "DieAktie": "Pennon Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,32",
+     "EPSdiluted": "0,32",
+     "DPS": "0,32",
+     "GUV": "Pennon Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "3,46",
+     "equityratio": "19,42",
+     "deptratio": "80,58"
+    },
+    {
+     "DieAktie": "Pennon Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,37",
+     "EPSdiluted": "0,37",
+     "DPS": "0,34",
+     "GUV": "Pennon Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "3,28",
+     "equityratio": "20,93",
+     "deptratio": "79,07"
+    },
+    {
+     "DieAktie": "Pennon Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,4",
+     "EPSdiluted": "0,4",
+     "DPS": "0,36",
+     "GUV": "Pennon Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "3,26",
+     "equityratio": "20,42",
+     "deptratio": "79,58"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "05.07.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "01.07.16",
+     "Dividende": "0,34"
+    },
+    {
+     "Datum": "30.07.15",
+     "Dividende": "0,32"
+    },
+    {
+     "Datum": "31.07.14",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "01.08.13",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "26.07.12",
+     "Dividende": "0,27"
+    },
+    {
+     "Datum": "28.07.11",
+     "Dividende": "0,25"
+    },
+    {
+     "Datum": "29.07.10",
+     "Dividende": "0,23"
+    },
+    {
+     "Datum": "30.07.09",
+     "Dividende": "0,21"
+    }
+   ]
+  },
+  {
+   "name": "Petra Diamonds Aktie [WKN: 908093 / ISIN: BMG702781094]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Petra_Diamonds",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Petra Diamonds Ltd.: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Petra Diamonds Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Petra Diamonds Ltd.: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,14",
+     "EPSdiluted": "0,14",
+     "DPS": "0",
+     "GUV": "Petra Diamonds Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "0,36",
+     "equityratio": "52,36",
+     "deptratio": "47,64"
+    },
+    {
+     "DieAktie": "Petra Diamonds Ltd.: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,08",
+     "EPSdiluted": "0,08",
+     "DPS": "0",
+     "GUV": "Petra Diamonds Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "0,32",
+     "equityratio": "65,4",
+     "deptratio": "34,6"
+    },
+    {
+     "DieAktie": "Petra Diamonds Ltd.: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0",
+     "EPSdiluted": "0",
+     "DPS": "0",
+     "GUV": "Petra Diamonds Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "0,4",
+     "equityratio": "64,33",
+     "deptratio": "35,67"
+    },
+    {
+     "DieAktie": "Petra Diamonds Ltd.: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,04",
+     "EPSdiluted": "0,04",
+     "DPS": "0",
+     "GUV": "Petra Diamonds Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "0,49",
+     "equityratio": "57,08",
+     "deptratio": "42,92"
+    },
+    {
+     "DieAktie": "Petra Diamonds Ltd.: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,07",
+     "EPSdiluted": "0,07",
+     "DPS": "0",
+     "GUV": "Petra Diamonds Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "0,55",
+     "equityratio": "54,25",
+     "deptratio": "45,75"
+    },
+    {
+     "DieAktie": "Petra Diamonds Ltd.: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,06",
+     "EPSdiluted": "0,06",
+     "DPS": "0,02",
+     "GUV": "Petra Diamonds Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "0,51",
+     "equityratio": "41,4",
+     "deptratio": "58,6"
+    },
+    {
+     "DieAktie": "Petra Diamonds Ltd.: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,07",
+     "EPSdiluted": "0,07",
+     "DPS": "0",
+     "GUV": "Petra Diamonds Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "0,54",
+     "equityratio": "34,01",
+     "deptratio": "65,99"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "27.11.17",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "28.11.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "30.11.15",
+     "Dividende": "0,03"
+    }
+   ]
+  },
+  {
+   "name": "Petrofac Aktie [WKN: A0HF9Y / ISIN: GB00B0H2K534]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Petrofac",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Petrofac LtdShs: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Petrofac LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Petrofac LtdShs: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,07",
+     "EPSdiluted": "1,05",
+     "DPS": "0,24",
+     "GUV": "Petrofac LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "8,21",
+     "equityratio": "21,56",
+     "deptratio": "78,44"
+    },
+    {
+     "DieAktie": "Petrofac LtdShs: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,99",
+     "EPSdiluted": "0,98",
+     "DPS": "0,31",
+     "GUV": "Petrofac LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "10,54",
+     "equityratio": "22,7",
+     "deptratio": "77,3"
+    },
+    {
+     "DieAktie": "Petrofac LtdShs: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,17",
+     "EPSdiluted": "1,16",
+     "DPS": "0,37",
+     "GUV": "Petrofac LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "11,64",
+     "equityratio": "29,05",
+     "deptratio": "70,95"
+    },
+    {
+     "DieAktie": "Petrofac LtdShs: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,22",
+     "EPSdiluted": "1,21",
+     "DPS": "0,36",
+     "GUV": "Petrofac LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "11,77",
+     "equityratio": "27,41",
+     "deptratio": "72,59"
+    },
+    {
+     "DieAktie": "Petrofac LtdShs: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,21",
+     "EPSdiluted": "0,21",
+     "DPS": "0,38",
+     "GUV": "Petrofac LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "11,02",
+     "equityratio": "20,84",
+     "deptratio": "79,16"
+    },
+    {
+     "DieAktie": "Petrofac LtdShs: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "-0,67",
+     "EPSdiluted": "-0,67",
+     "DPS": "0,43",
+     "GUV": "Petrofac LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "13,18",
+     "equityratio": "14,39",
+     "deptratio": "85,61"
+    },
+    {
+     "DieAktie": "Petrofac LtdShs: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0",
+     "EPSdiluted": "0",
+     "DPS": "0,51",
+     "GUV": "Petrofac LtdShs: GuV (in Mio. GBP)",
+     "Turnover": "17,01",
+     "equityratio": "13,31",
+     "deptratio": "86,69"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "19.05.16",
+     "Dividende": "0,66"
+    },
+    {
+     "Datum": "14.05.15",
+     "Dividende": "0,66"
+    },
+    {
+     "Datum": "15.05.14",
+     "Dividende": "0,66"
+    },
+    {
+     "Datum": "17.05.13",
+     "Dividende": "0,64"
+    },
+    {
+     "Datum": "11.05.12",
+     "Dividende": "0,55"
+    },
+    {
+     "Datum": "13.05.11",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "13.05.10",
+     "Dividende": "0,36"
+    },
+    {
+     "Datum": "15.05.09",
+     "Dividende": "0,25"
+    }
+   ]
+  },
+  {
+   "name": "Pets at Home Group Aktie [WKN DE: A1XFE7 / ISIN: GB00BJ62K685]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pets_at_Home_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Pets at Home Group Plc: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Pets at Home Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Pets at Home Group Plc: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,03",
+     "EPSdiluted": "0,03",
+     "DPS": "-",
+     "GUV": "Pets at Home Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "1,04",
+     "equityratio": "47,62",
+     "deptratio": "52,38"
+    },
+    {
+     "DieAktie": "Pets at Home Group Plc: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,04",
+     "EPSdiluted": "0,04",
+     "DPS": "-",
+     "GUV": "Pets at Home Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "1,09",
+     "equityratio": "47,62",
+     "deptratio": "52,38"
+    },
+    {
+     "DieAktie": "Pets at Home Group Plc: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,04",
+     "EPSdiluted": "0,04",
+     "DPS": "-",
+     "GUV": "Pets at Home Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "1,2",
+     "equityratio": "49,76",
+     "deptratio": "50,24"
+    },
+    {
+     "DieAktie": "Pets at Home Group Plc: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "-0,14",
+     "EPSdiluted": "-0,14",
+     "DPS": "0",
+     "GUV": "Pets at Home Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "3,8",
+     "equityratio": "59,19",
+     "deptratio": "40,81"
+    },
+    {
+     "DieAktie": "Pets at Home Group Plc: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,14",
+     "EPSdiluted": "0,14",
+     "DPS": "0,05",
+     "GUV": "Pets at Home Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "1,45",
+     "equityratio": "61,24",
+     "deptratio": "38,76"
+    },
+    {
+     "DieAktie": "Pets at Home Group Plc: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,15",
+     "EPSdiluted": "0,15",
+     "DPS": "0,08",
+     "GUV": "Pets at Home Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "1,58",
+     "equityratio": "67,28",
+     "deptratio": "32,72"
+    },
+    {
+     "DieAktie": "Pets at Home Group Plc: Die Aktie (in GBP)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,15",
+     "EPSdiluted": "0,15",
+     "DPS": "0,08",
+     "GUV": "Pets at Home Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "1,65",
+     "equityratio": "66,74",
+     "deptratio": "33,26"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "14.09.16",
+     "Dividende": "0,08"
+    },
+    {
+     "Datum": "09.09.15",
+     "Dividende": "0,05"
+    }
+   ]
+  },
+  {
+   "name": "Phoenix Group Aktie [WKN DE: A1CVEE / ISIN: KYG7091M1096]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Phoenix_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Phoenix Group Holdings: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Phoenix Group Holdings: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Phoenix Group Holdings: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,17",
+     "EPSdiluted": "0,17",
+     "DPS": "0,35",
+     "GUV": "Phoenix Group Holdings: GuV (in Mio. GBP)",
+     "Turnover": "22,36",
+     "equityratio": "1,96",
+     "deptratio": "98,04"
+    },
+    {
+     "DieAktie": "Phoenix Group Holdings: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "-0,63",
+     "EPSdiluted": "-0,63",
+     "DPS": "0,35",
+     "GUV": "Phoenix Group Holdings: GuV (in Mio. GBP)",
+     "Turnover": "24,07",
+     "equityratio": "1,91",
+     "deptratio": "98,09"
+    },
+    {
+     "DieAktie": "Phoenix Group Holdings: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,88",
+     "EPSdiluted": "1,88",
+     "DPS": "0,4",
+     "GUV": "Phoenix Group Holdings: GuV (in Mio. GBP)",
+     "Turnover": "-1,73",
+     "equityratio": "2",
+     "deptratio": "98"
+    },
+    {
+     "DieAktie": "Phoenix Group Holdings: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,58",
+     "EPSdiluted": "0,58",
+     "DPS": "0,45",
+     "GUV": "Phoenix Group Holdings: GuV (in Mio. GBP)",
+     "Turnover": "15,14",
+     "equityratio": "2,68",
+     "deptratio": "97,32"
+    },
+    {
+     "DieAktie": "Phoenix Group Holdings: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,76",
+     "EPSdiluted": "0,76",
+     "DPS": "0,45",
+     "GUV": "Phoenix Group Holdings: GuV (in Mio. GBP)",
+     "Turnover": "18,88",
+     "equityratio": "3,58",
+     "deptratio": "96,42"
+    },
+    {
+     "DieAktie": "Phoenix Group Holdings: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,76",
+     "EPSdiluted": "0,76",
+     "DPS": "0,45",
+     "GUV": "Phoenix Group Holdings: GuV (in Mio. GBP)",
+     "Turnover": "5,95",
+     "equityratio": "4,02",
+     "deptratio": "95,98"
+    },
+    {
+     "DieAktie": "Phoenix Group Holdings: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,34",
+     "EPSdiluted": "-0,34",
+     "DPS": "0,47",
+     "GUV": "Phoenix Group Holdings: GuV (in Mio. GBP)",
+     "Turnover": "13,34",
+     "equityratio": "4,42",
+     "deptratio": "95,58"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "11.05.16",
+     "Dividende": "0,53"
+    }
+   ]
+  },
+  {
+   "name": "Playtech Aktie [WKN DE: A1J0S4 / ISIN: IM00B7S9G985]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Playtech_2",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Playtech Limited: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Playtech Limited: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Playtech Limited: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,22",
+     "DPS": "0,15",
+     "GUV": "Playtech Limited: GuV (in Mio. GBP)",
+     "Turnover": "0,49",
+     "equityratio": "78,09",
+     "deptratio": "21,91"
+    },
+    {
+     "DieAktie": "Playtech Limited: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,28",
+     "EPSdiluted": "0,27",
+     "DPS": "0,12",
+     "GUV": "Playtech Limited: GuV (in Mio. GBP)",
+     "Turnover": "0,73",
+     "equityratio": "62,09",
+     "deptratio": "37,91"
+    },
+    {
+     "DieAktie": "Playtech Limited: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,24",
+     "EPSdiluted": "0,24",
+     "DPS": "0,17",
+     "GUV": "Playtech Limited: GuV (in Mio. GBP)",
+     "Turnover": "0,87",
+     "equityratio": "65,53",
+     "deptratio": "34,47"
+    },
+    {
+     "DieAktie": "Playtech Limited: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,42",
+     "EPSdiluted": "1,4",
+     "DPS": "0,17",
+     "GUV": "Playtech Limited: GuV (in Mio. GBP)",
+     "Turnover": "1,05",
+     "equityratio": "86,4",
+     "deptratio": "13,6"
+    },
+    {
+     "DieAktie": "Playtech Limited: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,39",
+     "EPSdiluted": "0,38",
+     "DPS": "0,18",
+     "GUV": "Playtech Limited: GuV (in Mio. GBP)",
+     "Turnover": "1,25",
+     "equityratio": "65,96",
+     "deptratio": "34,04"
+    },
+    {
+     "DieAktie": "Playtech Limited: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,32",
+     "EPSdiluted": "0,32",
+     "DPS": "0,21",
+     "GUV": "Playtech Limited: GuV (in Mio. GBP)",
+     "Turnover": "1,5",
+     "equityratio": "58,29",
+     "deptratio": "41,71"
+    },
+    {
+     "DieAktie": "Playtech Limited: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,5",
+     "EPSdiluted": "0,48",
+     "DPS": "0,69",
+     "GUV": "Playtech Limited: GuV (in Mio. GBP)",
+     "Turnover": "1,67",
+     "equityratio": "49,73",
+     "deptratio": "50,27"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "18.05.16",
+     "Dividende": "0,29"
+    },
+    {
+     "Datum": "20.05.15",
+     "Dividende": "0,26"
+    }
+   ]
+  },
+  {
+   "name": "Polymetal Aktie [WKN DE: A1JLWT / ISIN: JE00B6T5S470]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Polymetal",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Polymetal PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Polymetal PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Polymetal PLC: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,4",
+     "EPSdiluted": "0,4",
+     "DPS": "-",
+     "GUV": "Polymetal PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,55",
+     "equityratio": "56,24",
+     "deptratio": "43,76"
+    },
+    {
+     "DieAktie": "Polymetal PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,49",
+     "EPSdiluted": "0,46",
+     "DPS": "0,13",
+     "GUV": "Polymetal PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,11",
+     "equityratio": "45,62",
+     "deptratio": "54,38"
+    },
+    {
+     "DieAktie": "Polymetal PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,65",
+     "EPSdiluted": "0,65",
+     "DPS": "0,51",
+     "GUV": "Polymetal PLC: GuV (in Mio. GBP)",
+     "Turnover": "3,06",
+     "equityratio": "58,94",
+     "deptratio": "41,06"
+    },
+    {
+     "DieAktie": "Polymetal PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,33",
+     "EPSdiluted": "-0,33",
+     "DPS": "0,05",
+     "GUV": "Polymetal PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,81",
+     "equityratio": "54,92",
+     "deptratio": "45,08"
+    },
+    {
+     "DieAktie": "Polymetal PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "-0,32",
+     "EPSdiluted": "-0,32",
+     "DPS": "0,26",
+     "GUV": "Polymetal PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,57",
+     "equityratio": "29,01",
+     "deptratio": "70,99"
+    },
+    {
+     "DieAktie": "Polymetal PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,34",
+     "EPSdiluted": "0,34",
+     "DPS": "0,34",
+     "GUV": "Polymetal PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,23",
+     "equityratio": "23,38",
+     "deptratio": "76,62"
+    },
+    {
+     "DieAktie": "Polymetal PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,69",
+     "EPSdiluted": "0,69",
+     "DPS": "0,33",
+     "GUV": "Polymetal PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,75",
+     "equityratio": "35,95",
+     "deptratio": "64,05"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "18.05.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "17.05.16",
+     "Dividende": "0,51"
+    },
+    {
+     "Datum": "20.05.15",
+     "Dividende": "0,41"
+    },
+    {
+     "Datum": "21.05.14",
+     "Dividende": "0,09"
+    },
+    {
+     "Datum": "12.06.13",
+     "Dividende": "0,81"
+    },
+    {
+     "Datum": "13.06.12",
+     "Dividende": "0,20"
+    }
+   ]
+  },
+  {
+   "name": "Polypipe Group Aktie [WKN DE: A1113H / ISIN: GB00BKRC5K31]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Polypipe_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Polypipe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Polypipe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Polypipe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,05",
+     "EPSdiluted": "0,05",
+     "DPS": "-",
+     "GUV": "Polypipe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,43",
+     "equityratio": "47,19",
+     "deptratio": "52,81"
+    },
+    {
+     "DieAktie": "Polypipe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,1",
+     "EPSdiluted": "0,1",
+     "DPS": "-",
+     "GUV": "Polypipe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,41",
+     "equityratio": "49,76",
+     "deptratio": "50,24"
+    },
+    {
+     "DieAktie": "Polypipe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,1",
+     "EPSdiluted": "0,1",
+     "DPS": "-",
+     "GUV": "Polypipe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,5",
+     "equityratio": "51,42",
+     "deptratio": "48,58"
+    },
+    {
+     "DieAktie": "Polypipe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,07",
+     "EPSdiluted": "0,07",
+     "DPS": "0,05",
+     "GUV": "Polypipe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,64",
+     "equityratio": "55,52",
+     "deptratio": "44,48"
+    },
+    {
+     "DieAktie": "Polypipe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,17",
+     "EPSdiluted": "0,17",
+     "DPS": "0,08",
+     "GUV": "Polypipe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,77",
+     "equityratio": "45,3",
+     "deptratio": "54,7"
+    },
+    {
+     "DieAktie": "Polypipe Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,22",
+     "DPS": "0,1",
+     "GUV": "Polypipe Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,18",
+     "equityratio": "48,54",
+     "deptratio": "51,46"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "25.05.16",
+     "Dividende": "0,08"
+    }
+   ]
+  },
+  {
+   "name": "PZ Cussons Aktie [WKN DE: A0LAV3 / ISIN: GB00B19Z1432]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PZ_Cussons",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "PZ Cussons PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "PZ Cussons PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "PZ Cussons PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,16",
+     "EPSdiluted": "0,16",
+     "DPS": "0,07",
+     "GUV": "PZ Cussons PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,9",
+     "equityratio": "50,51",
+     "deptratio": "49,49"
+    },
+    {
+     "DieAktie": "PZ Cussons PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,08",
+     "EPSdiluted": "0,08",
+     "DPS": "0,07",
+     "GUV": "PZ Cussons PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,99",
+     "equityratio": "48,69",
+     "deptratio": "51,31"
+    },
+    {
+     "DieAktie": "PZ Cussons PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,15",
+     "EPSdiluted": "0,15",
+     "DPS": "0,07",
+     "GUV": "PZ Cussons PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,06",
+     "equityratio": "46,92",
+     "deptratio": "53,08"
+    },
+    {
+     "DieAktie": "PZ Cussons PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,21",
+     "DPS": "0,08",
+     "GUV": "PZ Cussons PLC: GuV (in Mio. GBP)",
+     "Turnover": "2,02",
+     "equityratio": "47,71",
+     "deptratio": "52,29"
+    },
+    {
+     "DieAktie": "PZ Cussons PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,12",
+     "DPS": "0,08",
+     "GUV": "PZ Cussons PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,94",
+     "equityratio": "42,77",
+     "deptratio": "57,23"
+    },
+    {
+     "DieAktie": "PZ Cussons PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,16",
+     "EPSdiluted": "0,16",
+     "DPS": "0,08",
+     "GUV": "PZ Cussons PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,96",
+     "equityratio": "42,76",
+     "deptratio": "57,24"
+    },
+    {
+     "DieAktie": "PZ Cussons PLC: Die Aktie (in GBP)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,15",
+     "EPSdiluted": "0,15",
+     "DPS": "0,08",
+     "GUV": "PZ Cussons PLC: GuV (in Mio. GBP)",
+     "Turnover": "1,93",
+     "equityratio": "42,15",
+     "deptratio": "57,85"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "27.09.17",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "28.09.16",
+     "Dividende": "0,06"
+    },
+    {
+     "Datum": "28.09.15",
+     "Dividende": "0,05"
+    }
+   ]
+  },
+  {
+   "name": "QinetiQ Group Aktie [WKN DE: A0JDDS / ISIN: GB00B0WMWD03]",
+   "URL": "http://www.finanzen.at/bilanz_guv/QinetiQ_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "QinetiQ Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "QinetiQ Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "QinetiQ Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0,02",
+     "GUV": "QinetiQ Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "30,09",
+     "deptratio": "69,91"
+    },
+    {
+     "DieAktie": "QinetiQ Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0,03",
+     "GUV": "QinetiQ Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "40,95",
+     "deptratio": "59,05"
+    },
+    {
+     "DieAktie": "QinetiQ Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0,04",
+     "GUV": "QinetiQ Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "36,76",
+     "deptratio": "63,24"
+    },
+    {
+     "DieAktie": "QinetiQ Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0,05",
+     "GUV": "QinetiQ Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "36,45",
+     "deptratio": "63,55"
+    },
+    {
+     "DieAktie": "QinetiQ Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0,05",
+     "GUV": "QinetiQ Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "37,92",
+     "deptratio": "62,08"
+    },
+    {
+     "DieAktie": "QinetiQ Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "-",
+     "EPSdiluted": "-",
+     "DPS": "0,06",
+     "GUV": "QinetiQ Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "-",
+     "equityratio": "41,78",
+     "deptratio": "58,22"
+    },
+    {
+     "DieAktie": "QinetiQ Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,21",
+     "DPS": "0,06",
+     "GUV": "QinetiQ Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,35",
+     "equityratio": "54,26",
+     "deptratio": "45,74"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "20.07.16",
+     "Dividende": "0,06"
+    },
+    {
+     "Datum": "22.07.15",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "23.07.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "22.07.14",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "25.07.13",
+     "Dividende": "0,04"
+    }
+   ]
+  },
+  {
+   "name": "Rank Group Aktie [WKN DE: A0LGPG / ISIN: GB00B1L5QH97]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Rank_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Rank Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Rank Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Rank Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,14",
+     "EPSdiluted": "0,14",
+     "DPS": "0,02",
+     "GUV": "Rank Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,39",
+     "equityratio": "15,56",
+     "deptratio": "84,44"
+    },
+    {
+     "DieAktie": "Rank Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,39",
+     "EPSdiluted": "0,39",
+     "DPS": "0,02",
+     "GUV": "Rank Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,45",
+     "equityratio": "43,59",
+     "deptratio": "56,41"
+    },
+    {
+     "DieAktie": "Rank Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,29",
+     "EPSdiluted": "0,29",
+     "DPS": "0,03",
+     "GUV": "Rank Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,46",
+     "equityratio": "46,8",
+     "deptratio": "53,2"
+    },
+    {
+     "DieAktie": "Rank Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,07",
+     "EPSdiluted": "0,07",
+     "DPS": "0,04",
+     "GUV": "Rank Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,53",
+     "equityratio": "32,74",
+     "deptratio": "67,26"
+    },
+    {
+     "DieAktie": "Rank Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,05",
+     "EPSdiluted": "0,05",
+     "DPS": "0,05",
+     "GUV": "Rank Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,74",
+     "equityratio": "34,56",
+     "deptratio": "65,44"
+    },
+    {
+     "DieAktie": "Rank Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,19",
+     "EPSdiluted": "0,19",
+     "DPS": "0,06",
+     "GUV": "Rank Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,79",
+     "equityratio": "40,3",
+     "deptratio": "59,7"
+    },
+    {
+     "DieAktie": "Rank Group PLCShs: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,19",
+     "EPSdiluted": "0,19",
+     "DPS": "0,07",
+     "GUV": "Rank Group PLCShs: GuV (in Mio. GBP)",
+     "Turnover": "1,81",
+     "equityratio": "49,34",
+     "deptratio": "50,66"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "19.10.17",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "14.10.16",
+     "Dividende": "0,07"
+    },
+    {
+     "Datum": "15.10.15",
+     "Dividende": "0,06"
+    }
+   ]
+  },
+  {
+   "name": "Rathbone Brothers Aktie [WKN: 894100 / ISIN: GB0002148343]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Rathbone_Brothers",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Rathbone Brothers plc: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Rathbone Brothers plc: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Rathbone Brothers plc: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,5",
+     "EPSdiluted": "0,49",
+     "DPS": "0,44",
+     "GUV": "Rathbone Brothers plc: GuV (in Mio. GBP)",
+     "Turnover": "3,12",
+     "equityratio": "18",
+     "deptratio": "82"
+    },
+    {
+     "DieAktie": "Rathbone Brothers plc: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,67",
+     "EPSdiluted": "0,66",
+     "DPS": "0,46",
+     "GUV": "Rathbone Brothers plc: GuV (in Mio. GBP)",
+     "Turnover": "3,57",
+     "equityratio": "16,09",
+     "deptratio": "83,91"
+    },
+    {
+     "DieAktie": "Rathbone Brothers plc: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,67",
+     "EPSdiluted": "0,66",
+     "DPS": "0,47",
+     "GUV": "Rathbone Brothers plc: GuV (in Mio. GBP)",
+     "Turnover": "3,76",
+     "equityratio": "20,15",
+     "deptratio": "79,85"
+    },
+    {
+     "DieAktie": "Rathbone Brothers plc: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,76",
+     "EPSdiluted": "0,76",
+     "DPS": "0,49",
+     "GUV": "Rathbone Brothers plc: GuV (in Mio. GBP)",
+     "Turnover": "4,06",
+     "equityratio": "20,38",
+     "deptratio": "79,62"
+    },
+    {
+     "DieAktie": "Rathbone Brothers plc: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,76",
+     "EPSdiluted": "0,75",
+     "DPS": "0,52",
+     "GUV": "Rathbone Brothers plc: GuV (in Mio. GBP)",
+     "Turnover": "4,62",
+     "equityratio": "16,23",
+     "deptratio": "83,77"
+    },
+    {
+     "DieAktie": "Rathbone Brothers plc: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,97",
+     "EPSdiluted": "0,97",
+     "DPS": "0,55",
+     "GUV": "Rathbone Brothers plc: GuV (in Mio. GBP)",
+     "Turnover": "4,98",
+     "equityratio": "16,36",
+     "deptratio": "83,64"
+    },
+    {
+     "DieAktie": "Rathbone Brothers plc: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,79",
+     "EPSdiluted": "0,78",
+     "DPS": "0,57",
+     "GUV": "Rathbone Brothers plc: GuV (in Mio. GBP)",
+     "Turnover": "5,57",
+     "equityratio": "13,51",
+     "deptratio": "86,49"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "18.05.16",
+     "Dividende": "0,55"
+    },
+    {
+     "Datum": "14.05.15",
+     "Dividende": "0,52"
+    }
+   ]
+  }
+ ]
+}

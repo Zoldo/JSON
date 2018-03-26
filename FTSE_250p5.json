@@ -1,0 +1,420 @@
+{
+ "Aktien": [
+  {
+   "name": "John Wood Group Aktie [WKN DE: A1JGY5 / ISIN: GB00B5N0P849]",
+   "URL": "http://www.finanzen.at/bilanz_guv/John_Wood_Group_2",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "John Wood Group Plc: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "John Wood Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "John Wood Group Plc: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,27",
+     "EPSdiluted": "0,26",
+     "DPS": "0,09",
+     "GUV": "John Wood Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "7,96",
+     "equityratio": "47,18",
+     "deptratio": "52,82"
+    },
+    {
+     "DieAktie": "John Wood Group Plc: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "3,31",
+     "EPSdiluted": "3,2",
+     "DPS": "0,08",
+     "GUV": "John Wood Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "7,88",
+     "equityratio": "50,62",
+     "deptratio": "49,38"
+    },
+    {
+     "DieAktie": "John Wood Group Plc: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,41",
+     "EPSdiluted": "0,4",
+     "DPS": "0,11",
+     "GUV": "John Wood Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "11,55",
+     "equityratio": "53,52",
+     "deptratio": "46,48"
+    },
+    {
+     "DieAktie": "John Wood Group Plc: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,52",
+     "EPSdiluted": "0,51",
+     "DPS": "0,14",
+     "GUV": "John Wood Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "10,93",
+     "equityratio": "52,93",
+     "deptratio": "47,07"
+    },
+    {
+     "DieAktie": "John Wood Group Plc: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,53",
+     "EPSdiluted": "0,52",
+     "DPS": "0,18",
+     "GUV": "John Wood Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "10,64",
+     "equityratio": "58,04",
+     "deptratio": "41,96"
+    },
+    {
+     "DieAktie": "John Wood Group Plc: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,11",
+     "DPS": "0,21",
+     "GUV": "John Wood Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "8,63",
+     "equityratio": "58,97",
+     "deptratio": "41,03"
+    },
+    {
+     "DieAktie": "John Wood Group Plc: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,06",
+     "EPSdiluted": "0,05",
+     "DPS": "0,26",
+     "GUV": "John Wood Group Plc: GuV (in Mio. GBP)",
+     "Turnover": "7,98",
+     "equityratio": "54,48",
+     "deptratio": "45,52"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "11.05.16",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "13.05.15",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "14.05.14",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "15.05.13",
+     "Dividende": "0,17"
+    },
+    {
+     "Datum": "10.05.12",
+     "Dividende": "0,14"
+    },
+    {
+     "Datum": "11.05.11",
+     "Dividende": "0,11"
+    },
+    {
+     "Datum": "12.05.10",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "13.05.09",
+     "Dividende": "0,09"
+    }
+   ]
+  },
+  {
+   "name": "Wizz Air Aktie [WKN DE: A14NPS / ISIN: JE00BN574F90]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Wizz_Air",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Wizz Air: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Wizz Air: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Wizz Air: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,67",
+     "EPSdiluted": "0,67",
+     "DPS": "-",
+     "GUV": "Wizz Air: GuV (in Mio. GBP)",
+     "Turnover": "12,64",
+     "equityratio": "11,01",
+     "deptratio": "88,99"
+    },
+    {
+     "DieAktie": "Wizz Air: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,46",
+     "EPSdiluted": "0,46",
+     "DPS": "-",
+     "GUV": "Wizz Air: GuV (in Mio. GBP)",
+     "Turnover": "13,27",
+     "equityratio": "13,16",
+     "deptratio": "86,84"
+    },
+    {
+     "DieAktie": "Wizz Air: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,42",
+     "EPSdiluted": "1,42",
+     "DPS": "-",
+     "GUV": "Wizz Air: GuV (in Mio. GBP)",
+     "Turnover": "16,34",
+     "equityratio": "25,44",
+     "deptratio": "74,56"
+    },
+    {
+     "DieAktie": "Wizz Air: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,75",
+     "EPSdiluted": "2,75",
+     "DPS": "0",
+     "GUV": "Wizz Air: GuV (in Mio. GBP)",
+     "Turnover": "18,4",
+     "equityratio": "44,25",
+     "deptratio": "55,75"
+    },
+    {
+     "DieAktie": "Wizz Air: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "2,65",
+     "EPSdiluted": "1,13",
+     "DPS": "0",
+     "GUV": "Wizz Air: GuV (in Mio. GBP)",
+     "Turnover": "8,27",
+     "equityratio": "51,09",
+     "deptratio": "48,91"
+    },
+    {
+     "DieAktie": "Wizz Air: Die Aktie (in GBP)",
+     "Jahr": "2017",
+     "EPSundiluted": "3,62",
+     "EPSdiluted": "1,64",
+     "DPS": "-",
+     "GUV": "Wizz Air: GuV (in Mio. GBP)",
+     "Turnover": "10,44",
+     "equityratio": "55,66",
+     "deptratio": "44,34"
+    }
+   ]
+  },
+  {
+   "name": "Workspace Group Aktie [WKN DE: A1JHAB / ISIN: GB00B67G5X01]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Workspace_Group_2",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Workspace Group PLC R.E.I.T.: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Workspace Group PLC R.E.I.T.: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Workspace Group PLC R.E.I.T.: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,45",
+     "EPSdiluted": "0,44",
+     "DPS": "0,08",
+     "GUV": "Workspace Group PLC R.E.I.T.: GuV (in Mio. GBP)",
+     "Turnover": "0,57",
+     "equityratio": "45,07",
+     "deptratio": "54,93"
+    },
+    {
+     "DieAktie": "Workspace Group PLC R.E.I.T.: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,36",
+     "EPSdiluted": "0,36",
+     "DPS": "0,08",
+     "GUV": "Workspace Group PLC R.E.I.T.: GuV (in Mio. GBP)",
+     "Turnover": "0,49",
+     "equityratio": "53,4",
+     "deptratio": "46,6"
+    },
+    {
+     "DieAktie": "Workspace Group PLC R.E.I.T.: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,53",
+     "EPSdiluted": "0,52",
+     "DPS": "0,09",
+     "GUV": "Workspace Group PLC R.E.I.T.: GuV (in Mio. GBP)",
+     "Turnover": "0,47",
+     "equityratio": "56,83",
+     "deptratio": "43,17"
+    },
+    {
+     "DieAktie": "Workspace Group PLC R.E.I.T.: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,67",
+     "EPSdiluted": "1,63",
+     "DPS": "0,1",
+     "GUV": "Workspace Group PLC R.E.I.T.: GuV (in Mio. GBP)",
+     "Turnover": "0,5",
+     "equityratio": "65,06",
+     "deptratio": "34,94"
+    },
+    {
+     "DieAktie": "Workspace Group PLC R.E.I.T.: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,31",
+     "EPSdiluted": "2,27",
+     "DPS": "0,11",
+     "GUV": "Workspace Group PLC R.E.I.T.: GuV (in Mio. GBP)",
+     "Turnover": "0,54",
+     "equityratio": "75,83",
+     "deptratio": "24,17"
+    },
+    {
+     "DieAktie": "Workspace Group PLC R.E.I.T.: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "2,4",
+     "EPSdiluted": "2,37",
+     "DPS": "0,15",
+     "GUV": "Workspace Group PLC R.E.I.T.: GuV (in Mio. GBP)",
+     "Turnover": "0,8",
+     "equityratio": "80,88",
+     "deptratio": "19,12"
+    },
+    {
+     "DieAktie": "Workspace Group PLC R.E.I.T.: Die Aktie (in GBP)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,55",
+     "EPSdiluted": "0,54",
+     "DPS": "0,21",
+     "GUV": "Workspace Group PLC R.E.I.T.: GuV (in Mio. GBP)",
+     "Turnover": "0,67",
+     "equityratio": "83,21",
+     "deptratio": "16,79"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "14.07.16",
+     "Dividende": "0,15"
+    },
+    {
+     "Datum": "15.07.15",
+     "Dividende": "0,12"
+    }
+   ]
+  },
+  {
+   "name": "Zoopla Property Group Aktie [WKN DE: A116RR / ISIN: GB00BMHTHT14]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Zoopla_Property_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Zoopla Property Group PLC: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Zoopla Property Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Zoopla Property Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "-0,01",
+     "EPSdiluted": "-0,01",
+     "DPS": "-",
+     "GUV": "Zoopla Property Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,03",
+     "equityratio": "53,57",
+     "deptratio": "46,43"
+    },
+    {
+     "DieAktie": "Zoopla Property Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0",
+     "EPSdiluted": "0",
+     "DPS": "-",
+     "GUV": "Zoopla Property Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,09",
+     "equityratio": "91,67",
+     "deptratio": "8,33"
+    },
+    {
+     "DieAktie": "Zoopla Property Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,05",
+     "EPSdiluted": "0,05",
+     "DPS": "-",
+     "GUV": "Zoopla Property Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,15",
+     "equityratio": "89,6",
+     "deptratio": "10,4"
+    },
+    {
+     "DieAktie": "Zoopla Property Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,05",
+     "EPSdiluted": "0,05",
+     "DPS": "0,01",
+     "GUV": "Zoopla Property Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,19",
+     "equityratio": "85,53",
+     "deptratio": "14,47"
+    },
+    {
+     "DieAktie": "Zoopla Property Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,06",
+     "EPSdiluted": "0,06",
+     "DPS": "0,04",
+     "GUV": "Zoopla Property Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,26",
+     "equityratio": "38,26",
+     "deptratio": "61,74"
+    },
+    {
+     "DieAktie": "Zoopla Property Group PLC: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,09",
+     "EPSdiluted": "0,09",
+     "DPS": "0,05",
+     "GUV": "Zoopla Property Group PLC: GuV (in Mio. GBP)",
+     "Turnover": "0,47",
+     "equityratio": "37,78",
+     "deptratio": "62,22"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "02.02.17",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "25.02.16",
+     "Dividende": "0,04"
+    },
+    {
+     "Datum": "01.10.15",
+     "Dividende": "0,04"
+    },
+    {
+     "Datum": "12.02.15",
+     "Dividende": "0,07"
+    }
+   ]
+  }
+ ]
+}

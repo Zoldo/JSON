@@ -1,0 +1,6550 @@
+{
+ "Aktien": [
+  {
+   "name": "Nortech Systems Aktie [WKN: 923640 / ISIN: US6565531042]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Nortech_Systems",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Nortech Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Nortech Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Nortech Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,18",
+     "EPSdiluted": "0,18",
+     "DPS": "0",
+     "GUV": "Nortech Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "36,4",
+     "equityratio": "45,81",
+     "deptratio": "54,19"
+    },
+    {
+     "DieAktie": "Nortech Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,43",
+     "EPSdiluted": "0,43",
+     "DPS": "0",
+     "GUV": "Nortech Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "41,65",
+     "equityratio": "43,3",
+     "deptratio": "56,7"
+    },
+    {
+     "DieAktie": "Nortech Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,23",
+     "DPS": "0",
+     "GUV": "Nortech Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "38,99",
+     "equityratio": "46,92",
+     "deptratio": "53,08"
+    },
+    {
+     "DieAktie": "Nortech Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,29",
+     "EPSdiluted": "0,29",
+     "DPS": "0",
+     "GUV": "Nortech Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "40,47",
+     "equityratio": "47,07",
+     "deptratio": "52,93"
+    },
+    {
+     "DieAktie": "Nortech Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,32",
+     "EPSdiluted": "0,32",
+     "DPS": "0",
+     "GUV": "Nortech Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "40,76",
+     "equityratio": "46,38",
+     "deptratio": "53,62"
+    },
+    {
+     "DieAktie": "Nortech Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "-0,21",
+     "EPSdiluted": "-0,21",
+     "DPS": "0",
+     "GUV": "Nortech Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "41,95",
+     "equityratio": "38,16",
+     "deptratio": "61,84"
+    },
+    {
+     "DieAktie": "Nortech Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,02",
+     "EPSdiluted": "0,02",
+     "DPS": "-",
+     "GUV": "Nortech Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "42,41",
+     "equityratio": "39,12",
+     "deptratio": "60,88"
+    }
+   ]
+  },
+  {
+   "name": "Northern Trust Aktie [WKN: 854009 / ISIN: US6658591044]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Northern_Trust",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Northern Trust Corp.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Northern Trust Corp.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Northern Trust Corp.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "2,74",
+     "EPSdiluted": "2,74",
+     "DPS": "1,12",
+     "GUV": "Northern Trust Corp.: GuV (in Mio. USD)",
+     "Turnover": "16,6",
+     "equityratio": "8,15",
+     "deptratio": "91,85"
+    },
+    {
+     "DieAktie": "Northern Trust Corp.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,47",
+     "EPSdiluted": "2,47",
+     "DPS": "1,12",
+     "GUV": "Northern Trust Corp.: GuV (in Mio. USD)",
+     "Turnover": "16,26",
+     "equityratio": "7,08",
+     "deptratio": "92,92"
+    },
+    {
+     "DieAktie": "Northern Trust Corp.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,82",
+     "EPSdiluted": "2,81",
+     "DPS": "1,18",
+     "GUV": "Northern Trust Corp.: GuV (in Mio. USD)",
+     "Turnover": "16,7",
+     "equityratio": "7,72",
+     "deptratio": "92,28"
+    },
+    {
+     "DieAktie": "Northern Trust Corp.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "3,01",
+     "EPSdiluted": "2,99",
+     "DPS": "1,23",
+     "GUV": "Northern Trust Corp.: GuV (in Mio. USD)",
+     "Turnover": "16,64",
+     "equityratio": "7,69",
+     "deptratio": "92,31"
+    },
+    {
+     "DieAktie": "Northern Trust Corp.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "3,35",
+     "EPSdiluted": "3,32",
+     "DPS": "1,3",
+     "GUV": "Northern Trust Corp.: GuV (in Mio. USD)",
+     "Turnover": "19,17",
+     "equityratio": "7,33",
+     "deptratio": "92,67"
+    },
+    {
+     "DieAktie": "Northern Trust Corp.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "4,03",
+     "EPSdiluted": "3,99",
+     "DPS": "1,41",
+     "GUV": "Northern Trust Corp.: GuV (in Mio. USD)",
+     "Turnover": "20,76",
+     "equityratio": "7,12",
+     "deptratio": "92,88"
+    },
+    {
+     "DieAktie": "Northern Trust Corp.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "4,35",
+     "EPSdiluted": "4,32",
+     "DPS": "1,48",
+     "GUV": "Northern Trust Corp.: GuV (in Mio. USD)",
+     "Turnover": "22,49",
+     "equityratio": "7,17",
+     "deptratio": "92,83"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "19.04.16",
+     "Dividende": "1,41"
+    },
+    {
+     "Datum": "21.04.15",
+     "Dividende": "1,30"
+    },
+    {
+     "Datum": "15.04.14",
+     "Dividende": "1,23"
+    },
+    {
+     "Datum": "16.04.13",
+     "Dividende": "1,18"
+    },
+    {
+     "Datum": "17.04.12",
+     "Dividende": "1,12"
+    },
+    {
+     "Datum": "19.04.11",
+     "Dividende": "1,12"
+    },
+    {
+     "Datum": "20.04.10",
+     "Dividende": "1,12"
+    },
+    {
+     "Datum": "21.04.09",
+     "Dividende": "1,12"
+    },
+    {
+     "Datum": "15.04.08",
+     "Dividende": "1,03"
+    },
+    {
+     "Datum": "17.04.07",
+     "Dividende": "0,94"
+    },
+    {
+     "Datum": "18.04.06",
+     "Dividende": "0,86"
+    },
+    {
+     "Datum": "19.04.05",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "20.04.04",
+     "Dividende": "0,70"
+    }
+   ]
+  },
+  {
+   "name": "Nova Measuring Instruments Aktie [WKN: 937092 / ISIN: IL0010845571]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Nova_Measuring_Instruments",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Nova Measuring Instruments Ltd.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Nova Measuring Instruments Ltd.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Nova Measuring Instruments Ltd.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,91",
+     "EPSdiluted": "0,86",
+     "DPS": "0",
+     "GUV": "Nova Measuring Instruments Ltd.: GuV (in Mio. USD)",
+     "Turnover": "3,37",
+     "equityratio": "73,23",
+     "deptratio": "26,77"
+    },
+    {
+     "DieAktie": "Nova Measuring Instruments Ltd.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,07",
+     "EPSdiluted": "1,04",
+     "DPS": "0",
+     "GUV": "Nova Measuring Instruments Ltd.: GuV (in Mio. USD)",
+     "Turnover": "3,82",
+     "equityratio": "81,26",
+     "deptratio": "18,74"
+    },
+    {
+     "DieAktie": "Nova Measuring Instruments Ltd.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,44",
+     "EPSdiluted": "0,43",
+     "DPS": "0",
+     "GUV": "Nova Measuring Instruments Ltd.: GuV (in Mio. USD)",
+     "Turnover": "3,53",
+     "equityratio": "80,8",
+     "deptratio": "19,2"
+    },
+    {
+     "DieAktie": "Nova Measuring Instruments Ltd.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,39",
+     "EPSdiluted": "0,38",
+     "DPS": "0",
+     "GUV": "Nova Measuring Instruments Ltd.: GuV (in Mio. USD)",
+     "Turnover": "4,07",
+     "equityratio": "79,29",
+     "deptratio": "20,71"
+    },
+    {
+     "DieAktie": "Nova Measuring Instruments Ltd.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,68",
+     "EPSdiluted": "0,67",
+     "DPS": "0",
+     "GUV": "Nova Measuring Instruments Ltd.: GuV (in Mio. USD)",
+     "Turnover": "4,34",
+     "equityratio": "82,86",
+     "deptratio": "17,14"
+    },
+    {
+     "DieAktie": "Nova Measuring Instruments Ltd.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,58",
+     "EPSdiluted": "0,57",
+     "DPS": "-",
+     "GUV": "Nova Measuring Instruments Ltd.: GuV (in Mio. USD)",
+     "Turnover": "5,4",
+     "equityratio": "77,71",
+     "deptratio": "22,29"
+    },
+    {
+     "DieAktie": "Nova Measuring Instruments Ltd.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,35",
+     "EPSdiluted": "0,35",
+     "DPS": "-",
+     "GUV": "Nova Measuring Instruments Ltd.: GuV (in Mio. USD)",
+     "Turnover": "5,96",
+     "equityratio": "79,93",
+     "deptratio": "20,07"
+    }
+   ]
+  },
+  {
+   "name": "Nuance Communications Aktie [WKN: A0HGWX / ISIN: US67020Y1001]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Nuance_Communications",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Nuance Communications Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Nuance Communications Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Nuance Communications Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "-0,07",
+     "EPSdiluted": "-0,07",
+     "DPS": "0",
+     "GUV": "Nuance Communications Inc.: GuV (in Mio. USD)",
+     "Turnover": "3,89",
+     "equityratio": "60,82",
+     "deptratio": "39,18"
+    },
+    {
+     "DieAktie": "Nuance Communications Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,13",
+     "EPSdiluted": "0,12",
+     "DPS": "0",
+     "GUV": "Nuance Communications Inc.: GuV (in Mio. USD)",
+     "Turnover": "4,17",
+     "equityratio": "60,77",
+     "deptratio": "39,23"
+    },
+    {
+     "DieAktie": "Nuance Communications Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,67",
+     "EPSdiluted": "0,65",
+     "DPS": "0",
+     "GUV": "Nuance Communications Inc.: GuV (in Mio. USD)",
+     "Turnover": "5,15",
+     "equityratio": "46,97",
+     "deptratio": "53,03"
+    },
+    {
+     "DieAktie": "Nuance Communications Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,37",
+     "EPSdiluted": "-0,37",
+     "DPS": "0",
+     "GUV": "Nuance Communications Inc.: GuV (in Mio. USD)",
+     "Turnover": "5,92",
+     "equityratio": "44,27",
+     "deptratio": "55,73"
+    },
+    {
+     "DieAktie": "Nuance Communications Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "-0,47",
+     "EPSdiluted": "-0,47",
+     "DPS": "0",
+     "GUV": "Nuance Communications Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,07",
+     "equityratio": "44,36",
+     "deptratio": "55,64"
+    },
+    {
+     "DieAktie": "Nuance Communications Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "-0,36",
+     "EPSdiluted": "-0,36",
+     "DPS": "0",
+     "GUV": "Nuance Communications Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,09",
+     "equityratio": "40,56",
+     "deptratio": "59,44"
+    },
+    {
+     "DieAktie": "Nuance Communications Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,04",
+     "EPSdiluted": "-0,04",
+     "DPS": "-",
+     "GUV": "Nuance Communications Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,67",
+     "equityratio": "34,11",
+     "deptratio": "65,89"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "30.01.17",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.01.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.01.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "03.02.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "25.01.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.01.12",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Nutraceutical International Aktie [WKN: 912525 / ISIN: US67060Y1010]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Nutraceutical_International",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Nutraceutical International Corp.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Nutraceutical International Corp.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Nutraceutical International Corp.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,57",
+     "EPSdiluted": "1,56",
+     "DPS": "0",
+     "GUV": "Nutraceutical International Corp.: GuV (in Mio. USD)",
+     "Turnover": "17,14",
+     "equityratio": "69,67",
+     "deptratio": "30,33"
+    },
+    {
+     "DieAktie": "Nutraceutical International Corp.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,52",
+     "EPSdiluted": "1,51",
+     "DPS": "0",
+     "GUV": "Nutraceutical International Corp.: GuV (in Mio. USD)",
+     "Turnover": "18,11",
+     "equityratio": "69,71",
+     "deptratio": "30,29"
+    },
+    {
+     "DieAktie": "Nutraceutical International Corp.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,59",
+     "EPSdiluted": "1,59",
+     "DPS": "0",
+     "GUV": "Nutraceutical International Corp.: GuV (in Mio. USD)",
+     "Turnover": "20,17",
+     "equityratio": "70,49",
+     "deptratio": "29,51"
+    },
+    {
+     "DieAktie": "Nutraceutical International Corp.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,74",
+     "EPSdiluted": "1,73",
+     "DPS": "0",
+     "GUV": "Nutraceutical International Corp.: GuV (in Mio. USD)",
+     "Turnover": "21,25",
+     "equityratio": "71,69",
+     "deptratio": "28,31"
+    },
+    {
+     "DieAktie": "Nutraceutical International Corp.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,62",
+     "EPSdiluted": "1,62",
+     "DPS": "0",
+     "GUV": "Nutraceutical International Corp.: GuV (in Mio. USD)",
+     "Turnover": "21,88",
+     "equityratio": "69,66",
+     "deptratio": "30,34"
+    },
+    {
+     "DieAktie": "Nutraceutical International Corp.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,59",
+     "EPSdiluted": "1,59",
+     "DPS": "0",
+     "GUV": "Nutraceutical International Corp.: GuV (in Mio. USD)",
+     "Turnover": "22,57",
+     "equityratio": "75,43",
+     "deptratio": "24,57"
+    },
+    {
+     "DieAktie": "Nutraceutical International Corp.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "2",
+     "EPSdiluted": "2",
+     "DPS": "0,13",
+     "GUV": "Nutraceutical International Corp.: GuV (in Mio. USD)",
+     "Turnover": "24,93",
+     "equityratio": "72,92",
+     "deptratio": "27,08"
+    }
+   ]
+  },
+  {
+   "name": "NuVasive Aktie [WKN: A0CAYR / ISIN: US6707041058]",
+   "URL": "http://www.finanzen.at/bilanz_guv/NuVasive",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "NuVasive Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "NuVasive Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "NuVasive Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,99",
+     "EPSdiluted": "1,72",
+     "DPS": "0",
+     "GUV": "NuVasive Inc.: GuV (in Mio. USD)",
+     "Turnover": "10,51",
+     "equityratio": "54,16",
+     "deptratio": "45,84"
+    },
+    {
+     "DieAktie": "NuVasive Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "-1,73",
+     "EPSdiluted": "-1,73",
+     "DPS": "0",
+     "GUV": "NuVasive Inc.: GuV (in Mio. USD)",
+     "Turnover": "13,39",
+     "equityratio": "43,97",
+     "deptratio": "56,03"
+    },
+    {
+     "DieAktie": "NuVasive Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,07",
+     "EPSdiluted": "0,07",
+     "DPS": "0",
+     "GUV": "NuVasive Inc.: GuV (in Mio. USD)",
+     "Turnover": "14,01",
+     "equityratio": "46,19",
+     "deptratio": "53,81"
+    },
+    {
+     "DieAktie": "NuVasive Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,18",
+     "EPSdiluted": "0,17",
+     "DPS": "0",
+     "GUV": "NuVasive Inc.: GuV (in Mio. USD)",
+     "Turnover": "14,64",
+     "equityratio": "50,51",
+     "deptratio": "49,49"
+    },
+    {
+     "DieAktie": "NuVasive Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "-0,36",
+     "EPSdiluted": "-0,36",
+     "DPS": "0",
+     "GUV": "NuVasive Inc.: GuV (in Mio. USD)",
+     "Turnover": "16,32",
+     "equityratio": "47,64",
+     "deptratio": "52,36"
+    },
+    {
+     "DieAktie": "NuVasive Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,36",
+     "EPSdiluted": "1,26",
+     "DPS": "0",
+     "GUV": "NuVasive Inc.: GuV (in Mio. USD)",
+     "Turnover": "15,47",
+     "equityratio": "53,88",
+     "deptratio": "46,12"
+    },
+    {
+     "DieAktie": "NuVasive Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,74",
+     "EPSdiluted": "0,69",
+     "DPS": "-",
+     "GUV": "NuVasive Inc.: GuV (in Mio. USD)",
+     "Turnover": "17,78",
+     "equityratio": "44,24",
+     "deptratio": "55,76"
+    }
+   ]
+  },
+  {
+   "name": "NVIDIA Aktie [WKN: 918422 / ISIN: US67066G1040]",
+   "URL": "http://www.finanzen.at/bilanz_guv/NVIDIA",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "NVIDIA Corp.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "NVIDIA Corp.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "NVIDIA Corp.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,44",
+     "EPSdiluted": "0,43",
+     "DPS": "0",
+     "GUV": "NVIDIA Corp.: GuV (in Mio. USD)",
+     "Turnover": "6,02",
+     "equityratio": "70,77",
+     "deptratio": "29,23"
+    },
+    {
+     "DieAktie": "NVIDIA Corp.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,96",
+     "EPSdiluted": "0,94",
+     "DPS": "0",
+     "GUV": "NVIDIA Corp.: GuV (in Mio. USD)",
+     "Turnover": "6,49",
+     "equityratio": "74,66",
+     "deptratio": "25,34"
+    },
+    {
+     "DieAktie": "NVIDIA Corp.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,91",
+     "EPSdiluted": "0,9",
+     "DPS": "0,08",
+     "GUV": "NVIDIA Corp.: GuV (in Mio. USD)",
+     "Turnover": "6,85",
+     "equityratio": "75,29",
+     "deptratio": "24,71"
+    },
+    {
+     "DieAktie": "NVIDIA Corp.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,75",
+     "EPSdiluted": "0,74",
+     "DPS": "0,31",
+     "GUV": "NVIDIA Corp.: GuV (in Mio. USD)",
+     "Turnover": "6,95",
+     "equityratio": "61,46",
+     "deptratio": "38,54"
+    },
+    {
+     "DieAktie": "NVIDIA Corp.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,14",
+     "EPSdiluted": "1,12",
+     "DPS": "0,34",
+     "GUV": "NVIDIA Corp.: GuV (in Mio. USD)",
+     "Turnover": "8,31",
+     "equityratio": "61,35",
+     "deptratio": "38,65"
+    },
+    {
+     "DieAktie": "NVIDIA Corp.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,13",
+     "EPSdiluted": "1,08",
+     "DPS": "0,4",
+     "GUV": "NVIDIA Corp.: GuV (in Mio. USD)",
+     "Turnover": "8,8",
+     "equityratio": "60,64",
+     "deptratio": "39,36"
+    },
+    {
+     "DieAktie": "NVIDIA Corp.: Die Aktie (in USD)",
+     "Jahr": "2017",
+     "EPSundiluted": "3,08",
+     "EPSdiluted": "2,57",
+     "DPS": "0,49",
+     "GUV": "NVIDIA Corp.: GuV (in Mio. USD)",
+     "Turnover": "10,65",
+     "equityratio": "58,55",
+     "deptratio": "41,45"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "18.05.16",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "20.05.15",
+     "Dividende": "0,34"
+    },
+    {
+     "Datum": "23.05.14",
+     "Dividende": "0,31"
+    },
+    {
+     "Datum": "15.05.13",
+     "Dividende": "0,08"
+    },
+    {
+     "Datum": "17.05.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "18.05.11",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "19.05.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "20.05.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "19.06.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "21.06.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "22.06.06",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "21.07.05",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "19.08.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.05.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "O Reilly Automotive Aktie [WKN DE: A1H5JY / ISIN: US67103H1077]",
+   "URL": "http://www.finanzen.at/bilanz_guv/O_Reilly_Automotive",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "O Reilly Automotive Inc: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "O Reilly Automotive Inc: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "O Reilly Automotive Inc: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "3,02",
+     "EPSdiluted": "2,95",
+     "DPS": "0",
+     "GUV": "O Reilly Automotive Inc: GuV (in Mio. USD)",
+     "Turnover": "38,01",
+     "equityratio": "63,59",
+     "deptratio": "36,41"
+    },
+    {
+     "DieAktie": "O Reilly Automotive Inc: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "3,77",
+     "EPSdiluted": "3,71",
+     "DPS": "0",
+     "GUV": "O Reilly Automotive Inc: GuV (in Mio. USD)",
+     "Turnover": "42,26",
+     "equityratio": "51,72",
+     "deptratio": "48,28"
+    },
+    {
+     "DieAktie": "O Reilly Automotive Inc: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "4,83",
+     "EPSdiluted": "4,75",
+     "DPS": "0",
+     "GUV": "O Reilly Automotive Inc: GuV (in Mio. USD)",
+     "Turnover": "50,13",
+     "equityratio": "36,67",
+     "deptratio": "63,33"
+    },
+    {
+     "DieAktie": "O Reilly Automotive Inc: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "6,14",
+     "EPSdiluted": "6,03",
+     "DPS": "0",
+     "GUV": "O Reilly Automotive Inc: GuV (in Mio. USD)",
+     "Turnover": "59,85",
+     "equityratio": "32,06",
+     "deptratio": "67,94"
+    },
+    {
+     "DieAktie": "O Reilly Automotive Inc: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "7,46",
+     "EPSdiluted": "7,34",
+     "DPS": "0",
+     "GUV": "O Reilly Automotive Inc: GuV (in Mio. USD)",
+     "Turnover": "68,05",
+     "equityratio": "30,43",
+     "deptratio": "69,57"
+    },
+    {
+     "DieAktie": "O Reilly Automotive Inc: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "9,32",
+     "EPSdiluted": "9,17",
+     "DPS": "0",
+     "GUV": "O Reilly Automotive Inc: GuV (in Mio. USD)",
+     "Turnover": "78,48",
+     "equityratio": "28,58",
+     "deptratio": "71,42"
+    },
+    {
+     "DieAktie": "O Reilly Automotive Inc: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "10,87",
+     "EPSdiluted": "10,73",
+     "DPS": "0",
+     "GUV": "O Reilly Automotive Inc: GuV (in Mio. USD)",
+     "Turnover": "88,85",
+     "equityratio": "22,02",
+     "deptratio": "77,98"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "03.05.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "05.05.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "06.05.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "07.05.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.05.12",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Odimo Aktie [WKN: A0DQ0P / ISIN: US67606R1077]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Odimo",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Odimo Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Odimo Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Odimo Inc.: Die Aktie (in USD)",
+     "Jahr": "2006",
+     "EPSundiluted": "-1,65",
+     "EPSdiluted": "-1,65",
+     "DPS": "0",
+     "GUV": "Odimo Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,65",
+     "equityratio": "-79,6",
+     "deptratio": "179,6"
+    },
+    {
+     "DieAktie": "Odimo Inc.: Die Aktie (in USD)",
+     "Jahr": "2007",
+     "EPSundiluted": "-0,06",
+     "EPSdiluted": "-0,06",
+     "DPS": "0",
+     "GUV": "Odimo Inc.: GuV (in Mio. USD)",
+     "Turnover": "0",
+     "equityratio": "-4800",
+     "deptratio": "4900"
+    },
+    {
+     "DieAktie": "Odimo Inc.: Die Aktie (in USD)",
+     "Jahr": "2008",
+     "EPSundiluted": "-0,01",
+     "EPSdiluted": "-0,01",
+     "DPS": "0",
+     "GUV": "Odimo Inc.: GuV (in Mio. USD)",
+     "Turnover": "0",
+     "equityratio": "-4880",
+     "deptratio": "4980"
+    },
+    {
+     "DieAktie": "Odimo Inc.: Die Aktie (in USD)",
+     "Jahr": "2009",
+     "EPSundiluted": "0",
+     "EPSdiluted": "0",
+     "DPS": "0",
+     "GUV": "Odimo Inc.: GuV (in Mio. USD)",
+     "Turnover": "0",
+     "equityratio": "-99,18",
+     "deptratio": "199,18"
+    },
+    {
+     "DieAktie": "Odimo Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "-0,02",
+     "EPSdiluted": "-0,02",
+     "DPS": "0",
+     "GUV": "Odimo Inc.: GuV (in Mio. USD)",
+     "Turnover": "0",
+     "equityratio": "-8000",
+     "deptratio": "8100"
+    },
+    {
+     "DieAktie": "Odimo Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,01",
+     "EPSdiluted": "0,01",
+     "DPS": "0",
+     "GUV": "Odimo Inc.: GuV (in Mio. USD)",
+     "Turnover": "0",
+     "equityratio": "-488,89",
+     "deptratio": "588,89"
+    },
+    {
+     "DieAktie": "Odimo Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "-0,01",
+     "EPSdiluted": "-0,01",
+     "DPS": "0",
+     "GUV": "Odimo Inc.: GuV (in Mio. USD)",
+     "Turnover": "0",
+     "equityratio": "-2060",
+     "deptratio": "2160"
+    }
+   ]
+  },
+  {
+   "name": "Old Dominion Freight Line Aktie [WKN: 923655 / ISIN: US6795801009]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Old_Dominion_Freight_Line",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Old Dominion Freight Line Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Old Dominion Freight Line Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Old Dominion Freight Line Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,9",
+     "EPSdiluted": "0,9",
+     "DPS": "0",
+     "GUV": "Old Dominion Freight Line Inc.: GuV (in Mio. USD)",
+     "Turnover": "17,65",
+     "equityratio": "53,93",
+     "deptratio": "46,07"
+    },
+    {
+     "DieAktie": "Old Dominion Freight Line Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,63",
+     "EPSdiluted": "1,63",
+     "DPS": "0",
+     "GUV": "Old Dominion Freight Line Inc.: GuV (in Mio. USD)",
+     "Turnover": "21,96",
+     "equityratio": "56,61",
+     "deptratio": "43,39"
+    },
+    {
+     "DieAktie": "Old Dominion Freight Line Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,97",
+     "EPSdiluted": "1,97",
+     "DPS": "0",
+     "GUV": "Old Dominion Freight Line Inc.: GuV (in Mio. USD)",
+     "Turnover": "24,49",
+     "equityratio": "59,91",
+     "deptratio": "40,09"
+    },
+    {
+     "DieAktie": "Old Dominion Freight Line Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,39",
+     "EPSdiluted": "2,39",
+     "DPS": "0",
+     "GUV": "Old Dominion Freight Line Inc.: GuV (in Mio. USD)",
+     "Turnover": "27,13",
+     "equityratio": "63,77",
+     "deptratio": "36,23"
+    },
+    {
+     "DieAktie": "Old Dominion Freight Line Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "3,1",
+     "EPSdiluted": "3,1",
+     "DPS": "0",
+     "GUV": "Old Dominion Freight Line Inc.: GuV (in Mio. USD)",
+     "Turnover": "32,36",
+     "equityratio": "66,81",
+     "deptratio": "33,19"
+    },
+    {
+     "DieAktie": "Old Dominion Freight Line Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "3,57",
+     "EPSdiluted": "3,57",
+     "DPS": "0",
+     "GUV": "Old Dominion Freight Line Inc.: GuV (in Mio. USD)",
+     "Turnover": "34,81",
+     "equityratio": "68,3",
+     "deptratio": "31,7"
+    },
+    {
+     "DieAktie": "Old Dominion Freight Line Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "3,56",
+     "EPSdiluted": "3,56",
+     "DPS": "0",
+     "GUV": "Old Dominion Freight Line Inc.: GuV (in Mio. USD)",
+     "Turnover": "35,98",
+     "equityratio": "68,66",
+     "deptratio": "31,34"
+    }
+   ]
+  },
+  {
+   "name": "Olympic Steel Aktie [WKN: 901092 / ISIN: US68162K1060]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Olympic_Steel",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Olympic Steel Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Olympic Steel Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Olympic Steel Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,2",
+     "EPSdiluted": "0,2",
+     "DPS": "0,08",
+     "GUV": "Olympic Steel Inc.: GuV (in Mio. USD)",
+     "Turnover": "73,74",
+     "equityratio": "60,93",
+     "deptratio": "39,07"
+    },
+    {
+     "DieAktie": "Olympic Steel Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,28",
+     "EPSdiluted": "2,28",
+     "DPS": "0,08",
+     "GUV": "Olympic Steel Inc.: GuV (in Mio. USD)",
+     "Turnover": "115,23",
+     "equityratio": "40,51",
+     "deptratio": "59,49"
+    },
+    {
+     "DieAktie": "Olympic Steel Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,21",
+     "EPSdiluted": "0,21",
+     "DPS": "0,08",
+     "GUV": "Olympic Steel Inc.: GuV (in Mio. USD)",
+     "Turnover": "125,85",
+     "equityratio": "41,06",
+     "deptratio": "58,94"
+    },
+    {
+     "DieAktie": "Olympic Steel Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,69",
+     "EPSdiluted": "0,69",
+     "DPS": "0,08",
+     "GUV": "Olympic Steel Inc.: GuV (in Mio. USD)",
+     "Turnover": "114,08",
+     "equityratio": "42,82",
+     "deptratio": "57,18"
+    },
+    {
+     "DieAktie": "Olympic Steel Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "-1,71",
+     "EPSdiluted": "-1,71",
+     "DPS": "0,08",
+     "GUV": "Olympic Steel Inc.: GuV (in Mio. USD)",
+     "Turnover": "129,16",
+     "equityratio": "40,07",
+     "deptratio": "59,93"
+    },
+    {
+     "DieAktie": "Olympic Steel Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "-2,39",
+     "EPSdiluted": "-2,39",
+     "DPS": "0,08",
+     "GUV": "Olympic Steel Inc.: GuV (in Mio. USD)",
+     "Turnover": "105,03",
+     "equityratio": "49,6",
+     "deptratio": "50,4"
+    },
+    {
+     "DieAktie": "Olympic Steel Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,1",
+     "EPSdiluted": "-0,1",
+     "DPS": "0,08",
+     "GUV": "Olympic Steel Inc.: GuV (in Mio. USD)",
+     "Turnover": "94,12",
+     "equityratio": "44,63",
+     "deptratio": "55,37"
+    }
+   ]
+  },
+  {
+   "name": "Omnicell Aktie [WKN: 632313 / ISIN: US68213N1090]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Omnicell",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Omnicell Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Omnicell Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Omnicell Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,15",
+     "EPSdiluted": "0,15",
+     "DPS": "0",
+     "GUV": "Omnicell Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,64",
+     "equityratio": "77,27",
+     "deptratio": "22,73"
+    },
+    {
+     "DieAktie": "Omnicell Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,31",
+     "EPSdiluted": "0,3",
+     "DPS": "0",
+     "GUV": "Omnicell Inc.: GuV (in Mio. USD)",
+     "Turnover": "7,2",
+     "equityratio": "78,13",
+     "deptratio": "21,87"
+    },
+    {
+     "DieAktie": "Omnicell Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,49",
+     "EPSdiluted": "0,47",
+     "DPS": "0",
+     "GUV": "Omnicell Inc.: GuV (in Mio. USD)",
+     "Turnover": "9,18",
+     "equityratio": "69,61",
+     "deptratio": "30,39"
+    },
+    {
+     "DieAktie": "Omnicell Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,69",
+     "EPSdiluted": "0,67",
+     "DPS": "0",
+     "GUV": "Omnicell Inc.: GuV (in Mio. USD)",
+     "Turnover": "10,64",
+     "equityratio": "70,86",
+     "deptratio": "29,14"
+    },
+    {
+     "DieAktie": "Omnicell Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,86",
+     "EPSdiluted": "0,83",
+     "DPS": "0",
+     "GUV": "Omnicell Inc.: GuV (in Mio. USD)",
+     "Turnover": "12,04",
+     "equityratio": "69,63",
+     "deptratio": "30,37"
+    },
+    {
+     "DieAktie": "Omnicell Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,86",
+     "EPSdiluted": "0,84",
+     "DPS": "-",
+     "GUV": "Omnicell Inc.: GuV (in Mio. USD)",
+     "Turnover": "13,2",
+     "equityratio": "69,53",
+     "deptratio": "30,47"
+    },
+    {
+     "DieAktie": "Omnicell Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,02",
+     "EPSdiluted": "0,02",
+     "DPS": "-",
+     "GUV": "Omnicell Inc.: GuV (in Mio. USD)",
+     "Turnover": "18,79",
+     "equityratio": "46,16",
+     "deptratio": "53,84"
+    }
+   ]
+  },
+  {
+   "name": "ON Semiconductor Aktie [WKN: 930124 / ISIN: US6821891057]",
+   "URL": "http://www.finanzen.at/bilanz_guv/ON_Semiconductor",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "ON Semiconductor Corp.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "ON Semiconductor Corp.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "ON Semiconductor Corp.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,67",
+     "EPSdiluted": "0,65",
+     "DPS": "0",
+     "GUV": "ON Semiconductor Corp.: GuV (in Mio. USD)",
+     "Turnover": "5,21",
+     "equityratio": "46,79",
+     "deptratio": "53,21"
+    },
+    {
+     "DieAktie": "ON Semiconductor Corp.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,03",
+     "EPSdiluted": "0,03",
+     "DPS": "0",
+     "GUV": "ON Semiconductor Corp.: GuV (in Mio. USD)",
+     "Turnover": "7,53",
+     "equityratio": "37,81",
+     "deptratio": "62,19"
+    },
+    {
+     "DieAktie": "ON Semiconductor Corp.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "-0,2",
+     "EPSdiluted": "-0,2",
+     "DPS": "0",
+     "GUV": "ON Semiconductor Corp.: GuV (in Mio. USD)",
+     "Turnover": "6,4",
+     "equityratio": "40,89",
+     "deptratio": "59,11"
+    },
+    {
+     "DieAktie": "ON Semiconductor Corp.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,34",
+     "EPSdiluted": "0,33",
+     "DPS": "0",
+     "GUV": "ON Semiconductor Corp.: GuV (in Mio. USD)",
+     "Turnover": "6,17",
+     "equityratio": "44,64",
+     "deptratio": "55,36"
+    },
+    {
+     "DieAktie": "ON Semiconductor Corp.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,43",
+     "EPSdiluted": "0,43",
+     "DPS": "0",
+     "GUV": "ON Semiconductor Corp.: GuV (in Mio. USD)",
+     "Turnover": "7,13",
+     "equityratio": "42,55",
+     "deptratio": "57,45"
+    },
+    {
+     "DieAktie": "ON Semiconductor Corp.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,49",
+     "EPSdiluted": "0,48",
+     "DPS": "-",
+     "GUV": "ON Semiconductor Corp.: GuV (in Mio. USD)",
+     "Turnover": "8,17",
+     "equityratio": "41,56",
+     "deptratio": "58,44"
+    },
+    {
+     "DieAktie": "ON Semiconductor Corp.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,44",
+     "EPSdiluted": "0,43",
+     "DPS": "-",
+     "GUV": "ON Semiconductor Corp.: GuV (in Mio. USD)",
+     "Turnover": "9,3",
+     "equityratio": "26,33",
+     "deptratio": "73,67"
+    }
+   ]
+  },
+  {
+   "name": "Open Text Aktie [WKN: 899027 / ISIN: CA6837151068]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Open_Text",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Open Text Corp.: Die Aktie (in CAD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Open Text Corp.: GuV (in Mio. CAD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Open Text Corp.: Die Aktie (in CAD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,54",
+     "EPSdiluted": "0,53",
+     "DPS": "0",
+     "GUV": "Open Text Corp.: GuV (in Mio. CAD)",
+     "Turnover": "4,44",
+     "equityratio": "53,79",
+     "deptratio": "46,21"
+    },
+    {
+     "DieAktie": "Open Text Corp.: Die Aktie (in CAD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,54",
+     "EPSdiluted": "0,53",
+     "DPS": "0",
+     "GUV": "Open Text Corp.: GuV (in Mio. CAD)",
+     "Turnover": "5,16",
+     "equityratio": "48,25",
+     "deptratio": "51,75"
+    },
+    {
+     "DieAktie": "Open Text Corp.: Die Aktie (in CAD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,64",
+     "EPSdiluted": "0,63",
+     "DPS": "0,08",
+     "GUV": "Open Text Corp.: GuV (in Mio. CAD)",
+     "Turnover": "5,8",
+     "equityratio": "50,37",
+     "deptratio": "49,63"
+    },
+    {
+     "DieAktie": "Open Text Corp.: Die Aktie (in CAD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,97",
+     "EPSdiluted": "0,97",
+     "DPS": "0,34",
+     "GUV": "Open Text Corp.: GuV (in Mio. CAD)",
+     "Turnover": "7,21",
+     "equityratio": "41,9",
+     "deptratio": "58,1"
+    },
+    {
+     "DieAktie": "Open Text Corp.: Die Aktie (in CAD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,13",
+     "EPSdiluted": "1,12",
+     "DPS": "0,43",
+     "GUV": "Open Text Corp.: GuV (in Mio. CAD)",
+     "Turnover": "8,83",
+     "equityratio": "41,68",
+     "deptratio": "58,32"
+    },
+    {
+     "DieAktie": "Open Text Corp.: Die Aktie (in CAD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,55",
+     "EPSdiluted": "1,55",
+     "DPS": "0,55",
+     "GUV": "Open Text Corp.: GuV (in Mio. CAD)",
+     "Turnover": "9,91",
+     "equityratio": "38,39",
+     "deptratio": "61,61"
+    },
+    {
+     "DieAktie": "Open Text Corp.: Die Aktie (in CAD)",
+     "Jahr": "2017",
+     "EPSundiluted": "5,36",
+     "EPSdiluted": "5,32",
+     "DPS": "0,64",
+     "GUV": "Open Text Corp.: GuV (in Mio. CAD)",
+     "Turnover": "11,88",
+     "equityratio": "47,22",
+     "deptratio": "52,78"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "21.09.17",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Oracle Aktie [WKN: 871460 / ISIN: US68389X1054]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Oracle",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Oracle Corp.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Oracle Corp.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Oracle Corp.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,69",
+     "EPSdiluted": "1,67",
+     "DPS": "0,21",
+     "GUV": "Oracle Corp.: GuV (in Mio. USD)",
+     "Turnover": "6,95",
+     "equityratio": "54,09",
+     "deptratio": "45,91"
+    },
+    {
+     "DieAktie": "Oracle Corp.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,99",
+     "EPSdiluted": "1,96",
+     "DPS": "0,24",
+     "GUV": "Oracle Corp.: GuV (in Mio. USD)",
+     "Turnover": "7,29",
+     "equityratio": "55,78",
+     "deptratio": "44,22"
+    },
+    {
+     "DieAktie": "Oracle Corp.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,29",
+     "EPSdiluted": "2,26",
+     "DPS": "0,3",
+     "GUV": "Oracle Corp.: GuV (in Mio. USD)",
+     "Turnover": "7,68",
+     "equityratio": "54,57",
+     "deptratio": "45,43"
+    },
+    {
+     "DieAktie": "Oracle Corp.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,42",
+     "EPSdiluted": "2,38",
+     "DPS": "0,48",
+     "GUV": "Oracle Corp.: GuV (in Mio. USD)",
+     "Turnover": "8,31",
+     "equityratio": "51,89",
+     "deptratio": "48,11"
+    },
+    {
+     "DieAktie": "Oracle Corp.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,26",
+     "EPSdiluted": "2,21",
+     "DPS": "0,51",
+     "GUV": "Oracle Corp.: GuV (in Mio. USD)",
+     "Turnover": "8,49",
+     "equityratio": "43,88",
+     "deptratio": "56,12"
+    },
+    {
+     "DieAktie": "Oracle Corp.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "2,11",
+     "EPSdiluted": "2,07",
+     "DPS": "0,6",
+     "GUV": "Oracle Corp.: GuV (in Mio. USD)",
+     "Turnover": "8,61",
+     "equityratio": "42,15",
+     "deptratio": "57,85"
+    },
+    {
+     "DieAktie": "Oracle Corp.: Die Aktie (in USD)",
+     "Jahr": "2017",
+     "EPSundiluted": "2,27",
+     "EPSdiluted": "2,21",
+     "DPS": "0,64",
+     "GUV": "Oracle Corp.: GuV (in Mio. USD)",
+     "Turnover": "8,95",
+     "equityratio": "39,9",
+     "deptratio": "60,1"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "16.11.16",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "18.11.15",
+     "Dividende": "0,51"
+    },
+    {
+     "Datum": "05.11.14",
+     "Dividende": "0,48"
+    },
+    {
+     "Datum": "31.10.13",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "07.11.12",
+     "Dividende": "0,24"
+    },
+    {
+     "Datum": "12.10.11",
+     "Dividende": "0,21"
+    },
+    {
+     "Datum": "06.10.10",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "07.10.09",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "10.10.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "02.11.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "09.10.06",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "29.10.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "13.10.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "OraSure Technologies Aktie [WKN: 881351 / ISIN: US68554V1089]",
+   "URL": "http://www.finanzen.at/bilanz_guv/OraSure_Technologies",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "OraSure Technologies Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "OraSure Technologies Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "OraSure Technologies Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "-0,08",
+     "EPSdiluted": "-0,08",
+     "DPS": "0",
+     "GUV": "OraSure Technologies Inc.: GuV (in Mio. USD)",
+     "Turnover": "1,62",
+     "equityratio": "83,94",
+     "deptratio": "16,06"
+    },
+    {
+     "DieAktie": "OraSure Technologies Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "-0,19",
+     "EPSdiluted": "-0,19",
+     "DPS": "0",
+     "GUV": "OraSure Technologies Inc.: GuV (in Mio. USD)",
+     "Turnover": "1,75",
+     "equityratio": "78,41",
+     "deptratio": "21,59"
+    },
+    {
+     "DieAktie": "OraSure Technologies Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "-0,29",
+     "EPSdiluted": "-0,29",
+     "DPS": "0",
+     "GUV": "OraSure Technologies Inc.: GuV (in Mio. USD)",
+     "Turnover": "1,71",
+     "equityratio": "88,83",
+     "deptratio": "11,17"
+    },
+    {
+     "DieAktie": "OraSure Technologies Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,2",
+     "EPSdiluted": "-0,2",
+     "DPS": "0",
+     "GUV": "OraSure Technologies Inc.: GuV (in Mio. USD)",
+     "Turnover": "1,78",
+     "equityratio": "87,46",
+     "deptratio": "12,54"
+    },
+    {
+     "DieAktie": "OraSure Technologies Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "-0,08",
+     "EPSdiluted": "-0,08",
+     "DPS": "0",
+     "GUV": "OraSure Technologies Inc.: GuV (in Mio. USD)",
+     "Turnover": "1,9",
+     "equityratio": "83,69",
+     "deptratio": "16,31"
+    },
+    {
+     "DieAktie": "OraSure Technologies Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,14",
+     "EPSdiluted": "0,14",
+     "DPS": "0",
+     "GUV": "OraSure Technologies Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,11",
+     "equityratio": "84,21",
+     "deptratio": "15,79"
+    },
+    {
+     "DieAktie": "OraSure Technologies Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,35",
+     "EPSdiluted": "0,35",
+     "DPS": "-",
+     "GUV": "OraSure Technologies Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,17",
+     "equityratio": "89,38",
+     "deptratio": "10,62"
+    }
+   ]
+  },
+  {
+   "name": "Orckit Communications Aktie [WKN: 903042 / ISIN: IL0010823461]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Orckit_Communications"
+  },
+  {
+   "name": "Origen Financial Aktie [WKN: A0CA8Q / ISIN: US68619E2081]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Origen_Financial",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Origen Financial Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Origen Financial Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Origen Financial Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "-0,64",
+     "EPSdiluted": "-0,64",
+     "DPS": "0,1",
+     "GUV": "Origen Financial Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,87",
+     "equityratio": "8,98",
+     "deptratio": "91,02"
+    },
+    {
+     "DieAktie": "Origen Financial Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "-0,46",
+     "EPSdiluted": "-0,46",
+     "DPS": "0,42",
+     "GUV": "Origen Financial Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,59",
+     "equityratio": "6,01",
+     "deptratio": "93,99"
+    },
+    {
+     "DieAktie": "Origen Financial Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "-0,05",
+     "EPSdiluted": "-0,05",
+     "DPS": "0,78",
+     "GUV": "Origen Financial Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,5",
+     "equityratio": "4,09",
+     "deptratio": "95,91"
+    },
+    {
+     "DieAktie": "Origen Financial Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,08",
+     "EPSdiluted": "-0,08",
+     "DPS": "0,45",
+     "GUV": "Origen Financial Inc.: GuV (in Mio. USD)",
+     "Turnover": "1,92",
+     "equityratio": "3,59",
+     "deptratio": "96,41"
+    },
+    {
+     "DieAktie": "Origen Financial Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,06",
+     "EPSdiluted": "0,06",
+     "DPS": "0,24",
+     "GUV": "Origen Financial Inc.: GuV (in Mio. USD)",
+     "Turnover": "1,27",
+     "equityratio": "5,93",
+     "deptratio": "94,07"
+    },
+    {
+     "DieAktie": "Origen Financial Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,06",
+     "EPSdiluted": "0,06",
+     "DPS": "-",
+     "GUV": "Origen Financial Inc.: GuV (in Mio. USD)",
+     "Turnover": "0,18",
+     "equityratio": "96,49",
+     "deptratio": "3,51"
+    },
+    {
+     "DieAktie": "Origen Financial Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,03",
+     "EPSdiluted": "-",
+     "DPS": "-",
+     "GUV": "Origen Financial Inc.: GuV (in Mio. USD)",
+     "Turnover": "0",
+     "equityratio": "99,74",
+     "deptratio": "0,26"
+    }
+   ]
+  },
+  {
+   "name": "Orthofix International Aktie [WKN: 889410 / ISIN: ANN6748L1027]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Orthofix_International",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Orthofix International N.V.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Orthofix International N.V.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Orthofix International N.V.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "2,51",
+     "EPSdiluted": "2,47",
+     "DPS": "0",
+     "GUV": "Orthofix International N.V.: GuV (in Mio. USD)",
+     "Turnover": "31,51",
+     "equityratio": "49,82",
+     "deptratio": "50,18"
+    },
+    {
+     "DieAktie": "Orthofix International N.V.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "-0,06",
+     "EPSdiluted": "-0,06",
+     "DPS": "0",
+     "GUV": "Orthofix International N.V.: GuV (in Mio. USD)",
+     "Turnover": "31,78",
+     "equityratio": "45,31",
+     "deptratio": "54,69"
+    },
+    {
+     "DieAktie": "Orthofix International N.V.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,63",
+     "EPSdiluted": "2,58",
+     "DPS": "0",
+     "GUV": "Orthofix International N.V.: GuV (in Mio. USD)",
+     "Turnover": "23,84",
+     "equityratio": "79,14",
+     "deptratio": "20,86"
+    },
+    {
+     "DieAktie": "Orthofix International N.V.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "-1,37",
+     "EPSdiluted": "-1,37",
+     "DPS": "0",
+     "GUV": "Orthofix International N.V.: GuV (in Mio. USD)",
+     "Turnover": "21,42",
+     "equityratio": "73,37",
+     "deptratio": "26,63"
+    },
+    {
+     "DieAktie": "Orthofix International N.V.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "-0,46",
+     "EPSdiluted": "-0,46",
+     "DPS": "0",
+     "GUV": "Orthofix International N.V.: GuV (in Mio. USD)",
+     "Turnover": "21,79",
+     "equityratio": "76,21",
+     "deptratio": "23,79"
+    },
+    {
+     "DieAktie": "Orthofix International N.V.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "-0,15",
+     "EPSdiluted": "-0,15",
+     "DPS": "0",
+     "GUV": "Orthofix International N.V.: GuV (in Mio. USD)",
+     "Turnover": "21,1",
+     "equityratio": "72,54",
+     "deptratio": "27,46"
+    },
+    {
+     "DieAktie": "Orthofix International N.V.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,17",
+     "EPSdiluted": "0,17",
+     "DPS": "0",
+     "GUV": "Orthofix International N.V.: GuV (in Mio. USD)",
+     "Turnover": "22,19",
+     "equityratio": "70,81",
+     "deptratio": "29,19"
+    }
+   ]
+  },
+  {
+   "name": "OSI Systems Aktie [WKN: 909273 / ISIN: US6710441055]",
+   "URL": "http://www.finanzen.at/bilanz_guv/OSI_Systems",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "OSI Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "OSI Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "OSI Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,32",
+     "EPSdiluted": "1,28",
+     "DPS": "0",
+     "GUV": "OSI Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "32,36",
+     "equityratio": "59,72",
+     "deptratio": "40,28"
+    },
+    {
+     "DieAktie": "OSI Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,77",
+     "EPSdiluted": "1,71",
+     "DPS": "0",
+     "GUV": "OSI Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "33,56",
+     "equityratio": "64,44",
+     "deptratio": "35,56"
+    },
+    {
+     "DieAktie": "OSI Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,31",
+     "EPSdiluted": "2,24",
+     "DPS": "0",
+     "GUV": "OSI Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "39,01",
+     "equityratio": "57,89",
+     "deptratio": "42,11"
+    },
+    {
+     "DieAktie": "OSI Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,21",
+     "EPSdiluted": "2,15",
+     "DPS": "0",
+     "GUV": "OSI Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "38,99",
+     "equityratio": "52,02",
+     "deptratio": "47,98"
+    },
+    {
+     "DieAktie": "OSI Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,4",
+     "EPSdiluted": "2,33",
+     "DPS": "0",
+     "GUV": "OSI Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "44,04",
+     "equityratio": "51,96",
+     "deptratio": "48,04"
+    },
+    {
+     "DieAktie": "OSI Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "3,29",
+     "EPSdiluted": "3,17",
+     "DPS": "0",
+     "GUV": "OSI Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "46,68",
+     "equityratio": "59,38",
+     "deptratio": "40,62"
+    },
+    {
+     "DieAktie": "OSI Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,35",
+     "EPSdiluted": "1,3",
+     "DPS": "-",
+     "GUV": "OSI Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "41,33",
+     "equityratio": "54,54",
+     "deptratio": "45,46"
+    }
+   ]
+  },
+  {
+   "name": "Paccar Aktie [WKN: 861114 / ISIN: US6937181088]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Paccar",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Paccar Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Paccar Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Paccar Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,25",
+     "EPSdiluted": "1,25",
+     "DPS": "0,72",
+     "GUV": "Paccar Inc.: GuV (in Mio. USD)",
+     "Turnover": "28,11",
+     "equityratio": "37,64",
+     "deptratio": "62,36"
+    },
+    {
+     "DieAktie": "Paccar Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,87",
+     "EPSdiluted": "2,86",
+     "DPS": "1,36",
+     "GUV": "Paccar Inc.: GuV (in Mio. USD)",
+     "Turnover": "44,88",
+     "equityratio": "31,24",
+     "deptratio": "68,76"
+    },
+    {
+     "DieAktie": "Paccar Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "3,13",
+     "EPSdiluted": "3,12",
+     "DPS": "1,6",
+     "GUV": "Paccar Inc.: GuV (in Mio. USD)",
+     "Turnover": "47,92",
+     "equityratio": "31,39",
+     "deptratio": "68,61"
+    },
+    {
+     "DieAktie": "Paccar Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "3,31",
+     "EPSdiluted": "3,3",
+     "DPS": "0,8",
+     "GUV": "Paccar Inc.: GuV (in Mio. USD)",
+     "Turnover": "48,21",
+     "equityratio": "32,01",
+     "deptratio": "67,99"
+    },
+    {
+     "DieAktie": "Paccar Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "3,83",
+     "EPSdiluted": "3,82",
+     "DPS": "0,88",
+     "GUV": "Paccar Inc.: GuV (in Mio. USD)",
+     "Turnover": "53,35",
+     "equityratio": "32,75",
+     "deptratio": "67,25"
+    },
+    {
+     "DieAktie": "Paccar Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "4,52",
+     "EPSdiluted": "4,51",
+     "DPS": "0,94",
+     "GUV": "Paccar Inc.: GuV (in Mio. USD)",
+     "Turnover": "53,75",
+     "equityratio": "32,88",
+     "deptratio": "67,12"
+    },
+    {
+     "DieAktie": "Paccar Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,49",
+     "EPSdiluted": "1,48",
+     "DPS": "0,96",
+     "GUV": "Paccar Inc.: GuV (in Mio. USD)",
+     "Turnover": "48,34",
+     "equityratio": "32,84",
+     "deptratio": "67,16"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "26.04.16",
+     "Dividende": "0,92"
+    },
+    {
+     "Datum": "21.04.15",
+     "Dividende": "0,86"
+    },
+    {
+     "Datum": "29.04.14",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "29.04.13",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "24.04.12",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "20.04.11",
+     "Dividende": "0,69"
+    },
+    {
+     "Datum": "20.04.10",
+     "Dividende": "0,54"
+    },
+    {
+     "Datum": "28.04.09",
+     "Dividende": "0,82"
+    },
+    {
+     "Datum": "22.04.08",
+     "Dividende": "1,65"
+    },
+    {
+     "Datum": "24.04.07",
+     "Dividende": "1,84"
+    },
+    {
+     "Datum": "25.04.06",
+     "Dividende": "1,27"
+    },
+    {
+     "Datum": "26.04.05",
+     "Dividende": "1,22"
+    },
+    {
+     "Datum": "27.04.04",
+     "Dividende": "0,61"
+    },
+    {
+     "Datum": "22.04.03",
+     "Dividende": "0,45"
+    }
+   ]
+  },
+  {
+   "name": "Pacific Continental Aktie [WKN: 631667 / ISIN: US69412V1089]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pacific_Continental",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Pacific Continental Corp.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Pacific Continental Corp.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Pacific Continental Corp.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,28",
+     "EPSdiluted": "0,28",
+     "DPS": "0,04",
+     "GUV": "Pacific Continental Corp.: GuV (in Mio. USD)",
+     "Turnover": "3,64",
+     "equityratio": "14,19",
+     "deptratio": "85,81"
+    },
+    {
+     "DieAktie": "Pacific Continental Corp.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,29",
+     "EPSdiluted": "0,29",
+     "DPS": "0,1",
+     "GUV": "Pacific Continental Corp.: GuV (in Mio. USD)",
+     "Turnover": "3,55",
+     "equityratio": "14,02",
+     "deptratio": "85,98"
+    },
+    {
+     "DieAktie": "Pacific Continental Corp.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,7",
+     "EPSdiluted": "0,69",
+     "DPS": "0,31",
+     "GUV": "Pacific Continental Corp.: GuV (in Mio. USD)",
+     "Turnover": "3,38",
+     "equityratio": "13,28",
+     "deptratio": "86,72"
+    },
+    {
+     "DieAktie": "Pacific Continental Corp.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,77",
+     "EPSdiluted": "0,76",
+     "DPS": "0,73",
+     "GUV": "Pacific Continental Corp.: GuV (in Mio. USD)",
+     "Turnover": "3,7",
+     "equityratio": "12,33",
+     "deptratio": "87,67"
+    },
+    {
+     "DieAktie": "Pacific Continental Corp.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,9",
+     "EPSdiluted": "0,89",
+     "DPS": "0,69",
+     "GUV": "Pacific Continental Corp.: GuV (in Mio. USD)",
+     "Turnover": "3,72",
+     "equityratio": "12,19",
+     "deptratio": "87,81"
+    },
+    {
+     "DieAktie": "Pacific Continental Corp.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,97",
+     "EPSdiluted": "0,97",
+     "DPS": "0,42",
+     "GUV": "Pacific Continental Corp.: GuV (in Mio. USD)",
+     "Turnover": "4,17",
+     "equityratio": "11,4",
+     "deptratio": "88,6"
+    },
+    {
+     "DieAktie": "Pacific Continental Corp.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,96",
+     "EPSdiluted": "0,95",
+     "DPS": "0,44",
+     "GUV": "Pacific Continental Corp.: GuV (in Mio. USD)",
+     "Turnover": "4,7",
+     "equityratio": "10,73",
+     "deptratio": "89,27"
+    }
+   ]
+  },
+  {
+   "name": "Palm Harbor Homes Aktie [WKN: 919085 / ISIN: US6966391038]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Palm_Harbor_Homes",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Palm Harbor Homes Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Palm Harbor Homes Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Palm Harbor Homes Inc.: Die Aktie (in USD)",
+     "Jahr": "2004",
+     "EPSundiluted": "-0,26",
+     "EPSdiluted": "-0,26",
+     "DPS": "0",
+     "GUV": "Palm Harbor Homes Inc.: GuV (in Mio. USD)",
+     "Turnover": "25,31",
+     "equityratio": "48,69",
+     "deptratio": "51,31"
+    },
+    {
+     "DieAktie": "Palm Harbor Homes Inc.: Die Aktie (in USD)",
+     "Jahr": "2005",
+     "EPSundiluted": "-0,17",
+     "EPSdiluted": "-0,17",
+     "DPS": "0",
+     "GUV": "Palm Harbor Homes Inc.: GuV (in Mio. USD)",
+     "Turnover": "26,74",
+     "equityratio": "43,93",
+     "deptratio": "56,07"
+    },
+    {
+     "DieAktie": "Palm Harbor Homes Inc.: Die Aktie (in USD)",
+     "Jahr": "2006",
+     "EPSundiluted": "0,49",
+     "EPSdiluted": "0,49",
+     "DPS": "0",
+     "GUV": "Palm Harbor Homes Inc.: GuV (in Mio. USD)",
+     "Turnover": "31,13",
+     "equityratio": "40,21",
+     "deptratio": "59,79"
+    },
+    {
+     "DieAktie": "Palm Harbor Homes Inc.: Die Aktie (in USD)",
+     "Jahr": "2007",
+     "EPSundiluted": "-0,51",
+     "EPSdiluted": "-0,51",
+     "DPS": "0",
+     "GUV": "Palm Harbor Homes Inc.: GuV (in Mio. USD)",
+     "Turnover": "28,94",
+     "equityratio": "37,05",
+     "deptratio": "62,95"
+    },
+    {
+     "DieAktie": "Palm Harbor Homes Inc.: Die Aktie (in USD)",
+     "Jahr": "2008",
+     "EPSundiluted": "-5,44",
+     "EPSdiluted": "-5,44",
+     "DPS": "0",
+     "GUV": "Palm Harbor Homes Inc.: GuV (in Mio. USD)",
+     "Turnover": "24,29",
+     "equityratio": "22,39",
+     "deptratio": "77,61"
+    },
+    {
+     "DieAktie": "Palm Harbor Homes Inc.: Die Aktie (in USD)",
+     "Jahr": "2009",
+     "EPSundiluted": "-1,15",
+     "EPSdiluted": "-1,15",
+     "DPS": "0",
+     "GUV": "Palm Harbor Homes Inc.: GuV (in Mio. USD)",
+     "Turnover": "17,91",
+     "equityratio": "24,22",
+     "deptratio": "75,78"
+    },
+    {
+     "DieAktie": "Palm Harbor Homes Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "-2,23",
+     "EPSdiluted": "-2,23",
+     "DPS": "0",
+     "GUV": "Palm Harbor Homes Inc.: GuV (in Mio. USD)",
+     "Turnover": "13,04",
+     "equityratio": "16,61",
+     "deptratio": "83,39"
+    }
+   ]
+  },
+  {
+   "name": "Panera Bread Aktie [WKN: 882047 / ISIN: US69840W1080]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Panera_Bread",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Panera Bread Co.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Panera Bread Co.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Panera Bread Co.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "3,65",
+     "EPSdiluted": "3,62",
+     "DPS": "0",
+     "GUV": "Panera Bread Co.: GuV (in Mio. USD)",
+     "Turnover": "49,88",
+     "equityratio": "64,42",
+     "deptratio": "35,58"
+    },
+    {
+     "DieAktie": "Panera Bread Co.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "4,59",
+     "EPSdiluted": "4,55",
+     "DPS": "0",
+     "GUV": "Panera Bread Co.: GuV (in Mio. USD)",
+     "Turnover": "60,93",
+     "equityratio": "63,77",
+     "deptratio": "36,23"
+    },
+    {
+     "DieAktie": "Panera Bread Co.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "5,94",
+     "EPSdiluted": "5,89",
+     "DPS": "0",
+     "GUV": "Panera Bread Co.: GuV (in Mio. USD)",
+     "Turnover": "72,32",
+     "equityratio": "64,81",
+     "deptratio": "35,19"
+    },
+    {
+     "DieAktie": "Panera Bread Co.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "6,85",
+     "EPSdiluted": "6,81",
+     "DPS": "0",
+     "GUV": "Panera Bread Co.: GuV (in Mio. USD)",
+     "Turnover": "82,83",
+     "equityratio": "59,27",
+     "deptratio": "40,73"
+    },
+    {
+     "DieAktie": "Panera Bread Co.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "6,67",
+     "EPSdiluted": "6,64",
+     "DPS": "0",
+     "GUV": "Panera Bread Co.: GuV (in Mio. USD)",
+     "Turnover": "93,68",
+     "equityratio": "52,93",
+     "deptratio": "47,07"
+    },
+    {
+     "DieAktie": "Panera Bread Co.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "5,81",
+     "EPSdiluted": "5,79",
+     "DPS": "0",
+     "GUV": "Panera Bread Co.: GuV (in Mio. USD)",
+     "Turnover": "103,99",
+     "equityratio": "33,71",
+     "deptratio": "66,29"
+    },
+    {
+     "DieAktie": "Panera Bread Co.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "6,21",
+     "EPSdiluted": "6,18",
+     "DPS": "-",
+     "GUV": "Panera Bread Co.: GuV (in Mio. USD)",
+     "Turnover": "118,62",
+     "equityratio": "20,74",
+     "deptratio": "79,26"
+    }
+   ]
+  },
+  {
+   "name": "Park-Ohio Aktie [WKN: 861403 / ISIN: US7006661000]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Park-Ohio",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Park-Ohio Holdings Corp.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Park-Ohio Holdings Corp.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Park-Ohio Holdings Corp.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,34",
+     "EPSdiluted": "1,29",
+     "DPS": "0",
+     "GUV": "Park-Ohio Holdings Corp.: GuV (in Mio. USD)",
+     "Turnover": "68,9",
+     "equityratio": "8,39",
+     "deptratio": "91,61"
+    },
+    {
+     "DieAktie": "Park-Ohio Holdings Corp.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,54",
+     "EPSdiluted": "2,45",
+     "DPS": "0",
+     "GUV": "Park-Ohio Holdings Corp.: GuV (in Mio. USD)",
+     "Turnover": "80,55",
+     "equityratio": "10,66",
+     "deptratio": "89,34"
+    },
+    {
+     "DieAktie": "Park-Ohio Holdings Corp.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,67",
+     "EPSdiluted": "2,62",
+     "DPS": "0",
+     "GUV": "Park-Ohio Holdings Corp.: GuV (in Mio. USD)",
+     "Turnover": "93,6",
+     "equityratio": "14",
+     "deptratio": "86"
+    },
+    {
+     "DieAktie": "Park-Ohio Holdings Corp.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "3,65",
+     "EPSdiluted": "3,56",
+     "DPS": "0",
+     "GUV": "Park-Ohio Holdings Corp.: GuV (in Mio. USD)",
+     "Turnover": "98,62",
+     "equityratio": "19,42",
+     "deptratio": "80,58"
+    },
+    {
+     "DieAktie": "Park-Ohio Holdings Corp.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "3,77",
+     "EPSdiluted": "3,68",
+     "DPS": "0,38",
+     "GUV": "Park-Ohio Holdings Corp.: GuV (in Mio. USD)",
+     "Turnover": "111,4",
+     "equityratio": "19,05",
+     "deptratio": "80,95"
+    },
+    {
+     "DieAktie": "Park-Ohio Holdings Corp.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "3,94",
+     "EPSdiluted": "3,88",
+     "DPS": "0,5",
+     "GUV": "Park-Ohio Holdings Corp.: GuV (in Mio. USD)",
+     "Turnover": "118,21",
+     "equityratio": "21,69",
+     "deptratio": "78,31"
+    },
+    {
+     "DieAktie": "Park-Ohio Holdings Corp.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "2,61",
+     "EPSdiluted": "2,58",
+     "DPS": "0,5",
+     "GUV": "Park-Ohio Holdings Corp.: GuV (in Mio. USD)",
+     "Turnover": "104,03",
+     "equityratio": "23,2",
+     "deptratio": "76,8"
+    }
+   ]
+  },
+  {
+   "name": "Patterson Companies Aktie [WKN: A0B6VB / ISIN: US7033951036]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Patterson_Companies",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Patterson Companies Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Patterson Companies Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Patterson Companies Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,91",
+     "EPSdiluted": "1,89",
+     "DPS": "0,42",
+     "GUV": "Patterson Companies Inc.: GuV (in Mio. USD)",
+     "Turnover": "28,69",
+     "equityratio": "60,84",
+     "deptratio": "39,16"
+    },
+    {
+     "DieAktie": "Patterson Companies Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,93",
+     "EPSdiluted": "1,92",
+     "DPS": "0,5",
+     "GUV": "Patterson Companies Inc.: GuV (in Mio. USD)",
+     "Turnover": "31,84",
+     "equityratio": "50,2",
+     "deptratio": "49,8"
+    },
+    {
+     "DieAktie": "Patterson Companies Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,04",
+     "EPSdiluted": "2,03",
+     "DPS": "0,58",
+     "GUV": "Patterson Companies Inc.: GuV (in Mio. USD)",
+     "Turnover": "35,09",
+     "equityratio": "52",
+     "deptratio": "48"
+    },
+    {
+     "DieAktie": "Patterson Companies Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,99",
+     "EPSdiluted": "1,97",
+     "DPS": "0,68",
+     "GUV": "Patterson Companies Inc.: GuV (in Mio. USD)",
+     "Turnover": "40,12",
+     "equityratio": "51,37",
+     "deptratio": "48,63"
+    },
+    {
+     "DieAktie": "Patterson Companies Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,26",
+     "EPSdiluted": "2,24",
+     "DPS": "0,82",
+     "GUV": "Patterson Companies Inc.: GuV (in Mio. USD)",
+     "Turnover": "44,29",
+     "equityratio": "51,37",
+     "deptratio": "48,63"
+    },
+    {
+     "DieAktie": "Patterson Companies Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,68",
+     "EPSdiluted": "1,66",
+     "DPS": "0,9",
+     "GUV": "Patterson Companies Inc.: GuV (in Mio. USD)",
+     "Turnover": "55,73",
+     "equityratio": "40,95",
+     "deptratio": "59,05"
+    },
+    {
+     "DieAktie": "Patterson Companies Inc.: Die Aktie (in USD)",
+     "Jahr": "2017",
+     "EPSundiluted": "1,8",
+     "EPSdiluted": "1,79",
+     "DPS": "0,98",
+     "GUV": "Patterson Companies Inc.: GuV (in Mio. USD)",
+     "Turnover": "59,47",
+     "equityratio": "39,27",
+     "deptratio": "60,73"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "18.09.17",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "12.09.16",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "21.09.15",
+     "Dividende": "0,82"
+    },
+    {
+     "Datum": "08.09.14",
+     "Dividende": "0,68"
+    },
+    {
+     "Datum": "09.09.13",
+     "Dividende": "0,58"
+    },
+    {
+     "Datum": "10.09.12",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "12.09.11",
+     "Dividende": "0,42"
+    },
+    {
+     "Datum": "13.09.10",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "14.09.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.09.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "10.09.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "18.09.06",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "12.09.05",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "13.09.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.09.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Patterson-UTI Energy Aktie [WKN: 905153 / ISIN: US7034811015]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Patterson-UTI_Energy",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Patterson-UTI Energy Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Patterson-UTI Energy Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Patterson-UTI Energy Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,76",
+     "EPSdiluted": "0,76",
+     "DPS": "0,2",
+     "GUV": "Patterson-UTI Energy Inc.: GuV (in Mio. USD)",
+     "Turnover": "9,54",
+     "equityratio": "63,91",
+     "deptratio": "36,09"
+    },
+    {
+     "DieAktie": "Patterson-UTI Energy Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,08",
+     "EPSdiluted": "2,06",
+     "DPS": "0,2",
+     "GUV": "Patterson-UTI Energy Inc.: GuV (in Mio. USD)",
+     "Turnover": "16,52",
+     "equityratio": "59,61",
+     "deptratio": "40,39"
+    },
+    {
+     "DieAktie": "Patterson-UTI Energy Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,96",
+     "EPSdiluted": "1,96",
+     "DPS": "0,2",
+     "GUV": "Patterson-UTI Energy Inc.: GuV (in Mio. USD)",
+     "Turnover": "17,95",
+     "equityratio": "57,95",
+     "deptratio": "42,05"
+    },
+    {
+     "DieAktie": "Patterson-UTI Energy Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,29",
+     "EPSdiluted": "1,28",
+     "DPS": "0,2",
+     "GUV": "Patterson-UTI Energy Inc.: GuV (in Mio. USD)",
+     "Turnover": "18,69",
+     "equityratio": "58,8",
+     "deptratio": "41,2"
+    },
+    {
+     "DieAktie": "Patterson-UTI Energy Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,12",
+     "EPSdiluted": "1,11",
+     "DPS": "0,4",
+     "GUV": "Patterson-UTI Energy Inc.: GuV (in Mio. USD)",
+     "Turnover": "21,89",
+     "equityratio": "53,87",
+     "deptratio": "46,13"
+    },
+    {
+     "DieAktie": "Patterson-UTI Energy Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "-2",
+     "EPSdiluted": "-2",
+     "DPS": "0,4",
+     "GUV": "Patterson-UTI Energy Inc.: GuV (in Mio. USD)",
+     "Turnover": "13,01",
+     "equityratio": "56,5",
+     "deptratio": "43,5"
+    },
+    {
+     "DieAktie": "Patterson-UTI Energy Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "-2,18",
+     "EPSdiluted": "-2,18",
+     "DPS": "0,16",
+     "GUV": "Patterson-UTI Energy Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,27",
+     "equityratio": "59,11",
+     "deptratio": "40,89"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "02.06.16",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "04.06.15",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "17.04.14",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "05.06.13",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "07.06.12",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "08.06.11",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "26.04.10",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "03.06.09",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "05.06.08",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "07.06.07",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "15.06.05",
+     "Dividende": "0,06"
+    },
+    {
+     "Datum": "29.06.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "30.04.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Paychex Aktie [WKN: 868284 / ISIN: US7043261079]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Paychex",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Paychex Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Paychex Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Paychex Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,42",
+     "EPSdiluted": "1,42",
+     "DPS": "1,24",
+     "GUV": "Paychex Inc.: GuV (in Mio. USD)",
+     "Turnover": "5,75",
+     "equityratio": "27,74",
+     "deptratio": "72,26"
+    },
+    {
+     "DieAktie": "Paychex Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,51",
+     "EPSdiluted": "1,51",
+     "DPS": "1,27",
+     "GUV": "Paychex Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,14",
+     "equityratio": "24,76",
+     "deptratio": "75,24"
+    },
+    {
+     "DieAktie": "Paychex Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,56",
+     "EPSdiluted": "1,56",
+     "DPS": "1,31",
+     "GUV": "Paychex Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,38",
+     "equityratio": "28,78",
+     "deptratio": "71,22"
+    },
+    {
+     "DieAktie": "Paychex Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,72",
+     "EPSdiluted": "1,71",
+     "DPS": "1,4",
+     "GUV": "Paychex Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,88",
+     "equityratio": "27,9",
+     "deptratio": "72,1"
+    },
+    {
+     "DieAktie": "Paychex Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,86",
+     "EPSdiluted": "1,85",
+     "DPS": "1,52",
+     "GUV": "Paychex Inc.: GuV (in Mio. USD)",
+     "Turnover": "7,51",
+     "equityratio": "27,54",
+     "deptratio": "72,46"
+    },
+    {
+     "DieAktie": "Paychex Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "2,1",
+     "EPSdiluted": "2,09",
+     "DPS": "1,68",
+     "GUV": "Paychex Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,14",
+     "equityratio": "29,11",
+     "deptratio": "70,89"
+    },
+    {
+     "DieAktie": "Paychex Inc.: Die Aktie (in USD)",
+     "Jahr": "2017",
+     "EPSundiluted": "2,27",
+     "EPSdiluted": "2,25",
+     "DPS": "1,84",
+     "GUV": "Paychex Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,69",
+     "equityratio": "28,14",
+     "deptratio": "71,86"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "12.10.16",
+     "Dividende": "1,68"
+    },
+    {
+     "Datum": "14.10.15",
+     "Dividende": "1,52"
+    },
+    {
+     "Datum": "15.10.14",
+     "Dividende": "1,40"
+    },
+    {
+     "Datum": "16.10.13",
+     "Dividende": "1,31"
+    },
+    {
+     "Datum": "23.10.12",
+     "Dividende": "1,27"
+    },
+    {
+     "Datum": "11.10.11",
+     "Dividende": "1,24"
+    },
+    {
+     "Datum": "13.10.10",
+     "Dividende": "1,24"
+    },
+    {
+     "Datum": "13.10.09",
+     "Dividende": "1,24"
+    },
+    {
+     "Datum": "07.10.08",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "03.10.07",
+     "Dividende": "0,79"
+    },
+    {
+     "Datum": "05.10.06",
+     "Dividende": "0,61"
+    },
+    {
+     "Datum": "12.10.05",
+     "Dividende": "0,51"
+    },
+    {
+     "Datum": "06.10.04",
+     "Dividende": "0,47"
+    },
+    {
+     "Datum": "02.10.03",
+     "Dividende": "0,44"
+    }
+   ]
+  },
+  {
+   "name": "PC Connection Aktie [WKN: 912670 / ISIN: US69318J1007]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PC_Connection",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "PC Connection Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "PC Connection Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "PC Connection Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,85",
+     "EPSdiluted": "0,85",
+     "DPS": "0",
+     "GUV": "PC Connection Inc.: GuV (in Mio. USD)",
+     "Turnover": "72,98",
+     "equityratio": "61,21",
+     "deptratio": "38,79"
+    },
+    {
+     "DieAktie": "PC Connection Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,08",
+     "EPSdiluted": "1,07",
+     "DPS": "0",
+     "GUV": "PC Connection Inc.: GuV (in Mio. USD)",
+     "Turnover": "78,48",
+     "equityratio": "58,44",
+     "deptratio": "41,56"
+    },
+    {
+     "DieAktie": "PC Connection Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,25",
+     "EPSdiluted": "1,24",
+     "DPS": "0",
+     "GUV": "PC Connection Inc.: GuV (in Mio. USD)",
+     "Turnover": "81,2",
+     "equityratio": "62,2",
+     "deptratio": "37,8"
+    },
+    {
+     "DieAktie": "PC Connection Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,37",
+     "EPSdiluted": "1,35",
+     "DPS": "0",
+     "GUV": "PC Connection Inc.: GuV (in Mio. USD)",
+     "Turnover": "84,19",
+     "equityratio": "63,85",
+     "deptratio": "36,15"
+    },
+    {
+     "DieAktie": "PC Connection Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,63",
+     "EPSdiluted": "1,61",
+     "DPS": "0",
+     "GUV": "PC Connection Inc.: GuV (in Mio. USD)",
+     "Turnover": "92,91",
+     "equityratio": "65,56",
+     "deptratio": "34,44"
+    },
+    {
+     "DieAktie": "PC Connection Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,77",
+     "EPSdiluted": "1,76",
+     "DPS": "0",
+     "GUV": "PC Connection Inc.: GuV (in Mio. USD)",
+     "Turnover": "96,71",
+     "equityratio": "61,41",
+     "deptratio": "38,59"
+    },
+    {
+     "DieAktie": "PC Connection Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,81",
+     "EPSdiluted": "1,8",
+     "DPS": "-",
+     "GUV": "PC Connection Inc.: GuV (in Mio. USD)",
+     "Turnover": "100,77",
+     "equityratio": "62,47",
+     "deptratio": "37,53"
+    }
+   ]
+  },
+  {
+   "name": "PCTEL Aktie [WKN: 928717 / ISIN: US69325Q1058]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PCTEL",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "PCTEL INC. (PC-TEL Inc.): Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "PCTEL INC. (PC-TEL Inc.): GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "PCTEL INC. (PC-TEL Inc.): Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "-0,2",
+     "EPSdiluted": "-0,2",
+     "DPS": "0",
+     "GUV": "PCTEL INC. (PC-TEL Inc.): GuV (in Mio. USD)",
+     "Turnover": "3,98",
+     "equityratio": "88,25",
+     "deptratio": "11,75"
+    },
+    {
+     "DieAktie": "PCTEL INC. (PC-TEL Inc.): Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,01",
+     "EPSdiluted": "0,01",
+     "DPS": "0,03",
+     "GUV": "PCTEL INC. (PC-TEL Inc.): GuV (in Mio. USD)",
+     "Turnover": "4,33",
+     "equityratio": "86,76",
+     "deptratio": "13,24"
+    },
+    {
+     "DieAktie": "PCTEL INC. (PC-TEL Inc.): Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "-0,53",
+     "EPSdiluted": "-0,53",
+     "DPS": "0,12",
+     "GUV": "PCTEL INC. (PC-TEL Inc.): GuV (in Mio. USD)",
+     "Turnover": "5,11",
+     "equityratio": "83,3",
+     "deptratio": "16,7"
+    },
+    {
+     "DieAktie": "PCTEL INC. (PC-TEL Inc.): Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,18",
+     "EPSdiluted": "0,18",
+     "DPS": "0,14",
+     "GUV": "PCTEL INC. (PC-TEL Inc.): GuV (in Mio. USD)",
+     "Turnover": "5,73",
+     "equityratio": "87,93",
+     "deptratio": "12,07"
+    },
+    {
+     "DieAktie": "PCTEL INC. (PC-TEL Inc.): Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,25",
+     "EPSdiluted": "0,25",
+     "DPS": "0,16",
+     "GUV": "PCTEL INC. (PC-TEL Inc.): GuV (in Mio. USD)",
+     "Turnover": "5,83",
+     "equityratio": "86,66",
+     "deptratio": "13,34"
+    },
+    {
+     "DieAktie": "PCTEL INC. (PC-TEL Inc.): Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "-0,09",
+     "EPSdiluted": "-0,09",
+     "DPS": "0,2",
+     "GUV": "PCTEL INC. (PC-TEL Inc.): GuV (in Mio. USD)",
+     "Turnover": "6,01",
+     "equityratio": "87,29",
+     "deptratio": "12,71"
+    },
+    {
+     "DieAktie": "PCTEL INC. (PC-TEL Inc.): Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "-1,09",
+     "EPSdiluted": "-1,09",
+     "DPS": "0,2",
+     "GUV": "PCTEL INC. (PC-TEL Inc.): GuV (in Mio. USD)",
+     "Turnover": "5,99",
+     "equityratio": "84,38",
+     "deptratio": "15,62"
+    }
+   ]
+  },
+  {
+   "name": "PDF Solutions Aktie [WKN: 541307 / ISIN: US6932821050]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PDF_Solutions",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "PDF Solutions Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "PDF Solutions Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "PDF Solutions Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,01",
+     "EPSdiluted": "0,01",
+     "DPS": "0",
+     "GUV": "PDF Solutions Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,24",
+     "equityratio": "74,38",
+     "deptratio": "25,62"
+    },
+    {
+     "DieAktie": "PDF Solutions Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,07",
+     "EPSdiluted": "0,07",
+     "DPS": "0",
+     "GUV": "PDF Solutions Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,35",
+     "equityratio": "76,42",
+     "deptratio": "23,58"
+    },
+    {
+     "DieAktie": "PDF Solutions Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,3",
+     "EPSdiluted": "1,25",
+     "DPS": "0",
+     "GUV": "PDF Solutions Inc.: GuV (in Mio. USD)",
+     "Turnover": "3",
+     "equityratio": "81,33",
+     "deptratio": "18,67"
+    },
+    {
+     "DieAktie": "PDF Solutions Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,7",
+     "EPSdiluted": "0,67",
+     "DPS": "0",
+     "GUV": "PDF Solutions Inc.: GuV (in Mio. USD)",
+     "Turnover": "3,23",
+     "equityratio": "89,12",
+     "deptratio": "10,88"
+    },
+    {
+     "DieAktie": "PDF Solutions Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,6",
+     "EPSdiluted": "0,58",
+     "DPS": "0",
+     "GUV": "PDF Solutions Inc.: GuV (in Mio. USD)",
+     "Turnover": "3,14",
+     "equityratio": "91,2",
+     "deptratio": "8,8"
+    },
+    {
+     "DieAktie": "PDF Solutions Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,39",
+     "EPSdiluted": "0,39",
+     "DPS": "0",
+     "GUV": "PDF Solutions Inc.: GuV (in Mio. USD)",
+     "Turnover": "3,05",
+     "equityratio": "90,89",
+     "deptratio": "9,11"
+    },
+    {
+     "DieAktie": "PDF Solutions Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,29",
+     "EPSdiluted": "0,28",
+     "DPS": "-",
+     "GUV": "PDF Solutions Inc.: GuV (in Mio. USD)",
+     "Turnover": "3,31",
+     "equityratio": "89,42",
+     "deptratio": "10,58"
+    }
+   ]
+  },
+  {
+   "name": "PDL BioPharma Aktie [WKN DE: A0H1J1 / ISIN: US69329Y1047]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PDL_BioPharma",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "PDL BioPharma Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "PDL BioPharma Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "PDL BioPharma Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,73",
+     "EPSdiluted": "0,51",
+     "DPS": "1",
+     "GUV": "PDL BioPharma Inc.: GuV (in Mio. USD)",
+     "Turnover": "1,93",
+     "equityratio": "-102,37",
+     "deptratio": "202,37"
+    },
+    {
+     "DieAktie": "PDL BioPharma Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,43",
+     "EPSdiluted": "1,15",
+     "DPS": "0,6",
+     "GUV": "PDL BioPharma Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,04",
+     "equityratio": "-75,81",
+     "deptratio": "175,81"
+    },
+    {
+     "DieAktie": "PDL BioPharma Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,52",
+     "EPSdiluted": "1,45",
+     "DPS": "0,6",
+     "GUV": "PDL BioPharma Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,57",
+     "equityratio": "-24,33",
+     "deptratio": "124,33"
+    },
+    {
+     "DieAktie": "PDL BioPharma Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,89",
+     "EPSdiluted": "1,66",
+     "DPS": "0,6",
+     "GUV": "PDL BioPharma Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,79",
+     "equityratio": "20,86",
+     "deptratio": "79,14"
+    },
+    {
+     "DieAktie": "PDL BioPharma Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,04",
+     "EPSdiluted": "1,86",
+     "DPS": "0,6",
+     "GUV": "PDL BioPharma Inc.: GuV (in Mio. USD)",
+     "Turnover": "3,38",
+     "equityratio": "47,85",
+     "deptratio": "52,15"
+    },
+    {
+     "DieAktie": "PDL BioPharma Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,04",
+     "EPSdiluted": "2,03",
+     "DPS": "0,6",
+     "GUV": "PDL BioPharma Inc.: GuV (in Mio. USD)",
+     "Turnover": "3,58",
+     "equityratio": "68,49",
+     "deptratio": "31,51"
+    },
+    {
+     "DieAktie": "PDL BioPharma Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,39",
+     "EPSdiluted": "0,39",
+     "DPS": "0,1",
+     "GUV": "PDL BioPharma Inc.: GuV (in Mio. USD)",
+     "Turnover": "1,46",
+     "equityratio": "61,8",
+     "deptratio": "38,2"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "02.06.16",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "28.05.15",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "28.05.14",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "21.05.13",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "05.06.12",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "22.06.11",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "09.06.10",
+     "Dividende": "2,67"
+    },
+    {
+     "Datum": "04.06.09",
+     "Dividende": "4,25"
+    },
+    {
+     "Datum": "28.05.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "20.06.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "14.06.06",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.06.05",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "30.06.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "19.06.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Pegasystems Aktie [WKN: 901951 / ISIN: US7055731035]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pegasystems",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Pegasystems Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Pegasystems Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Pegasystems Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "-0,08",
+     "EPSdiluted": "-0,08",
+     "DPS": "0,06",
+     "GUV": "Pegasystems Inc.: GuV (in Mio. USD)",
+     "Turnover": "4,54",
+     "equityratio": "57,98",
+     "deptratio": "42,02"
+    },
+    {
+     "DieAktie": "Pegasystems Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,14",
+     "EPSdiluted": "0,13",
+     "DPS": "0,06",
+     "GUV": "Pegasystems Inc.: GuV (in Mio. USD)",
+     "Turnover": "5,29",
+     "equityratio": "54,69",
+     "deptratio": "45,31"
+    },
+    {
+     "DieAktie": "Pegasystems Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,29",
+     "EPSdiluted": "0,28",
+     "DPS": "0,06",
+     "GUV": "Pegasystems Inc.: GuV (in Mio. USD)",
+     "Turnover": "5,94",
+     "equityratio": "53,81",
+     "deptratio": "46,19"
+    },
+    {
+     "DieAktie": "Pegasystems Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,5",
+     "EPSdiluted": "0,49",
+     "DPS": "0,06",
+     "GUV": "Pegasystems Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,53",
+     "equityratio": "50,93",
+     "deptratio": "49,07"
+    },
+    {
+     "DieAktie": "Pegasystems Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,44",
+     "EPSdiluted": "0,42",
+     "DPS": "0,11",
+     "GUV": "Pegasystems Inc.: GuV (in Mio. USD)",
+     "Turnover": "7,51",
+     "equityratio": "50,14",
+     "deptratio": "49,86"
+    },
+    {
+     "DieAktie": "Pegasystems Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,47",
+     "EPSdiluted": "0,46",
+     "DPS": "0,12",
+     "GUV": "Pegasystems Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,64",
+     "equityratio": "51,43",
+     "deptratio": "48,57"
+    },
+    {
+     "DieAktie": "Pegasystems Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,35",
+     "EPSdiluted": "0,34",
+     "DPS": "0,12",
+     "GUV": "Pegasystems Inc.: GuV (in Mio. USD)",
+     "Turnover": "9,41",
+     "equityratio": "49,96",
+     "deptratio": "50,04"
+    }
+   ]
+  },
+  {
+   "name": "Peoples Bancorp of North Carolina Aktie [WKN: 923674 / ISIN: US7105771072]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Peoples_Bancorp_of_North_Carolina",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Peoples Bancorp of North Carolina Inc: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Peoples Bancorp of North Carolina Inc: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Peoples Bancorp of North Carolina Inc: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,08",
+     "EPSdiluted": "0,08",
+     "DPS": "0,08",
+     "GUV": "Peoples Bancorp of North Carolina Inc: GuV (in Mio. USD)",
+     "Turnover": "11,29",
+     "equityratio": "6,71",
+     "deptratio": "93,29"
+    },
+    {
+     "DieAktie": "Peoples Bancorp of North Carolina Inc: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,68",
+     "EPSdiluted": "0,68",
+     "DPS": "0,08",
+     "GUV": "Peoples Bancorp of North Carolina Inc: GuV (in Mio. USD)",
+     "Turnover": "10,93",
+     "equityratio": "7,28",
+     "deptratio": "92,72"
+    },
+    {
+     "DieAktie": "Peoples Bancorp of North Carolina Inc: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,86",
+     "EPSdiluted": "0,86",
+     "DPS": "0,18",
+     "GUV": "Peoples Bancorp of North Carolina Inc: GuV (in Mio. USD)",
+     "Turnover": "9,31",
+     "equityratio": "8,37",
+     "deptratio": "91,63"
+    },
+    {
+     "DieAktie": "Peoples Bancorp of North Carolina Inc: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,08",
+     "EPSdiluted": "1,07",
+     "DPS": "0,12",
+     "GUV": "Peoples Bancorp of North Carolina Inc: GuV (in Mio. USD)",
+     "Turnover": "8,78",
+     "equityratio": "8,08",
+     "deptratio": "91,92"
+    },
+    {
+     "DieAktie": "Peoples Bancorp of North Carolina Inc: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,67",
+     "EPSdiluted": "1,66",
+     "DPS": "0,18",
+     "GUV": "Peoples Bancorp of North Carolina Inc: GuV (in Mio. USD)",
+     "Turnover": "9,08",
+     "equityratio": "9,44",
+     "deptratio": "90,56"
+    },
+    {
+     "DieAktie": "Peoples Bancorp of North Carolina Inc: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,73",
+     "EPSdiluted": "1,72",
+     "DPS": "0,28",
+     "GUV": "Peoples Bancorp of North Carolina Inc: GuV (in Mio. USD)",
+     "Turnover": "9,27",
+     "equityratio": "10,06",
+     "deptratio": "89,94"
+    },
+    {
+     "DieAktie": "Peoples Bancorp of North Carolina Inc: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,68",
+     "EPSdiluted": "1,65",
+     "DPS": "0,38",
+     "GUV": "Peoples Bancorp of North Carolina Inc: GuV (in Mio. USD)",
+     "Turnover": "9,7",
+     "equityratio": "9,84",
+     "deptratio": "90,16"
+    }
+   ]
+  },
+  {
+   "name": "Pep Boys-Manny Moe & Jack Aktie [WKN: 864359 / ISIN: US7132781094]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pep_Boys-Manny_MoeJack",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Pep Boys-Manny Moe & Jack Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Pep Boys-Manny Moe & Jack Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Pep Boys-Manny Moe & Jack Inc.: Die Aktie (in USD)",
+     "Jahr": "2009",
+     "EPSundiluted": "-0,58",
+     "EPSdiluted": "-0,58",
+     "DPS": "0,27",
+     "GUV": "Pep Boys-Manny Moe & Jack Inc.: GuV (in Mio. USD)",
+     "Turnover": "36,98",
+     "equityratio": "27,26",
+     "deptratio": "72,74"
+    },
+    {
+     "DieAktie": "Pep Boys-Manny Moe & Jack Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,44",
+     "EPSdiluted": "0,44",
+     "DPS": "0,27",
+     "GUV": "Pep Boys-Manny Moe & Jack Inc.: GuV (in Mio. USD)",
+     "Turnover": "36,28",
+     "equityratio": "29,57",
+     "deptratio": "70,43"
+    },
+    {
+     "DieAktie": "Pep Boys-Manny Moe & Jack Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,7",
+     "EPSdiluted": "0,69",
+     "DPS": "0,12",
+     "GUV": "Pep Boys-Manny Moe & Jack Inc.: GuV (in Mio. USD)",
+     "Turnover": "37,41",
+     "equityratio": "30,74",
+     "deptratio": "69,26"
+    },
+    {
+     "DieAktie": "Pep Boys-Manny Moe & Jack Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,55",
+     "EPSdiluted": "0,54",
+     "DPS": "0,12",
+     "GUV": "Pep Boys-Manny Moe & Jack Inc.: GuV (in Mio. USD)",
+     "Turnover": "38,48",
+     "equityratio": "30,87",
+     "deptratio": "69,13"
+    },
+    {
+     "DieAktie": "Pep Boys-Manny Moe & Jack Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,24",
+     "EPSdiluted": "0,24",
+     "DPS": "0,12",
+     "GUV": "Pep Boys-Manny Moe & Jack Inc.: GuV (in Mio. USD)",
+     "Turnover": "38,75",
+     "equityratio": "33,52",
+     "deptratio": "66,48"
+    },
+    {
+     "DieAktie": "Pep Boys-Manny Moe & Jack Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,13",
+     "EPSdiluted": "0,13",
+     "DPS": "0",
+     "GUV": "Pep Boys-Manny Moe & Jack Inc.: GuV (in Mio. USD)",
+     "Turnover": "38,3",
+     "equityratio": "34,14",
+     "deptratio": "65,86"
+    },
+    {
+     "DieAktie": "Pep Boys-Manny Moe & Jack Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "-0,51",
+     "EPSdiluted": "-0,51",
+     "DPS": "-",
+     "GUV": "Pep Boys-Manny Moe & Jack Inc.: GuV (in Mio. USD)",
+     "Turnover": "38,89",
+     "equityratio": "34",
+     "deptratio": "66"
+    }
+   ]
+  },
+  {
+   "name": "Perficient Aktie [WKN: 924876 / ISIN: US71375U1016]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Perficient",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Perficient Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Perficient Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Perficient Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,24",
+     "EPSdiluted": "0,23",
+     "DPS": "0",
+     "GUV": "Perficient Inc.: GuV (in Mio. USD)",
+     "Turnover": "7,59",
+     "equityratio": "85,31",
+     "deptratio": "14,69"
+    },
+    {
+     "DieAktie": "Perficient Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,39",
+     "EPSdiluted": "0,37",
+     "DPS": "0",
+     "GUV": "Perficient Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,99",
+     "equityratio": "88,85",
+     "deptratio": "11,15"
+    },
+    {
+     "DieAktie": "Perficient Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,54",
+     "EPSdiluted": "0,52",
+     "DPS": "0",
+     "GUV": "Perficient Inc.: GuV (in Mio. USD)",
+     "Turnover": "10,52",
+     "equityratio": "87,73",
+     "deptratio": "12,27"
+    },
+    {
+     "DieAktie": "Perficient Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,71",
+     "EPSdiluted": "0,67",
+     "DPS": "0",
+     "GUV": "Perficient Inc.: GuV (in Mio. USD)",
+     "Turnover": "11,74",
+     "equityratio": "79,66",
+     "deptratio": "20,34"
+    },
+    {
+     "DieAktie": "Perficient Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,73",
+     "EPSdiluted": "0,7",
+     "DPS": "0",
+     "GUV": "Perficient Inc.: GuV (in Mio. USD)",
+     "Turnover": "13,77",
+     "equityratio": "71,53",
+     "deptratio": "28,47"
+    },
+    {
+     "DieAktie": "Perficient Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,69",
+     "EPSdiluted": "0,67",
+     "DPS": "-",
+     "GUV": "Perficient Inc.: GuV (in Mio. USD)",
+     "Turnover": "13,8",
+     "equityratio": "72,53",
+     "deptratio": "27,47"
+    },
+    {
+     "DieAktie": "Perficient Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,6",
+     "EPSdiluted": "0,58",
+     "DPS": "-",
+     "GUV": "Perficient Inc.: GuV (in Mio. USD)",
+     "Turnover": "13,91",
+     "equityratio": "76,95",
+     "deptratio": "23,05"
+    }
+   ]
+  },
+  {
+   "name": "PetMed Express Aktie [WKN: 121843 / ISIN: US7163821066]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PetMed_Express",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "PetMed Express Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "PetMed Express Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "PetMed Express Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,93",
+     "EPSdiluted": "0,92",
+     "DPS": "0,48",
+     "GUV": "PetMed Express Inc.: GuV (in Mio. USD)",
+     "Turnover": "10,23",
+     "equityratio": "91,25",
+     "deptratio": "8,75"
+    },
+    {
+     "DieAktie": "PetMed Express Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,81",
+     "EPSdiluted": "0,8",
+     "DPS": "0,53",
+     "GUV": "PetMed Express Inc.: GuV (in Mio. USD)",
+     "Turnover": "11,51",
+     "equityratio": "89,14",
+     "deptratio": "10,86"
+    },
+    {
+     "DieAktie": "PetMed Express Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,86",
+     "EPSdiluted": "0,86",
+     "DPS": "0,6",
+     "GUV": "PetMed Express Inc.: GuV (in Mio. USD)",
+     "Turnover": "11,36",
+     "equityratio": "87,46",
+     "deptratio": "12,54"
+    },
+    {
+     "DieAktie": "PetMed Express Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,9",
+     "EPSdiluted": "0,9",
+     "DPS": "0,66",
+     "GUV": "PetMed Express Inc.: GuV (in Mio. USD)",
+     "Turnover": "11,64",
+     "equityratio": "89,58",
+     "deptratio": "10,42"
+    },
+    {
+     "DieAktie": "PetMed Express Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,87",
+     "EPSdiluted": "0,87",
+     "DPS": "0,68",
+     "GUV": "PetMed Express Inc.: GuV (in Mio. USD)",
+     "Turnover": "11,39",
+     "equityratio": "91,04",
+     "deptratio": "8,96"
+    },
+    {
+     "DieAktie": "PetMed Express Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,02",
+     "EPSdiluted": "1,02",
+     "DPS": "0,72",
+     "GUV": "PetMed Express Inc.: GuV (in Mio. USD)",
+     "Turnover": "11,59",
+     "equityratio": "92,14",
+     "deptratio": "7,86"
+    },
+    {
+     "DieAktie": "PetMed Express Inc.: Die Aktie (in USD)",
+     "Jahr": "2017",
+     "EPSundiluted": "1,18",
+     "EPSdiluted": "1,17",
+     "DPS": "0,76",
+     "GUV": "PetMed Express Inc.: GuV (in Mio. USD)",
+     "Turnover": "12,23",
+     "equityratio": "82,76",
+     "deptratio": "17,24"
+    }
+   ]
+  },
+  {
+   "name": "Petroleum Geo-Services ASA Aktie [WKN: 913231 / ISIN: NO0010199151]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Petroleum_Geo-Services_ASA",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Petroleum Geo-Services ASA: Die Aktie (in NOK)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Petroleum Geo-Services ASA: GuV (in Mio. NOK)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Petroleum Geo-Services ASA: Die Aktie (in NOK)",
+     "Jahr": "2010",
+     "EPSundiluted": "-0,24",
+     "EPSdiluted": "-0,24",
+     "DPS": "0",
+     "GUV": "Petroleum Geo-Services ASA: GuV (in Mio. NOK)",
+     "Turnover": "34,24",
+     "equityratio": "57,36",
+     "deptratio": "42,64"
+    },
+    {
+     "DieAktie": "Petroleum Geo-Services ASA: Die Aktie (in NOK)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,86",
+     "EPSdiluted": "0,86",
+     "DPS": "1,1",
+     "GUV": "Petroleum Geo-Services ASA: GuV (in Mio. NOK)",
+     "Turnover": "32,13",
+     "equityratio": "56,47",
+     "deptratio": "43,53"
+    },
+    {
+     "DieAktie": "Petroleum Geo-Services ASA: Die Aktie (in NOK)",
+     "Jahr": "2012",
+     "EPSundiluted": "4,99",
+     "EPSdiluted": "4,94",
+     "DPS": "1,65",
+     "GUV": "Petroleum Geo-Services ASA: GuV (in Mio. NOK)",
+     "Turnover": "40,54",
+     "equityratio": "58,7",
+     "deptratio": "41,3"
+    },
+    {
+     "DieAktie": "Petroleum Geo-Services ASA: Die Aktie (in NOK)",
+     "Jahr": "2013",
+     "EPSundiluted": "6,51",
+     "EPSdiluted": "6,45",
+     "DPS": "2,29",
+     "GUV": "Petroleum Geo-Services ASA: GuV (in Mio. NOK)",
+     "Turnover": "40,71",
+     "equityratio": "58,28",
+     "deptratio": "41,72"
+    },
+    {
+     "DieAktie": "Petroleum Geo-Services ASA: Die Aktie (in NOK)",
+     "Jahr": "2014",
+     "EPSundiluted": "-1,51",
+     "EPSdiluted": "-1,51",
+     "DPS": "0,7",
+     "GUV": "Petroleum Geo-Services ASA: GuV (in Mio. NOK)",
+     "Turnover": "42,46",
+     "equityratio": "53,37",
+     "deptratio": "46,63"
+    },
+    {
+     "DieAktie": "Petroleum Geo-Services ASA: Die Aktie (in NOK)",
+     "Jahr": "2015",
+     "EPSundiluted": "-19,57",
+     "EPSdiluted": "-19,57",
+     "DPS": "0",
+     "GUV": "Petroleum Geo-Services ASA: GuV (in Mio. NOK)",
+     "Turnover": "35,46",
+     "equityratio": "50,23",
+     "deptratio": "49,77"
+    },
+    {
+     "DieAktie": "Petroleum Geo-Services ASA: Die Aktie (in NOK)",
+     "Jahr": "2016",
+     "EPSundiluted": "-10,16",
+     "EPSdiluted": "-10,16",
+     "DPS": "0",
+     "GUV": "Petroleum Geo-Services ASA: GuV (in Mio. NOK)",
+     "Turnover": "26,35",
+     "equityratio": "48,26",
+     "deptratio": "51,74"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "11.05.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "13.05.15",
+     "Dividende": "0,09"
+    },
+    {
+     "Datum": "08.05.14",
+     "Dividende": "0,38"
+    }
+   ]
+  },
+  {
+   "name": "Pharmacyclics Aktie [WKN: 904042 / ISIN: US7169331060]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pharmacyclics",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Pharmacyclics Inc: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Pharmacyclics Inc: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Pharmacyclics Inc: Die Aktie (in USD)",
+     "Jahr": "2008",
+     "EPSundiluted": "-0,93",
+     "EPSdiluted": "-0,93",
+     "DPS": "0",
+     "GUV": "Pharmacyclics Inc: GuV (in Mio. USD)",
+     "Turnover": "0",
+     "equityratio": "89,54",
+     "deptratio": "10,46"
+    },
+    {
+     "DieAktie": "Pharmacyclics Inc: Die Aktie (in USD)",
+     "Jahr": "2009",
+     "EPSundiluted": "-0,88",
+     "EPSdiluted": "-0,88",
+     "DPS": "0",
+     "GUV": "Pharmacyclics Inc: GuV (in Mio. USD)",
+     "Turnover": "0",
+     "equityratio": "-9,51",
+     "deptratio": "109,51"
+    },
+    {
+     "DieAktie": "Pharmacyclics Inc: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "-0,31",
+     "EPSdiluted": "-0,31",
+     "DPS": "0",
+     "GUV": "Pharmacyclics Inc: GuV (in Mio. USD)",
+     "Turnover": "0,19",
+     "equityratio": "86,91",
+     "deptratio": "13,09"
+    },
+    {
+     "DieAktie": "Pharmacyclics Inc: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "-0,59",
+     "EPSdiluted": "-0,59",
+     "DPS": "0",
+     "GUV": "Pharmacyclics Inc: GuV (in Mio. USD)",
+     "Turnover": "0,14",
+     "equityratio": "87,38",
+     "deptratio": "12,62"
+    },
+    {
+     "DieAktie": "Pharmacyclics Inc: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "3,38",
+     "EPSdiluted": "3,16",
+     "DPS": "0",
+     "GUV": "Pharmacyclics Inc: GuV (in Mio. USD)",
+     "Turnover": "4,32",
+     "equityratio": "73,92",
+     "deptratio": "26,08"
+    },
+    {
+     "DieAktie": "Pharmacyclics Inc: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,92",
+     "EPSdiluted": "0,87",
+     "DPS": "0",
+     "GUV": "Pharmacyclics Inc: GuV (in Mio. USD)",
+     "Turnover": "3,38",
+     "equityratio": "81,64",
+     "deptratio": "18,36"
+    },
+    {
+     "DieAktie": "Pharmacyclics Inc: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,14",
+     "EPSdiluted": "1,1",
+     "DPS": "-",
+     "GUV": "Pharmacyclics Inc: GuV (in Mio. USD)",
+     "Turnover": "9,34",
+     "equityratio": "78,22",
+     "deptratio": "21,78"
+    }
+   ]
+  },
+  {
+   "name": "Photronics Aktie [WKN: 879430 / ISIN: US7194051022]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Photronics",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Photronics Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Photronics Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Photronics Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,45",
+     "EPSdiluted": "0,43",
+     "DPS": "0",
+     "GUV": "Photronics Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,47",
+     "equityratio": "62,77",
+     "deptratio": "37,23"
+    },
+    {
+     "DieAktie": "Photronics Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,28",
+     "EPSdiluted": "0,28",
+     "DPS": "0",
+     "GUV": "Photronics Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,76",
+     "equityratio": "62,49",
+     "deptratio": "37,51"
+    },
+    {
+     "DieAktie": "Photronics Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,46",
+     "EPSdiluted": "0,44",
+     "DPS": "0",
+     "GUV": "Photronics Inc.: GuV (in Mio. USD)",
+     "Turnover": "5,89",
+     "equityratio": "64,93",
+     "deptratio": "35,07"
+    },
+    {
+     "DieAktie": "Photronics Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,3",
+     "EPSdiluted": "0,29",
+     "DPS": "0",
+     "GUV": "Photronics Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,85",
+     "equityratio": "66,07",
+     "deptratio": "33,93"
+    },
+    {
+     "DieAktie": "Photronics Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,42",
+     "EPSdiluted": "0,41",
+     "DPS": "0",
+     "GUV": "Photronics Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,83",
+     "equityratio": "61,02",
+     "deptratio": "38,98"
+    },
+    {
+     "DieAktie": "Photronics Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,67",
+     "EPSdiluted": "0,63",
+     "DPS": "-",
+     "GUV": "Photronics Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,69",
+     "equityratio": "61,84",
+     "deptratio": "38,16"
+    },
+    {
+     "DieAktie": "Photronics Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,68",
+     "EPSdiluted": "0,64",
+     "DPS": "-",
+     "GUV": "Photronics Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,33",
+     "equityratio": "71,88",
+     "deptratio": "28,12"
+    }
+   ]
+  },
+  {
+   "name": "Pier 1 Imports Aktie [WKN: 864967 / ISIN: US7202791080]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pier_1_Imports",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Pier 1 Imports Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Pier 1 Imports Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Pier 1 Imports Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,86",
+     "EPSdiluted": "0,85",
+     "DPS": "0",
+     "GUV": "Pier 1 Imports Inc.: GuV (in Mio. USD)",
+     "Turnover": "11,89",
+     "equityratio": "55,52",
+     "deptratio": "44,48"
+    },
+    {
+     "DieAktie": "Pier 1 Imports Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,5",
+     "EPSdiluted": "1,48",
+     "DPS": "0",
+     "GUV": "Pier 1 Imports Inc.: GuV (in Mio. USD)",
+     "Turnover": "13,41",
+     "equityratio": "59,95",
+     "deptratio": "40,05"
+    },
+    {
+     "DieAktie": "Pier 1 Imports Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,22",
+     "EPSdiluted": "1,2",
+     "DPS": "0,17",
+     "GUV": "Pier 1 Imports Inc.: GuV (in Mio. USD)",
+     "Turnover": "15,75",
+     "equityratio": "62,66",
+     "deptratio": "37,34"
+    },
+    {
+     "DieAktie": "Pier 1 Imports Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,03",
+     "EPSdiluted": "1,01",
+     "DPS": "0,21",
+     "GUV": "Pier 1 Imports Inc.: GuV (in Mio. USD)",
+     "Turnover": "16,68",
+     "equityratio": "55,93",
+     "deptratio": "44,07"
+    },
+    {
+     "DieAktie": "Pier 1 Imports Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,83",
+     "EPSdiluted": "0,82",
+     "DPS": "0,24",
+     "GUV": "Pier 1 Imports Inc.: GuV (in Mio. USD)",
+     "Turnover": "20,25",
+     "equityratio": "37,05",
+     "deptratio": "62,95"
+    },
+    {
+     "DieAktie": "Pier 1 Imports Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,47",
+     "EPSdiluted": "0,46",
+     "DPS": "0,28",
+     "GUV": "Pier 1 Imports Inc.: GuV (in Mio. USD)",
+     "Turnover": "22,17",
+     "equityratio": "34,76",
+     "deptratio": "65,24"
+    },
+    {
+     "DieAktie": "Pier 1 Imports Inc.: Die Aktie (in USD)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,37",
+     "EPSdiluted": "0,37",
+     "DPS": "0,28",
+     "GUV": "Pier 1 Imports Inc.: GuV (in Mio. USD)",
+     "Turnover": "22,58",
+     "equityratio": "34,64",
+     "deptratio": "65,36"
+    }
+   ]
+  },
+  {
+   "name": "Pinnacle Financial Partners Aktie [WKN: 634714 / ISIN: US72346Q1040]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pinnacle_Financial_Partners",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Pinnacle Financial Partners Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Pinnacle Financial Partners Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Pinnacle Financial Partners Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "-0,93",
+     "EPSdiluted": "-0,93",
+     "DPS": "0",
+     "GUV": "Pinnacle Financial Partners Inc.: GuV (in Mio. USD)",
+     "Turnover": "7,31",
+     "equityratio": "11,9",
+     "deptratio": "88,1"
+    },
+    {
+     "DieAktie": "Pinnacle Financial Partners Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,11",
+     "EPSdiluted": "1,09",
+     "DPS": "0",
+     "GUV": "Pinnacle Financial Partners Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,64",
+     "equityratio": "13,1",
+     "deptratio": "86,9"
+    },
+    {
+     "DieAktie": "Pinnacle Financial Partners Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,12",
+     "EPSdiluted": "1,1",
+     "DPS": "0",
+     "GUV": "Pinnacle Financial Partners Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,63",
+     "equityratio": "13,41",
+     "deptratio": "86,59"
+    },
+    {
+     "DieAktie": "Pinnacle Financial Partners Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,69",
+     "EPSdiluted": "1,67",
+     "DPS": "0,08",
+     "GUV": "Pinnacle Financial Partners Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,82",
+     "equityratio": "12,98",
+     "deptratio": "87,02"
+    },
+    {
+     "DieAktie": "Pinnacle Financial Partners Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,03",
+     "EPSdiluted": "2,01",
+     "DPS": "0,32",
+     "GUV": "Pinnacle Financial Partners Inc.: GuV (in Mio. USD)",
+     "Turnover": "7,35",
+     "equityratio": "13,3",
+     "deptratio": "86,7"
+    },
+    {
+     "DieAktie": "Pinnacle Financial Partners Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,58",
+     "EPSdiluted": "2,52",
+     "DPS": "0,48",
+     "GUV": "Pinnacle Financial Partners Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,46",
+     "equityratio": "13,23",
+     "deptratio": "86,77"
+    },
+    {
+     "DieAktie": "Pinnacle Financial Partners Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "2,96",
+     "EPSdiluted": "2,91",
+     "DPS": "0,56",
+     "GUV": "Pinnacle Financial Partners Inc.: GuV (in Mio. USD)",
+     "Turnover": "10,35",
+     "equityratio": "13,35",
+     "deptratio": "86,65"
+    }
+   ]
+  },
+  {
+   "name": "Pool Aktie [WKN DE: A0JMVJ / ISIN: US73278L1052]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pool",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Pool Corp.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Pool Corp.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Pool Corp.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,17",
+     "EPSdiluted": "1,15",
+     "DPS": "0,52",
+     "GUV": "Pool Corp.: GuV (in Mio. USD)",
+     "Turnover": "32,17",
+     "equityratio": "39,14",
+     "deptratio": "60,86"
+    },
+    {
+     "DieAktie": "Pool Corp.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,49",
+     "EPSdiluted": "1,47",
+     "DPS": "0,55",
+     "GUV": "Pool Corp.: GuV (in Mio. USD)",
+     "Turnover": "36,61",
+     "equityratio": "35,03",
+     "deptratio": "64,97"
+    },
+    {
+     "DieAktie": "Pool Corp.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,75",
+     "EPSdiluted": "1,71",
+     "DPS": "0,62",
+     "GUV": "Pool Corp.: GuV (in Mio. USD)",
+     "Turnover": "40,66",
+     "equityratio": "36,08",
+     "deptratio": "63,92"
+    },
+    {
+     "DieAktie": "Pool Corp.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,1",
+     "EPSdiluted": "2,05",
+     "DPS": "0,73",
+     "GUV": "Pool Corp.: GuV (in Mio. USD)",
+     "Turnover": "43,76",
+     "equityratio": "34,74",
+     "deptratio": "65,26"
+    },
+    {
+     "DieAktie": "Pool Corp.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,5",
+     "EPSdiluted": "2,44",
+     "DPS": "0,85",
+     "GUV": "Pool Corp.: GuV (in Mio. USD)",
+     "Turnover": "49,44",
+     "equityratio": "27,36",
+     "deptratio": "72,64"
+    },
+    {
+     "DieAktie": "Pool Corp.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,98",
+     "EPSdiluted": "2,9",
+     "DPS": "1",
+     "GUV": "Pool Corp.: GuV (in Mio. USD)",
+     "Turnover": "53,4",
+     "equityratio": "27,32",
+     "deptratio": "72,68"
+    },
+    {
+     "DieAktie": "Pool Corp.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "3,56",
+     "EPSdiluted": "3,47",
+     "DPS": "1,19",
+     "GUV": "Pool Corp.: GuV (in Mio. USD)",
+     "Turnover": "59,81",
+     "equityratio": "20,64",
+     "deptratio": "79,36"
+    }
+   ]
+  },
+  {
+   "name": "Powell Industries Aktie [WKN: 865628 / ISIN: US7391281067]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Powell_Industries",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Powell Industries Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Powell Industries Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Powell Industries Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "2,17",
+     "EPSdiluted": "2,14",
+     "DPS": "0",
+     "GUV": "Powell Industries Inc.: GuV (in Mio. USD)",
+     "Turnover": "47,1",
+     "equityratio": "68,24",
+     "deptratio": "31,76"
+    },
+    {
+     "DieAktie": "Powell Industries Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "-0,23",
+     "EPSdiluted": "-0,23",
+     "DPS": "0",
+     "GUV": "Powell Industries Inc.: GuV (in Mio. USD)",
+     "Turnover": "47,92",
+     "equityratio": "64,78",
+     "deptratio": "35,22"
+    },
+    {
+     "DieAktie": "Powell Industries Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,5",
+     "EPSdiluted": "2,49",
+     "DPS": "0",
+     "GUV": "Powell Industries Inc.: GuV (in Mio. USD)",
+     "Turnover": "60,14",
+     "equityratio": "69,17",
+     "deptratio": "30,83"
+    },
+    {
+     "DieAktie": "Powell Industries Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "3,52",
+     "EPSdiluted": "3,51",
+     "DPS": "0",
+     "GUV": "Powell Industries Inc.: GuV (in Mio. USD)",
+     "Turnover": "56,26",
+     "equityratio": "66,91",
+     "deptratio": "33,09"
+    },
+    {
+     "DieAktie": "Powell Industries Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,72",
+     "EPSdiluted": "1,71",
+     "DPS": "1",
+     "GUV": "Powell Industries Inc.: GuV (in Mio. USD)",
+     "Turnover": "53,72",
+     "equityratio": "68,54",
+     "deptratio": "31,46"
+    },
+    {
+     "DieAktie": "Powell Industries Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,8",
+     "EPSdiluted": "0,79",
+     "DPS": "1,04",
+     "GUV": "Powell Industries Inc.: GuV (in Mio. USD)",
+     "Turnover": "55,58",
+     "equityratio": "71,08",
+     "deptratio": "28,92"
+    },
+    {
+     "DieAktie": "Powell Industries Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,36",
+     "EPSdiluted": "1,36",
+     "DPS": "1,04",
+     "GUV": "Powell Industries Inc.: GuV (in Mio. USD)",
+     "Turnover": "49,45",
+     "equityratio": "72,5",
+     "deptratio": "27,5"
+    }
+   ]
+  },
+  {
+   "name": "Power Integrations Aktie [WKN: 911299 / ISIN: US7392761034]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Power_Integrations",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Power Integrations Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Power Integrations Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Power Integrations Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,78",
+     "EPSdiluted": "1,67",
+     "DPS": "0,2",
+     "GUV": "Power Integrations Inc.: GuV (in Mio. USD)",
+     "Turnover": "10,14",
+     "equityratio": "81,75",
+     "deptratio": "18,25"
+    },
+    {
+     "DieAktie": "Power Integrations Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,2",
+     "EPSdiluted": "1,14",
+     "DPS": "0,2",
+     "GUV": "Power Integrations Inc.: GuV (in Mio. USD)",
+     "Turnover": "9,97",
+     "equityratio": "84,52",
+     "deptratio": "15,48"
+    },
+    {
+     "DieAktie": "Power Integrations Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "-1,2",
+     "EPSdiluted": "-1,2",
+     "DPS": "0,2",
+     "GUV": "Power Integrations Inc.: GuV (in Mio. USD)",
+     "Turnover": "10,66",
+     "equityratio": "85,45",
+     "deptratio": "14,55"
+    },
+    {
+     "DieAktie": "Power Integrations Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,95",
+     "EPSdiluted": "1,88",
+     "DPS": "0,32",
+     "GUV": "Power Integrations Inc.: GuV (in Mio. USD)",
+     "Turnover": "11,41",
+     "equityratio": "87,09",
+     "deptratio": "12,91"
+    },
+    {
+     "DieAktie": "Power Integrations Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,99",
+     "EPSdiluted": "1,93",
+     "DPS": "0,44",
+     "GUV": "Power Integrations Inc.: GuV (in Mio. USD)",
+     "Turnover": "11,31",
+     "equityratio": "87,24",
+     "deptratio": "12,76"
+    },
+    {
+     "DieAktie": "Power Integrations Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,35",
+     "EPSdiluted": "1,32",
+     "DPS": "0,48",
+     "GUV": "Power Integrations Inc.: GuV (in Mio. USD)",
+     "Turnover": "11,58",
+     "equityratio": "87,92",
+     "deptratio": "12,08"
+    },
+    {
+     "DieAktie": "Power Integrations Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,66",
+     "EPSdiluted": "1,62",
+     "DPS": "0,52",
+     "GUV": "Power Integrations Inc.: GuV (in Mio. USD)",
+     "Turnover": "13,08",
+     "equityratio": "87,89",
+     "deptratio": "12,11"
+    }
+   ]
+  },
+  {
+   "name": "Pricelinecom Aktie [WKN: 766054 / ISIN: US7415034039]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Pricelinecom",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Priceline.com Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Priceline.com Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Priceline.com Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "11",
+     "EPSdiluted": "10,35",
+     "DPS": "0",
+     "GUV": "Priceline.com Inc.: GuV (in Mio. USD)",
+     "Turnover": "60,5",
+     "equityratio": "62,4",
+     "deptratio": "37,6"
+    },
+    {
+     "DieAktie": "Priceline.com Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "21,27",
+     "EPSdiluted": "20,63",
+     "DPS": "0",
+     "GUV": "Priceline.com Inc.: GuV (in Mio. USD)",
+     "Turnover": "85,05",
+     "equityratio": "64,83",
+     "deptratio": "35,17"
+    },
+    {
+     "DieAktie": "Priceline.com Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "28,48",
+     "EPSdiluted": "27,66",
+     "DPS": "0",
+     "GUV": "Priceline.com Inc.: GuV (in Mio. USD)",
+     "Turnover": "102,5",
+     "equityratio": "59,32",
+     "deptratio": "40,68"
+    },
+    {
+     "DieAktie": "Priceline.com Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "37,17",
+     "EPSdiluted": "36,11",
+     "DPS": "0",
+     "GUV": "Priceline.com Inc.: GuV (in Mio. USD)",
+     "Turnover": "129,61",
+     "equityratio": "66,16",
+     "deptratio": "33,84"
+    },
+    {
+     "DieAktie": "Priceline.com Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "46,3",
+     "EPSdiluted": "45,67",
+     "DPS": "0",
+     "GUV": "Priceline.com Inc.: GuV (in Mio. USD)",
+     "Turnover": "159,21",
+     "equityratio": "57,34",
+     "deptratio": "42,66"
+    },
+    {
+     "DieAktie": "Priceline.com Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "50,09",
+     "EPSdiluted": "49,45",
+     "DPS": "0",
+     "GUV": "Priceline.com Inc.: GuV (in Mio. USD)",
+     "Turnover": "178,78",
+     "equityratio": "50,49",
+     "deptratio": "49,51"
+    },
+    {
+     "DieAktie": "Priceline.com Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "43,14",
+     "EPSdiluted": "42,65",
+     "DPS": "0",
+     "GUV": "Priceline.com Inc.: GuV (in Mio. USD)",
+     "Turnover": "214,59",
+     "equityratio": "49,5",
+     "deptratio": "50,5"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "02.06.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "04.06.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "05.06.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "06.06.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "07.06.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "02.06.11",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "PrivateBancorp Aktie [WKN: 657246 / ISIN: US7429621037]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PrivateBancorp",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "PrivateBancorp Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "PrivateBancorp Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "PrivateBancorp Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "-0,17",
+     "EPSdiluted": "-0,17",
+     "DPS": "0,04",
+     "GUV": "PrivateBancorp Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,59",
+     "equityratio": "7,9",
+     "deptratio": "92,1"
+    },
+    {
+     "DieAktie": "PrivateBancorp Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,43",
+     "EPSdiluted": "0,43",
+     "DPS": "0,04",
+     "GUV": "PrivateBancorp Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,2",
+     "equityratio": "8,47",
+     "deptratio": "91,53"
+    },
+    {
+     "DieAktie": "PrivateBancorp Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,88",
+     "EPSdiluted": "0,88",
+     "DPS": "0,04",
+     "GUV": "PrivateBancorp Inc.: GuV (in Mio. USD)",
+     "Turnover": "7,85",
+     "equityratio": "8,59",
+     "deptratio": "91,41"
+    },
+    {
+     "DieAktie": "PrivateBancorp Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,58",
+     "EPSdiluted": "1,57",
+     "DPS": "0,04",
+     "GUV": "PrivateBancorp Inc.: GuV (in Mio. USD)",
+     "Turnover": "7,64",
+     "equityratio": "9,24",
+     "deptratio": "90,76"
+    },
+    {
+     "DieAktie": "PrivateBancorp Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,96",
+     "EPSdiluted": "1,94",
+     "DPS": "0,04",
+     "GUV": "PrivateBancorp Inc.: GuV (in Mio. USD)",
+     "Turnover": "8",
+     "equityratio": "9,48",
+     "deptratio": "90,52"
+    },
+    {
+     "DieAktie": "PrivateBancorp Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,36",
+     "EPSdiluted": "2,32",
+     "DPS": "0,04",
+     "GUV": "PrivateBancorp Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,66",
+     "equityratio": "9,83",
+     "deptratio": "90,17"
+    },
+    {
+     "DieAktie": "PrivateBancorp Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "2,62",
+     "EPSdiluted": "2,57",
+     "DPS": "0,04",
+     "GUV": "PrivateBancorp Inc.: GuV (in Mio. USD)",
+     "Turnover": "10,05",
+     "equityratio": "9,57",
+     "deptratio": "90,43"
+    }
+   ]
+  },
+  {
+   "name": "Progenics Pharmaceuticals Aktie [WKN: 910678 / ISIN: US7431871067]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Progenics_Pharmaceuticals",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Progenics Pharmaceuticals Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Progenics Pharmaceuticals Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Progenics Pharmaceuticals Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "-2,14",
+     "EPSdiluted": "-2,14",
+     "DPS": "0",
+     "GUV": "Progenics Pharmaceuticals Inc.: GuV (in Mio. USD)",
+     "Turnover": "0,24",
+     "equityratio": "81,78",
+     "deptratio": "18,22"
+    },
+    {
+     "DieAktie": "Progenics Pharmaceuticals Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,31",
+     "EPSdiluted": "0,31",
+     "DPS": "0",
+     "GUV": "Progenics Pharmaceuticals Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,3",
+     "equityratio": "89,63",
+     "deptratio": "10,37"
+    },
+    {
+     "DieAktie": "Progenics Pharmaceuticals Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "-1,02",
+     "EPSdiluted": "-1,02",
+     "DPS": "0",
+     "GUV": "Progenics Pharmaceuticals Inc.: GuV (in Mio. USD)",
+     "Turnover": "0,4",
+     "equityratio": "87,24",
+     "deptratio": "12,76"
+    },
+    {
+     "DieAktie": "Progenics Pharmaceuticals Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,76",
+     "EPSdiluted": "-0,76",
+     "DPS": "0",
+     "GUV": "Progenics Pharmaceuticals Inc.: GuV (in Mio. USD)",
+     "Turnover": "0,14",
+     "equityratio": "68,95",
+     "deptratio": "31,05"
+    },
+    {
+     "DieAktie": "Progenics Pharmaceuticals Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,06",
+     "EPSdiluted": "0,06",
+     "DPS": "0",
+     "GUV": "Progenics Pharmaceuticals Inc.: GuV (in Mio. USD)",
+     "Turnover": "0,65",
+     "equityratio": "77,57",
+     "deptratio": "22,43"
+    },
+    {
+     "DieAktie": "Progenics Pharmaceuticals Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "-0,56",
+     "EPSdiluted": "-0,56",
+     "DPS": "-",
+     "GUV": "Progenics Pharmaceuticals Inc.: GuV (in Mio. USD)",
+     "Turnover": "0,12",
+     "equityratio": "68,92",
+     "deptratio": "31,08"
+    },
+    {
+     "DieAktie": "Progenics Pharmaceuticals Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,15",
+     "EPSdiluted": "0,15",
+     "DPS": "-",
+     "GUV": "Progenics Pharmaceuticals Inc.: GuV (in Mio. USD)",
+     "Turnover": "0,99",
+     "equityratio": "52,65",
+     "deptratio": "47,35"
+    }
+   ]
+  },
+  {
+   "name": "Provident Financial Aktie [WKN: 914318 / ISIN: US7438681014]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Provident_Financial_2",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Provident Financial Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Provident Financial Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Provident Financial Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,16",
+     "EPSdiluted": "1,16",
+     "DPS": "0,04",
+     "GUV": "Provident Financial Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,23",
+     "equityratio": "10,71",
+     "deptratio": "89,29"
+    },
+    {
+     "DieAktie": "Provident Financial Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,96",
+     "EPSdiluted": "0,96",
+     "DPS": "0,14",
+     "GUV": "Provident Financial Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "7,86",
+     "equityratio": "11,4",
+     "deptratio": "88,6"
+    },
+    {
+     "DieAktie": "Provident Financial Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,43",
+     "EPSdiluted": "2,38",
+     "DPS": "0,24",
+     "GUV": "Provident Financial Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "11,48",
+     "equityratio": "13,1",
+     "deptratio": "86,9"
+    },
+    {
+     "DieAktie": "Provident Financial Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,67",
+     "EPSdiluted": "0,65",
+     "DPS": "0,4",
+     "GUV": "Provident Financial Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,72",
+     "equityratio": "13,12",
+     "deptratio": "86,88"
+    },
+    {
+     "DieAktie": "Provident Financial Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,09",
+     "EPSdiluted": "1,07",
+     "DPS": "0,45",
+     "GUV": "Provident Financial Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,74",
+     "equityratio": "11,96",
+     "deptratio": "88,04"
+    },
+    {
+     "DieAktie": "Provident Financial Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,9",
+     "EPSdiluted": "0,88",
+     "DPS": "0,48",
+     "GUV": "Provident Financial Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,94",
+     "equityratio": "11,34",
+     "deptratio": "88,66"
+    },
+    {
+     "DieAktie": "Provident Financial Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,66",
+     "EPSdiluted": "0,64",
+     "DPS": "0,52",
+     "GUV": "Provident Financial Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "9,04",
+     "equityratio": "10,68",
+     "deptratio": "89,32"
+    }
+   ]
+  },
+  {
+   "name": "Proxim Aktie [WKN: A0DK9L / ISIN: US7442832017]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Proxim",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Proxim Corp.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Proxim Corp.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Proxim Corp.: Die Aktie (in USD)",
+     "Jahr": "1998",
+     "EPSundiluted": "-",
+     "EPSdiluted": "0,23",
+     "DPS": "-",
+     "GUV": "Proxim Corp.: GuV (in Mio. USD)",
+     "Turnover": "4,11",
+     "equityratio": "87,91",
+     "deptratio": "12,09"
+    },
+    {
+     "DieAktie": "Proxim Corp.: Die Aktie (in USD)",
+     "Jahr": "1999",
+     "EPSundiluted": "-",
+     "EPSdiluted": "0,24",
+     "DPS": "0",
+     "GUV": "Proxim Corp.: GuV (in Mio. USD)",
+     "Turnover": "8,95",
+     "equityratio": "94,08",
+     "deptratio": "5,92"
+    },
+    {
+     "DieAktie": "Proxim Corp.: Die Aktie (in USD)",
+     "Jahr": "2000",
+     "EPSundiluted": "1,4",
+     "EPSdiluted": "1,3",
+     "DPS": "0",
+     "GUV": "Proxim Corp.: GuV (in Mio. USD)",
+     "Turnover": "20,26",
+     "equityratio": "88,95",
+     "deptratio": "11,05"
+    },
+    {
+     "DieAktie": "Proxim Corp.: Die Aktie (in USD)",
+     "Jahr": "2001",
+     "EPSundiluted": "-4,4",
+     "EPSdiluted": "-4,4",
+     "DPS": "0",
+     "GUV": "Proxim Corp.: GuV (in Mio. USD)",
+     "Turnover": "18,37",
+     "equityratio": "90,15",
+     "deptratio": "9,85"
+    },
+    {
+     "DieAktie": "Proxim Corp.: Die Aktie (in USD)",
+     "Jahr": "2002",
+     "EPSundiluted": "-23,1",
+     "EPSdiluted": "-23,1",
+     "DPS": "0",
+     "GUV": "Proxim Corp.: GuV (in Mio. USD)",
+     "Turnover": "13,76",
+     "equityratio": "23,32",
+     "deptratio": "76,68"
+    },
+    {
+     "DieAktie": "Proxim Corp.: Die Aktie (in USD)",
+     "Jahr": "2003",
+     "EPSundiluted": "-10,5",
+     "EPSdiluted": "-10,5",
+     "DPS": "0",
+     "GUV": "Proxim Corp.: GuV (in Mio. USD)",
+     "Turnover": "11,71",
+     "equityratio": "-71,11",
+     "deptratio": "171,11"
+    },
+    {
+     "DieAktie": "Proxim Corp.: Die Aktie (in USD)",
+     "Jahr": "2004",
+     "EPSundiluted": "-3,59",
+     "EPSdiluted": "-3,59",
+     "DPS": "0",
+     "GUV": "Proxim Corp.: GuV (in Mio. USD)",
+     "Turnover": "7,32",
+     "equityratio": "-69,23",
+     "deptratio": "169,23"
+    }
+   ]
+  },
+  {
+   "name": "QA a Aktie [WKN DE: A1H4ST / ISIN: US74727D3061]",
+   "URL": "http://www.finanzen.at/bilanz_guv/QA_a"
+  },
+  {
+   "name": "QC Aktie [WKN: A0B67E / ISIN: US74729T1016]",
+   "URL": "http://www.finanzen.at/bilanz_guv/QC",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "QC Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "QC Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "QC Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,69",
+     "EPSdiluted": "0,69",
+     "DPS": "0,2",
+     "GUV": "QC Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "10,85",
+     "equityratio": "51,83",
+     "deptratio": "48,17"
+    },
+    {
+     "DieAktie": "QC Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,6",
+     "EPSdiluted": "0,59",
+     "DPS": "0,2",
+     "GUV": "QC Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "10,96",
+     "equityratio": "51,71",
+     "deptratio": "48,29"
+    },
+    {
+     "DieAktie": "QC Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,31",
+     "EPSdiluted": "0,31",
+     "DPS": "0,2",
+     "GUV": "QC Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "10,48",
+     "equityratio": "62,53",
+     "deptratio": "37,47"
+    },
+    {
+     "DieAktie": "QC Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,79",
+     "EPSdiluted": "-0,79",
+     "DPS": "0,15",
+     "GUV": "QC Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,75",
+     "equityratio": "60,97",
+     "deptratio": "39,03"
+    },
+    {
+     "DieAktie": "QC Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,31",
+     "EPSdiluted": "0,31",
+     "DPS": "0,05",
+     "GUV": "QC Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,74",
+     "equityratio": "69,32",
+     "deptratio": "30,68"
+    },
+    {
+     "DieAktie": "QC Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "-0,06",
+     "EPSdiluted": "-0,06",
+     "DPS": "0,08",
+     "GUV": "QC Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "7,81",
+     "equityratio": "72,15",
+     "deptratio": "27,85"
+    },
+    {
+     "DieAktie": "QC Holdings Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,97",
+     "EPSdiluted": "-0,97",
+     "DPS": "-",
+     "GUV": "QC Holdings Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,76",
+     "equityratio": "67,6",
+     "deptratio": "32,4"
+    }
+   ]
+  },
+  {
+   "name": "Q-Med Aktie [WKN: 872968 / ISIN: US7479141092]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Q-Med",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Q-Med Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Q-Med Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Q-Med Inc.: Die Aktie (in USD)",
+     "Jahr": "2001",
+     "EPSundiluted": "-0,08",
+     "EPSdiluted": "-0,08",
+     "DPS": "0",
+     "GUV": "Q-Med Inc.: GuV (in Mio. USD)",
+     "Turnover": "0,58",
+     "equityratio": "81,96",
+     "deptratio": "18,04"
+    },
+    {
+     "DieAktie": "Q-Med Inc.: Die Aktie (in USD)",
+     "Jahr": "2002",
+     "EPSundiluted": "0,05",
+     "EPSdiluted": "0,04",
+     "DPS": "0",
+     "GUV": "Q-Med Inc.: GuV (in Mio. USD)",
+     "Turnover": "0,77",
+     "equityratio": "72,91",
+     "deptratio": "27,09"
+    },
+    {
+     "DieAktie": "Q-Med Inc.: Die Aktie (in USD)",
+     "Jahr": "2003",
+     "EPSundiluted": "-0,15",
+     "EPSdiluted": "-0,15",
+     "DPS": "0",
+     "GUV": "Q-Med Inc.: GuV (in Mio. USD)",
+     "Turnover": "0,89",
+     "equityratio": "54,56",
+     "deptratio": "45,44"
+    },
+    {
+     "DieAktie": "Q-Med Inc.: Die Aktie (in USD)",
+     "Jahr": "2004",
+     "EPSundiluted": "-0,12",
+     "EPSdiluted": "-0,12",
+     "DPS": "0",
+     "GUV": "Q-Med Inc.: GuV (in Mio. USD)",
+     "Turnover": "1,05",
+     "equityratio": "72,81",
+     "deptratio": "27,19"
+    },
+    {
+     "DieAktie": "Q-Med Inc.: Die Aktie (in USD)",
+     "Jahr": "2005",
+     "EPSundiluted": "0,24",
+     "EPSdiluted": "0,21",
+     "DPS": "0",
+     "GUV": "Q-Med Inc.: GuV (in Mio. USD)",
+     "Turnover": "1,17",
+     "equityratio": "88,09",
+     "deptratio": "11,91"
+    },
+    {
+     "DieAktie": "Q-Med Inc.: Die Aktie (in USD)",
+     "Jahr": "2006",
+     "EPSundiluted": "-0,85",
+     "EPSdiluted": "-0,85",
+     "DPS": "0",
+     "GUV": "Q-Med Inc.: GuV (in Mio. USD)",
+     "Turnover": "0,59",
+     "equityratio": "72,15",
+     "deptratio": "27,85"
+    },
+    {
+     "DieAktie": "Q-Med Inc.: Die Aktie (in USD)",
+     "Jahr": "2007",
+     "EPSundiluted": "-0,66",
+     "EPSdiluted": "-0,66",
+     "DPS": "0",
+     "GUV": "Q-Med Inc.: GuV (in Mio. USD)",
+     "Turnover": "0,31",
+     "equityratio": "43,22",
+     "deptratio": "56,78"
+    }
+   ]
+  },
+  {
+   "name": "QUALCOMM Aktie [WKN: 883121 / ISIN: US7475251036]",
+   "URL": "http://www.finanzen.at/bilanz_guv/QUALCOMM",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "QUALCOMM Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "QUALCOMM Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "QUALCOMM Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,98",
+     "EPSdiluted": "1,96",
+     "DPS": "0,72",
+     "GUV": "QUALCOMM Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,63",
+     "equityratio": "68,23",
+     "deptratio": "31,77"
+    },
+    {
+     "DieAktie": "QUALCOMM Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,57",
+     "EPSdiluted": "2,52",
+     "DPS": "0,81",
+     "GUV": "QUALCOMM Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,85",
+     "equityratio": "74",
+     "deptratio": "26"
+    },
+    {
+     "DieAktie": "QUALCOMM Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,9",
+     "EPSdiluted": "2,83",
+     "DPS": "0,93",
+     "GUV": "QUALCOMM Inc.: GuV (in Mio. USD)",
+     "Turnover": "10,98",
+     "equityratio": "77,94",
+     "deptratio": "22,06"
+    },
+    {
+     "DieAktie": "QUALCOMM Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "4",
+     "EPSdiluted": "3,91",
+     "DPS": "1,2",
+     "GUV": "QUALCOMM Inc.: GuV (in Mio. USD)",
+     "Turnover": "14,18",
+     "equityratio": "79,29",
+     "deptratio": "20,71"
+    },
+    {
+     "DieAktie": "QUALCOMM Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "4,48",
+     "EPSdiluted": "4,4",
+     "DPS": "1,54",
+     "GUV": "QUALCOMM Inc.: GuV (in Mio. USD)",
+     "Turnover": "15,45",
+     "equityratio": "80,64",
+     "deptratio": "19,36"
+    },
+    {
+     "DieAktie": "QUALCOMM Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "3,26",
+     "EPSdiluted": "3,22",
+     "DPS": "1,8",
+     "GUV": "QUALCOMM Inc.: GuV (in Mio. USD)",
+     "Turnover": "15,42",
+     "equityratio": "61,86",
+     "deptratio": "38,14"
+    },
+    {
+     "DieAktie": "QUALCOMM Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "3,84",
+     "EPSdiluted": "3,81",
+     "DPS": "2,02",
+     "GUV": "QUALCOMM Inc.: GuV (in Mio. USD)",
+     "Turnover": "15,72",
+     "equityratio": "60,69",
+     "deptratio": "39,31"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "08.03.16",
+     "Dividende": "1,80"
+    },
+    {
+     "Datum": "09.03.15",
+     "Dividende": "1,54"
+    },
+    {
+     "Datum": "04.03.14",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "05.03.13",
+     "Dividende": "0,93"
+    },
+    {
+     "Datum": "06.03.12",
+     "Dividende": "0,81"
+    },
+    {
+     "Datum": "08.03.11",
+     "Dividende": "0,72"
+    },
+    {
+     "Datum": "02.03.10",
+     "Dividende": "0,66"
+    },
+    {
+     "Datum": "03.03.09",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "11.03.08",
+     "Dividende": "0,52"
+    },
+    {
+     "Datum": "13.03.07",
+     "Dividende": "0,42"
+    },
+    {
+     "Datum": "07.03.06",
+     "Dividende": "0,32"
+    },
+    {
+     "Datum": "08.03.05",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "02.03.04",
+     "Dividende": "0,08"
+    }
+   ]
+  },
+  {
+   "name": "Quality Systems Aktie [WKN: 867700 / ISIN: US7475821044]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Quality_Systems",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Quality Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Quality Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Quality Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,07",
+     "EPSdiluted": "1,06",
+     "DPS": "0,63",
+     "GUV": "Quality Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,07",
+     "equityratio": "59,33",
+     "deptratio": "40,67"
+    },
+    {
+     "DieAktie": "Quality Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,29",
+     "EPSdiluted": "1,28",
+     "DPS": "0,7",
+     "GUV": "Quality Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "7,28",
+     "equityratio": "67,03",
+     "deptratio": "32,97"
+    },
+    {
+     "DieAktie": "Quality Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,72",
+     "EPSdiluted": "0,72",
+     "DPS": "0,7",
+     "GUV": "Quality Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "7,74",
+     "equityratio": "69,3",
+     "deptratio": "30,7"
+    },
+    {
+     "DieAktie": "Quality Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,26",
+     "EPSdiluted": "0,26",
+     "DPS": "0,7",
+     "GUV": "Quality Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "7,39",
+     "equityratio": "66,3",
+     "deptratio": "33,7"
+    },
+    {
+     "DieAktie": "Quality Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,45",
+     "EPSdiluted": "0,45",
+     "DPS": "0,7",
+     "GUV": "Quality Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,06",
+     "equityratio": "61,57",
+     "deptratio": "38,43"
+    },
+    {
+     "DieAktie": "Quality Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,09",
+     "EPSdiluted": "0,09",
+     "DPS": "0,53",
+     "GUV": "Quality Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,04",
+     "equityratio": "47,21",
+     "deptratio": "52,79"
+    },
+    {
+     "DieAktie": "Quality Systems Inc.: Die Aktie (in USD)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,3",
+     "EPSdiluted": "0,29",
+     "DPS": "-",
+     "GUV": "Quality Systems Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,22",
+     "equityratio": "64,46",
+     "deptratio": "35,54"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "22.08.17",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Quidel Aktie [WKN: 867261 / ISIN: US74838J1016]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Quidel",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Quidel Corp.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Quidel Corp.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Quidel Corp.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "-0,39",
+     "EPSdiluted": "-0,39",
+     "DPS": "0",
+     "GUV": "Quidel Corp.: GuV (in Mio. USD)",
+     "Turnover": "3,97",
+     "equityratio": "52,43",
+     "deptratio": "47,57"
+    },
+    {
+     "DieAktie": "Quidel Corp.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,23",
+     "DPS": "0",
+     "GUV": "Quidel Corp.: GuV (in Mio. USD)",
+     "Turnover": "4,76",
+     "equityratio": "66,47",
+     "deptratio": "33,53"
+    },
+    {
+     "DieAktie": "Quidel Corp.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,15",
+     "EPSdiluted": "0,15",
+     "DPS": "0",
+     "GUV": "Quidel Corp.: GuV (in Mio. USD)",
+     "Turnover": "4,62",
+     "equityratio": "82,52",
+     "deptratio": "17,48"
+    },
+    {
+     "DieAktie": "Quidel Corp.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,21",
+     "DPS": "0",
+     "GUV": "Quidel Corp.: GuV (in Mio. USD)",
+     "Turnover": "5,02",
+     "equityratio": "82,43",
+     "deptratio": "17,57"
+    },
+    {
+     "DieAktie": "Quidel Corp.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "-0,21",
+     "EPSdiluted": "-0,21",
+     "DPS": "0",
+     "GUV": "Quidel Corp.: GuV (in Mio. USD)",
+     "Turnover": "5,3",
+     "equityratio": "54,26",
+     "deptratio": "45,74"
+    },
+    {
+     "DieAktie": "Quidel Corp.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "-0,18",
+     "EPSdiluted": "-0,18",
+     "DPS": "-",
+     "GUV": "Quidel Corp.: GuV (in Mio. USD)",
+     "Turnover": "5,75",
+     "equityratio": "53,79",
+     "deptratio": "46,21"
+    },
+    {
+     "DieAktie": "Quidel Corp.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,42",
+     "EPSdiluted": "-0,42",
+     "DPS": "-",
+     "GUV": "Quidel Corp.: GuV (in Mio. USD)",
+     "Turnover": "5,86",
+     "equityratio": "49",
+     "deptratio": "51"
+    }
+   ]
+  },
+  {
+   "name": "Radcom Aktie [WKN: 909554 / ISIN: IL0010826688]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Radcom",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Radcom Ltd.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Radcom Ltd.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Radcom Ltd.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,11",
+     "EPSdiluted": "0,1",
+     "DPS": "0",
+     "GUV": "Radcom Ltd.: GuV (in Mio. USD)",
+     "Turnover": "3,22",
+     "equityratio": "50,98",
+     "deptratio": "49,02"
+    },
+    {
+     "DieAktie": "Radcom Ltd.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "-0,3",
+     "EPSdiluted": "-0,3",
+     "DPS": "0",
+     "GUV": "Radcom Ltd.: GuV (in Mio. USD)",
+     "Turnover": "3,45",
+     "equityratio": "48,69",
+     "deptratio": "51,31"
+    },
+    {
+     "DieAktie": "Radcom Ltd.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "-0,93",
+     "EPSdiluted": "-0,93",
+     "DPS": "0",
+     "GUV": "Radcom Ltd.: GuV (in Mio. USD)",
+     "Turnover": "2,45",
+     "equityratio": "26,3",
+     "deptratio": "73,7"
+    },
+    {
+     "DieAktie": "Radcom Ltd.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,19",
+     "EPSdiluted": "-0,19",
+     "DPS": "0",
+     "GUV": "Radcom Ltd.: GuV (in Mio. USD)",
+     "Turnover": "2,79",
+     "equityratio": "38,17",
+     "deptratio": "61,83"
+    },
+    {
+     "DieAktie": "Radcom Ltd.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,09",
+     "EPSdiluted": "0,08",
+     "DPS": "0",
+     "GUV": "Radcom Ltd.: GuV (in Mio. USD)",
+     "Turnover": "2,75",
+     "equityratio": "50,51",
+     "deptratio": "49,49"
+    },
+    {
+     "DieAktie": "Radcom Ltd.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "-0,11",
+     "EPSdiluted": "-0,11",
+     "DPS": "-",
+     "GUV": "Radcom Ltd.: GuV (in Mio. USD)",
+     "Turnover": "2,18",
+     "equityratio": "48,98",
+     "deptratio": "51,02"
+    },
+    {
+     "DieAktie": "Radcom Ltd.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,18",
+     "EPSdiluted": "0,18",
+     "DPS": "-",
+     "GUV": "Radcom Ltd.: GuV (in Mio. USD)",
+     "Turnover": "2,74",
+     "equityratio": "73,57",
+     "deptratio": "26,43"
+    }
+   ]
+  },
+  {
+   "name": "Radio One Aktie [WKN: 922171 / ISIN: US75040P1084]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Radio_One"
+  },
+  {
+   "name": "Radware Aktie [WKN: 928179 / ISIN: IL0010834765]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Radware",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Radware Ltd.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Radware Ltd.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Radware Ltd.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,25",
+     "EPSdiluted": "0,22",
+     "DPS": "0",
+     "GUV": "Radware Ltd.: GuV (in Mio. USD)",
+     "Turnover": "3,32",
+     "equityratio": "70,98",
+     "deptratio": "29,02"
+    },
+    {
+     "DieAktie": "Radware Ltd.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,51",
+     "EPSdiluted": "0,47",
+     "DPS": "0",
+     "GUV": "Radware Ltd.: GuV (in Mio. USD)",
+     "Turnover": "3,65",
+     "equityratio": "74,2",
+     "deptratio": "25,8"
+    },
+    {
+     "DieAktie": "Radware Ltd.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,73",
+     "EPSdiluted": "0,68",
+     "DPS": "0",
+     "GUV": "Radware Ltd.: GuV (in Mio. USD)",
+     "Turnover": "4,06",
+     "equityratio": "75,84",
+     "deptratio": "24,16"
+    },
+    {
+     "DieAktie": "Radware Ltd.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,4",
+     "EPSdiluted": "0,39",
+     "DPS": "0",
+     "GUV": "Radware Ltd.: GuV (in Mio. USD)",
+     "Turnover": "4,13",
+     "equityratio": "75,66",
+     "deptratio": "24,34"
+    },
+    {
+     "DieAktie": "Radware Ltd.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,55",
+     "EPSdiluted": "0,53",
+     "DPS": "0",
+     "GUV": "Radware Ltd.: GuV (in Mio. USD)",
+     "Turnover": "4,73",
+     "equityratio": "75,33",
+     "deptratio": "24,67"
+    },
+    {
+     "DieAktie": "Radware Ltd.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,4",
+     "EPSdiluted": "0,4",
+     "DPS": "-",
+     "GUV": "Radware Ltd.: GuV (in Mio. USD)",
+     "Turnover": "4,63",
+     "equityratio": "74,06",
+     "deptratio": "25,94"
+    },
+    {
+     "DieAktie": "Radware Ltd.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,2",
+     "EPSdiluted": "-0,2",
+     "DPS": "-",
+     "GUV": "Radware Ltd.: GuV (in Mio. USD)",
+     "Turnover": "4,48",
+     "equityratio": "69,66",
+     "deptratio": "30,34"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "19.09.17",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Rainier Pacific Financial Group Aktie [WKN: 911460 / ISIN: US75087U1016]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Rainier_Pacific_Financial_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Rainier Pacific Financial Group Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Rainier Pacific Financial Group Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Rainier Pacific Financial Group Inc.: Die Aktie (in USD)",
+     "Jahr": "2003",
+     "EPSundiluted": "-0,33",
+     "EPSdiluted": "-0,33",
+     "DPS": "0",
+     "GUV": "Rainier Pacific Financial Group Inc.: GuV (in Mio. USD)",
+     "Turnover": "5,8",
+     "equityratio": "16,72",
+     "deptratio": "83,28"
+    },
+    {
+     "DieAktie": "Rainier Pacific Financial Group Inc.: Die Aktie (in USD)",
+     "Jahr": "2004",
+     "EPSundiluted": "0,49",
+     "EPSdiluted": "0,48",
+     "DPS": "0,21",
+     "GUV": "Rainier Pacific Financial Group Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,28",
+     "equityratio": "13,14",
+     "deptratio": "86,86"
+    },
+    {
+     "DieAktie": "Rainier Pacific Financial Group Inc.: Die Aktie (in USD)",
+     "Jahr": "2005",
+     "EPSundiluted": "0,44",
+     "EPSdiluted": "0,43",
+     "DPS": "0,24",
+     "GUV": "Rainier Pacific Financial Group Inc.: GuV (in Mio. USD)",
+     "Turnover": "8,08",
+     "equityratio": "9,73",
+     "deptratio": "90,27"
+    },
+    {
+     "DieAktie": "Rainier Pacific Financial Group Inc.: Die Aktie (in USD)",
+     "Jahr": "2006",
+     "EPSundiluted": "0,5",
+     "EPSdiluted": "0,5",
+     "DPS": "0,24",
+     "GUV": "Rainier Pacific Financial Group Inc.: GuV (in Mio. USD)",
+     "Turnover": "10,58",
+     "equityratio": "9,73",
+     "deptratio": "90,27"
+    },
+    {
+     "DieAktie": "Rainier Pacific Financial Group Inc.: Die Aktie (in USD)",
+     "Jahr": "2007",
+     "EPSundiluted": "0,64",
+     "EPSdiluted": "0,64",
+     "DPS": "0,26",
+     "GUV": "Rainier Pacific Financial Group Inc.: GuV (in Mio. USD)",
+     "Turnover": "11,21",
+     "equityratio": "9,88",
+     "deptratio": "90,12"
+    },
+    {
+     "DieAktie": "Rainier Pacific Financial Group Inc.: Die Aktie (in USD)",
+     "Jahr": "2008",
+     "EPSundiluted": "-2,44",
+     "EPSdiluted": "-2,44",
+     "DPS": "0,28",
+     "GUV": "Rainier Pacific Financial Group Inc.: GuV (in Mio. USD)",
+     "Turnover": "10,3",
+     "equityratio": "3,45",
+     "deptratio": "96,55"
+    },
+    {
+     "DieAktie": "Rainier Pacific Financial Group Inc.: Die Aktie (in USD)",
+     "Jahr": "2009",
+     "EPSundiluted": "-11,64",
+     "EPSdiluted": "-11,64",
+     "DPS": "0",
+     "GUV": "Rainier Pacific Financial Group Inc.: GuV (in Mio. USD)",
+     "Turnover": "9,14",
+     "equityratio": "-1,45",
+     "deptratio": "101,45"
+    }
+   ]
+  },
+  {
+   "name": "Rambus Aktie [WKN: 906870 / ISIN: US7509171069]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Rambus",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Rambus Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Rambus Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Rambus Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,34",
+     "EPSdiluted": "1,3",
+     "DPS": "0",
+     "GUV": "Rambus Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,79",
+     "equityratio": "50,48",
+     "deptratio": "49,52"
+    },
+    {
+     "DieAktie": "Rambus Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "-0,39",
+     "EPSdiluted": "-0,39",
+     "DPS": "0",
+     "GUV": "Rambus Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,84",
+     "equityratio": "61,96",
+     "deptratio": "38,04"
+    },
+    {
+     "DieAktie": "Rambus Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "-1,21",
+     "EPSdiluted": "-1,21",
+     "DPS": "0",
+     "GUV": "Rambus Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,11",
+     "equityratio": "54,71",
+     "deptratio": "45,29"
+    },
+    {
+     "DieAktie": "Rambus Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,3",
+     "EPSdiluted": "-0,3",
+     "DPS": "0",
+     "GUV": "Rambus Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,42",
+     "equityratio": "47,69",
+     "deptratio": "52,31"
+    },
+    {
+     "DieAktie": "Rambus Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,22",
+     "DPS": "0",
+     "GUV": "Rambus Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,52",
+     "equityratio": "66,57",
+     "deptratio": "33,43"
+    },
+    {
+     "DieAktie": "Rambus Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,84",
+     "EPSdiluted": "1,8",
+     "DPS": "-",
+     "GUV": "Rambus Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,52",
+     "equityratio": "73,18",
+     "deptratio": "26,82"
+    },
+    {
+     "DieAktie": "Rambus Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,06",
+     "EPSdiluted": "0,06",
+     "DPS": "-",
+     "GUV": "Rambus Inc.: GuV (in Mio. USD)",
+     "Turnover": "2,98",
+     "equityratio": "70,55",
+     "deptratio": "29,45"
+    }
+   ]
+  },
+  {
+   "name": "Randgold Resources Aktie [WKN: A0B5ZS / ISIN: GB00B01C3S32]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Randgold_Resources",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Randgold Resources Ltd.: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Randgold Resources Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Randgold Resources Ltd.: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,74",
+     "EPSdiluted": "0,73",
+     "DPS": "0,11",
+     "GUV": "Randgold Resources Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "3,56",
+     "equityratio": "89,84",
+     "deptratio": "10,16"
+    },
+    {
+     "DieAktie": "Randgold Resources Ltd.: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,58",
+     "EPSdiluted": "2,55",
+     "DPS": "0,22",
+     "GUV": "Randgold Resources Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "7,62",
+     "equityratio": "86,25",
+     "deptratio": "13,75"
+    },
+    {
+     "DieAktie": "Randgold Resources Ltd.: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,97",
+     "EPSdiluted": "2,93",
+     "DPS": "0,29",
+     "GUV": "Randgold Resources Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "8,96",
+     "equityratio": "83,75",
+     "deptratio": "16,25"
+    },
+    {
+     "DieAktie": "Randgold Resources Ltd.: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,93",
+     "EPSdiluted": "1,91",
+     "DPS": "0,27",
+     "GUV": "Randgold Resources Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "7,8",
+     "equityratio": "85,27",
+     "deptratio": "14,73"
+    },
+    {
+     "DieAktie": "Randgold Resources Ltd.: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,54",
+     "EPSdiluted": "1,52",
+     "DPS": "0,36",
+     "GUV": "Randgold Resources Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "7,06",
+     "equityratio": "87,69",
+     "deptratio": "12,31"
+    },
+    {
+     "DieAktie": "Randgold Resources Ltd.: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,33",
+     "EPSdiluted": "1,32",
+     "DPS": "0,46",
+     "GUV": "Randgold Resources Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "6,97",
+     "equityratio": "87,59",
+     "deptratio": "12,41"
+    },
+    {
+     "DieAktie": "Randgold Resources Ltd.: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,96",
+     "EPSdiluted": "1,93",
+     "DPS": "0,81",
+     "GUV": "Randgold Resources Ltd.: GuV (in Mio. GBP)",
+     "Turnover": "9,39",
+     "equityratio": "86,58",
+     "deptratio": "13,42"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "03.05.16",
+     "Dividende": "0,66"
+    },
+    {
+     "Datum": "05.05.15",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "06.05.14",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "29.04.13",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "30.04.12",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "03.05.11",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "04.05.10",
+     "Dividende": "0,17"
+    },
+    {
+     "Datum": "05.05.09",
+     "Dividende": "0,25"
+    }
+   ]
+  },
+  {
+   "name": "Razvitie industry Aktie [WKN: A0DN0W / ISIN: BG1100043980]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Razvitie_industry"
+  },
+  {
+   "name": "RealNetworks Aktie [WKN DE: A1JDKL / ISIN: US75605L7082]",
+   "URL": "http://www.finanzen.at/bilanz_guv/RealNetworks",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "RealNetworks Inc: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "RealNetworks Inc: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "RealNetworks Inc: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,16",
+     "EPSdiluted": "0,16",
+     "DPS": "0",
+     "GUV": "RealNetworks Inc: GuV (in Mio. USD)",
+     "Turnover": "11,81",
+     "equityratio": "73",
+     "deptratio": "27"
+    },
+    {
+     "DieAktie": "RealNetworks Inc: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "-0,79",
+     "EPSdiluted": "-0,79",
+     "DPS": "0",
+     "GUV": "RealNetworks Inc: GuV (in Mio. USD)",
+     "Turnover": "9,82",
+     "equityratio": "71,81",
+     "deptratio": "28,19"
+    },
+    {
+     "DieAktie": "RealNetworks Inc: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,29",
+     "EPSdiluted": "1,28",
+     "DPS": "0",
+     "GUV": "RealNetworks Inc: GuV (in Mio. USD)",
+     "Turnover": "7,37",
+     "equityratio": "78,99",
+     "deptratio": "21,01"
+    },
+    {
+     "DieAktie": "RealNetworks Inc: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "-1,66",
+     "EPSdiluted": "-1,66",
+     "DPS": "0",
+     "GUV": "RealNetworks Inc: GuV (in Mio. USD)",
+     "Turnover": "5,8",
+     "equityratio": "78,47",
+     "deptratio": "21,53"
+    },
+    {
+     "DieAktie": "RealNetworks Inc: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "-2",
+     "EPSdiluted": "-2",
+     "DPS": "0",
+     "GUV": "RealNetworks Inc: GuV (in Mio. USD)",
+     "Turnover": "4,35",
+     "equityratio": "78,78",
+     "deptratio": "21,22"
+    },
+    {
+     "DieAktie": "RealNetworks Inc: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "-2,26",
+     "EPSdiluted": "-2,26",
+     "DPS": "-",
+     "GUV": "RealNetworks Inc: GuV (in Mio. USD)",
+     "Turnover": "3,46",
+     "equityratio": "74,8",
+     "deptratio": "25,2"
+    },
+    {
+     "DieAktie": "RealNetworks Inc: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,99",
+     "EPSdiluted": "-0,99",
+     "DPS": "-",
+     "GUV": "RealNetworks Inc: GuV (in Mio. USD)",
+     "Turnover": "3,28",
+     "equityratio": "67,91",
+     "deptratio": "32,09"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "19.09.17",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Red Hat Aktie [WKN: 923989 / ISIN: US7565771026]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Red_Hat",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Red Hat Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Red Hat Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Red Hat Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,56",
+     "EPSdiluted": "0,55",
+     "DPS": "0",
+     "GUV": "Red Hat Inc.: GuV (in Mio. USD)",
+     "Turnover": "4,63",
+     "equityratio": "58,69",
+     "deptratio": "41,31"
+    },
+    {
+     "DieAktie": "Red Hat Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,76",
+     "EPSdiluted": "0,75",
+     "DPS": "0",
+     "GUV": "Red Hat Inc.: GuV (in Mio. USD)",
+     "Turnover": "5,77",
+     "equityratio": "56,15",
+     "deptratio": "43,85"
+    },
+    {
+     "DieAktie": "Red Hat Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,78",
+     "EPSdiluted": "0,77",
+     "DPS": "0",
+     "GUV": "Red Hat Inc.: GuV (in Mio. USD)",
+     "Turnover": "6,79",
+     "equityratio": "54,03",
+     "deptratio": "45,97"
+    },
+    {
+     "DieAktie": "Red Hat Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,94",
+     "EPSdiluted": "0,93",
+     "DPS": "0",
+     "GUV": "Red Hat Inc.: GuV (in Mio. USD)",
+     "Turnover": "7,99",
+     "equityratio": "49,93",
+     "deptratio": "50,07"
+    },
+    {
+     "DieAktie": "Red Hat Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,97",
+     "EPSdiluted": "0,95",
+     "DPS": "0",
+     "GUV": "Red Hat Inc.: GuV (in Mio. USD)",
+     "Turnover": "9,46",
+     "equityratio": "33,88",
+     "deptratio": "66,12"
+    },
+    {
+     "DieAktie": "Red Hat Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,09",
+     "EPSdiluted": "1,07",
+     "DPS": "0",
+     "GUV": "Red Hat Inc.: GuV (in Mio. USD)",
+     "Turnover": "11,03",
+     "equityratio": "32,12",
+     "deptratio": "67,88"
+    },
+    {
+     "DieAktie": "Red Hat Inc.: Die Aktie (in USD)",
+     "Jahr": "2017",
+     "EPSundiluted": "1,41",
+     "EPSdiluted": "1,39",
+     "DPS": "0",
+     "GUV": "Red Hat Inc.: GuV (in Mio. USD)",
+     "Turnover": "13,18",
+     "equityratio": "27,5",
+     "deptratio": "72,5"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "11.08.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "06.08.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "07.08.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "08.08.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "09.08.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "11.08.11",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "12.08.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "13.08.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "14.08.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "16.08.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "17.08.06",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Red Robin Gourmet Burgers Aktie [WKN: 663749 / ISIN: US75689M1018]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Red_Robin_Gourmet_Burgers",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Red Robin Gourmet Burgers Inc.: Die Aktie (in USD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Red Robin Gourmet Burgers Inc.: GuV (in Mio. USD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Red Robin Gourmet Burgers Inc.: Die Aktie (in USD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,47",
+     "EPSdiluted": "0,46",
+     "DPS": "0",
+     "GUV": "Red Robin Gourmet Burgers Inc.: GuV (in Mio. USD)",
+     "Turnover": "55,02",
+     "equityratio": "51,9",
+     "deptratio": "48,1"
+    },
+    {
+     "DieAktie": "Red Robin Gourmet Burgers Inc.: Die Aktie (in USD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,36",
+     "EPSdiluted": "1,34",
+     "DPS": "0",
+     "GUV": "Red Robin Gourmet Burgers Inc.: GuV (in Mio. USD)",
+     "Turnover": "59,57",
+     "equityratio": "49,7",
+     "deptratio": "50,3"
+    },
+    {
+     "DieAktie": "Red Robin Gourmet Burgers Inc.: Die Aktie (in USD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,97",
+     "EPSdiluted": "1,93",
+     "DPS": "0",
+     "GUV": "Red Robin Gourmet Burgers Inc.: GuV (in Mio. USD)",
+     "Turnover": "66,61",
+     "equityratio": "51,4",
+     "deptratio": "48,6"
+    },
+    {
+     "DieAktie": "Red Robin Gourmet Burgers Inc.: Die Aktie (in USD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,27",
+     "EPSdiluted": "2,22",
+     "DPS": "0",
+     "GUV": "Red Robin Gourmet Burgers Inc.: GuV (in Mio. USD)",
+     "Turnover": "70,11",
+     "equityratio": "54,74",
+     "deptratio": "45,26"
+    },
+    {
+     "DieAktie": "Red Robin Gourmet Burgers Inc.: Die Aktie (in USD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,29",
+     "EPSdiluted": "2,25",
+     "DPS": "0",
+     "GUV": "Red Robin Gourmet Burgers Inc.: GuV (in Mio. USD)",
+     "Turnover": "79,33",
+     "equityratio": "48,89",
+     "deptratio": "51,11"
+    },
+    {
+     "DieAktie": "Red Robin Gourmet Burgers Inc.: Die Aktie (in USD)",
+     "Jahr": "2015",
+     "EPSundiluted": "3,4",
+     "EPSdiluted": "3,36",
+     "DPS": "-",
+     "GUV": "Red Robin Gourmet Burgers Inc.: GuV (in Mio. USD)",
+     "Turnover": "88,46",
+     "equityratio": "44,56",
+     "deptratio": "55,44"
+    },
+    {
+     "DieAktie": "Red Robin Gourmet Burgers Inc.: Die Aktie (in USD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,88",
+     "EPSdiluted": "0,87",
+     "DPS": "-",
+     "GUV": "Red Robin Gourmet Burgers Inc.: GuV (in Mio. USD)",
+     "Turnover": "96,3",
+     "equityratio": "37,89",
+     "deptratio": "62,11"
+    }
+   ]
+  }
+ ]
+}

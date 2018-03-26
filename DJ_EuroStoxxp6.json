@@ -1,0 +1,2812 @@
+{
+ "Aktien": [
+  {
+   "name": "Unione di Banche Italiane SpA Aktie [WKN: 813518 / ISIN: IT0003487029]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Unione_di_Banche_Italiane",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Unione di Banche Italiane SpA: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Unione di Banche Italiane SpA: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Unione di Banche Italiane SpA: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,24",
+     "EPSdiluted": "0,24",
+     "DPS": "0,13",
+     "GUV": "Unione di Banche Italiane SpA: GuV (in Mio. EUR)",
+     "Turnover": "7,27",
+     "equityratio": "8,41",
+     "deptratio": "91,59"
+    },
+    {
+     "DieAktie": "Unione di Banche Italiane SpA: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "-2,27",
+     "EPSdiluted": "-2,27",
+     "DPS": "0,05",
+     "GUV": "Unione di Banche Italiane SpA: GuV (in Mio. EUR)",
+     "Turnover": "7,06",
+     "equityratio": "6,89",
+     "deptratio": "93,11"
+    },
+    {
+     "DieAktie": "Unione di Banche Italiane SpA: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,09",
+     "EPSdiluted": "0,09",
+     "DPS": "0,05",
+     "GUV": "Unione di Banche Italiane SpA: GuV (in Mio. EUR)",
+     "Turnover": "6,23",
+     "equityratio": "7,35",
+     "deptratio": "92,65"
+    },
+    {
+     "DieAktie": "Unione di Banche Italiane SpA: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,26",
+     "EPSdiluted": "0,26",
+     "DPS": "0,06",
+     "GUV": "Unione di Banche Italiane SpA: GuV (in Mio. EUR)",
+     "Turnover": "5,66",
+     "equityratio": "8,32",
+     "deptratio": "91,68"
+    },
+    {
+     "DieAktie": "Unione di Banche Italiane SpA: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "-0,77",
+     "EPSdiluted": "-0,77",
+     "DPS": "0,08",
+     "GUV": "Unione di Banche Italiane SpA: GuV (in Mio. EUR)",
+     "Turnover": "5,35",
+     "equityratio": "8,05",
+     "deptratio": "91,95"
+    },
+    {
+     "DieAktie": "Unione di Banche Italiane SpA: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,12",
+     "EPSdiluted": "0,12",
+     "DPS": "0,1",
+     "GUV": "Unione di Banche Italiane SpA: GuV (in Mio. EUR)",
+     "Turnover": "4,94",
+     "equityratio": "8,52",
+     "deptratio": "91,48"
+    },
+    {
+     "DieAktie": "Unione di Banche Italiane SpA: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,87",
+     "EPSdiluted": "-0,87",
+     "DPS": "0,1",
+     "GUV": "Unione di Banche Italiane SpA: GuV (in Mio. EUR)",
+     "Turnover": "4,42",
+     "equityratio": "8",
+     "deptratio": "92"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "02.04.16",
+     "Dividende": "0,11"
+    },
+    {
+     "Datum": "25.04.15",
+     "Dividende": "0,08"
+    },
+    {
+     "Datum": "10.05.14",
+     "Dividende": "0,06"
+    },
+    {
+     "Datum": "19.04.13",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "27.04.12",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "29.04.11",
+     "Dividende": "0,15"
+    },
+    {
+     "Datum": "23.04.10",
+     "Dividende": "0,30"
+    }
+   ]
+  },
+  {
+   "name": "United Internet Aktie [WKN: 508903 / ISIN: DE0005089031]",
+   "URL": "http://www.finanzen.at/bilanz_guv/United_Internet",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "United Internet AG: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "United Internet AG: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "United Internet AG: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,58",
+     "EPSdiluted": "0,58",
+     "DPS": "0,2",
+     "GUV": "United Internet AG: GuV (in Mio. EUR)",
+     "Turnover": "8,51",
+     "equityratio": "29,32",
+     "deptratio": "70,68"
+    },
+    {
+     "DieAktie": "United Internet AG: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,79",
+     "EPSdiluted": "0,78",
+     "DPS": "0,3",
+     "GUV": "United Internet AG: GuV (in Mio. EUR)",
+     "Turnover": "10,06",
+     "equityratio": "12,23",
+     "deptratio": "87,77"
+    },
+    {
+     "DieAktie": "United Internet AG: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,56",
+     "EPSdiluted": "0,55",
+     "DPS": "0,3",
+     "GUV": "United Internet AG: GuV (in Mio. EUR)",
+     "Turnover": "12,27",
+     "equityratio": "17",
+     "deptratio": "83"
+    },
+    {
+     "DieAktie": "United Internet AG: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,07",
+     "EPSdiluted": "1,06",
+     "DPS": "0,4",
+     "GUV": "United Internet AG: GuV (in Mio. EUR)",
+     "Turnover": "13,61",
+     "equityratio": "23,95",
+     "deptratio": "76,05"
+    },
+    {
+     "DieAktie": "United Internet AG: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,28",
+     "EPSdiluted": "2,26",
+     "DPS": "0,6",
+     "GUV": "United Internet AG: GuV (in Mio. EUR)",
+     "Turnover": "15,5",
+     "equityratio": "31,62",
+     "deptratio": "68,38"
+    },
+    {
+     "DieAktie": "United Internet AG: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,8",
+     "EPSdiluted": "1,79",
+     "DPS": "0,7",
+     "GUV": "United Internet AG: GuV (in Mio. EUR)",
+     "Turnover": "18,11",
+     "equityratio": "28,95",
+     "deptratio": "71,05"
+    },
+    {
+     "DieAktie": "United Internet AG: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,88",
+     "EPSdiluted": "0,88",
+     "DPS": "0,8",
+     "GUV": "United Internet AG: GuV (in Mio. EUR)",
+     "Turnover": "19,37",
+     "equityratio": "28,76",
+     "deptratio": "71,24"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "19.05.16",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "21.05.15",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "22.05.14",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "23.05.13",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "31.05.12",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "26.05.11",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "02.06.10",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "26.05.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.05.08",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "30.05.07",
+     "Dividende": "0,18"
+    },
+    {
+     "Datum": "13.06.06",
+     "Dividende": "0,06"
+    },
+    {
+     "Datum": "18.05.05",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "18.05.04",
+     "Dividende": "0,04"
+    },
+    {
+     "Datum": "16.05.03",
+     "Dividende": "0,13"
+    }
+   ]
+  },
+  {
+   "name": "UPM-Kymmene Aktie [WKN: 881026 / ISIN: FI0009005987]",
+   "URL": "http://www.finanzen.at/bilanz_guv/UPM-Kymmene",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,08",
+     "EPSdiluted": "1,08",
+     "DPS": "0,55",
+     "GUV": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): GuV (in Mio. EUR)",
+     "Turnover": "17,16",
+     "equityratio": "51,35",
+     "deptratio": "48,65"
+    },
+    {
+     "DieAktie": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,88",
+     "EPSdiluted": "0,87",
+     "DPS": "0,6",
+     "GUV": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): GuV (in Mio. EUR)",
+     "Turnover": "19,22",
+     "equityratio": "48,48",
+     "deptratio": "51,52"
+    },
+    {
+     "DieAktie": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "-2,39",
+     "EPSdiluted": "-2,38",
+     "DPS": "0,6",
+     "GUV": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): GuV (in Mio. EUR)",
+     "Turnover": "19,83",
+     "equityratio": "45,8",
+     "deptratio": "54,2"
+    },
+    {
+     "DieAktie": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,63",
+     "EPSdiluted": "0,63",
+     "DPS": "0,6",
+     "GUV": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): GuV (in Mio. EUR)",
+     "Turnover": "19,05",
+     "equityratio": "51,02",
+     "deptratio": "48,98"
+    },
+    {
+     "DieAktie": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,96",
+     "EPSdiluted": "0,96",
+     "DPS": "0,7",
+     "GUV": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): GuV (in Mio. EUR)",
+     "Turnover": "18,56",
+     "equityratio": "52,68",
+     "deptratio": "47,32"
+    },
+    {
+     "DieAktie": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,72",
+     "EPSdiluted": "1,72",
+     "DPS": "0,75",
+     "GUV": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): GuV (in Mio. EUR)",
+     "Turnover": "19",
+     "equityratio": "55,96",
+     "deptratio": "44,04"
+    },
+    {
+     "DieAktie": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,65",
+     "EPSdiluted": "1,65",
+     "DPS": "0,95",
+     "GUV": "UPM-Kymmene Oyj (UPM-Kymmene Corp.): GuV (in Mio. EUR)",
+     "Turnover": "18,37",
+     "equityratio": "59,19",
+     "deptratio": "40,81"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "05.04.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "07.04.16",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "09.04.15",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "08.04.14",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "04.04.13",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "30.03.12",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "07.04.11",
+     "Dividende": "0,55"
+    }
+   ]
+  },
+  {
+   "name": "Vallourec Aktie [WKN: 852809 / ISIN: FR0000120354]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Vallourec",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Vallourec S.A.: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Vallourec S.A.: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Vallourec S.A.: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "2,16",
+     "EPSdiluted": "2,1",
+     "DPS": "0,78",
+     "GUV": "Vallourec S.A.: GuV (in Mio. EUR)",
+     "Turnover": "23,39",
+     "equityratio": "60,36",
+     "deptratio": "39,64"
+    },
+    {
+     "DieAktie": "Vallourec S.A.: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,04",
+     "EPSdiluted": "2,04",
+     "DPS": "0,78",
+     "GUV": "Vallourec S.A.: GuV (in Mio. EUR)",
+     "Turnover": "26,89",
+     "equityratio": "52,53",
+     "deptratio": "47,47"
+    },
+    {
+     "DieAktie": "Vallourec S.A.: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,08",
+     "EPSdiluted": "1,08",
+     "DPS": "0,41",
+     "GUV": "Vallourec S.A.: GuV (in Mio. EUR)",
+     "Turnover": "26,4",
+     "equityratio": "52,07",
+     "deptratio": "47,93"
+    },
+    {
+     "DieAktie": "Vallourec S.A.: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,26",
+     "EPSdiluted": "1,26",
+     "DPS": "0,49",
+     "GUV": "Vallourec S.A.: GuV (in Mio. EUR)",
+     "Turnover": "26,68",
+     "equityratio": "49,47",
+     "deptratio": "50,53"
+    },
+    {
+     "DieAktie": "Vallourec S.A.: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "-4,39",
+     "EPSdiluted": "-4,39",
+     "DPS": "0,49",
+     "GUV": "Vallourec S.A.: GuV (in Mio. EUR)",
+     "Turnover": "26,92",
+     "equityratio": "40,55",
+     "deptratio": "59,45"
+    },
+    {
+     "DieAktie": "Vallourec S.A.: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "-3,97",
+     "EPSdiluted": "-3,97",
+     "DPS": "0",
+     "GUV": "Vallourec S.A.: GuV (in Mio. EUR)",
+     "Turnover": "17,57",
+     "equityratio": "37,84",
+     "deptratio": "62,16"
+    },
+    {
+     "DieAktie": "Vallourec S.A.: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "-2,29",
+     "EPSdiluted": "-2,29",
+     "DPS": "0",
+     "GUV": "Vallourec S.A.: GuV (in Mio. EUR)",
+     "Turnover": "8,97",
+     "equityratio": "40,38",
+     "deptratio": "59,62"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "26.05.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "06.04.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "28.05.15",
+     "Dividende": "0,81"
+    },
+    {
+     "Datum": "28.05.14",
+     "Dividende": "0,81"
+    },
+    {
+     "Datum": "30.05.13",
+     "Dividende": "0,69"
+    },
+    {
+     "Datum": "31.05.12",
+     "Dividende": "1,30"
+    },
+    {
+     "Datum": "07.06.11",
+     "Dividende": "1,30"
+    },
+    {
+     "Datum": "31.05.10",
+     "Dividende": "1,75"
+    },
+    {
+     "Datum": "04.06.09",
+     "Dividende": "3,00"
+    }
+   ]
+  },
+  {
+   "name": "Veolia Environnement Aktie [WKN: 501451 / ISIN: FR0000124141]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Veolia_Environnement",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Veolia Environnement S.A.: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Veolia Environnement S.A.: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Veolia Environnement S.A.: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,27",
+     "EPSdiluted": "1,27",
+     "DPS": "1,21",
+     "GUV": "Veolia Environnement S.A.: GuV (in Mio. EUR)",
+     "Turnover": "72,29",
+     "equityratio": "15,46",
+     "deptratio": "84,54"
+    },
+    {
+     "DieAktie": "Veolia Environnement S.A.: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "-2",
+     "EPSdiluted": "-2",
+     "DPS": "0,7",
+     "GUV": "Veolia Environnement S.A.: GuV (in Mio. EUR)",
+     "Turnover": "59,74",
+     "equityratio": "14,03",
+     "deptratio": "85,97"
+    },
+    {
+     "DieAktie": "Veolia Environnement S.A.: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "-0,09",
+     "EPSdiluted": "-0,09",
+     "DPS": "0,7",
+     "GUV": "Veolia Environnement S.A.: GuV (in Mio. EUR)",
+     "Turnover": "58,1",
+     "equityratio": "16,03",
+     "deptratio": "83,97"
+    },
+    {
+     "DieAktie": "Veolia Environnement S.A.: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,32",
+     "EPSdiluted": "-0,32",
+     "DPS": "0,7",
+     "GUV": "Veolia Environnement S.A.: GuV (in Mio. EUR)",
+     "Turnover": "42,63",
+     "equityratio": "22,64",
+     "deptratio": "77,36"
+    },
+    {
+     "DieAktie": "Veolia Environnement S.A.: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,33",
+     "EPSdiluted": "0,33",
+     "DPS": "0,7",
+     "GUV": "Veolia Environnement S.A.: GuV (in Mio. EUR)",
+     "Turnover": "43,98",
+     "equityratio": "19,89",
+     "deptratio": "80,11"
+    },
+    {
+     "DieAktie": "Veolia Environnement S.A.: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,69",
+     "EPSdiluted": "0,69",
+     "DPS": "0,73",
+     "GUV": "Veolia Environnement S.A.: GuV (in Mio. EUR)",
+     "Turnover": "45,51",
+     "equityratio": "19,57",
+     "deptratio": "80,43"
+    },
+    {
+     "DieAktie": "Veolia Environnement S.A.: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,57",
+     "EPSdiluted": "0,55",
+     "DPS": "0,8",
+     "GUV": "Veolia Environnement S.A.: GuV (in Mio. EUR)",
+     "Turnover": "42,9",
+     "equityratio": "17,09",
+     "deptratio": "82,91"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "21.04.16",
+     "Dividende": "0,73"
+    },
+    {
+     "Datum": "22.04.15",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "24.04.14",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "14.05.13",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "16.05.12",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "03.05.12",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "17.05.11",
+     "Dividende": "1,21"
+    },
+    {
+     "Datum": "07.05.10",
+     "Dividende": "1,21"
+    },
+    {
+     "Datum": "07.05.09",
+     "Dividende": "1,21"
+    }
+   ]
+  },
+  {
+   "name": "Verbund Aktie [WKN: 74640 / ISIN: AT0000746409]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Verbund",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Verbund AG: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Verbund AG: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Verbund AG: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,28",
+     "EPSdiluted": "1,28",
+     "DPS": "0,55",
+     "GUV": "Verbund AG: GuV (in Mio. EUR)",
+     "Turnover": "10,6",
+     "equityratio": "35,75",
+     "deptratio": "64,25"
+    },
+    {
+     "DieAktie": "Verbund AG: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,01",
+     "EPSdiluted": "1,01",
+     "DPS": "0,55",
+     "GUV": "Verbund AG: GuV (in Mio. EUR)",
+     "Turnover": "11,13",
+     "equityratio": "36,46",
+     "deptratio": "63,54"
+    },
+    {
+     "DieAktie": "Verbund AG: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,12",
+     "EPSdiluted": "1,12",
+     "DPS": "0,6",
+     "GUV": "Verbund AG: GuV (in Mio. EUR)",
+     "Turnover": "9,14",
+     "equityratio": "35,99",
+     "deptratio": "64,01"
+    },
+    {
+     "DieAktie": "Verbund AG: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,67",
+     "EPSdiluted": "1,67",
+     "DPS": "0,55",
+     "GUV": "Verbund AG: GuV (in Mio. EUR)",
+     "Turnover": "9,16",
+     "equityratio": "38,57",
+     "deptratio": "61,43"
+    },
+    {
+     "DieAktie": "Verbund AG: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,36",
+     "EPSdiluted": "0,36",
+     "DPS": "0,29",
+     "GUV": "Verbund AG: GuV (in Mio. EUR)",
+     "Turnover": "8,13",
+     "equityratio": "38,29",
+     "deptratio": "61,71"
+    },
+    {
+     "DieAktie": "Verbund AG: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,6",
+     "EPSdiluted": "0,6",
+     "DPS": "0,35",
+     "GUV": "Verbund AG: GuV (in Mio. EUR)",
+     "Turnover": "8,55",
+     "equityratio": "41,31",
+     "deptratio": "58,69"
+    },
+    {
+     "DieAktie": "Verbund AG: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,22",
+     "EPSdiluted": "1,22",
+     "DPS": "0,29",
+     "GUV": "Verbund AG: GuV (in Mio. EUR)",
+     "Turnover": "8,05",
+     "equityratio": "43,02",
+     "deptratio": "56,98"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "13.04.16",
+     "Dividende": "0,35"
+    },
+    {
+     "Datum": "22.04.15",
+     "Dividende": "0,29"
+    },
+    {
+     "Datum": "09.04.14",
+     "Dividende": "0,55"
+    },
+    {
+     "Datum": "17.04.13",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "12.04.12",
+     "Dividende": "0,55"
+    },
+    {
+     "Datum": "13.04.11",
+     "Dividende": "0,55"
+    },
+    {
+     "Datum": "07.04.10",
+     "Dividende": "1,25"
+    },
+    {
+     "Datum": "25.03.09",
+     "Dividende": "1,05"
+    },
+    {
+     "Datum": "26.03.08",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "14.03.07",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "20.03.06",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "10.03.05",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "23.03.04",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "01.04.03",
+     "Dividende": "0,14"
+    }
+   ]
+  },
+  {
+   "name": "Vienna Insurance Aktie [WKN: 90850 / ISIN: AT0000908504]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Vienna_Insurance",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Vienna Insurance: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Vienna Insurance: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Vienna Insurance: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "2,97",
+     "EPSdiluted": "2,97",
+     "DPS": "1",
+     "GUV": "Vienna Insurance: GuV (in Mio. EUR)",
+     "Turnover": "72,99",
+     "equityratio": "12,08",
+     "deptratio": "87,92"
+    },
+    {
+     "DieAktie": "Vienna Insurance: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "3,18",
+     "EPSdiluted": "3,18",
+     "DPS": "1,1",
+     "GUV": "Vienna Insurance: GuV (in Mio. EUR)",
+     "Turnover": "75",
+     "equityratio": "11,98",
+     "deptratio": "88,02"
+    },
+    {
+     "DieAktie": "Vienna Insurance: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "3,49",
+     "EPSdiluted": "3,49",
+     "DPS": "1,2",
+     "GUV": "Vienna Insurance: GuV (in Mio. EUR)",
+     "Turnover": "82,16",
+     "equityratio": "13,09",
+     "deptratio": "86,91"
+    },
+    {
+     "DieAktie": "Vienna Insurance: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,83",
+     "EPSdiluted": "1,83",
+     "DPS": "1,3",
+     "GUV": "Vienna Insurance: GuV (in Mio. EUR)",
+     "Turnover": "77,9",
+     "equityratio": "11,84",
+     "deptratio": "88,16"
+    },
+    {
+     "DieAktie": "Vienna Insurance: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,75",
+     "EPSdiluted": "2,75",
+     "DPS": "1,4",
+     "GUV": "Vienna Insurance: GuV (in Mio. EUR)",
+     "Turnover": "75,73",
+     "equityratio": "11,74",
+     "deptratio": "88,26"
+    },
+    {
+     "DieAktie": "Vienna Insurance: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,66",
+     "EPSdiluted": "0,66",
+     "DPS": "0,6",
+     "GUV": "Vienna Insurance: GuV (in Mio. EUR)",
+     "Turnover": "73,99",
+     "equityratio": "10,96",
+     "deptratio": "89,04"
+    },
+    {
+     "DieAktie": "Vienna Insurance: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "2,16",
+     "EPSdiluted": "2,16",
+     "DPS": "0,8",
+     "GUV": "Vienna Insurance: GuV (in Mio. EUR)",
+     "Turnover": "73,22",
+     "equityratio": "9,26",
+     "deptratio": "90,74"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "13.05.16",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "29.05.15",
+     "Dividende": "1,40"
+    },
+    {
+     "Datum": "06.06.14",
+     "Dividende": "1,30"
+    },
+    {
+     "Datum": "03.05.13",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "04.05.12",
+     "Dividende": "1,10"
+    },
+    {
+     "Datum": "06.05.11",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "29.06.10",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "24.04.09",
+     "Dividende": "1,10"
+    },
+    {
+     "Datum": "03.06.08",
+     "Dividende": "1,10"
+    },
+    {
+     "Datum": "25.05.07",
+     "Dividende": "0,82"
+    },
+    {
+     "Datum": "30.05.06",
+     "Dividende": "0,66"
+    },
+    {
+     "Datum": "24.05.05",
+     "Dividende": "0,55"
+    },
+    {
+     "Datum": "16.06.04",
+     "Dividende": "0,45"
+    },
+    {
+     "Datum": "12.06.03",
+     "Dividende": "0,31"
+    }
+   ]
+  },
+  {
+   "name": "Vinci Aktie [WKN: 867475 / ISIN: FR0000125486]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Vinci",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Vinci S.A.: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Vinci S.A.: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Vinci S.A.: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "3,35",
+     "EPSdiluted": "3,3",
+     "DPS": "1,67",
+     "GUV": "Vinci S.A.: GuV (in Mio. EUR)",
+     "Turnover": "63,28",
+     "equityratio": "21,81",
+     "deptratio": "78,19"
+    },
+    {
+     "DieAktie": "Vinci S.A.: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "3,52",
+     "EPSdiluted": "3,48",
+     "DPS": "1,77",
+     "GUV": "Vinci S.A.: GuV (in Mio. EUR)",
+     "Turnover": "68,87",
+     "equityratio": "21,28",
+     "deptratio": "78,72"
+    },
+    {
+     "DieAktie": "Vinci S.A.: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "3,57",
+     "EPSdiluted": "3,54",
+     "DPS": "1,77",
+     "GUV": "Vinci S.A.: GuV (in Mio. EUR)",
+     "Turnover": "72,32",
+     "equityratio": "21,65",
+     "deptratio": "78,35"
+    },
+    {
+     "DieAktie": "Vinci S.A.: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "3,57",
+     "EPSdiluted": "3,54",
+     "DPS": "1,77",
+     "GUV": "Vinci S.A.: GuV (in Mio. EUR)",
+     "Turnover": "73,49",
+     "equityratio": "22,07",
+     "deptratio": "77,93"
+    },
+    {
+     "DieAktie": "Vinci S.A.: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "4,47",
+     "EPSdiluted": "4,43",
+     "DPS": "1,77",
+     "GUV": "Vinci S.A.: GuV (in Mio. EUR)",
+     "Turnover": "69,53",
+     "equityratio": "23",
+     "deptratio": "77"
+    },
+    {
+     "DieAktie": "Vinci S.A.: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "3,69",
+     "EPSdiluted": "3,67",
+     "DPS": "1,84",
+     "GUV": "Vinci S.A.: GuV (in Mio. EUR)",
+     "Turnover": "70,16",
+     "equityratio": "23,92",
+     "deptratio": "76,08"
+    },
+    {
+     "DieAktie": "Vinci S.A.: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "4,52",
+     "EPSdiluted": "4,48",
+     "DPS": "2,1",
+     "GUV": "Vinci S.A.: GuV (in Mio. EUR)",
+     "Turnover": "68,87",
+     "equityratio": "23,84",
+     "deptratio": "76,16"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "17.04.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "19.04.16",
+     "Dividende": "1,84"
+    },
+    {
+     "Datum": "12.04.15",
+     "Dividende": "1,77"
+    },
+    {
+     "Datum": "15.04.14",
+     "Dividende": "1,77"
+    },
+    {
+     "Datum": "16.04.13",
+     "Dividende": "1,77"
+    },
+    {
+     "Datum": "12.04.12",
+     "Dividende": "1,77"
+    },
+    {
+     "Datum": "02.05.11",
+     "Dividende": "1,67"
+    },
+    {
+     "Datum": "06.05.10",
+     "Dividende": "1,62"
+    },
+    {
+     "Datum": "14.05.09",
+     "Dividende": "1,62"
+    }
+   ]
+  },
+  {
+   "name": "Vivendi Aktie [WKN: 591068 / ISIN: FR0000127771]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Vivendi",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Vivendi S.A.: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Vivendi S.A.: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Vivendi S.A.: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,72",
+     "EPSdiluted": "1,72",
+     "DPS": "1,35",
+     "GUV": "Vivendi S.A.: GuV (in Mio. EUR)",
+     "Turnover": "22,64",
+     "equityratio": "40,78",
+     "deptratio": "59,22"
+    },
+    {
+     "DieAktie": "Vivendi S.A.: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,09",
+     "EPSdiluted": "2,09",
+     "DPS": "0,97",
+     "GUV": "Vivendi S.A.: GuV (in Mio. EUR)",
+     "Turnover": "22,45",
+     "equityratio": "34,9",
+     "deptratio": "65,1"
+    },
+    {
+     "DieAktie": "Vivendi S.A.: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,13",
+     "EPSdiluted": "0,12",
+     "DPS": "1",
+     "GUV": "Vivendi S.A.: GuV (in Mio. EUR)",
+     "Turnover": "22,26",
+     "equityratio": "31,03",
+     "deptratio": "68,97"
+    },
+    {
+     "DieAktie": "Vivendi S.A.: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,71",
+     "EPSdiluted": "-0,71",
+     "DPS": "1",
+     "GUV": "Vivendi S.A.: GuV (in Mio. EUR)",
+     "Turnover": "16,58",
+     "equityratio": "35,5",
+     "deptratio": "64,5"
+    },
+    {
+     "DieAktie": "Vivendi S.A.: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,11",
+     "EPSdiluted": "1,11",
+     "DPS": "1",
+     "GUV": "Vivendi S.A.: GuV (in Mio. EUR)",
+     "Turnover": "7,47",
+     "equityratio": "63,04",
+     "deptratio": "36,96"
+    },
+    {
+     "DieAktie": "Vivendi S.A.: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,59",
+     "EPSdiluted": "0,59",
+     "DPS": "3",
+     "GUV": "Vivendi S.A.: GuV (in Mio. EUR)",
+     "Turnover": "7,87",
+     "equityratio": "59,67",
+     "deptratio": "40,33"
+    },
+    {
+     "DieAktie": "Vivendi S.A.: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,99",
+     "EPSdiluted": "0,95",
+     "DPS": "0,4",
+     "GUV": "Vivendi S.A.: GuV (in Mio. EUR)",
+     "Turnover": "8,48",
+     "equityratio": "59,89",
+     "deptratio": "40,11"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "21.04.16",
+     "Dividende": "3,00"
+    },
+    {
+     "Datum": "17.04.15",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "24.06.14",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "30.04.13",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "19.04.12",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "21.04.11",
+     "Dividende": "1,40"
+    },
+    {
+     "Datum": "29.04.10",
+     "Dividende": "1,40"
+    },
+    {
+     "Datum": "30.04.09",
+     "Dividende": "1,40"
+    },
+    {
+     "Datum": "24.04.08",
+     "Dividende": "1,30"
+    },
+    {
+     "Datum": "19.04.07",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "20.04.06",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "28.04.05",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "06.05.04",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "29.04.03",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "voestalpine Aktie [WKN: 93750 / ISIN: AT0000937503]",
+   "URL": "http://www.finanzen.at/bilanz_guv/voestalpine",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "voestalpine AG: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "voestalpine AG: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "voestalpine AG: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "3,04",
+     "EPSdiluted": "3,04",
+     "DPS": "0,8",
+     "GUV": "voestalpine AG: GuV (in Mio. EUR)",
+     "Turnover": "64,99",
+     "equityratio": "27,73",
+     "deptratio": "72,27"
+    },
+    {
+     "DieAktie": "voestalpine AG: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,98",
+     "EPSdiluted": "1,98",
+     "DPS": "0,8",
+     "GUV": "voestalpine AG: GuV (in Mio. EUR)",
+     "Turnover": "71,47",
+     "equityratio": "29,92",
+     "deptratio": "70,08"
+    },
+    {
+     "DieAktie": "voestalpine AG: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,61",
+     "EPSdiluted": "2,61",
+     "DPS": "0,9",
+     "GUV": "voestalpine AG: GuV (in Mio. EUR)",
+     "Turnover": "67,56",
+     "equityratio": "30,7",
+     "deptratio": "69,3"
+    },
+    {
+     "DieAktie": "voestalpine AG: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,6",
+     "EPSdiluted": "2,6",
+     "DPS": "0,95",
+     "GUV": "voestalpine AG: GuV (in Mio. EUR)",
+     "Turnover": "65,12",
+     "equityratio": "33,26",
+     "deptratio": "66,74"
+    },
+    {
+     "DieAktie": "voestalpine AG: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "3,11",
+     "EPSdiluted": "3,11",
+     "DPS": "1",
+     "GUV": "voestalpine AG: GuV (in Mio. EUR)",
+     "Turnover": "64,9",
+     "equityratio": "33,47",
+     "deptratio": "66,53"
+    },
+    {
+     "DieAktie": "voestalpine AG: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "3,35",
+     "EPSdiluted": "3,35",
+     "DPS": "1,05",
+     "GUV": "voestalpine AG: GuV (in Mio. EUR)",
+     "Turnover": "63,28",
+     "equityratio": "35,51",
+     "deptratio": "64,49"
+    },
+    {
+     "DieAktie": "voestalpine AG: Die Aktie (in EUR)",
+     "Jahr": "2017",
+     "EPSundiluted": "2,84",
+     "EPSdiluted": "2,84",
+     "DPS": "1,1",
+     "GUV": "voestalpine AG: GuV (in Mio. EUR)",
+     "Turnover": "64,53",
+     "equityratio": "36,68",
+     "deptratio": "63,32"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "06.07.16",
+     "Dividende": "1,05"
+    },
+    {
+     "Datum": "01.07.15",
+     "Dividende": "1,00"
+    },
+    {
+     "Datum": "02.07.14",
+     "Dividende": "0,95"
+    },
+    {
+     "Datum": "03.07.13",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "04.07.12",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "06.07.11",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "07.07.10",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "01.07.09",
+     "Dividende": "1,05"
+    },
+    {
+     "Datum": "02.07.08",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "23.06.08",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "04.07.07",
+     "Dividende": "1,45"
+    },
+    {
+     "Datum": "08.05.07",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "05.07.06",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "16.05.06",
+     "Dividende": "2,05"
+    },
+    {
+     "Datum": "30.06.05",
+     "Dividende": "0,53"
+    },
+    {
+     "Datum": "10.05.05",
+     "Dividende": "1,88"
+    },
+    {
+     "Datum": "01.07.04",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "03.05.04",
+     "Dividende": "1,10"
+    },
+    {
+     "Datum": "01.07.03",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "12.05.03",
+     "Dividende": "0,63"
+    }
+   ]
+  },
+  {
+   "name": "Volkswagen (VW) vz Aktie [WKN: 766403 / ISIN: DE0007664039]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Volkswagen_vz",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Volkswagen (VW) AG Vz.: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Volkswagen (VW) AG Vz.: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Volkswagen (VW) AG Vz.: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "15,19",
+     "EPSdiluted": "15,19",
+     "DPS": "2,2",
+     "GUV": "Volkswagen (VW) AG Vz.: GuV (in Mio. EUR)",
+     "Turnover": "281,98",
+     "equityratio": "23,06",
+     "deptratio": "76,94"
+    },
+    {
+     "DieAktie": "Volkswagen (VW) AG Vz.: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "33,12",
+     "EPSdiluted": "33,12",
+     "DPS": "3",
+     "GUV": "Volkswagen (VW) AG Vz.: GuV (in Mio. EUR)",
+     "Turnover": "342,5",
+     "equityratio": "22,69",
+     "deptratio": "77,31"
+    },
+    {
+     "DieAktie": "Volkswagen (VW) AG Vz.: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "46,45",
+     "EPSdiluted": "46,45",
+     "DPS": "3,5",
+     "GUV": "Volkswagen (VW) AG Vz.: GuV (in Mio. EUR)",
+     "Turnover": "412,08",
+     "equityratio": "25,03",
+     "deptratio": "74,97"
+    },
+    {
+     "DieAktie": "Volkswagen (VW) AG Vz.: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "18,66",
+     "EPSdiluted": "18,66",
+     "DPS": "4",
+     "GUV": "Volkswagen (VW) AG Vz.: GuV (in Mio. EUR)",
+     "Turnover": "405,28",
+     "equityratio": "27,05",
+     "deptratio": "72,95"
+    },
+    {
+     "DieAktie": "Volkswagen (VW) AG Vz.: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "21,87",
+     "EPSdiluted": "21,87",
+     "DPS": "4,8",
+     "GUV": "Volkswagen (VW) AG Vz.: GuV (in Mio. EUR)",
+     "Turnover": "408,12",
+     "equityratio": "22,87",
+     "deptratio": "77,13"
+    },
+    {
+     "DieAktie": "Volkswagen (VW) AG Vz.: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "-3,16",
+     "EPSdiluted": "-3,16",
+     "DPS": "0,11",
+     "GUV": "Volkswagen (VW) AG Vz.: GuV (in Mio. EUR)",
+     "Turnover": "425,48",
+     "equityratio": "19,83",
+     "deptratio": "80,17"
+    },
+    {
+     "DieAktie": "Volkswagen (VW) AG Vz.: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "10,26",
+     "EPSdiluted": "10,26",
+     "DPS": "2",
+     "GUV": "Volkswagen (VW) AG Vz.: GuV (in Mio. EUR)",
+     "Turnover": "433,41",
+     "equityratio": "19,57",
+     "deptratio": "80,43"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "22.06.16",
+     "Dividende": "0,17"
+    },
+    {
+     "Datum": "21.04.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "05.05.15",
+     "Dividende": "4,86"
+    },
+    {
+     "Datum": "13.05.14",
+     "Dividende": "4,06"
+    },
+    {
+     "Datum": "25.04.13",
+     "Dividende": "3,56"
+    },
+    {
+     "Datum": "19.04.12",
+     "Dividende": "3,06"
+    },
+    {
+     "Datum": "03.05.11",
+     "Dividende": "2,26"
+    },
+    {
+     "Datum": "22.04.10",
+     "Dividende": "1,66"
+    },
+    {
+     "Datum": "03.12.09",
+     "Dividende": "1,99"
+    },
+    {
+     "Datum": "23.04.09",
+     "Dividende": "1,99"
+    },
+    {
+     "Datum": "24.04.08",
+     "Dividende": "1,86"
+    },
+    {
+     "Datum": "19.04.07",
+     "Dividende": "1,31"
+    },
+    {
+     "Datum": "03.05.06",
+     "Dividende": "1,21"
+    },
+    {
+     "Datum": "21.04.05",
+     "Dividende": "1,11"
+    },
+    {
+     "Datum": "22.04.04",
+     "Dividende": "1,11"
+    },
+    {
+     "Datum": "24.04.03",
+     "Dividende": "1,36"
+    }
+   ]
+  },
+  {
+   "name": "Vopak Aktie [WKN DE: A1CYGK / ISIN: NL0009432491]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Vopak",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Vopak N.V.: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Vopak N.V.: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Vopak N.V.: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "2,06",
+     "EPSdiluted": "2,06",
+     "DPS": "0,7",
+     "GUV": "Vopak N.V.: GuV (in Mio. EUR)",
+     "Turnover": "8,69",
+     "equityratio": "37,46",
+     "deptratio": "62,54"
+    },
+    {
+     "DieAktie": "Vopak N.V.: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "3,08",
+     "EPSdiluted": "3,08",
+     "DPS": "0,8",
+     "GUV": "Vopak N.V.: GuV (in Mio. EUR)",
+     "Turnover": "9,21",
+     "equityratio": "40,3",
+     "deptratio": "59,7"
+    },
+    {
+     "DieAktie": "Vopak N.V.: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,52",
+     "EPSdiluted": "2,52",
+     "DPS": "0,88",
+     "GUV": "Vopak N.V.: GuV (in Mio. EUR)",
+     "Turnover": "10,32",
+     "equityratio": "36,22",
+     "deptratio": "63,78"
+    },
+    {
+     "DieAktie": "Vopak N.V.: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,45",
+     "EPSdiluted": "2,45",
+     "DPS": "0,9",
+     "GUV": "Vopak N.V.: GuV (in Mio. EUR)",
+     "Turnover": "10,16",
+     "equityratio": "37,09",
+     "deptratio": "62,91"
+    },
+    {
+     "DieAktie": "Vopak N.V.: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,94",
+     "EPSdiluted": "1,94",
+     "DPS": "0,9",
+     "GUV": "Vopak N.V.: GuV (in Mio. EUR)",
+     "Turnover": "10,37",
+     "equityratio": "32,51",
+     "deptratio": "67,49"
+    },
+    {
+     "DieAktie": "Vopak N.V.: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,21",
+     "EPSdiluted": "2,21",
+     "DPS": "1",
+     "GUV": "Vopak N.V.: GuV (in Mio. EUR)",
+     "Turnover": "10,85",
+     "equityratio": "36,11",
+     "deptratio": "63,89"
+    },
+    {
+     "DieAktie": "Vopak N.V.: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "4,19",
+     "EPSdiluted": "4,18",
+     "DPS": "1,05",
+     "GUV": "Vopak N.V.: GuV (in Mio. EUR)",
+     "Turnover": "10,55",
+     "equityratio": "42,37",
+     "deptratio": "57,63"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "20.04.16",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "22.04.15",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "23.04.14",
+     "Dividende": "0,90"
+    },
+    {
+     "Datum": "24.04.13",
+     "Dividende": "0,88"
+    },
+    {
+     "Datum": "25.04.12",
+     "Dividende": "0,80"
+    },
+    {
+     "Datum": "27.04.11",
+     "Dividende": "0,70"
+    }
+   ]
+  },
+  {
+   "name": "WACKER CHEMIE Aktie [WKN DE: WCH888 / ISIN: DE000WCH8881]",
+   "URL": "http://www.finanzen.at/bilanz_guv/wacker_chemie",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "WACKER CHEMIE AG: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "WACKER CHEMIE AG: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "WACKER CHEMIE AG: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "9,88",
+     "EPSdiluted": "9,88",
+     "DPS": "3,2",
+     "GUV": "WACKER CHEMIE AG: GuV (in Mio. EUR)",
+     "Turnover": "95,58",
+     "equityratio": "44,03",
+     "deptratio": "55,97"
+    },
+    {
+     "DieAktie": "WACKER CHEMIE AG: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "7,1",
+     "EPSdiluted": "7,1",
+     "DPS": "2,2",
+     "GUV": "WACKER CHEMIE AG: GuV (in Mio. EUR)",
+     "Turnover": "98,83",
+     "equityratio": "41,74",
+     "deptratio": "58,26"
+    },
+    {
+     "DieAktie": "WACKER CHEMIE AG: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,27",
+     "EPSdiluted": "2,27",
+     "DPS": "0,6",
+     "GUV": "WACKER CHEMIE AG: GuV (in Mio. EUR)",
+     "Turnover": "93,3",
+     "equityratio": "41,07",
+     "deptratio": "58,93"
+    },
+    {
+     "DieAktie": "WACKER CHEMIE AG: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,05",
+     "EPSdiluted": "0,05",
+     "DPS": "0,5",
+     "GUV": "WACKER CHEMIE AG: GuV (in Mio. EUR)",
+     "Turnover": "90,16",
+     "equityratio": "34,41",
+     "deptratio": "65,59"
+    },
+    {
+     "DieAktie": "WACKER CHEMIE AG: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "4,1",
+     "EPSdiluted": "4,1",
+     "DPS": "1,5",
+     "GUV": "WACKER CHEMIE AG: GuV (in Mio. EUR)",
+     "Turnover": "97,15",
+     "equityratio": "27,54",
+     "deptratio": "72,46"
+    },
+    {
+     "DieAktie": "WACKER CHEMIE AG: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "4,97",
+     "EPSdiluted": "4,97",
+     "DPS": "2",
+     "GUV": "WACKER CHEMIE AG: GuV (in Mio. EUR)",
+     "Turnover": "106,61",
+     "equityratio": "35,2",
+     "deptratio": "64,8"
+    },
+    {
+     "DieAktie": "WACKER CHEMIE AG: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "3,61",
+     "EPSdiluted": "3,61",
+     "DPS": "2",
+     "GUV": "WACKER CHEMIE AG: GuV (in Mio. EUR)",
+     "Turnover": "108,78",
+     "equityratio": "31,73",
+     "deptratio": "68,27"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "20.05.16",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "11.05.15",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "08.05.15",
+     "Dividende": "1,50"
+    },
+    {
+     "Datum": "15.05.14",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "08.05.13",
+     "Dividende": "0,60"
+    },
+    {
+     "Datum": "16.05.12",
+     "Dividende": "2,20"
+    },
+    {
+     "Datum": "18.05.11",
+     "Dividende": "3,20"
+    },
+    {
+     "Datum": "21.05.10",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "08.05.09",
+     "Dividende": "1,80"
+    },
+    {
+     "Datum": "08.05.08",
+     "Dividende": "3,00"
+    },
+    {
+     "Datum": "29.05.07",
+     "Dividende": "2,50"
+    }
+   ]
+  },
+  {
+   "name": "Wärtsilä Aktie [WKN: 881050 / ISIN: FI0009003727]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Waertsilae",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Wärtsilä Oyj (Abp B) (Wartsila): Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Wärtsilä Oyj (Abp B) (Wartsila): GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Wärtsilä Oyj (Abp B) (Wartsila): Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,96",
+     "EPSdiluted": "1,96",
+     "DPS": "0,88",
+     "GUV": "Wärtsilä Oyj (Abp B) (Wartsila): GuV (in Mio. EUR)",
+     "Turnover": "23,08",
+     "equityratio": "34,88",
+     "deptratio": "65,12"
+    },
+    {
+     "DieAktie": "Wärtsilä Oyj (Abp B) (Wartsila): Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,44",
+     "EPSdiluted": "1,44",
+     "DPS": "0,9",
+     "GUV": "Wärtsilä Oyj (Abp B) (Wartsila): GuV (in Mio. EUR)",
+     "Turnover": "21,34",
+     "equityratio": "35,57",
+     "deptratio": "64,43"
+    },
+    {
+     "DieAktie": "Wärtsilä Oyj (Abp B) (Wartsila): Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,72",
+     "EPSdiluted": "1,72",
+     "DPS": "1",
+     "GUV": "Wärtsilä Oyj (Abp B) (Wartsila): GuV (in Mio. EUR)",
+     "Turnover": "23,96",
+     "equityratio": "35,71",
+     "deptratio": "64,29"
+    },
+    {
+     "DieAktie": "Wärtsilä Oyj (Abp B) (Wartsila): Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,98",
+     "EPSdiluted": "1,98",
+     "DPS": "1,05",
+     "GUV": "Wärtsilä Oyj (Abp B) (Wartsila): GuV (in Mio. EUR)",
+     "Turnover": "23,6",
+     "equityratio": "35,4",
+     "deptratio": "64,6"
+    },
+    {
+     "DieAktie": "Wärtsilä Oyj (Abp B) (Wartsila): Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,81",
+     "EPSdiluted": "1,81",
+     "DPS": "1,15",
+     "GUV": "Wärtsilä Oyj (Abp B) (Wartsila): GuV (in Mio. EUR)",
+     "Turnover": "24,23",
+     "equityratio": "37,12",
+     "deptratio": "62,88"
+    },
+    {
+     "DieAktie": "Wärtsilä Oyj (Abp B) (Wartsila): Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,13",
+     "EPSdiluted": "2,13",
+     "DPS": "1,2",
+     "GUV": "Wärtsilä Oyj (Abp B) (Wartsila): GuV (in Mio. EUR)",
+     "Turnover": "25,5",
+     "equityratio": "39,38",
+     "deptratio": "60,62"
+    },
+    {
+     "DieAktie": "Wärtsilä Oyj (Abp B) (Wartsila): Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,78",
+     "EPSdiluted": "1,78",
+     "DPS": "1,3",
+     "GUV": "Wärtsilä Oyj (Abp B) (Wartsila): GuV (in Mio. EUR)",
+     "Turnover": "24,34",
+     "equityratio": "42,44",
+     "deptratio": "57,56"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "03.03.16",
+     "Dividende": "1,20"
+    },
+    {
+     "Datum": "05.03.15",
+     "Dividende": "1,15"
+    },
+    {
+     "Datum": "06.03.14",
+     "Dividende": "1,05"
+    },
+    {
+     "Datum": "07.03.13",
+     "Dividende": "1,00"
+    }
+   ]
+  },
+  {
+   "name": "Wendel InvestissementAct Aktie [WKN: 850709 / ISIN: FR0000121204]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Wendel_InvestissementAct",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Wendel InvestissementAct.: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Wendel InvestissementAct.: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Wendel InvestissementAct.: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "14,12",
+     "EPSdiluted": "13,97",
+     "DPS": "1,25",
+     "GUV": "Wendel InvestissementAct.: GuV (in Mio. EUR)",
+     "Turnover": "109,22",
+     "equityratio": "15,31",
+     "deptratio": "84,69"
+    },
+    {
+     "DieAktie": "Wendel InvestissementAct.: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "10,77",
+     "EPSdiluted": "10,48",
+     "DPS": "1,3",
+     "GUV": "Wendel InvestissementAct.: GuV (in Mio. EUR)",
+     "Turnover": "120,19",
+     "equityratio": "17,74",
+     "deptratio": "82,26"
+    },
+    {
+     "DieAktie": "Wendel InvestissementAct.: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "-9,72",
+     "EPSdiluted": "-9,72",
+     "DPS": "1,75",
+     "GUV": "Wendel InvestissementAct.: GuV (in Mio. EUR)",
+     "Turnover": "138,91",
+     "equityratio": "19,06",
+     "deptratio": "80,94"
+    },
+    {
+     "DieAktie": "Wendel InvestissementAct.: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "7,05",
+     "EPSdiluted": "6,92",
+     "DPS": "1,85",
+     "GUV": "Wendel InvestissementAct.: GuV (in Mio. EUR)",
+     "Turnover": "133,74",
+     "equityratio": "18,47",
+     "deptratio": "81,53"
+    },
+    {
+     "DieAktie": "Wendel InvestissementAct.: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "-6,65",
+     "EPSdiluted": "-6,76",
+     "DPS": "2",
+     "GUV": "Wendel InvestissementAct.: GuV (in Mio. EUR)",
+     "Turnover": "127,24",
+     "equityratio": "18,94",
+     "deptratio": "81,06"
+    },
+    {
+     "DieAktie": "Wendel InvestissementAct.: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "-3,17",
+     "EPSdiluted": "-3,17",
+     "DPS": "2,15",
+     "GUV": "Wendel InvestissementAct.: GuV (in Mio. EUR)",
+     "Turnover": "170,34",
+     "equityratio": "16,14",
+     "deptratio": "83,86"
+    },
+    {
+     "DieAktie": "Wendel InvestissementAct.: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "-10,19",
+     "EPSdiluted": "-10,51",
+     "DPS": "2,35",
+     "GUV": "Wendel InvestissementAct.: GuV (in Mio. EUR)",
+     "Turnover": "181,93",
+     "equityratio": "13,84",
+     "deptratio": "86,16"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "01.06.16",
+     "Dividende": "2,15"
+    },
+    {
+     "Datum": "05.06.15",
+     "Dividende": "2,00"
+    },
+    {
+     "Datum": "06.06.14",
+     "Dividende": "1,85"
+    },
+    {
+     "Datum": "28.05.13",
+     "Dividende": "1,75"
+    }
+   ]
+  },
+  {
+   "name": "Wereldhave Aktie [WKN: 853289 / ISIN: NL0000289213]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Wereldhave",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Wereldhave N.V.: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Wereldhave N.V.: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Wereldhave N.V.: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "3,61",
+     "EPSdiluted": "3,44",
+     "DPS": "4,09",
+     "GUV": "Wereldhave N.V.: GuV (in Mio. EUR)",
+     "Turnover": "7,51",
+     "equityratio": "51,61",
+     "deptratio": "48,39"
+    },
+    {
+     "DieAktie": "Wereldhave N.V.: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,07",
+     "EPSdiluted": "2,07",
+     "DPS": "4,09",
+     "GUV": "Wereldhave N.V.: GuV (in Mio. EUR)",
+     "Turnover": "9,69",
+     "equityratio": "48,98",
+     "deptratio": "51,02"
+    },
+    {
+     "DieAktie": "Wereldhave N.V.: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "-3,95",
+     "EPSdiluted": "-3,95",
+     "DPS": "2,87",
+     "GUV": "Wereldhave N.V.: GuV (in Mio. EUR)",
+     "Turnover": "7,19",
+     "equityratio": "46,26",
+     "deptratio": "53,74"
+    },
+    {
+     "DieAktie": "Wereldhave N.V.: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,58",
+     "EPSdiluted": "1,58",
+     "DPS": "2,87",
+     "GUV": "Wereldhave N.V.: GuV (in Mio. EUR)",
+     "Turnover": "4,99",
+     "equityratio": "58,02",
+     "deptratio": "41,98"
+    },
+    {
+     "DieAktie": "Wereldhave N.V.: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,59",
+     "EPSdiluted": "0,59",
+     "DPS": "2,87",
+     "GUV": "Wereldhave N.V.: GuV (in Mio. EUR)",
+     "Turnover": "4,84",
+     "equityratio": "51,68",
+     "deptratio": "48,32"
+    },
+    {
+     "DieAktie": "Wereldhave N.V.: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,35",
+     "EPSdiluted": "2,32",
+     "DPS": "3,01",
+     "GUV": "Wereldhave N.V.: GuV (in Mio. EUR)",
+     "Turnover": "5,92",
+     "equityratio": "51,41",
+     "deptratio": "48,59"
+    },
+    {
+     "DieAktie": "Wereldhave N.V.: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "2,5",
+     "EPSdiluted": "2,16",
+     "DPS": "3,08",
+     "GUV": "Wereldhave N.V.: GuV (in Mio. EUR)",
+     "Turnover": "6,07",
+     "equityratio": "50,12",
+     "deptratio": "49,88"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "20.04.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "22.04.16",
+     "Dividende": "3,01"
+    },
+    {
+     "Datum": "24.04.15",
+     "Dividende": "2,87"
+    },
+    {
+     "Datum": "25.04.14",
+     "Dividende": "3,30"
+    },
+    {
+     "Datum": "22.04.13",
+     "Dividende": "3,30"
+    }
+   ]
+  },
+  {
+   "name": "Wienerberger Aktie [WKN: 83170 / ISIN: AT0000831706]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Wienerberger",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Wienerberger AG: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Wienerberger AG: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Wienerberger AG: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "-0,57",
+     "EPSdiluted": "-0,57",
+     "DPS": "0,1",
+     "GUV": "Wienerberger AG: GuV (in Mio. EUR)",
+     "Turnover": "14,97",
+     "equityratio": "49,95",
+     "deptratio": "50,05"
+    },
+    {
+     "DieAktie": "Wienerberger AG: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,08",
+     "EPSdiluted": "0,08",
+     "DPS": "0,12",
+     "GUV": "Wienerberger AG: GuV (in Mio. EUR)",
+     "Turnover": "17,33",
+     "equityratio": "47,63",
+     "deptratio": "52,37"
+    },
+    {
+     "DieAktie": "Wienerberger AG: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "-0,61",
+     "EPSdiluted": "-0,61",
+     "DPS": "0,12",
+     "GUV": "Wienerberger AG: GuV (in Mio. EUR)",
+     "Turnover": "20,47",
+     "equityratio": "45,11",
+     "deptratio": "54,89"
+    },
+    {
+     "DieAktie": "Wienerberger AG: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "-0,34",
+     "EPSdiluted": "-0,34",
+     "DPS": "0,12",
+     "GUV": "Wienerberger AG: GuV (in Mio. EUR)",
+     "Turnover": "23,14",
+     "equityratio": "41,78",
+     "deptratio": "58,22"
+    },
+    {
+     "DieAktie": "Wienerberger AG: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "-1,74",
+     "EPSdiluted": "-1,74",
+     "DPS": "0,15",
+     "GUV": "Wienerberger AG: GuV (in Mio. EUR)",
+     "Turnover": "24,43",
+     "equityratio": "39,33",
+     "deptratio": "60,67"
+    },
+    {
+     "DieAktie": "Wienerberger AG: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,31",
+     "EPSdiluted": "0,31",
+     "DPS": "0,2",
+     "GUV": "Wienerberger AG: GuV (in Mio. EUR)",
+     "Turnover": "25,41",
+     "equityratio": "40,63",
+     "deptratio": "59,37"
+    },
+    {
+     "DieAktie": "Wienerberger AG: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,7",
+     "EPSdiluted": "0,7",
+     "DPS": "0,27",
+     "GUV": "Wienerberger AG: GuV (in Mio. EUR)",
+     "Turnover": "25,43",
+     "equityratio": "41,82",
+     "deptratio": "58,18"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "12.05.16",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "22.05.15",
+     "Dividende": "0,15"
+    },
+    {
+     "Datum": "16.05.14",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "14.05.13",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "11.05.12",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "13.05.11",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "20.05.10",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "14.05.09",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "09.05.08",
+     "Dividende": "1,45"
+    },
+    {
+     "Datum": "10.05.07",
+     "Dividende": "1,30"
+    },
+    {
+     "Datum": "27.04.06",
+     "Dividende": "1,18"
+    },
+    {
+     "Datum": "12.05.05",
+     "Dividende": "1,07"
+    },
+    {
+     "Datum": "11.05.04",
+     "Dividende": "0,77"
+    },
+    {
+     "Datum": "15.05.03",
+     "Dividende": "0,66"
+    }
+   ]
+  },
+  {
+   "name": "Wolters Kluwer Aktie [WKN DE: A0J2R1 / ISIN: NL0000395903]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Wolters_Kluwer",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Wolters Kluwer N.V.: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Wolters Kluwer N.V.: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Wolters Kluwer N.V.: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,97",
+     "EPSdiluted": "0,96",
+     "DPS": "0,67",
+     "GUV": "Wolters Kluwer N.V.: GuV (in Mio. EUR)",
+     "Turnover": "11,84",
+     "equityratio": "24,58",
+     "deptratio": "75,42"
+    },
+    {
+     "DieAktie": "Wolters Kluwer N.V.: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,81",
+     "EPSdiluted": "0,8",
+     "DPS": "0,68",
+     "GUV": "Wolters Kluwer N.V.: GuV (in Mio. EUR)",
+     "Turnover": "11,12",
+     "equityratio": "23,02",
+     "deptratio": "76,98"
+    },
+    {
+     "DieAktie": "Wolters Kluwer N.V.: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,08",
+     "EPSdiluted": "1,07",
+     "DPS": "0,69",
+     "GUV": "Wolters Kluwer N.V.: GuV (in Mio. EUR)",
+     "Turnover": "11,98",
+     "equityratio": "23,44",
+     "deptratio": "76,56"
+    },
+    {
+     "DieAktie": "Wolters Kluwer N.V.: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,17",
+     "EPSdiluted": "1,16",
+     "DPS": "0,7",
+     "GUV": "Wolters Kluwer N.V.: GuV (in Mio. EUR)",
+     "Turnover": "11,9",
+     "equityratio": "22,79",
+     "deptratio": "77,21"
+    },
+    {
+     "DieAktie": "Wolters Kluwer N.V.: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,6",
+     "EPSdiluted": "1,58",
+     "DPS": "0,71",
+     "GUV": "Wolters Kluwer N.V.: GuV (in Mio. EUR)",
+     "Turnover": "12,2",
+     "equityratio": "27,31",
+     "deptratio": "72,69"
+    },
+    {
+     "DieAktie": "Wolters Kluwer N.V.: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,44",
+     "EPSdiluted": "1,42",
+     "DPS": "0,75",
+     "GUV": "Wolters Kluwer N.V.: GuV (in Mio. EUR)",
+     "Turnover": "14,15",
+     "equityratio": "30,52",
+     "deptratio": "69,48"
+    },
+    {
+     "DieAktie": "Wolters Kluwer N.V.: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,68",
+     "EPSdiluted": "1,66",
+     "DPS": "0,79",
+     "GUV": "Wolters Kluwer N.V.: GuV (in Mio. EUR)",
+     "Turnover": "14,59",
+     "equityratio": "27,92",
+     "deptratio": "72,08"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "21.04.16",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "22.04.15",
+     "Dividende": "0,71"
+    },
+    {
+     "Datum": "23.04.14",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "24.04.13",
+     "Dividende": "0,69"
+    },
+    {
+     "Datum": "25.04.12",
+     "Dividende": "0,68"
+    },
+    {
+     "Datum": "27.04.11",
+     "Dividende": "0,67"
+    },
+    {
+     "Datum": "21.04.10",
+     "Dividende": "0,66"
+    },
+    {
+     "Datum": "21.04.09",
+     "Dividende": "0,65"
+    }
+   ]
+  },
+  {
+   "name": "YIT Aktie [WKN: 906227 / ISIN: FI0009800643]",
+   "URL": "http://www.finanzen.at/bilanz_guv/YIT",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "YIT OyjShs: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "YIT OyjShs: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "YIT OyjShs: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,12",
+     "EPSdiluted": "1,12",
+     "DPS": "0,65",
+     "GUV": "YIT OyjShs: GuV (in Mio. EUR)",
+     "Turnover": "30,28",
+     "equityratio": "28,23",
+     "deptratio": "71,77"
+    },
+    {
+     "DieAktie": "YIT OyjShs: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,99",
+     "EPSdiluted": "0,99",
+     "DPS": "0,7",
+     "GUV": "YIT OyjShs: GuV (in Mio. EUR)",
+     "Turnover": "34,97",
+     "equityratio": "26,21",
+     "deptratio": "73,79"
+    },
+    {
+     "DieAktie": "YIT OyjShs: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,43",
+     "EPSdiluted": "1,43",
+     "DPS": "0,75",
+     "GUV": "YIT OyjShs: GuV (in Mio. EUR)",
+     "Turnover": "37,53",
+     "equityratio": "28,03",
+     "deptratio": "71,97"
+    },
+    {
+     "DieAktie": "YIT OyjShs: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,85",
+     "EPSdiluted": "2,85",
+     "DPS": "0,38",
+     "GUV": "YIT OyjShs: GuV (in Mio. EUR)",
+     "Turnover": "13,89",
+     "equityratio": "27,33",
+     "deptratio": "72,67"
+    },
+    {
+     "DieAktie": "YIT OyjShs: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,45",
+     "EPSdiluted": "0,45",
+     "DPS": "0,18",
+     "GUV": "YIT OyjShs: GuV (in Mio. EUR)",
+     "Turnover": "14,16",
+     "equityratio": "23,91",
+     "deptratio": "76,09"
+    },
+    {
+     "DieAktie": "YIT OyjShs: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,38",
+     "EPSdiluted": "0,37",
+     "DPS": "0,22",
+     "GUV": "YIT OyjShs: GuV (in Mio. EUR)",
+     "Turnover": "13,66",
+     "equityratio": "26,59",
+     "deptratio": "73,41"
+    },
+    {
+     "DieAktie": "YIT OyjShs: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,06",
+     "EPSdiluted": "-0,06",
+     "DPS": "0,22",
+     "GUV": "YIT OyjShs: GuV (in Mio. EUR)",
+     "Turnover": "13,18",
+     "equityratio": "24,69",
+     "deptratio": "75,31"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "15.03.16",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "18.03.15",
+     "Dividende": "0,18"
+    },
+    {
+     "Datum": "18.03.14",
+     "Dividende": "0,38"
+    },
+    {
+     "Datum": "15.03.13",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "13.03.12",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "11.05.11",
+     "Dividende": "0,65"
+    }
+   ]
+  },
+  {
+   "name": "Zardoya Otis Aktie [WKN: 870854 / ISIN: ES0184933812]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Zardoya_Otis",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Zardoya Otis: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Zardoya Otis: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Zardoya Otis: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,46",
+     "EPSdiluted": "0,46",
+     "DPS": "0,35",
+     "GUV": "Zardoya Otis: GuV (in Mio. EUR)",
+     "Turnover": "1,91",
+     "equityratio": "43,7",
+     "deptratio": "56,3"
+    },
+    {
+     "DieAktie": "Zardoya Otis: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,45",
+     "EPSdiluted": "0,45",
+     "DPS": "0,26",
+     "GUV": "Zardoya Otis: GuV (in Mio. EUR)",
+     "Turnover": "1,87",
+     "equityratio": "41",
+     "deptratio": "59"
+    },
+    {
+     "DieAktie": "Zardoya Otis: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,42",
+     "EPSdiluted": "0,42",
+     "DPS": "0,31",
+     "GUV": "Zardoya Otis: GuV (in Mio. EUR)",
+     "Turnover": "1,85",
+     "equityratio": "42,49",
+     "deptratio": "57,51"
+    },
+    {
+     "DieAktie": "Zardoya Otis: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,35",
+     "EPSdiluted": "0,35",
+     "DPS": "0,26",
+     "GUV": "Zardoya Otis: GuV (in Mio. EUR)",
+     "Turnover": "1,66",
+     "equityratio": "55,46",
+     "deptratio": "44,54"
+    },
+    {
+     "DieAktie": "Zardoya Otis: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,33",
+     "EPSdiluted": "0,33",
+     "DPS": "0,26",
+     "GUV": "Zardoya Otis: GuV (in Mio. EUR)",
+     "Turnover": "1,61",
+     "equityratio": "57,87",
+     "deptratio": "42,13"
+    },
+    {
+     "DieAktie": "Zardoya Otis: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,33",
+     "EPSdiluted": "0,33",
+     "DPS": "0,26",
+     "GUV": "Zardoya Otis: GuV (in Mio. EUR)",
+     "Turnover": "1,59",
+     "equityratio": "59,28",
+     "deptratio": "40,72"
+    },
+    {
+     "DieAktie": "Zardoya Otis: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,33",
+     "EPSdiluted": "0,33",
+     "DPS": "0,27",
+     "GUV": "Zardoya Otis: GuV (in Mio. EUR)",
+     "Turnover": "1,62",
+     "equityratio": "59,7",
+     "deptratio": "40,3"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "26.05.15",
+     "Dividende": "0,35"
+    },
+    {
+     "Datum": "27.05.13",
+     "Dividende": "0,48"
+    }
+   ]
+  },
+  {
+   "name": "Zodiac Aerospace Aktie [WKN: 876382 / ISIN: FR0000125684]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Zodiac_Aerospace",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Zodiac Aerospace S.A.: Die Aktie (in EUR)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Zodiac Aerospace S.A.: GuV (in Mio. EUR)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Zodiac Aerospace S.A.: Die Aktie (in EUR)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,56",
+     "EPSdiluted": "0,56",
+     "DPS": "0,2",
+     "GUV": "Zodiac Aerospace S.A.: GuV (in Mio. EUR)",
+     "Turnover": "8,07",
+     "equityratio": "55,3",
+     "deptratio": "44,7"
+    },
+    {
+     "DieAktie": "Zodiac Aerospace S.A.: Die Aktie (in EUR)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,89",
+     "EPSdiluted": "0,88",
+     "DPS": "0,24",
+     "GUV": "Zodiac Aerospace S.A.: GuV (in Mio. EUR)",
+     "Turnover": "10,14",
+     "equityratio": "50,64",
+     "deptratio": "49,36"
+    },
+    {
+     "DieAktie": "Zodiac Aerospace S.A.: Die Aktie (in EUR)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,18",
+     "EPSdiluted": "1,16",
+     "DPS": "0,28",
+     "GUV": "Zodiac Aerospace S.A.: GuV (in Mio. EUR)",
+     "Turnover": "12,56",
+     "equityratio": "51,22",
+     "deptratio": "48,78"
+    },
+    {
+     "DieAktie": "Zodiac Aerospace S.A.: Die Aktie (in EUR)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,36",
+     "EPSdiluted": "1,35",
+     "DPS": "0,32",
+     "GUV": "Zodiac Aerospace S.A.: GuV (in Mio. EUR)",
+     "Turnover": "14,12",
+     "equityratio": "52,66",
+     "deptratio": "47,34"
+    },
+    {
+     "DieAktie": "Zodiac Aerospace S.A.: Die Aktie (in EUR)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,29",
+     "EPSdiluted": "1,28",
+     "DPS": "0,32",
+     "GUV": "Zodiac Aerospace S.A.: GuV (in Mio. EUR)",
+     "Turnover": "15,08",
+     "equityratio": "50,99",
+     "deptratio": "49,01"
+    },
+    {
+     "DieAktie": "Zodiac Aerospace S.A.: Die Aktie (in EUR)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,67",
+     "EPSdiluted": "0,67",
+     "DPS": "0,32",
+     "GUV": "Zodiac Aerospace S.A.: GuV (in Mio. EUR)",
+     "Turnover": "17,74",
+     "equityratio": "50,77",
+     "deptratio": "49,23"
+    },
+    {
+     "DieAktie": "Zodiac Aerospace S.A.: Die Aktie (in EUR)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,38",
+     "EPSdiluted": "0,38",
+     "DPS": "0,32",
+     "GUV": "Zodiac Aerospace S.A.: GuV (in Mio. EUR)",
+     "Turnover": "18,68",
+     "equityratio": "52,97",
+     "deptratio": "47,03"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "19.01.17",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "14.01.16",
+     "Dividende": "0,32"
+    },
+    {
+     "Datum": "15.01.15",
+     "Dividende": "0,32"
+    },
+    {
+     "Datum": "08.01.14",
+     "Dividende": "0,32"
+    },
+    {
+     "Datum": "09.01.13",
+     "Dividende": "0,28"
+    }
+   ]
+  }
+ ]
+}

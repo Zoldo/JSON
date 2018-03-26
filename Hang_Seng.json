@@ -1,0 +1,5324 @@
+{
+ "Aktien": [
+  {
+   "name": "AIA Group Aktie [WKN DE: A1C7F3 / ISIN: HK0000069689]",
+   "URL": "http://www.finanzen.at/bilanz_guv/AIA_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "AIA Group Ltd: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "AIA Group Ltd: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "AIA Group Ltd: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,71",
+     "EPSdiluted": "1,71",
+     "DPS": "0",
+     "GUV": "AIA Group Ltd: GuV (in Mio. HKD)",
+     "Turnover": "9,52",
+     "equityratio": "18,23",
+     "deptratio": "81,77"
+    },
+    {
+     "DieAktie": "AIA Group Ltd: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,01",
+     "EPSdiluted": "1,01",
+     "DPS": "0,33",
+     "GUV": "AIA Group Ltd: GuV (in Mio. HKD)",
+     "Turnover": "10,6",
+     "equityratio": "18,76",
+     "deptratio": "81,24"
+    },
+    {
+     "DieAktie": "AIA Group Ltd: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,94",
+     "EPSdiluted": "1,94",
+     "DPS": "0,37",
+     "GUV": "AIA Group Ltd: GuV (in Mio. HKD)",
+     "Turnover": "11,29",
+     "equityratio": "20,03",
+     "deptratio": "79,97"
+    },
+    {
+     "DieAktie": "AIA Group Ltd: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,86",
+     "EPSdiluted": "1,86",
+     "DPS": "0,43",
+     "GUV": "AIA Group Ltd: GuV (in Mio. HKD)",
+     "Turnover": "13,39",
+     "equityratio": "17",
+     "deptratio": "83"
+    },
+    {
+     "DieAktie": "AIA Group Ltd: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,25",
+     "EPSdiluted": "2,25",
+     "DPS": "0,5",
+     "GUV": "AIA Group Ltd: GuV (in Mio. HKD)",
+     "Turnover": "14,39",
+     "equityratio": "18,64",
+     "deptratio": "81,36"
+    },
+    {
+     "DieAktie": "AIA Group Ltd: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,71",
+     "EPSdiluted": "1,71",
+     "DPS": "0,7",
+     "GUV": "AIA Group Ltd: GuV (in Mio. HKD)",
+     "Turnover": "15,27",
+     "equityratio": "17,71",
+     "deptratio": "82,29"
+    },
+    {
+     "DieAktie": "AIA Group Ltd: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "2,72",
+     "EPSdiluted": "2,72",
+     "DPS": "0,86",
+     "GUV": "AIA Group Ltd: GuV (in Mio. HKD)",
+     "Turnover": "17,1",
+     "equityratio": "19,11",
+     "deptratio": "80,89"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "12.05.17",
+     "Dividende": "0,11"
+    },
+    {
+     "Datum": "06.05.16",
+     "Dividende": "0,09"
+    },
+    {
+     "Datum": "08.05.15",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "09.05.14",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "10.05.13",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "08.05.12",
+     "Dividende": "0,04"
+    }
+   ]
+  },
+  {
+   "name": "Bank of China (Hongkong) Aktie [WKN: 661725 / ISIN: HK2388011192]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Bank_of_China_(Hongkong)",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Bank of China (Hongkong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Bank of China (Hongkong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Bank of China (Hongkong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,53",
+     "EPSdiluted": "1,53",
+     "DPS": "0,97",
+     "GUV": "Bank of China (Hongkong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4,17",
+     "equityratio": "6,93",
+     "deptratio": "93,07"
+    },
+    {
+     "DieAktie": "Bank of China (Hongkong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,93",
+     "EPSdiluted": "1,93",
+     "DPS": "1,19",
+     "GUV": "Bank of China (Hongkong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,18",
+     "equityratio": "7,46",
+     "deptratio": "92,54"
+    },
+    {
+     "DieAktie": "Bank of China (Hongkong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,98",
+     "EPSdiluted": "1,98",
+     "DPS": "1,24",
+     "GUV": "Bank of China (Hongkong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,49",
+     "equityratio": "8,25",
+     "deptratio": "91,75"
+    },
+    {
+     "DieAktie": "Bank of China (Hongkong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,1",
+     "EPSdiluted": "2,1",
+     "DPS": "1,01",
+     "GUV": "Bank of China (Hongkong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,14",
+     "equityratio": "7,76",
+     "deptratio": "92,24"
+    },
+    {
+     "DieAktie": "Bank of China (Hongkong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,32",
+     "EPSdiluted": "2,32",
+     "DPS": "1,12",
+     "GUV": "Bank of China (Hongkong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,94",
+     "equityratio": "8,07",
+     "deptratio": "91,93"
+    },
+    {
+     "DieAktie": "Bank of China (Hongkong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,53",
+     "EPSdiluted": "2,53",
+     "DPS": "1,22",
+     "GUV": "Bank of China (Hongkong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,71",
+     "equityratio": "8,13",
+     "deptratio": "91,87"
+    },
+    {
+     "DieAktie": "Bank of China (Hongkong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "2,42",
+     "EPSdiluted": "2,42",
+     "DPS": "1,17",
+     "GUV": "Bank of China (Hongkong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,41",
+     "equityratio": "9,65",
+     "deptratio": "90,35"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "06.06.17",
+     "Dividende": "1,88"
+    },
+    {
+     "Datum": "06.06.16",
+     "Dividende": "1,22"
+    },
+    {
+     "Datum": "16.06.15",
+     "Dividende": "1,12"
+    },
+    {
+     "Datum": "29.08.13",
+     "Dividende": "1,24"
+    },
+    {
+     "Datum": "29.05.12",
+     "Dividende": "1,19"
+    }
+   ]
+  },
+  {
+   "name": "Bank of China Aktie [WKN DE: A0M4WZ / ISIN: CNE1000001Z5]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Bank_of_China_1",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,45",
+     "EPSdiluted": "0,45",
+     "DPS": "0,18",
+     "GUV": "Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "1,66",
+     "equityratio": "6,16",
+     "deptratio": "93,84"
+    },
+    {
+     "DieAktie": "Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,53",
+     "EPSdiluted": "0,52",
+     "DPS": "0,19",
+     "GUV": "Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "2,11",
+     "equityratio": "6,11",
+     "deptratio": "93,89"
+    },
+    {
+     "DieAktie": "Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,61",
+     "EPSdiluted": "0,59",
+     "DPS": "0,22",
+     "GUV": "Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "2,58",
+     "equityratio": "6,5",
+     "deptratio": "93,5"
+    },
+    {
+     "DieAktie": "Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,71",
+     "EPSdiluted": "0,68",
+     "DPS": "0,25",
+     "GUV": "Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "2,74",
+     "equityratio": "6,66",
+     "deptratio": "93,34"
+    },
+    {
+     "DieAktie": "Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,77",
+     "EPSdiluted": "0,73",
+     "DPS": "0,24",
+     "GUV": "Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "3,18",
+     "equityratio": "7,01",
+     "deptratio": "92,99"
+    },
+    {
+     "DieAktie": "Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,69",
+     "EPSdiluted": "0,69",
+     "DPS": "0,21",
+     "GUV": "Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "3,21",
+     "equityratio": "7,17",
+     "deptratio": "92,83"
+    },
+    {
+     "DieAktie": "Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,63",
+     "EPSdiluted": "0,63",
+     "DPS": "0,19",
+     "GUV": "Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "2,98",
+     "equityratio": "7,23",
+     "deptratio": "92,77"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "29.06.17",
+     "Dividende": "0,17"
+    },
+    {
+     "Datum": "07.06.16",
+     "Dividende": "0,18"
+    },
+    {
+     "Datum": "29.05.15",
+     "Dividende": "0,19"
+    },
+    {
+     "Datum": "12.06.14",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "29.05.13",
+     "Dividende": "0,18"
+    },
+    {
+     "Datum": "30.05.12",
+     "Dividende": "0,16"
+    }
+   ]
+  },
+  {
+   "name": "Bank of Communications Aktie [WKN DE: A0M4W0 / ISIN: CNE100000205]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Bank_of_Communications_1",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Bank of Communications Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Bank of Communications Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Bank of Communications Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,76",
+     "EPSdiluted": "0,76",
+     "DPS": "0,13",
+     "GUV": "Bank of Communications Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "3,2",
+     "equityratio": "5,64",
+     "deptratio": "94,36"
+    },
+    {
+     "DieAktie": "Bank of Communications Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,99",
+     "EPSdiluted": "0,99",
+     "DPS": "0,12",
+     "GUV": "Bank of Communications Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4,26",
+     "equityratio": "5,89",
+     "deptratio": "94,11"
+    },
+    {
+     "DieAktie": "Bank of Communications Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,08",
+     "EPSdiluted": "1,08",
+     "DPS": "0,3",
+     "GUV": "Bank of Communications Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "5,06",
+     "equityratio": "7,2",
+     "deptratio": "92,8"
+    },
+    {
+     "DieAktie": "Bank of Communications Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,06",
+     "EPSdiluted": "1,06",
+     "DPS": "0,33",
+     "GUV": "Bank of Communications Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "5,07",
+     "equityratio": "7,04",
+     "deptratio": "92,96"
+    },
+    {
+     "DieAktie": "Bank of Communications Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,12",
+     "EPSdiluted": "1,12",
+     "DPS": "0,34",
+     "GUV": "Bank of Communications Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "5,61",
+     "equityratio": "7,51",
+     "deptratio": "92,49"
+    },
+    {
+     "DieAktie": "Bank of Communications Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,11",
+     "EPSdiluted": "1,11",
+     "DPS": "0,32",
+     "GUV": "Bank of Communications Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "5,96",
+     "equityratio": "7,27",
+     "deptratio": "92,73"
+    },
+    {
+     "DieAktie": "Bank of Communications Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,04",
+     "EPSdiluted": "1,04",
+     "DPS": "0,32",
+     "GUV": "Bank of Communications Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "5,52",
+     "equityratio": "6,77",
+     "deptratio": "93,23"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "22.06.17",
+     "Dividende": "0,27"
+    },
+    {
+     "Datum": "27.06.16",
+     "Dividende": "0,27"
+    },
+    {
+     "Datum": "25.06.15",
+     "Dividende": "0,27"
+    },
+    {
+     "Datum": "25.06.14",
+     "Dividende": "0,26"
+    },
+    {
+     "Datum": "25.06.13",
+     "Dividende": "0,24"
+    },
+    {
+     "Datum": "28.06.12",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "19.08.10",
+     "Dividende": "0,20"
+    }
+   ]
+  },
+  {
+   "name": "Cathay Pacific Airways Aktie [WKN: 870986 / ISIN: HK0293001514]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Cathay_Pacific_Airways",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Cathay Pacific Airways Ltd. : Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Cathay Pacific Airways Ltd. : GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Cathay Pacific Airways Ltd. : Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "3,57",
+     "EPSdiluted": "3,57",
+     "DPS": "1,11",
+     "GUV": "Cathay Pacific Airways Ltd. : GuV (in Mio. HKD)",
+     "Turnover": "22,76",
+     "equityratio": "42,38",
+     "deptratio": "57,62"
+    },
+    {
+     "DieAktie": "Cathay Pacific Airways Ltd. : Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,4",
+     "EPSdiluted": "1,4",
+     "DPS": "0,52",
+     "GUV": "Cathay Pacific Airways Ltd. : GuV (in Mio. HKD)",
+     "Turnover": "25,01",
+     "equityratio": "40,7",
+     "deptratio": "59,3"
+    },
+    {
+     "DieAktie": "Cathay Pacific Airways Ltd. : Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,23",
+     "DPS": "0,08",
+     "GUV": "Cathay Pacific Airways Ltd. : GuV (in Mio. HKD)",
+     "Turnover": "25,26",
+     "equityratio": "36,89",
+     "deptratio": "63,11"
+    },
+    {
+     "DieAktie": "Cathay Pacific Airways Ltd. : Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,67",
+     "EPSdiluted": "0,67",
+     "DPS": "0,22",
+     "GUV": "Cathay Pacific Airways Ltd. : GuV (in Mio. HKD)",
+     "Turnover": "25,54",
+     "equityratio": "36,65",
+     "deptratio": "63,35"
+    },
+    {
+     "DieAktie": "Cathay Pacific Airways Ltd. : Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,8",
+     "EPSdiluted": "0,8",
+     "DPS": "0,36",
+     "GUV": "Cathay Pacific Airways Ltd. : GuV (in Mio. HKD)",
+     "Turnover": "26,94",
+     "equityratio": "30,08",
+     "deptratio": "69,92"
+    },
+    {
+     "DieAktie": "Cathay Pacific Airways Ltd. : Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,53",
+     "EPSdiluted": "1,53",
+     "DPS": "0,53",
+     "GUV": "Cathay Pacific Airways Ltd. : GuV (in Mio. HKD)",
+     "Turnover": "26,01",
+     "equityratio": "27,73",
+     "deptratio": "72,27"
+    },
+    {
+     "DieAktie": "Cathay Pacific Airways Ltd. : Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,15",
+     "EPSdiluted": "-0,15",
+     "DPS": "0,05",
+     "GUV": "Cathay Pacific Airways Ltd. : GuV (in Mio. HKD)",
+     "Turnover": "23,58",
+     "equityratio": "31,21",
+     "deptratio": "68,79"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "17.05.17",
+     "Dividende": "0,05"
+    },
+    {
+     "Datum": "11.05.16",
+     "Dividende": "0,53"
+    },
+    {
+     "Datum": "20.05.15",
+     "Dividende": "0,36"
+    },
+    {
+     "Datum": "14.05.14",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "08.05.13",
+     "Dividende": "0,08"
+    }
+   ]
+  },
+  {
+   "name": "Cheung Kong Property Aktie [WKN DE: A14T2G / ISIN: KYG2103F1019]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Cheung_Kong_Property",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Cheung Kong Property: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Cheung Kong Property: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Cheung Kong Property: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "4,39",
+     "EPSdiluted": "4,39",
+     "DPS": "-",
+     "GUV": "Cheung Kong Property: GuV (in Mio. HKD)",
+     "Turnover": "5",
+     "equityratio": "41,84",
+     "deptratio": "58,16"
+    },
+    {
+     "DieAktie": "Cheung Kong Property: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "3,67",
+     "EPSdiluted": "3,67",
+     "DPS": "-",
+     "GUV": "Cheung Kong Property: GuV (in Mio. HKD)",
+     "Turnover": "4,43",
+     "equityratio": "47,22",
+     "deptratio": "52,78"
+    },
+    {
+     "DieAktie": "Cheung Kong Property: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "4,42",
+     "EPSdiluted": "4,42",
+     "DPS": "-",
+     "GUV": "Cheung Kong Property: GuV (in Mio. HKD)",
+     "Turnover": "6,4",
+     "equityratio": "52,54",
+     "deptratio": "47,46"
+    },
+    {
+     "DieAktie": "Cheung Kong Property: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "4,43",
+     "EPSdiluted": "4,43",
+     "DPS": "1,4",
+     "GUV": "Cheung Kong Property: GuV (in Mio. HKD)",
+     "Turnover": "15,02",
+     "equityratio": "70,76",
+     "deptratio": "29,24"
+    },
+    {
+     "DieAktie": "Cheung Kong Property: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "5,05",
+     "EPSdiluted": "5,05",
+     "DPS": "1,53",
+     "GUV": "Cheung Kong Property: GuV (in Mio. HKD)",
+     "Turnover": "18,24",
+     "equityratio": "68,09",
+     "deptratio": "31,91"
+    }
+   ]
+  },
+  {
+   "name": "China Construction Bank Aktie [WKN DE: A0M4XF / ISIN: CNE1000002H1]",
+   "URL": "http://www.finanzen.at/bilanz_guv/China_Construction_Bank_1",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "China Construction Bank Corp.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "China Construction Bank Corp.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "China Construction Bank Corp.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,64",
+     "EPSdiluted": "0,64",
+     "DPS": "0,25",
+     "GUV": "China Construction Bank Corp.: GuV (in Mio. HKD)",
+     "Turnover": "2,15",
+     "equityratio": "6,45",
+     "deptratio": "93,55"
+    },
+    {
+     "DieAktie": "China Construction Bank Corp.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,82",
+     "EPSdiluted": "0,82",
+     "DPS": "0,29",
+     "GUV": "China Construction Bank Corp.: GuV (in Mio. HKD)",
+     "Turnover": "2,78",
+     "equityratio": "6,6",
+     "deptratio": "93,4"
+    },
+    {
+     "DieAktie": "China Construction Bank Corp.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,95",
+     "EPSdiluted": "0,95",
+     "DPS": "0,34",
+     "GUV": "China Construction Bank Corp.: GuV (in Mio. HKD)",
+     "Turnover": "3,51",
+     "equityratio": "6,74",
+     "deptratio": "93,26"
+    },
+    {
+     "DieAktie": "China Construction Bank Corp.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,09",
+     "EPSdiluted": "1,09",
+     "DPS": "0,38",
+     "GUV": "China Construction Bank Corp.: GuV (in Mio. HKD)",
+     "Turnover": "3,88",
+     "equityratio": "6,94",
+     "deptratio": "93,06"
+    },
+    {
+     "DieAktie": "China Construction Bank Corp.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,15",
+     "EPSdiluted": "1,15",
+     "DPS": "0,38",
+     "GUV": "China Construction Bank Corp.: GuV (in Mio. HKD)",
+     "Turnover": "4,41",
+     "equityratio": "7,42",
+     "deptratio": "92,58"
+    },
+    {
+     "DieAktie": "China Construction Bank Corp.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,12",
+     "EPSdiluted": "1,12",
+     "DPS": "0,32",
+     "GUV": "China Construction Bank Corp.: GuV (in Mio. HKD)",
+     "Turnover": "4,55",
+     "equityratio": "7,71",
+     "deptratio": "92,29"
+    },
+    {
+     "DieAktie": "China Construction Bank Corp.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,07",
+     "EPSdiluted": "1,07",
+     "DPS": "0,32",
+     "GUV": "China Construction Bank Corp.: GuV (in Mio. HKD)",
+     "Turnover": "4,08",
+     "equityratio": "7,43",
+     "deptratio": "92,57"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "17.06.16",
+     "Dividende": "0,27"
+    },
+    {
+     "Datum": "16.06.15",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "26.06.14",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "24.06.10",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "26.03.09",
+     "Dividende": "0,19"
+    }
+   ]
+  },
+  {
+   "name": "China Life Insurance Aktie [WKN DE: A0M4XJ / ISIN: CNE1000002L3]",
+   "URL": "http://www.finanzen.at/bilanz_guv/China_Life_Insurance",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "China Life Insurance Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "China Life Insurance Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "China Life Insurance Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,37",
+     "EPSdiluted": "1,37",
+     "DPS": "0,48",
+     "GUV": "China Life Insurance Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "15,73",
+     "equityratio": "14,76",
+     "deptratio": "85,24"
+    },
+    {
+     "DieAktie": "China Life Insurance Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,78",
+     "EPSdiluted": "0,78",
+     "DPS": "0,28",
+     "GUV": "China Life Insurance Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "16,35",
+     "equityratio": "12,01",
+     "deptratio": "87,99"
+    },
+    {
+     "DieAktie": "China Life Insurance Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,48",
+     "EPSdiluted": "0,48",
+     "DPS": "0,18",
+     "GUV": "China Life Insurance Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "17,5",
+     "equityratio": "11,6",
+     "deptratio": "88,4"
+    },
+    {
+     "DieAktie": "China Life Insurance Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,11",
+     "EPSdiluted": "1,11",
+     "DPS": "0,38",
+     "GUV": "China Life Insurance Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "18,79",
+     "equityratio": "11,12",
+     "deptratio": "88,88"
+    },
+    {
+     "DieAktie": "China Life Insurance Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,43",
+     "EPSdiluted": "1,43",
+     "DPS": "0,51",
+     "GUV": "China Life Insurance Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "19,5",
+     "equityratio": "12,62",
+     "deptratio": "87,38"
+    },
+    {
+     "DieAktie": "China Life Insurance Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,5",
+     "EPSdiluted": "1,5",
+     "DPS": "0,5",
+     "GUV": "China Life Insurance Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "22,24",
+     "equityratio": "13,11",
+     "deptratio": "86,89"
+    },
+    {
+     "DieAktie": "China Life Insurance Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,77",
+     "EPSdiluted": "0,77",
+     "DPS": "0,27",
+     "GUV": "China Life Insurance Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "22,64",
+     "equityratio": "11,24",
+     "deptratio": "88,76"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "31.05.17",
+     "Dividende": "0,24"
+    },
+    {
+     "Datum": "30.05.16",
+     "Dividende": "0,42"
+    },
+    {
+     "Datum": "07.05.15",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "29.05.14",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "05.06.13",
+     "Dividende": "0,14"
+    },
+    {
+     "Datum": "04.06.10",
+     "Dividende": "0,70"
+    }
+   ]
+  },
+  {
+   "name": "China Mengniu Dairy Aktie [WKN: A0B5T9 / ISIN: KYG210961051]",
+   "URL": "http://www.finanzen.at/bilanz_guv/China_Mengniu_Dairy",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "China Mengniu Dairy Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "China Mengniu Dairy Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "China Mengniu Dairy Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,41",
+     "EPSdiluted": "0,41",
+     "DPS": "0,1",
+     "GUV": "China Mengniu Dairy Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "9,98",
+     "equityratio": "56,39",
+     "deptratio": "43,61"
+    },
+    {
+     "DieAktie": "China Mengniu Dairy Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,55",
+     "EPSdiluted": "0,54",
+     "DPS": "0,12",
+     "GUV": "China Mengniu Dairy Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "12,82",
+     "equityratio": "56,78",
+     "deptratio": "43,22"
+    },
+    {
+     "DieAktie": "China Mengniu Dairy Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,44",
+     "EPSdiluted": "0,44",
+     "DPS": "0,1",
+     "GUV": "China Mengniu Dairy Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "12,54",
+     "equityratio": "59,28",
+     "deptratio": "40,72"
+    },
+    {
+     "DieAktie": "China Mengniu Dairy Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,57",
+     "EPSdiluted": "0,57",
+     "DPS": "0,13",
+     "GUV": "China Mengniu Dairy Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "15,03",
+     "equityratio": "38,08",
+     "deptratio": "61,92"
+    },
+    {
+     "DieAktie": "China Mengniu Dairy Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,76",
+     "EPSdiluted": "0,76",
+     "DPS": "0,18",
+     "GUV": "China Mengniu Dairy Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "16,11",
+     "equityratio": "45,64",
+     "deptratio": "54,36"
+    },
+    {
+     "DieAktie": "China Mengniu Dairy Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,75",
+     "EPSdiluted": "0,75",
+     "DPS": "0,17",
+     "GUV": "China Mengniu Dairy Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "15,52",
+     "equityratio": "43,7",
+     "deptratio": "56,3"
+    },
+    {
+     "DieAktie": "China Mengniu Dairy Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,23",
+     "EPSdiluted": "-0,23",
+     "DPS": "0,1",
+     "GUV": "China Mengniu Dairy Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "16,17",
+     "equityratio": "42,43",
+     "deptratio": "57,57"
+    }
+   ]
+  },
+  {
+   "name": "China Merchants Aktie [WKN: 884558 / ISIN: HK0144000764]",
+   "URL": "http://www.finanzen.at/bilanz_guv/China_Merchants",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "China Merchants Holdings (International) Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "China Merchants Holdings (International) Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "China Merchants Holdings (International) Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "2,39",
+     "EPSdiluted": "2,39",
+     "DPS": "1,03",
+     "GUV": "China Merchants Holdings (International) Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "2,36",
+     "equityratio": "49,83",
+     "deptratio": "50,17"
+    },
+    {
+     "DieAktie": "China Merchants Holdings (International) Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,25",
+     "EPSdiluted": "2,25",
+     "DPS": "0,98",
+     "GUV": "China Merchants Holdings (International) Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "3,82",
+     "equityratio": "49,84",
+     "deptratio": "50,16"
+    },
+    {
+     "DieAktie": "China Merchants Holdings (International) Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,53",
+     "EPSdiluted": "1,53",
+     "DPS": "0,7",
+     "GUV": "China Merchants Holdings (International) Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4,42",
+     "equityratio": "58,79",
+     "deptratio": "41,21"
+    },
+    {
+     "DieAktie": "China Merchants Holdings (International) Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,67",
+     "EPSdiluted": "1,67",
+     "DPS": "0,77",
+     "GUV": "China Merchants Holdings (International) Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "3,07",
+     "equityratio": "54,49",
+     "deptratio": "45,51"
+    },
+    {
+     "DieAktie": "China Merchants Holdings (International) Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,59",
+     "EPSdiluted": "1,59",
+     "DPS": "0,77",
+     "GUV": "China Merchants Holdings (International) Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "2,91",
+     "equityratio": "50,91",
+     "deptratio": "49,09"
+    },
+    {
+     "DieAktie": "China Merchants Holdings (International) Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,55",
+     "EPSdiluted": "1,55",
+     "DPS": "0,77",
+     "GUV": "China Merchants Holdings (International) Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "2,65",
+     "equityratio": "52,37",
+     "deptratio": "47,63"
+    },
+    {
+     "DieAktie": "China Merchants Holdings (International) Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,76",
+     "EPSdiluted": "1,76",
+     "DPS": "0,87",
+     "GUV": "China Merchants Holdings (International) Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "2,55",
+     "equityratio": "49,16",
+     "deptratio": "50,84"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "21.04.16",
+     "Dividende": "0,77"
+    },
+    {
+     "Datum": "27.05.15",
+     "Dividende": "0,77"
+    },
+    {
+     "Datum": "29.04.13",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "30.08.12",
+     "Dividende": "0,98"
+    }
+   ]
+  },
+  {
+   "name": "China Mobile (Hong Kong) Aktie [WKN: 909622 / ISIN: HK0941009539]",
+   "URL": "http://www.finanzen.at/bilanz_guv/China_Mobile",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "China Mobile (Hong Kong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "China Mobile (Hong Kong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "China Mobile (Hong Kong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "6,84",
+     "EPSdiluted": "6,76",
+     "DPS": "3,01",
+     "GUV": "China Mobile (Hong Kong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "27,41",
+     "equityratio": "66,84",
+     "deptratio": "33,16"
+    },
+    {
+     "DieAktie": "China Mobile (Hong Kong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "7,55",
+     "EPSdiluted": "7,47",
+     "DPS": "3,33",
+     "GUV": "China Mobile (Hong Kong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "31,3",
+     "equityratio": "68,14",
+     "deptratio": "31,86"
+    },
+    {
+     "DieAktie": "China Mobile (Hong Kong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "7,9",
+     "EPSdiluted": "7,82",
+     "DPS": "3,41",
+     "GUV": "China Mobile (Hong Kong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "33,87",
+     "equityratio": "68,76",
+     "deptratio": "31,24"
+    },
+    {
+     "DieAktie": "China Mobile (Hong Kong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "7,63",
+     "EPSdiluted": "7,55",
+     "DPS": "3,31",
+     "GUV": "China Mobile (Hong Kong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "39,08",
+     "equityratio": "67,57",
+     "deptratio": "32,43"
+    },
+    {
+     "DieAktie": "China Mobile (Hong Kong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "6,77",
+     "EPSdiluted": "6,73",
+     "DPS": "2,92",
+     "GUV": "China Mobile (Hong Kong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "39,56",
+     "equityratio": "66,07",
+     "deptratio": "33,93"
+    },
+    {
+     "DieAktie": "China Mobile (Hong Kong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "6,54",
+     "EPSdiluted": "6,54",
+     "DPS": "2,72",
+     "GUV": "China Mobile (Hong Kong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "40,25",
+     "equityratio": "64,24",
+     "deptratio": "35,76"
+    },
+    {
+     "DieAktie": "China Mobile (Hong Kong) Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "6,2",
+     "EPSdiluted": "6,2",
+     "DPS": "2,73",
+     "GUV": "China Mobile (Hong Kong) Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "40,43",
+     "equityratio": "64,37",
+     "deptratio": "35,63"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "27.05.17",
+     "Dividende": "2,73"
+    },
+    {
+     "Datum": "26.05.16",
+     "Dividende": "2,72"
+    },
+    {
+     "Datum": "28.05.15",
+     "Dividende": "2,33"
+    },
+    {
+     "Datum": "22.05.14",
+     "Dividende": "2,58"
+    },
+    {
+     "Datum": "20.05.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "30.05.13",
+     "Dividende": "2,74"
+    },
+    {
+     "Datum": "16.05.12",
+     "Dividende": "2,70"
+    },
+    {
+     "Datum": "19.05.11",
+     "Dividende": "2,56"
+    },
+    {
+     "Datum": "12.05.10",
+     "Dividende": "2,47"
+    }
+   ]
+  },
+  {
+   "name": "China Overseas Land & Investment Aktie [WKN: 884705 / ISIN: HK0688002218]",
+   "URL": "http://www.finanzen.at/bilanz_guv/China_Overseas_LandInvestment",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "China Overseas Land & Investment LtdShs: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "China Overseas Land & Investment LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "China Overseas Land & Investment LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,51",
+     "EPSdiluted": "1,51",
+     "DPS": "0,27",
+     "GUV": "China Overseas Land & Investment LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "5,53",
+     "equityratio": "33,74",
+     "deptratio": "66,26"
+    },
+    {
+     "DieAktie": "China Overseas Land & Investment LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,84",
+     "EPSdiluted": "1,84",
+     "DPS": "0,33",
+     "GUV": "China Overseas Land & Investment LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "6,04",
+     "equityratio": "39,96",
+     "deptratio": "60,04"
+    },
+    {
+     "DieAktie": "China Overseas Land & Investment LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,29",
+     "EPSdiluted": "2,29",
+     "DPS": "0,39",
+     "GUV": "China Overseas Land & Investment LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "7,95",
+     "equityratio": "37,96",
+     "deptratio": "62,04"
+    },
+    {
+     "DieAktie": "China Overseas Land & Investment LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,82",
+     "EPSdiluted": "2,81",
+     "DPS": "0,47",
+     "GUV": "China Overseas Land & Investment LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "10,2",
+     "equityratio": "37,09",
+     "deptratio": "62,91"
+    },
+    {
+     "DieAktie": "China Overseas Land & Investment LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "3,39",
+     "EPSdiluted": "3,39",
+     "DPS": "0,55",
+     "GUV": "China Overseas Land & Investment LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "14,87",
+     "equityratio": "37,99",
+     "deptratio": "62,01"
+    },
+    {
+     "DieAktie": "China Overseas Land & Investment LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "3,61",
+     "EPSdiluted": "3,61",
+     "DPS": "0,61",
+     "GUV": "China Overseas Land & Investment LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "15,34",
+     "equityratio": "44,84",
+     "deptratio": "55,16"
+    },
+    {
+     "DieAktie": "China Overseas Land & Investment LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "3,64",
+     "EPSdiluted": "3,64",
+     "DPS": "0,77",
+     "GUV": "China Overseas Land & Investment LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "15,87",
+     "equityratio": "38,9",
+     "deptratio": "61,1"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "12.06.17",
+     "Dividende": "0,77"
+    },
+    {
+     "Datum": "06.05.16",
+     "Dividende": "0,92"
+    },
+    {
+     "Datum": "16.06.15",
+     "Dividende": "0,55"
+    },
+    {
+     "Datum": "30.05.14",
+     "Dividende": "0,47"
+    },
+    {
+     "Datum": "30.05.13",
+     "Dividende": "0,39"
+    },
+    {
+     "Datum": "18.03.13",
+     "Dividende": "0,39"
+    },
+    {
+     "Datum": "30.05.12",
+     "Dividende": "0,33"
+    },
+    {
+     "Datum": "27.05.11",
+     "Dividende": "0,27"
+    },
+    {
+     "Datum": "09.06.10",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "27.05.09",
+     "Dividende": "0,13"
+    }
+   ]
+  },
+  {
+   "name": "China Petroleum & Chemical (Sinopec) Aktie [WKN DE: A0M4XN / ISIN: CNE1000002Q2]",
+   "URL": "http://www.finanzen.at/bilanz_guv/China_Petroleum_Chemical",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "China Petroleum & Chemical (Sinopec): Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "China Petroleum & Chemical (Sinopec): GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "China Petroleum & Chemical (Sinopec): Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,72",
+     "EPSdiluted": "0,71",
+     "DPS": "0,19",
+     "GUV": "China Petroleum & Chemical (Sinopec): GuV (in Mio. HKD)",
+     "Turnover": "18,05",
+     "equityratio": "42,52",
+     "deptratio": "57,48"
+    },
+    {
+     "DieAktie": "China Petroleum & Chemical (Sinopec): Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,77",
+     "EPSdiluted": "0,74",
+     "DPS": "0,28",
+     "GUV": "China Petroleum & Chemical (Sinopec): GuV (in Mio. HKD)",
+     "Turnover": "23,89",
+     "equityratio": "41,64",
+     "deptratio": "58,36"
+    },
+    {
+     "DieAktie": "China Petroleum & Chemical (Sinopec): Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,69",
+     "EPSdiluted": "0,67",
+     "DPS": "0,29",
+     "GUV": "China Petroleum & Chemical (Sinopec): GuV (in Mio. HKD)",
+     "Turnover": "26,97",
+     "equityratio": "40,62",
+     "deptratio": "59,38"
+    },
+    {
+     "DieAktie": "China Petroleum & Chemical (Sinopec): Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,73",
+     "EPSdiluted": "0,69",
+     "DPS": "0,3",
+     "GUV": "China Petroleum & Chemical (Sinopec): GuV (in Mio. HKD)",
+     "Turnover": "27,85",
+     "equityratio": "41,24",
+     "deptratio": "58,76"
+    },
+    {
+     "DieAktie": "China Petroleum & Chemical (Sinopec): Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,51",
+     "EPSdiluted": "0,51",
+     "DPS": "0,25",
+     "GUV": "China Petroleum & Chemical (Sinopec): GuV (in Mio. HKD)",
+     "Turnover": "28,28",
+     "equityratio": "40,96",
+     "deptratio": "59,04"
+    },
+    {
+     "DieAktie": "China Petroleum & Chemical (Sinopec): Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,33",
+     "EPSdiluted": "0,33",
+     "DPS": "0,18",
+     "GUV": "China Petroleum & Chemical (Sinopec): GuV (in Mio. HKD)",
+     "Turnover": "18,19",
+     "equityratio": "46,5",
+     "deptratio": "53,5"
+    },
+    {
+     "DieAktie": "China Petroleum & Chemical (Sinopec): Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,45",
+     "EPSdiluted": "0,45",
+     "DPS": "0,29",
+     "GUV": "China Petroleum & Chemical (Sinopec): GuV (in Mio. HKD)",
+     "Turnover": "16,4",
+     "equityratio": "47,29",
+     "deptratio": "52,71"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "19.05.16",
+     "Dividende": "0,15"
+    },
+    {
+     "Datum": "25.02.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "12.05.15",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "09.05.14",
+     "Dividende": "0,24"
+    },
+    {
+     "Datum": "23.05.13",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "11.05.12",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "07.04.09",
+     "Dividende": "0,12"
+    }
+   ]
+  },
+  {
+   "name": "China Resources Land Aktie [WKN: 903621 / ISIN: KYG2108Y1052]",
+   "URL": "http://www.finanzen.at/bilanz_guv/China_Resources_Land",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "China Resources Land Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "China Resources Land Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "China Resources Land Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,16",
+     "EPSdiluted": "1,15",
+     "DPS": "0,3",
+     "GUV": "China Resources Land Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4,96",
+     "equityratio": "36,55",
+     "deptratio": "63,45"
+    },
+    {
+     "DieAktie": "China Resources Land Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,43",
+     "EPSdiluted": "1,42",
+     "DPS": "0,25",
+     "GUV": "China Resources Land Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,49",
+     "equityratio": "33,4",
+     "deptratio": "66,6"
+    },
+    {
+     "DieAktie": "China Resources Land Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,76",
+     "EPSdiluted": "1,76",
+     "DPS": "0,33",
+     "GUV": "China Resources Land Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "7,42",
+     "equityratio": "30,28",
+     "deptratio": "69,72"
+    },
+    {
+     "DieAktie": "China Resources Land Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,44",
+     "EPSdiluted": "2,44",
+     "DPS": "0,42",
+     "GUV": "China Resources Land Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "11,94",
+     "equityratio": "30,1",
+     "deptratio": "69,9"
+    },
+    {
+     "DieAktie": "China Resources Land Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,44",
+     "EPSdiluted": "2,44",
+     "DPS": "0,49",
+     "GUV": "China Resources Land Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "14,81",
+     "equityratio": "29,23",
+     "deptratio": "70,77"
+    },
+    {
+     "DieAktie": "China Resources Land Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,59",
+     "EPSdiluted": "2,59",
+     "DPS": "0,57",
+     "GUV": "China Resources Land Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "15,49",
+     "equityratio": "29,54",
+     "deptratio": "70,46"
+    },
+    {
+     "DieAktie": "China Resources Land Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "2,81",
+     "EPSdiluted": "2,81",
+     "DPS": "0,7",
+     "GUV": "China Resources Land Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "16,06",
+     "equityratio": "27,27",
+     "deptratio": "72,73"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "02.06.17",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "28.04.16",
+     "Dividende": "0,57"
+    },
+    {
+     "Datum": "03.06.15",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "05.06.14",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "05.06.13",
+     "Dividende": "0,34"
+    },
+    {
+     "Datum": "17.08.12",
+     "Dividende": "0,26"
+    }
+   ]
+  },
+  {
+   "name": "China Resources Power Aktie [WKN: 784581 / ISIN: HK0836012952]",
+   "URL": "http://www.finanzen.at/bilanz_guv/China_Resources_Power",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "China Resources Power Holdings Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "China Resources Power Holdings Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "China Resources Power Holdings Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,05",
+     "EPSdiluted": "1,04",
+     "DPS": "0,33",
+     "GUV": "China Resources Power Holdings Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "10,27",
+     "equityratio": "29,48",
+     "deptratio": "70,52"
+    },
+    {
+     "DieAktie": "China Resources Power Holdings Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,95",
+     "EPSdiluted": "0,94",
+     "DPS": "0,3",
+     "GUV": "China Resources Power Holdings Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "12,81",
+     "equityratio": "28,2",
+     "deptratio": "71,8"
+    },
+    {
+     "DieAktie": "China Resources Power Holdings Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,59",
+     "EPSdiluted": "1,58",
+     "DPS": "0,51",
+     "GUV": "China Resources Power Holdings Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "13,16",
+     "equityratio": "30,4",
+     "deptratio": "69,6"
+    },
+    {
+     "DieAktie": "China Resources Power Holdings Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,32",
+     "EPSdiluted": "2,31",
+     "DPS": "0,75",
+     "GUV": "China Resources Power Holdings Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "14,61",
+     "equityratio": "30,39",
+     "deptratio": "69,61"
+    },
+    {
+     "DieAktie": "China Resources Power Holdings Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,94",
+     "EPSdiluted": "1,93",
+     "DPS": "0,78",
+     "GUV": "China Resources Power Holdings Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "14,82",
+     "equityratio": "31,37",
+     "deptratio": "68,63"
+    },
+    {
+     "DieAktie": "China Resources Power Holdings Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,1",
+     "EPSdiluted": "2,1",
+     "DPS": "0,85",
+     "GUV": "China Resources Power Holdings Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "14,97",
+     "equityratio": "34,08",
+     "deptratio": "65,92"
+    },
+    {
+     "DieAktie": "China Resources Power Holdings Co LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,62",
+     "EPSdiluted": "1,61",
+     "DPS": "0,88",
+     "GUV": "China Resources Power Holdings Co LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "13,87",
+     "equityratio": "34,49",
+     "deptratio": "65,51"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "08.06.17",
+     "Dividende": "0,88"
+    },
+    {
+     "Datum": "06.06.16",
+     "Dividende": "0,85"
+    },
+    {
+     "Datum": "10.06.15",
+     "Dividende": "0,70"
+    },
+    {
+     "Datum": "08.06.15",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "06.06.15",
+     "Dividende": "0,78"
+    },
+    {
+     "Datum": "10.06.14",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "07.06.13",
+     "Dividende": "0,51"
+    },
+    {
+     "Datum": "20.08.12",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "08.06.10",
+     "Dividende": "0,32"
+    }
+   ]
+  },
+  {
+   "name": "China Unicom Aktie [WKN DE: A0RBTQ / ISIN: HK0000049939]",
+   "URL": "http://www.finanzen.at/bilanz_guv/China_Unicom",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "China Unicom: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "China Unicom: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "China Unicom: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,18",
+     "EPSdiluted": "0,18",
+     "DPS": "0,1",
+     "GUV": "China Unicom: GuV (in Mio. HKD)",
+     "Turnover": "8,3",
+     "equityratio": "46,42",
+     "deptratio": "53,58"
+    },
+    {
+     "DieAktie": "China Unicom: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,22",
+     "DPS": "0,12",
+     "GUV": "China Unicom: GuV (in Mio. HKD)",
+     "Turnover": "10,59",
+     "equityratio": "44,94",
+     "deptratio": "55,06"
+    },
+    {
+     "DieAktie": "China Unicom: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,37",
+     "EPSdiluted": "0,37",
+     "DPS": "0,15",
+     "GUV": "China Unicom: GuV (in Mio. HKD)",
+     "Turnover": "12,41",
+     "equityratio": "40,44",
+     "deptratio": "59,56"
+    },
+    {
+     "DieAktie": "China Unicom: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,56",
+     "EPSdiluted": "0,54",
+     "DPS": "0,2",
+     "GUV": "China Unicom: GuV (in Mio. HKD)",
+     "Turnover": "15,1",
+     "equityratio": "41,23",
+     "deptratio": "58,77"
+    },
+    {
+     "DieAktie": "China Unicom: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,64",
+     "EPSdiluted": "0,62",
+     "DPS": "0,25",
+     "GUV": "China Unicom: GuV (in Mio. HKD)",
+     "Turnover": "14,45",
+     "equityratio": "41,56",
+     "deptratio": "58,44"
+    },
+    {
+     "DieAktie": "China Unicom: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,54",
+     "EPSdiluted": "0,54",
+     "DPS": "0,2",
+     "GUV": "China Unicom: GuV (in Mio. HKD)",
+     "Turnover": "14,27",
+     "equityratio": "37,82",
+     "deptratio": "62,18"
+    },
+    {
+     "DieAktie": "China Unicom: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,04",
+     "EPSdiluted": "0,04",
+     "DPS": "-",
+     "GUV": "China Unicom: GuV (in Mio. HKD)",
+     "Turnover": "13,38",
+     "equityratio": "36,83",
+     "deptratio": "63,17"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "10.05.17",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "12.05.16",
+     "Dividende": "0,17"
+    },
+    {
+     "Datum": "08.05.15",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "16.04.14",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "21.05.13",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "29.05.12",
+     "Dividende": "0,10"
+    },
+    {
+     "Datum": "24.05.11",
+     "Dividende": "0,08"
+    },
+    {
+     "Datum": "12.05.10",
+     "Dividende": "0,16"
+    }
+   ]
+  },
+  {
+   "name": "CITIC Pacific Aktie [WKN: 870564 / ISIN: HK0267001375]",
+   "URL": "http://www.finanzen.at/bilanz_guv/CITIC_Pacific",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "CITIC Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "CITIC Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "CITIC Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "2,44",
+     "EPSdiluted": "2,44",
+     "DPS": "0,45",
+     "GUV": "CITIC Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "19,35",
+     "equityratio": "35,39",
+     "deptratio": "64,61"
+    },
+    {
+     "DieAktie": "CITIC Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,71",
+     "EPSdiluted": "2,71",
+     "DPS": "0,45",
+     "GUV": "CITIC Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "27,43",
+     "equityratio": "35,24",
+     "deptratio": "64,76"
+    },
+    {
+     "DieAktie": "CITIC Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,16",
+     "EPSdiluted": "2,16",
+     "DPS": "0,45",
+     "GUV": "CITIC Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "25,56",
+     "equityratio": "34,23",
+     "deptratio": "65,77"
+    },
+    {
+     "DieAktie": "CITIC Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,52",
+     "EPSdiluted": "1,52",
+     "DPS": "0,35",
+     "GUV": "CITIC Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "24,12",
+     "equityratio": "38",
+     "deptratio": "62"
+    },
+    {
+     "DieAktie": "CITIC Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,6",
+     "EPSdiluted": "1,6",
+     "DPS": "0,22",
+     "GUV": "CITIC Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "16,15",
+     "equityratio": "7,26",
+     "deptratio": "92,74"
+    },
+    {
+     "DieAktie": "CITIC Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,58",
+     "EPSdiluted": "1,57",
+     "DPS": "0,3",
+     "GUV": "CITIC Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "15,66",
+     "equityratio": "7,04",
+     "deptratio": "92,96"
+    },
+    {
+     "DieAktie": "CITIC Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,93",
+     "EPSdiluted": "0,93",
+     "DPS": "0,33",
+     "GUV": "CITIC Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "13,09",
+     "equityratio": "6,67",
+     "deptratio": "93,33"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "13.06.17",
+     "Dividende": "0,33"
+    },
+    {
+     "Datum": "08.06.16",
+     "Dividende": "0,30"
+    },
+    {
+     "Datum": "02.06.15",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "14.05.14",
+     "Dividende": "0,35"
+    },
+    {
+     "Datum": "16.05.13",
+     "Dividende": "0,45"
+    },
+    {
+     "Datum": "18.05.12",
+     "Dividende": "0,45"
+    },
+    {
+     "Datum": "14.05.10",
+     "Dividende": "0,40"
+    },
+    {
+     "Datum": "25.05.09",
+     "Dividende": "0,30"
+    }
+   ]
+  },
+  {
+   "name": "CK Hutchison Aktie [WKN DE: A14QAZ / ISIN: KYG217651051]",
+   "URL": "http://www.finanzen.at/bilanz_guv/CK_Hutchison",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "CK Hutchison Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "CK Hutchison Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "CK Hutchison Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "11,43",
+     "EPSdiluted": "11,43",
+     "DPS": "2,95",
+     "GUV": "CK Hutchison Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "10,65",
+     "equityratio": "80,85",
+     "deptratio": "19,15"
+    },
+    {
+     "DieAktie": "CK Hutchison Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "19,88",
+     "EPSdiluted": "19,88",
+     "DPS": "3,16",
+     "GUV": "CK Hutchison Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "14,75",
+     "equityratio": "82,11",
+     "deptratio": "17,89"
+    },
+    {
+     "DieAktie": "CK Hutchison Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "13,88",
+     "EPSdiluted": "13,88",
+     "DPS": "3,16",
+     "GUV": "CK Hutchison Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "8,48",
+     "equityratio": "82,12",
+     "deptratio": "17,88"
+    },
+    {
+     "DieAktie": "CK Hutchison Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "15,22",
+     "EPSdiluted": "15,22",
+     "DPS": "3,48",
+     "GUV": "CK Hutchison Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "8,1",
+     "equityratio": "86,22",
+     "deptratio": "13,78"
+    },
+    {
+     "DieAktie": "CK Hutchison Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "23,26",
+     "EPSdiluted": "23,26",
+     "DPS": "3,65",
+     "GUV": "CK Hutchison Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "11,39",
+     "equityratio": "86,07",
+     "deptratio": "13,93"
+    },
+    {
+     "DieAktie": "CK Hutchison Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "14,23",
+     "EPSdiluted": "14,23",
+     "DPS": "2,55",
+     "GUV": "CK Hutchison Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "51,91",
+     "equityratio": "38,09",
+     "deptratio": "61,91"
+    },
+    {
+     "DieAktie": "CK Hutchison Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "8,55",
+     "EPSdiluted": "8,55",
+     "DPS": "2,68",
+     "GUV": "CK Hutchison Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "67,33",
+     "equityratio": "38,89",
+     "deptratio": "61,11"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "11.05.17",
+     "Dividende": "2,68"
+    },
+    {
+     "Datum": "13.05.16",
+     "Dividende": "2,55"
+    },
+    {
+     "Datum": "23.06.15",
+     "Dividende": "3,65"
+    },
+    {
+     "Datum": "16.05.14",
+     "Dividende": "3,48"
+    },
+    {
+     "Datum": "21.05.13",
+     "Dividende": "3,16"
+    },
+    {
+     "Datum": "02.08.12",
+     "Dividende": "3,16"
+    }
+   ]
+  },
+  {
+   "name": "CLP Aktie [WKN: 861336 / ISIN: HK0002007356]",
+   "URL": "http://www.finanzen.at/bilanz_guv/CLP",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "CLP Holdings: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "CLP Holdings: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "CLP Holdings: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "4,29",
+     "EPSdiluted": "4,29",
+     "DPS": "2,48",
+     "GUV": "CLP Holdings: GuV (in Mio. HKD)",
+     "Turnover": "24,28",
+     "equityratio": "44,42",
+     "deptratio": "55,58"
+    },
+    {
+     "DieAktie": "CLP Holdings: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "3,86",
+     "EPSdiluted": "3,86",
+     "DPS": "2,52",
+     "GUV": "CLP Holdings: GuV (in Mio. HKD)",
+     "Turnover": "38,08",
+     "equityratio": "37,92",
+     "deptratio": "62,08"
+    },
+    {
+     "DieAktie": "CLP Holdings: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "3,45",
+     "EPSdiluted": "3,45",
+     "DPS": "2,57",
+     "GUV": "CLP Holdings: GuV (in Mio. HKD)",
+     "Turnover": "43,51",
+     "equityratio": "39,84",
+     "deptratio": "60,16"
+    },
+    {
+     "DieAktie": "CLP Holdings: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,4",
+     "EPSdiluted": "2,4",
+     "DPS": "2,57",
+     "GUV": "CLP Holdings: GuV (in Mio. HKD)",
+     "Turnover": "41,37",
+     "equityratio": "40,9",
+     "deptratio": "59,1"
+    },
+    {
+     "DieAktie": "CLP Holdings: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "4,44",
+     "EPSdiluted": "4,44",
+     "DPS": "2,62",
+     "GUV": "CLP Holdings: GuV (in Mio. HKD)",
+     "Turnover": "36,52",
+     "equityratio": "43,7",
+     "deptratio": "56,3"
+    },
+    {
+     "DieAktie": "CLP Holdings: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "6,2",
+     "EPSdiluted": "6,2",
+     "DPS": "2,7",
+     "GUV": "CLP Holdings: GuV (in Mio. HKD)",
+     "Turnover": "31,94",
+     "equityratio": "45,65",
+     "deptratio": "54,35"
+    },
+    {
+     "DieAktie": "CLP Holdings: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "5,03",
+     "EPSdiluted": "5,03",
+     "DPS": "2,8",
+     "GUV": "CLP Holdings: GuV (in Mio. HKD)",
+     "Turnover": "31,44",
+     "equityratio": "47,58",
+     "deptratio": "52,42"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "05.05.17",
+     "Dividende": "2,80"
+    },
+    {
+     "Datum": "25.04.16",
+     "Dividende": "2,70"
+    },
+    {
+     "Datum": "07.05.15",
+     "Dividende": "2,62"
+    },
+    {
+     "Datum": "08.05.14",
+     "Dividende": "2,57"
+    },
+    {
+     "Datum": "30.04.13",
+     "Dividende": "2,57"
+    },
+    {
+     "Datum": "08.05.12",
+     "Dividende": "2,52"
+    }
+   ]
+  },
+  {
+   "name": "CNOOC Aktie [WKN: A0B846 / ISIN: HK0883013259]",
+   "URL": "http://www.finanzen.at/bilanz_guv/CNOOC",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "CNOOC Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "CNOOC Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "CNOOC Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,4",
+     "EPSdiluted": "1,39",
+     "DPS": "0,46",
+     "GUV": "CNOOC Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4,69",
+     "equityratio": "65,09",
+     "deptratio": "34,91"
+    },
+    {
+     "DieAktie": "CNOOC Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,89",
+     "EPSdiluted": "1,89",
+     "DPS": "0,53",
+     "GUV": "CNOOC Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "5,61",
+     "equityratio": "66,96",
+     "deptratio": "33,04"
+    },
+    {
+     "DieAktie": "CNOOC Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,76",
+     "EPSdiluted": "1,75",
+     "DPS": "0,47",
+     "GUV": "CNOOC Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,07",
+     "equityratio": "67,92",
+     "deptratio": "32,08"
+    },
+    {
+     "DieAktie": "CNOOC Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,59",
+     "EPSdiluted": "1,59",
+     "DPS": "0,57",
+     "GUV": "CNOOC Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "7,39",
+     "equityratio": "54,97",
+     "deptratio": "45,03"
+    },
+    {
+     "DieAktie": "CNOOC Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,7",
+     "EPSdiluted": "1,7",
+     "DPS": "0,57",
+     "GUV": "CNOOC Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "7,19",
+     "equityratio": "55,87",
+     "deptratio": "44,13"
+    },
+    {
+     "DieAktie": "CNOOC Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,56",
+     "EPSdiluted": "0,56",
+     "DPS": "0,5",
+     "GUV": "CNOOC Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4,73",
+     "equityratio": "58,11",
+     "deptratio": "41,89"
+    },
+    {
+     "DieAktie": "CNOOC Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,01",
+     "EPSdiluted": "0,01",
+     "DPS": "0,35",
+     "GUV": "CNOOC Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "3,83",
+     "equityratio": "59,96",
+     "deptratio": "40,04"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "26.05.17",
+     "Dividende": "0,35"
+    },
+    {
+     "Datum": "26.05.16",
+     "Dividende": "0,42"
+    },
+    {
+     "Datum": "21.05.15",
+     "Dividende": "0,46"
+    },
+    {
+     "Datum": "23.05.14",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "24.05.13",
+     "Dividende": "0,37"
+    },
+    {
+     "Datum": "25.05.12",
+     "Dividende": "0,33"
+    },
+    {
+     "Datum": "20.05.10",
+     "Dividende": "0,35"
+    },
+    {
+     "Datum": "27.05.09",
+     "Dividende": "0,33"
+    }
+   ]
+  },
+  {
+   "name": "Galaxy Entertainment Group Aktie [WKN: A0HHH9 / ISIN: HK0027032686]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Galaxy_Entertainment_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Galaxy Entertainment Group LtdShs: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Galaxy Entertainment Group LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Galaxy Entertainment Group LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,23",
+     "DPS": "0",
+     "GUV": "Galaxy Entertainment Group LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "4,84",
+     "equityratio": "36,52",
+     "deptratio": "63,48"
+    },
+    {
+     "DieAktie": "Galaxy Entertainment Group LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,73",
+     "EPSdiluted": "0,71",
+     "DPS": "0",
+     "GUV": "Galaxy Entertainment Group LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "9,79",
+     "equityratio": "39,77",
+     "deptratio": "60,23"
+    },
+    {
+     "DieAktie": "Galaxy Entertainment Group LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,76",
+     "EPSdiluted": "1,73",
+     "DPS": "0",
+     "GUV": "Galaxy Entertainment Group LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "13,34",
+     "equityratio": "49,23",
+     "deptratio": "50,77"
+    },
+    {
+     "DieAktie": "Galaxy Entertainment Group LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,39",
+     "EPSdiluted": "2,35",
+     "DPS": "0",
+     "GUV": "Galaxy Entertainment Group LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "15,42",
+     "equityratio": "70,13",
+     "deptratio": "29,87"
+    },
+    {
+     "DieAktie": "Galaxy Entertainment Group LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,44",
+     "EPSdiluted": "2,41",
+     "DPS": "0",
+     "GUV": "Galaxy Entertainment Group LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "16,73",
+     "equityratio": "74,02",
+     "deptratio": "25,98"
+    },
+    {
+     "DieAktie": "Galaxy Entertainment Group LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,98",
+     "EPSdiluted": "0,97",
+     "DPS": "0",
+     "GUV": "Galaxy Entertainment Group LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "11,88",
+     "equityratio": "74,25",
+     "deptratio": "25,75"
+    },
+    {
+     "DieAktie": "Galaxy Entertainment Group LtdShs: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,47",
+     "EPSdiluted": "1,46",
+     "DPS": "0",
+     "GUV": "Galaxy Entertainment Group LtdShs: GuV (in Mio. HKD)",
+     "Turnover": "12,29",
+     "equityratio": "69,94",
+     "deptratio": "30,06"
+    }
+   ]
+  },
+  {
+   "name": "Hang Lung Properties Aktie [WKN: 874111 / ISIN: HK0101000591]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Hang_Lung_Properties",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Hang Lung Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Hang Lung Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Hang Lung Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "5,37",
+     "EPSdiluted": "5,3",
+     "DPS": "0,71",
+     "GUV": "Hang Lung Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "2,88",
+     "equityratio": "75,7",
+     "deptratio": "24,3"
+    },
+    {
+     "DieAktie": "Hang Lung Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,13",
+     "EPSdiluted": "1,12",
+     "DPS": "1,07",
+     "GUV": "Hang Lung Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "1,45",
+     "equityratio": "73,98",
+     "deptratio": "26,02"
+    },
+    {
+     "DieAktie": "Hang Lung Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,88",
+     "EPSdiluted": "1,87",
+     "DPS": "0,74",
+     "GUV": "Hang Lung Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "1,78",
+     "equityratio": "70,25",
+     "deptratio": "29,75"
+    },
+    {
+     "DieAktie": "Hang Lung Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,61",
+     "EPSdiluted": "1,61",
+     "DPS": "0,75",
+     "GUV": "Hang Lung Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "2,22",
+     "equityratio": "68,32",
+     "deptratio": "31,68"
+    },
+    {
+     "DieAktie": "Hang Lung Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,61",
+     "EPSdiluted": "2,61",
+     "DPS": "0,76",
+     "GUV": "Hang Lung Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4",
+     "equityratio": "68,5",
+     "deptratio": "31,5"
+    },
+    {
+     "DieAktie": "Hang Lung Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,13",
+     "EPSdiluted": "1,13",
+     "DPS": "0,75",
+     "GUV": "Hang Lung Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "2,24",
+     "equityratio": "70,1",
+     "deptratio": "29,9"
+    },
+    {
+     "DieAktie": "Hang Lung Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,38",
+     "EPSdiluted": "1,38",
+     "DPS": "0,75",
+     "GUV": "Hang Lung Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "3,08",
+     "equityratio": "72,36",
+     "deptratio": "27,64"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "27.04.17",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "28.04.16",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "29.04.15",
+     "Dividende": "0,76"
+    },
+    {
+     "Datum": "24.04.14",
+     "Dividende": "0,74"
+    },
+    {
+     "Datum": "18.04.13",
+     "Dividende": "0,74"
+    },
+    {
+     "Datum": "31.07.12",
+     "Dividende": "0,71"
+    }
+   ]
+  },
+  {
+   "name": "Hang Seng Bank Aktie [WKN: 862271 / ISIN: HK0011000095]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Hang_Seng_Bank",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Hang Seng Bank: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Hang Seng Bank: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Hang Seng Bank: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "7,8",
+     "EPSdiluted": "7,8",
+     "DPS": "5,2",
+     "GUV": "Hang Seng Bank: GuV (in Mio. HKD)",
+     "Turnover": "19,59",
+     "equityratio": "7,64",
+     "deptratio": "92,36"
+    },
+    {
+     "DieAktie": "Hang Seng Bank: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "8,72",
+     "EPSdiluted": "8,72",
+     "DPS": "5,2",
+     "GUV": "Hang Seng Bank: GuV (in Mio. HKD)",
+     "Turnover": "20,73",
+     "equityratio": "8,07",
+     "deptratio": "91,93"
+    },
+    {
+     "DieAktie": "Hang Seng Bank: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "10,16",
+     "EPSdiluted": "10,16",
+     "DPS": "5,3",
+     "GUV": "Hang Seng Bank: GuV (in Mio. HKD)",
+     "Turnover": "22,18",
+     "equityratio": "8,57",
+     "deptratio": "91,43"
+    },
+    {
+     "DieAktie": "Hang Seng Bank: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "13,95",
+     "EPSdiluted": "13,95",
+     "DPS": "5,5",
+     "GUV": "Hang Seng Bank: GuV (in Mio. HKD)",
+     "Turnover": "24,19",
+     "equityratio": "9,42",
+     "deptratio": "90,58"
+    },
+    {
+     "DieAktie": "Hang Seng Bank: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "7,91",
+     "EPSdiluted": "7,91",
+     "DPS": "5,6",
+     "GUV": "Hang Seng Bank: GuV (in Mio. HKD)",
+     "Turnover": "26,08",
+     "equityratio": "11,01",
+     "deptratio": "88,99"
+    },
+    {
+     "DieAktie": "Hang Seng Bank: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "14,22",
+     "EPSdiluted": "14,22",
+     "DPS": "5,7",
+     "GUV": "Hang Seng Bank: GuV (in Mio. HKD)",
+     "Turnover": "27,08",
+     "equityratio": "10,12",
+     "deptratio": "89,88"
+    },
+    {
+     "DieAktie": "Hang Seng Bank: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "8,3",
+     "EPSdiluted": "8,3",
+     "DPS": "6,1",
+     "GUV": "Hang Seng Bank: GuV (in Mio. HKD)",
+     "Turnover": "26,46",
+     "equityratio": "9,7",
+     "deptratio": "90,3"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "12.05.17",
+     "Dividende": "6,10"
+    },
+    {
+     "Datum": "06.05.16",
+     "Dividende": "5,70"
+    },
+    {
+     "Datum": "07.05.15",
+     "Dividende": "5,60"
+    },
+    {
+     "Datum": "09.05.14",
+     "Dividende": "5,50"
+    },
+    {
+     "Datum": "16.05.13",
+     "Dividende": "5,30"
+    },
+    {
+     "Datum": "13.05.11",
+     "Dividende": "5,20"
+    },
+    {
+     "Datum": "14.05.10",
+     "Dividende": "5,20"
+    }
+   ]
+  },
+  {
+   "name": "Henderson Land Development Aktie [WKN: 867157 / ISIN: HK0012000102]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Henderson_Land_Development",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Henderson Land Development Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Henderson Land Development Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Henderson Land Development Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "4,55",
+     "EPSdiluted": "4,55",
+     "DPS": "0,62",
+     "GUV": "Henderson Land Development Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "2,09",
+     "equityratio": "69,05",
+     "deptratio": "30,95"
+    },
+    {
+     "DieAktie": "Henderson Land Development Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "4,62",
+     "EPSdiluted": "4,62",
+     "DPS": "0,62",
+     "GUV": "Henderson Land Development Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4,15",
+     "equityratio": "70,61",
+     "deptratio": "29,39"
+    },
+    {
+     "DieAktie": "Henderson Land Development Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "5,26",
+     "EPSdiluted": "5,26",
+     "DPS": "0,66",
+     "GUV": "Henderson Land Development Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4,13",
+     "equityratio": "72,88",
+     "deptratio": "27,12"
+    },
+    {
+     "DieAktie": "Henderson Land Development Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "4,08",
+     "EPSdiluted": "4,08",
+     "DPS": "0,72",
+     "GUV": "Henderson Land Development Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,06",
+     "equityratio": "73,46",
+     "deptratio": "26,54"
+    },
+    {
+     "DieAktie": "Henderson Land Development Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "4,22",
+     "EPSdiluted": "4,22",
+     "DPS": "0,83",
+     "GUV": "Henderson Land Development Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6",
+     "equityratio": "75,13",
+     "deptratio": "24,87"
+    },
+    {
+     "DieAktie": "Henderson Land Development Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "5,34",
+     "EPSdiluted": "5,34",
+     "DPS": "1,2",
+     "GUV": "Henderson Land Development Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "5,97",
+     "equityratio": "74,72",
+     "deptratio": "25,28"
+    },
+    {
+     "DieAktie": "Henderson Land Development Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "5,48",
+     "EPSdiluted": "5,48",
+     "DPS": "1,41",
+     "GUV": "Henderson Land Development Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,54",
+     "equityratio": "74,13",
+     "deptratio": "25,87"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "05.06.17",
+     "Dividende": "1,55"
+    },
+    {
+     "Datum": "02.06.16",
+     "Dividende": "1,45"
+    },
+    {
+     "Datum": "02.06.15",
+     "Dividende": "1,10"
+    },
+    {
+     "Datum": "09.06.14",
+     "Dividende": "1,06"
+    },
+    {
+     "Datum": "03.06.13",
+     "Dividende": "1,06"
+    },
+    {
+     "Datum": "22.08.12",
+     "Dividende": "1,00"
+    }
+   ]
+  },
+  {
+   "name": "Hengan International Group Aktie [WKN DE: A0YJE8 / ISIN: KYG4402L1510]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Hengan_International_Group_3",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Hengan International Group Co Ltd: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Hengan International Group Co Ltd: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Hengan International Group Co Ltd: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "2",
+     "EPSdiluted": "1,99",
+     "DPS": "1,3",
+     "GUV": "Hengan International Group Co Ltd: GuV (in Mio. HKD)",
+     "Turnover": "10,95",
+     "equityratio": "56,54",
+     "deptratio": "43,46"
+    },
+    {
+     "DieAktie": "Hengan International Group Co Ltd: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,16",
+     "EPSdiluted": "2,16",
+     "DPS": "1,35",
+     "GUV": "Hengan International Group Co Ltd: GuV (in Mio. HKD)",
+     "Turnover": "13,88",
+     "equityratio": "52,92",
+     "deptratio": "47,08"
+    },
+    {
+     "DieAktie": "Hengan International Group Co Ltd: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,86",
+     "EPSdiluted": "2,86",
+     "DPS": "1,7",
+     "GUV": "Hengan International Group Co Ltd: GuV (in Mio. HKD)",
+     "Turnover": "15,06",
+     "equityratio": "48,21",
+     "deptratio": "51,79"
+    },
+    {
+     "DieAktie": "Hengan International Group Co Ltd: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "3,02",
+     "EPSdiluted": "3,02",
+     "DPS": "1,85",
+     "GUV": "Hengan International Group Co Ltd: GuV (in Mio. HKD)",
+     "Turnover": "17,2",
+     "equityratio": "40,7",
+     "deptratio": "59,3"
+    },
+    {
+     "DieAktie": "Hengan International Group Co Ltd: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "3,19",
+     "EPSdiluted": "3,18",
+     "DPS": "2",
+     "GUV": "Hengan International Group Co Ltd: GuV (in Mio. HKD)",
+     "Turnover": "19,38",
+     "equityratio": "41,01",
+     "deptratio": "58,99"
+    },
+    {
+     "DieAktie": "Hengan International Group Co Ltd: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "3,31",
+     "EPSdiluted": "3,31",
+     "DPS": "2,1",
+     "GUV": "Hengan International Group Co Ltd: GuV (in Mio. HKD)",
+     "Turnover": "19,97",
+     "equityratio": "43,99",
+     "deptratio": "56,01"
+    },
+    {
+     "DieAktie": "Hengan International Group Co Ltd: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "3,47",
+     "EPSdiluted": "3,47",
+     "DPS": "2,23",
+     "GUV": "Hengan International Group Co Ltd: GuV (in Mio. HKD)",
+     "Turnover": "18,58",
+     "equityratio": "43,09",
+     "deptratio": "56,91"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "17.05.17",
+     "Dividende": "1,95"
+    },
+    {
+     "Datum": "18.05.16",
+     "Dividende": "1,80"
+    },
+    {
+     "Datum": "29.05.15",
+     "Dividende": "1,71"
+    },
+    {
+     "Datum": "22.05.14",
+     "Dividende": "1,58"
+    },
+    {
+     "Datum": "26.03.13",
+     "Dividende": "1,46"
+    }
+   ]
+  },
+  {
+   "name": "Hong Kong Exchanges and Clearing Aktie [WKN DE: A0NJY9 / ISIN: HK0388045442]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Hong_Kong_Exchange",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Hong Kong Exchanges and Clearing Ltd: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Hong Kong Exchanges and Clearing Ltd: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Hong Kong Exchanges and Clearing Ltd: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "4,68",
+     "EPSdiluted": "4,67",
+     "DPS": "4,2",
+     "GUV": "Hong Kong Exchanges and Clearing Ltd: GuV (in Mio. HKD)",
+     "Turnover": "6,7",
+     "equityratio": "18,12",
+     "deptratio": "81,88"
+    },
+    {
+     "DieAktie": "Hong Kong Exchanges and Clearing Ltd: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "4,73",
+     "EPSdiluted": "4,72",
+     "DPS": "4,25",
+     "GUV": "Hong Kong Exchanges and Clearing Ltd: GuV (in Mio. HKD)",
+     "Turnover": "7,05",
+     "equityratio": "16,95",
+     "deptratio": "83,05"
+    },
+    {
+     "DieAktie": "Hong Kong Exchanges and Clearing Ltd: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "3,75",
+     "EPSdiluted": "3,74",
+     "DPS": "3,31",
+     "GUV": "Hong Kong Exchanges and Clearing Ltd: GuV (in Mio. HKD)",
+     "Turnover": "6,19",
+     "equityratio": "21,47",
+     "deptratio": "78,53"
+    },
+    {
+     "DieAktie": "Hong Kong Exchanges and Clearing Ltd: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "3,95",
+     "EPSdiluted": "3,94",
+     "DPS": "1,87",
+     "GUV": "Hong Kong Exchanges and Clearing Ltd: GuV (in Mio. HKD)",
+     "Turnover": "7,35",
+     "equityratio": "23,27",
+     "deptratio": "76,73"
+    },
+    {
+     "DieAktie": "Hong Kong Exchanges and Clearing Ltd: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "4,44",
+     "EPSdiluted": "4,43",
+     "DPS": "3,98",
+     "GUV": "Hong Kong Exchanges and Clearing Ltd: GuV (in Mio. HKD)",
+     "Turnover": "8,36",
+     "equityratio": "8,28",
+     "deptratio": "91,72"
+    },
+    {
+     "DieAktie": "Hong Kong Exchanges and Clearing Ltd: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "6,7",
+     "EPSdiluted": "6,67",
+     "DPS": "5,95",
+     "GUV": "Hong Kong Exchanges and Clearing Ltd: GuV (in Mio. HKD)",
+     "Turnover": "10,74",
+     "equityratio": "12,52",
+     "deptratio": "87,48"
+    },
+    {
+     "DieAktie": "Hong Kong Exchanges and Clearing Ltd: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "4,76",
+     "EPSdiluted": "4,75",
+     "DPS": "4,25",
+     "GUV": "Hong Kong Exchanges and Clearing Ltd: GuV (in Mio. HKD)",
+     "Turnover": "9,06",
+     "equityratio": "13,05",
+     "deptratio": "86,95"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "28.04.17",
+     "Dividende": "4,25"
+    },
+    {
+     "Datum": "28.04.16",
+     "Dividende": "5,95"
+    },
+    {
+     "Datum": "29.04.15",
+     "Dividende": "3,98"
+    },
+    {
+     "Datum": "16.04.14",
+     "Dividende": "3,54"
+    },
+    {
+     "Datum": "27.02.13",
+     "Dividende": "3,31"
+    }
+   ]
+  },
+  {
+   "name": "HSBC Aktie [WKN: 923893 / ISIN: GB0005405286]",
+   "URL": "http://www.finanzen.at/bilanz_guv/HSBC",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "HSBC Holdings plc: Die Aktie (in GBP)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "HSBC Holdings plc: GuV (in Mio. GBP)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "HSBC Holdings plc: Die Aktie (in GBP)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,47",
+     "EPSdiluted": "0,47",
+     "DPS": "0,23",
+     "GUV": "HSBC Holdings plc: GuV (in Mio. GBP)",
+     "Turnover": "3,7",
+     "equityratio": "5,96",
+     "deptratio": "94,04"
+    },
+    {
+     "DieAktie": "HSBC Holdings plc: Die Aktie (in GBP)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,57",
+     "EPSdiluted": "0,57",
+     "DPS": "0,26",
+     "GUV": "HSBC Holdings plc: GuV (in Mio. GBP)",
+     "Turnover": "3,71",
+     "equityratio": "5,93",
+     "deptratio": "94,07"
+    },
+    {
+     "DieAktie": "HSBC Holdings plc: Die Aktie (in GBP)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,47",
+     "EPSdiluted": "0,47",
+     "DPS": "0,29",
+     "GUV": "HSBC Holdings plc: GuV (in Mio. GBP)",
+     "Turnover": "3,45",
+     "equityratio": "6,46",
+     "deptratio": "93,54"
+    },
+    {
+     "DieAktie": "HSBC Holdings plc: Die Aktie (in GBP)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,54",
+     "EPSdiluted": "0,54",
+     "DPS": "0,3",
+     "GUV": "HSBC Holdings plc: GuV (in Mio. GBP)",
+     "Turnover": "3,26",
+     "equityratio": "6,54",
+     "deptratio": "93,46"
+    },
+    {
+     "DieAktie": "HSBC Holdings plc: Die Aktie (in GBP)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,42",
+     "EPSdiluted": "0,42",
+     "DPS": "0,32",
+     "GUV": "HSBC Holdings plc: GuV (in Mio. GBP)",
+     "Turnover": "2,93",
+     "equityratio": "6,74",
+     "deptratio": "93,26"
+    },
+    {
+     "DieAktie": "HSBC Holdings plc: Die Aktie (in GBP)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,43",
+     "EPSdiluted": "0,42",
+     "DPS": "0,34",
+     "GUV": "HSBC Holdings plc: GuV (in Mio. GBP)",
+     "Turnover": "2,94",
+     "equityratio": "7,14",
+     "deptratio": "92,86"
+    },
+    {
+     "DieAktie": "HSBC Holdings plc: Die Aktie (in GBP)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,05",
+     "EPSdiluted": "0,05",
+     "DPS": "0,4",
+     "GUV": "HSBC Holdings plc: GuV (in Mio. GBP)",
+     "Turnover": "2,99",
+     "equityratio": "6,66",
+     "deptratio": "93,34"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "28.04.17",
+     "Dividende": "0,51"
+    },
+    {
+     "Datum": "22.04.16",
+     "Dividende": "0,51"
+    },
+    {
+     "Datum": "24.04.15",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "23.05.14",
+     "Dividende": "0,49"
+    },
+    {
+     "Datum": "27.05.13",
+     "Dividende": "0,45"
+    },
+    {
+     "Datum": "25.05.12",
+     "Dividende": "0,41"
+    },
+    {
+     "Datum": "27.05.11",
+     "Dividende": "0,36"
+    },
+    {
+     "Datum": "28.05.10",
+     "Dividende": "0,32"
+    },
+    {
+     "Datum": "22.05.09",
+     "Dividende": "0,93"
+    },
+    {
+     "Datum": "30.05.08",
+     "Dividende": "0,87"
+    },
+    {
+     "Datum": "25.05.07",
+     "Dividende": "0,76"
+    },
+    {
+     "Datum": "26.05.06",
+     "Dividende": "0,69"
+    },
+    {
+     "Datum": "27.05.05",
+     "Dividende": "0,66"
+    }
+   ]
+  },
+  {
+   "name": "Industrial & Commercial Bank of China Aktie [WKN DE: A0M4YB / ISIN: CNE1000003G1]",
+   "URL": "http://www.finanzen.at/bilanz_guv/IndustrialCommercial_Bank_of_China_1",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Industrial & Commercial Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Industrial & Commercial Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Industrial & Commercial Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,55",
+     "EPSdiluted": "0,55",
+     "DPS": "0,22",
+     "GUV": "Industrial & Commercial Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "1,83",
+     "equityratio": "6,07",
+     "deptratio": "93,93"
+    },
+    {
+     "DieAktie": "Industrial & Commercial Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,72",
+     "EPSdiluted": "0,71",
+     "DPS": "0,25",
+     "GUV": "Industrial & Commercial Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "2,4",
+     "equityratio": "6,16",
+     "deptratio": "93,84"
+    },
+    {
+     "DieAktie": "Industrial & Commercial Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,84",
+     "EPSdiluted": "0,82",
+     "DPS": "0,3",
+     "GUV": "Industrial & Commercial Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "2,93",
+     "equityratio": "6,4",
+     "deptratio": "93,6"
+    },
+    {
+     "DieAktie": "Industrial & Commercial Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,95",
+     "EPSdiluted": "0,93",
+     "DPS": "0,33",
+     "GUV": "Industrial & Commercial Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "3,29",
+     "equityratio": "6,72",
+     "deptratio": "93,28"
+    },
+    {
+     "DieAktie": "Industrial & Commercial Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,98",
+     "EPSdiluted": "0,98",
+     "DPS": "0,32",
+     "GUV": "Industrial & Commercial Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "3,6",
+     "equityratio": "7,26",
+     "deptratio": "92,74"
+    },
+    {
+     "DieAktie": "Industrial & Commercial Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,95",
+     "EPSdiluted": "0,95",
+     "DPS": "0,28",
+     "GUV": "Industrial & Commercial Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "3,65",
+     "equityratio": "7,7",
+     "deptratio": "92,3"
+    },
+    {
+     "DieAktie": "Industrial & Commercial Bank of China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,9",
+     "EPSdiluted": "0,9",
+     "DPS": "0,27",
+     "GUV": "Industrial & Commercial Bank of China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "3,25",
+     "equityratio": "7,8",
+     "deptratio": "92,2"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "30.08.16",
+     "Dividende": "0,23"
+    },
+    {
+     "Datum": "19.06.15",
+     "Dividende": "0,26"
+    },
+    {
+     "Datum": "06.06.14",
+     "Dividende": "0,26"
+    },
+    {
+     "Datum": "06.06.13",
+     "Dividende": "0,24"
+    },
+    {
+     "Datum": "20.08.12",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "31.05.12",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Kunlun Energy (ex CNPC Hong Kong) Aktie [WKN DE: A1CV3E / ISIN: BMG5320C1082]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Kunlun_Energy",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Kunlun Energy (ex CNPC Hong Kong): Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Kunlun Energy (ex CNPC Hong Kong): GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Kunlun Energy (ex CNPC Hong Kong): Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,49",
+     "EPSdiluted": "0,48",
+     "DPS": "0,14",
+     "GUV": "Kunlun Energy (ex CNPC Hong Kong): GuV (in Mio. HKD)",
+     "Turnover": "1,8",
+     "equityratio": "50,22",
+     "deptratio": "49,78"
+    },
+    {
+     "DieAktie": "Kunlun Energy (ex CNPC Hong Kong): Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,78",
+     "EPSdiluted": "0,78",
+     "DPS": "0,22",
+     "GUV": "Kunlun Energy (ex CNPC Hong Kong): GuV (in Mio. HKD)",
+     "Turnover": "3,51",
+     "equityratio": "36,25",
+     "deptratio": "63,75"
+    },
+    {
+     "DieAktie": "Kunlun Energy (ex CNPC Hong Kong): Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,84",
+     "EPSdiluted": "0,83",
+     "DPS": "0,23",
+     "GUV": "Kunlun Energy (ex CNPC Hong Kong): GuV (in Mio. HKD)",
+     "Turnover": "4,2",
+     "equityratio": "40,93",
+     "deptratio": "59,07"
+    },
+    {
+     "DieAktie": "Kunlun Energy (ex CNPC Hong Kong): Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,85",
+     "EPSdiluted": "0,85",
+     "DPS": "0,23",
+     "GUV": "Kunlun Energy (ex CNPC Hong Kong): GuV (in Mio. HKD)",
+     "Turnover": "5,38",
+     "equityratio": "42,19",
+     "deptratio": "57,81"
+    },
+    {
+     "DieAktie": "Kunlun Energy (ex CNPC Hong Kong): Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,7",
+     "EPSdiluted": "0,69",
+     "DPS": "0,2",
+     "GUV": "Kunlun Energy (ex CNPC Hong Kong): GuV (in Mio. HKD)",
+     "Turnover": "5,95",
+     "equityratio": "44,93",
+     "deptratio": "55,07"
+    },
+    {
+     "DieAktie": "Kunlun Energy (ex CNPC Hong Kong): Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,02",
+     "EPSdiluted": "0,02",
+     "DPS": "0,06",
+     "GUV": "Kunlun Energy (ex CNPC Hong Kong): GuV (in Mio. HKD)",
+     "Turnover": "5,16",
+     "equityratio": "45,45",
+     "deptratio": "54,55"
+    },
+    {
+     "DieAktie": "Kunlun Energy (ex CNPC Hong Kong): Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,08",
+     "EPSdiluted": "0,08",
+     "DPS": "0,07",
+     "GUV": "Kunlun Energy (ex CNPC Hong Kong): GuV (in Mio. HKD)",
+     "Turnover": "10,14",
+     "equityratio": "29,33",
+     "deptratio": "70,67"
+    }
+   ]
+  },
+  {
+   "name": "Lenovo Group Aktie [WKN: 894983 / ISIN: HK0992009065]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Lenovo_Group",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Lenovo Group Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Lenovo Group Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Lenovo Group Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,22",
+     "EPSdiluted": "0,21",
+     "DPS": "0,08",
+     "GUV": "Lenovo Group Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "16,54",
+     "equityratio": "17,14",
+     "deptratio": "82,86"
+    },
+    {
+     "DieAktie": "Lenovo Group Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,36",
+     "EPSdiluted": "0,36",
+     "DPS": "0,14",
+     "GUV": "Lenovo Group Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "22,24",
+     "equityratio": "14,89",
+     "deptratio": "85,11"
+    },
+    {
+     "DieAktie": "Lenovo Group Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,48",
+     "EPSdiluted": "0,47",
+     "DPS": "0,19",
+     "GUV": "Lenovo Group Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "25,11",
+     "equityratio": "15,8",
+     "deptratio": "84,2"
+    },
+    {
+     "DieAktie": "Lenovo Group Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,61",
+     "EPSdiluted": "0,6",
+     "DPS": "0,24",
+     "GUV": "Lenovo Group Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "28,59",
+     "equityratio": "16,4",
+     "deptratio": "83,6"
+    },
+    {
+     "DieAktie": "Lenovo Group Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,6",
+     "EPSdiluted": "0,6",
+     "DPS": "0,27",
+     "GUV": "Lenovo Group Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "33,32",
+     "equityratio": "15,08",
+     "deptratio": "84,92"
+    },
+    {
+     "DieAktie": "Lenovo Group Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "-0,09",
+     "EPSdiluted": "-0,09",
+     "DPS": "0,27",
+     "GUV": "Lenovo Group Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "31,43",
+     "equityratio": "12,03",
+     "deptratio": "87,97"
+    },
+    {
+     "DieAktie": "Lenovo Group Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2017",
+     "EPSundiluted": "0,38",
+     "EPSdiluted": "0,38",
+     "DPS": "0,27",
+     "GUV": "Lenovo Group Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "30,3",
+     "equityratio": "11,86",
+     "deptratio": "88,14"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "06.07.17",
+     "Dividende": "0,03"
+    },
+    {
+     "Datum": "07.07.16",
+     "Dividende": "0,03"
+    },
+    {
+     "Datum": "02.07.15",
+     "Dividende": "0,03"
+    },
+    {
+     "Datum": "02.07.14",
+     "Dividende": "0,03"
+    },
+    {
+     "Datum": "04.06.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "17.11.11",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "22.07.11",
+     "Dividende": "0,01"
+    },
+    {
+     "Datum": "09.05.11",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Link Real Estate Investment Trust Aktie [WKN: A0HL3P / ISIN: HK0823032773]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Link_Real_Estate_Investment_Trust",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Link Real Estate Investment Trust: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Link Real Estate Investment Trust: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Link Real Estate Investment Trust: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "6,9",
+     "EPSdiluted": "6,89",
+     "DPS": "1,1",
+     "GUV": "Link Real Estate Investment Trust: GuV (in Mio. HKD)",
+     "Turnover": "2,42",
+     "equityratio": "79,96",
+     "deptratio": "20,04"
+    },
+    {
+     "DieAktie": "Link Real Estate Investment Trust: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "4,27",
+     "EPSdiluted": "4,27",
+     "DPS": "1,3",
+     "GUV": "Link Real Estate Investment Trust: GuV (in Mio. HKD)",
+     "Turnover": "2,65",
+     "equityratio": "79,19",
+     "deptratio": "20,81"
+    },
+    {
+     "DieAktie": "Link Real Estate Investment Trust: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "9,25",
+     "EPSdiluted": "9,23",
+     "DPS": "1,46",
+     "GUV": "Link Real Estate Investment Trust: GuV (in Mio. HKD)",
+     "Turnover": "2,87",
+     "equityratio": "82,12",
+     "deptratio": "17,88"
+    },
+    {
+     "DieAktie": "Link Real Estate Investment Trust: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "7,51",
+     "EPSdiluted": "7,51",
+     "DPS": "1,66",
+     "GUV": "Link Real Estate Investment Trust: GuV (in Mio. HKD)",
+     "Turnover": "3,12",
+     "equityratio": "84,92",
+     "deptratio": "15,08"
+    },
+    {
+     "DieAktie": "Link Real Estate Investment Trust: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "11,83",
+     "EPSdiluted": "11,82",
+     "DPS": "1,83",
+     "GUV": "Link Real Estate Investment Trust: GuV (in Mio. HKD)",
+     "Turnover": "3,37",
+     "equityratio": "82,51",
+     "deptratio": "17,49"
+    },
+    {
+     "DieAktie": "Link Real Estate Investment Trust: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "7,19",
+     "EPSdiluted": "7,18",
+     "DPS": "2,06",
+     "GUV": "Link Real Estate Investment Trust: GuV (in Mio. HKD)",
+     "Turnover": "3,85",
+     "equityratio": "77,93",
+     "deptratio": "22,07"
+    },
+    {
+     "DieAktie": "Link Real Estate Investment Trust: Die Aktie (in HKD)",
+     "Jahr": "2017",
+     "EPSundiluted": "7,93",
+     "EPSdiluted": "7,93",
+     "DPS": "2,28",
+     "GUV": "Link Real Estate Investment Trust: GuV (in Mio. HKD)",
+     "Turnover": "4,14",
+     "equityratio": "78,55",
+     "deptratio": "21,45"
+    }
+   ]
+  },
+  {
+   "name": "MTR Aktie [WKN: 579779 / ISIN: HK0066009694]",
+   "URL": "http://www.finanzen.at/bilanz_guv/MTR",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "MTR Corporation Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "MTR Corporation Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "MTR Corporation Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "2,1",
+     "EPSdiluted": "2,1",
+     "DPS": "0,59",
+     "GUV": "MTR Corporation Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "5,13",
+     "equityratio": "64,49",
+     "deptratio": "35,51"
+    },
+    {
+     "DieAktie": "MTR Corporation Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "2,55",
+     "EPSdiluted": "2,54",
+     "DPS": "0,76",
+     "GUV": "MTR Corporation Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "5,78",
+     "equityratio": "65,12",
+     "deptratio": "34,88"
+    },
+    {
+     "DieAktie": "MTR Corporation Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,34",
+     "EPSdiluted": "2,34",
+     "DPS": "0,79",
+     "GUV": "MTR Corporation Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,17",
+     "equityratio": "69,73",
+     "deptratio": "30,27"
+    },
+    {
+     "DieAktie": "MTR Corporation Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,25",
+     "EPSdiluted": "2,24",
+     "DPS": "0,92",
+     "GUV": "MTR Corporation Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,67",
+     "equityratio": "70,69",
+     "deptratio": "29,31"
+    },
+    {
+     "DieAktie": "MTR Corporation Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,69",
+     "EPSdiluted": "2,68",
+     "DPS": "1,05",
+     "GUV": "MTR Corporation Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,91",
+     "equityratio": "71,9",
+     "deptratio": "28,1"
+    },
+    {
+     "DieAktie": "MTR Corporation Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,22",
+     "EPSdiluted": "2,22",
+     "DPS": "1,06",
+     "GUV": "MTR Corporation Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "7,12",
+     "equityratio": "70,53",
+     "deptratio": "29,47"
+    },
+    {
+     "DieAktie": "MTR Corporation Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,74",
+     "EPSdiluted": "1,74",
+     "DPS": "1,07",
+     "GUV": "MTR Corporation Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "7,67",
+     "equityratio": "58,08",
+     "deptratio": "41,92"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "17.05.17",
+     "Dividende": "1,07"
+    },
+    {
+     "Datum": "18.05.16",
+     "Dividende": "1,06"
+    },
+    {
+     "Datum": "20.05.15",
+     "Dividende": "1,05"
+    },
+    {
+     "Datum": "08.05.14",
+     "Dividende": "0,92"
+    },
+    {
+     "Datum": "09.05.13",
+     "Dividende": "0,79"
+    },
+    {
+     "Datum": "03.05.12",
+     "Dividende": "0,76"
+    }
+   ]
+  },
+  {
+   "name": "New World Development Aktie [WKN: 862121 / ISIN: HK0017000149]",
+   "URL": "http://www.finanzen.at/bilanz_guv/New_World_Development",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "New World Development: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "New World Development: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "New World Development: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "2,55",
+     "EPSdiluted": "2,46",
+     "DPS": "0,32",
+     "GUV": "New World Development: GuV (in Mio. HKD)",
+     "Turnover": "6,42",
+     "equityratio": "42,56",
+     "deptratio": "57,44"
+    },
+    {
+     "DieAktie": "New World Development: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,98",
+     "EPSdiluted": "1,93",
+     "DPS": "0,35",
+     "GUV": "New World Development: GuV (in Mio. HKD)",
+     "Turnover": "6,83",
+     "equityratio": "44,93",
+     "deptratio": "55,07"
+    },
+    {
+     "DieAktie": "New World Development: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,77",
+     "EPSdiluted": "1,74",
+     "DPS": "0,36",
+     "GUV": "New World Development: GuV (in Mio. HKD)",
+     "Turnover": "6,08",
+     "equityratio": "42,86",
+     "deptratio": "57,14"
+    },
+    {
+     "DieAktie": "New World Development: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,15",
+     "EPSdiluted": "2,11",
+     "DPS": "0,39",
+     "GUV": "New World Development: GuV (in Mio. HKD)",
+     "Turnover": "6,97",
+     "equityratio": "41,64",
+     "deptratio": "58,36"
+    },
+    {
+     "DieAktie": "New World Development: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,37",
+     "EPSdiluted": "1,37",
+     "DPS": "0,41",
+     "GUV": "New World Development: GuV (in Mio. HKD)",
+     "Turnover": "7,85",
+     "equityratio": "43,28",
+     "deptratio": "56,72"
+    },
+    {
+     "DieAktie": "New World Development: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "2,17",
+     "EPSdiluted": "2,17",
+     "DPS": "0,42",
+     "GUV": "New World Development: GuV (in Mio. HKD)",
+     "Turnover": "6,42",
+     "equityratio": "44,96",
+     "deptratio": "55,04"
+    },
+    {
+     "DieAktie": "New World Development: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,95",
+     "EPSdiluted": "0,95",
+     "DPS": "0,44",
+     "GUV": "New World Development: GuV (in Mio. HKD)",
+     "Turnover": "6,77",
+     "equityratio": "45,8",
+     "deptratio": "54,2"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "22.11.16",
+     "Dividende": "0,44"
+    },
+    {
+     "Datum": "19.11.14",
+     "Dividende": "0,42"
+    },
+    {
+     "Datum": "19.11.13",
+     "Dividende": "0,42"
+    },
+    {
+     "Datum": "27.02.13",
+     "Dividende": "0,38"
+    },
+    {
+     "Datum": "21.11.12",
+     "Dividende": "0,38"
+    }
+   ]
+  },
+  {
+   "name": "PetroChina Aktie [WKN DE: A0M4YQ / ISIN: CNE1000003W8]",
+   "URL": "http://www.finanzen.at/bilanz_guv/PetroChina",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "PetroChina Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "PetroChina Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "PetroChina Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,87",
+     "EPSdiluted": "0,87",
+     "DPS": "0,4",
+     "GUV": "PetroChina Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "8,62",
+     "equityratio": "56,69",
+     "deptratio": "43,31"
+    },
+    {
+     "DieAktie": "PetroChina Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,88",
+     "EPSdiluted": "0,88",
+     "DPS": "0,4",
+     "GUV": "PetroChina Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "11,49",
+     "equityratio": "52,3",
+     "deptratio": "47,7"
+    },
+    {
+     "DieAktie": "PetroChina Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,77",
+     "EPSdiluted": "0,77",
+     "DPS": "0,35",
+     "GUV": "PetroChina Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "13,09",
+     "equityratio": "49,07",
+     "deptratio": "50,93"
+    },
+    {
+     "DieAktie": "PetroChina Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,9",
+     "EPSdiluted": "0,9",
+     "DPS": "0,4",
+     "GUV": "PetroChina Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "13,92",
+     "equityratio": "48,37",
+     "deptratio": "51,63"
+    },
+    {
+     "DieAktie": "PetroChina Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,74",
+     "EPSdiluted": "0,74",
+     "DPS": "0,33",
+     "GUV": "PetroChina Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "14,13",
+     "equityratio": "48,89",
+     "deptratio": "51,11"
+    },
+    {
+     "DieAktie": "PetroChina Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,23",
+     "EPSdiluted": "0,23",
+     "DPS": "0,11",
+     "GUV": "PetroChina Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "10,28",
+     "equityratio": "49,29",
+     "deptratio": "50,71"
+    },
+    {
+     "DieAktie": "PetroChina Co. Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,05",
+     "EPSdiluted": "0,05",
+     "DPS": "0,07",
+     "GUV": "PetroChina Co. Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "9,12",
+     "equityratio": "49,62",
+     "deptratio": "50,38"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "08.06.17",
+     "Dividende": "0,06"
+    },
+    {
+     "Datum": "25.05.16",
+     "Dividende": "0,09"
+    },
+    {
+     "Datum": "22.05.14",
+     "Dividende": "0,32"
+    },
+    {
+     "Datum": "25.05.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "23.05.13",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "23.05.12",
+     "Dividende": "0,33"
+    },
+    {
+     "Datum": "20.10.11",
+     "Dividende": "0,30"
+    }
+   ]
+  },
+  {
+   "name": "Ping An Insurance Aktie [WKN DE: A0M4YR / ISIN: CNE1000003X6]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Ping_An_Insurance",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Ping An Insurance Co.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Ping An Insurance Co.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Ping An Insurance Co.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,32",
+     "EPSdiluted": "1,32",
+     "DPS": "0,33",
+     "GUV": "Ping An Insurance Co.: GuV (in Mio. HKD)",
+     "Turnover": "14,93",
+     "equityratio": "9,61",
+     "deptratio": "90,39"
+    },
+    {
+     "DieAktie": "Ping An Insurance Co.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,51",
+     "EPSdiluted": "1,51",
+     "DPS": "0,25",
+     "GUV": "Ping An Insurance Co.: GuV (in Mio. HKD)",
+     "Turnover": "21,32",
+     "equityratio": "5,75",
+     "deptratio": "94,25"
+    },
+    {
+     "DieAktie": "Ping An Insurance Co.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,56",
+     "EPSdiluted": "1,56",
+     "DPS": "0,28",
+     "GUV": "Ping An Insurance Co.: GuV (in Mio. HKD)",
+     "Turnover": "27,12",
+     "equityratio": "5,63",
+     "deptratio": "94,37"
+    },
+    {
+     "DieAktie": "Ping An Insurance Co.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,25",
+     "EPSdiluted": "2,24",
+     "DPS": "0,41",
+     "GUV": "Ping An Insurance Co.: GuV (in Mio. HKD)",
+     "Turnover": "28,7",
+     "equityratio": "5,46",
+     "deptratio": "94,54"
+    },
+    {
+     "DieAktie": "Ping An Insurance Co.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "3,1",
+     "EPSdiluted": "2,95",
+     "DPS": "0,47",
+     "GUV": "Ping An Insurance Co.: GuV (in Mio. HKD)",
+     "Turnover": "33,97",
+     "equityratio": "7,26",
+     "deptratio": "92,74"
+    },
+    {
+     "DieAktie": "Ping An Insurance Co.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "3,68",
+     "EPSdiluted": "3,68",
+     "DPS": "0,63",
+     "GUV": "Ping An Insurance Co.: GuV (in Mio. HKD)",
+     "Turnover": "41,69",
+     "equityratio": "7,03",
+     "deptratio": "92,97"
+    },
+    {
+     "DieAktie": "Ping An Insurance Co.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "4,09",
+     "EPSdiluted": "4,08",
+     "DPS": "0,86",
+     "GUV": "Ping An Insurance Co.: GuV (in Mio. HKD)",
+     "Turnover": "45,26",
+     "equityratio": "6,89",
+     "deptratio": "93,11"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "16.06.17",
+     "Dividende": "0,75"
+    },
+    {
+     "Datum": "26.04.16",
+     "Dividende": "0,53"
+    },
+    {
+     "Datum": "15.06.15",
+     "Dividende": "0,38"
+    },
+    {
+     "Datum": "12.06.14",
+     "Dividende": "0,33"
+    },
+    {
+     "Datum": "20.05.13",
+     "Dividende": "0,23"
+    },
+    {
+     "Datum": "27.06.12",
+     "Dividende": "0,20"
+    },
+    {
+     "Datum": "16.06.11",
+     "Dividende": "0,28"
+    },
+    {
+     "Datum": "04.05.10",
+     "Dividende": "0,23"
+    }
+   ]
+  },
+  {
+   "name": "Power Assets Aktie [WKN: 861981 / ISIN: HK0006000050]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Power_Assets_1",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Power Assets Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Power Assets Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Power Assets Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "3,37",
+     "EPSdiluted": "3,37",
+     "DPS": "2,11",
+     "GUV": "Power Assets Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4,86",
+     "equityratio": "60,56",
+     "deptratio": "39,44"
+    },
+    {
+     "DieAktie": "Power Assets Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "4,25",
+     "EPSdiluted": "4,25",
+     "DPS": "2,32",
+     "GUV": "Power Assets Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4,78",
+     "equityratio": "61,09",
+     "deptratio": "38,91"
+    },
+    {
+     "DieAktie": "Power Assets Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "4,56",
+     "EPSdiluted": "4,56",
+     "DPS": "2,45",
+     "GUV": "Power Assets Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4,88",
+     "equityratio": "62,01",
+     "deptratio": "37,99"
+    },
+    {
+     "DieAktie": "Power Assets Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "5,23",
+     "EPSdiluted": "5,23",
+     "DPS": "2,55",
+     "GUV": "Power Assets Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4,79",
+     "equityratio": "65,98",
+     "deptratio": "34,02"
+    },
+    {
+     "DieAktie": "Power Assets Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "28,58",
+     "EPSdiluted": "28,58",
+     "DPS": "2,68",
+     "GUV": "Power Assets Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "1",
+     "equityratio": "90,32",
+     "deptratio": "9,68"
+    },
+    {
+     "DieAktie": "Power Assets Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "3,62",
+     "EPSdiluted": "3,62",
+     "DPS": "2,7",
+     "GUV": "Power Assets Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "0,61",
+     "equityratio": "91,31",
+     "deptratio": "8,69"
+    },
+    {
+     "DieAktie": "Power Assets Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "3,01",
+     "EPSdiluted": "3,01",
+     "DPS": "7,72",
+     "GUV": "Power Assets Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "0,6",
+     "equityratio": "91,24",
+     "deptratio": "8,76"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "12.05.16",
+     "Dividende": "2,70"
+    },
+    {
+     "Datum": "10.05.16",
+     "Dividende": "2,70"
+    },
+    {
+     "Datum": "23.07.15",
+     "Dividende": "2,68"
+    },
+    {
+     "Datum": "24.07.14",
+     "Dividende": "2,55"
+    },
+    {
+     "Datum": "20.05.13",
+     "Dividende": "2,45"
+    },
+    {
+     "Datum": "19.07.12",
+     "Dividende": "2,32"
+    }
+   ]
+  },
+  {
+   "name": "Sands China Aktie [WKN DE: A0YFEW / ISIN: KYG7800X1079]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Sands_China",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Sands China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Sands China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Sands China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,64",
+     "EPSdiluted": "0,64",
+     "DPS": "0",
+     "GUV": "Sands China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4",
+     "equityratio": "51,48",
+     "deptratio": "48,52"
+    },
+    {
+     "DieAktie": "Sands China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,1",
+     "EPSdiluted": "1,1",
+     "DPS": "1,16",
+     "GUV": "Sands China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "4,72",
+     "equityratio": "54,46",
+     "deptratio": "45,54"
+    },
+    {
+     "DieAktie": "Sands China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,19",
+     "EPSdiluted": "1,19",
+     "DPS": "1,33",
+     "GUV": "Sands China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,27",
+     "equityratio": "53,78",
+     "deptratio": "46,22"
+    },
+    {
+     "DieAktie": "Sands China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,13",
+     "EPSdiluted": "2,13",
+     "DPS": "2,5",
+     "GUV": "Sands China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "8,57",
+     "equityratio": "56,25",
+     "deptratio": "43,75"
+    },
+    {
+     "DieAktie": "Sands China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,45",
+     "EPSdiluted": "2,45",
+     "DPS": "1,99",
+     "GUV": "Sands China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "9,13",
+     "equityratio": "56,66",
+     "deptratio": "43,34"
+    },
+    {
+     "DieAktie": "Sands China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,4",
+     "EPSdiluted": "1,4",
+     "DPS": "1,99",
+     "GUV": "Sands China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,55",
+     "equityratio": "54,2",
+     "deptratio": "45,8"
+    },
+    {
+     "DieAktie": "Sands China Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,18",
+     "EPSdiluted": "1,18",
+     "DPS": "1,99",
+     "GUV": "Sands China Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,4",
+     "equityratio": "44,77",
+     "deptratio": "55,23"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "26.05.17",
+     "Dividende": "0,26"
+    },
+    {
+     "Datum": "27.05.16",
+     "Dividende": "0,26"
+    },
+    {
+     "Datum": "17.06.15",
+     "Dividende": "0,26"
+    },
+    {
+     "Datum": "30.05.14",
+     "Dividende": "0,22"
+    },
+    {
+     "Datum": "10.05.13",
+     "Dividende": "0,17"
+    },
+    {
+     "Datum": "01.06.12",
+     "Dividende": "0,15"
+    }
+   ]
+  },
+  {
+   "name": "Sino Land Aktie [WKN: 866305 / ISIN: HK0083000502]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Sino_Land",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Sino Land Co.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Sino Land Co.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Sino Land Co.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,14",
+     "EPSdiluted": "1,14",
+     "DPS": "0,36",
+     "GUV": "Sino Land Co.: GuV (in Mio. HKD)",
+     "Turnover": "1,46",
+     "equityratio": "68,29",
+     "deptratio": "31,71"
+    },
+    {
+     "DieAktie": "Sino Land Co.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,87",
+     "EPSdiluted": "1,87",
+     "DPS": "0,41",
+     "GUV": "Sino Land Co.: GuV (in Mio. HKD)",
+     "Turnover": "1,11",
+     "equityratio": "74,05",
+     "deptratio": "25,95"
+    },
+    {
+     "DieAktie": "Sino Land Co.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,69",
+     "EPSdiluted": "1,69",
+     "DPS": "0,46",
+     "GUV": "Sino Land Co.: GuV (in Mio. HKD)",
+     "Turnover": "1,5",
+     "equityratio": "79,29",
+     "deptratio": "20,71"
+    },
+    {
+     "DieAktie": "Sino Land Co.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "1,97",
+     "EPSdiluted": "1,97",
+     "DPS": "0,5",
+     "GUV": "Sino Land Co.: GuV (in Mio. HKD)",
+     "Turnover": "1,41",
+     "equityratio": "81,08",
+     "deptratio": "18,92"
+    },
+    {
+     "DieAktie": "Sino Land Co.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "1,49",
+     "EPSdiluted": "1,49",
+     "DPS": "0,5",
+     "GUV": "Sino Land Co.: GuV (in Mio. HKD)",
+     "Turnover": "1,32",
+     "equityratio": "81,55",
+     "deptratio": "18,45"
+    },
+    {
+     "DieAktie": "Sino Land Co.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,55",
+     "EPSdiluted": "1,55",
+     "DPS": "0,5",
+     "GUV": "Sino Land Co.: GuV (in Mio. HKD)",
+     "Turnover": "3,7",
+     "equityratio": "83,61",
+     "deptratio": "16,39"
+    },
+    {
+     "DieAktie": "Sino Land Co.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,16",
+     "EPSdiluted": "1,16",
+     "DPS": "0,51",
+     "GUV": "Sino Land Co.: GuV (in Mio. HKD)",
+     "Turnover": "1,86",
+     "equityratio": "81,94",
+     "deptratio": "18,06"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "28.10.16",
+     "Dividende": "0,51"
+    },
+    {
+     "Datum": "23.10.15",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "23.09.15",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "23.10.14",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "23.10.13",
+     "Dividende": "0,50"
+    },
+    {
+     "Datum": "31.10.12",
+     "Dividende": "0,46"
+    }
+   ]
+  },
+  {
+   "name": "Sun Hung Kai Properties Aktie [WKN: 861270 / ISIN: HK0016000132]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Sun_Hung_Kai_Properties",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Sun Hung Kai Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Sun Hung Kai Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Sun Hung Kai Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "10,93",
+     "EPSdiluted": "10,93",
+     "DPS": "2,7",
+     "GUV": "Sun Hung Kai Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "13,15",
+     "equityratio": "69,7",
+     "deptratio": "30,3"
+    },
+    {
+     "DieAktie": "Sun Hung Kai Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "18,71",
+     "EPSdiluted": "18,71",
+     "DPS": "3,35",
+     "GUV": "Sun Hung Kai Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "24,51",
+     "equityratio": "74,29",
+     "deptratio": "25,71"
+    },
+    {
+     "DieAktie": "Sun Hung Kai Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "16,63",
+     "EPSdiluted": "16,63",
+     "DPS": "3,35",
+     "GUV": "Sun Hung Kai Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "26,67",
+     "equityratio": "74,12",
+     "deptratio": "25,88"
+    },
+    {
+     "DieAktie": "Sun Hung Kai Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "15,28",
+     "EPSdiluted": "15,28",
+     "DPS": "3,35",
+     "GUV": "Sun Hung Kai Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "20,56",
+     "equityratio": "75,24",
+     "deptratio": "24,76"
+    },
+    {
+     "DieAktie": "Sun Hung Kai Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "12,45",
+     "EPSdiluted": "12,43",
+     "DPS": "3,35",
+     "GUV": "Sun Hung Kai Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "28,14",
+     "equityratio": "74,46",
+     "deptratio": "25,54"
+    },
+    {
+     "DieAktie": "Sun Hung Kai Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "11,09",
+     "EPSdiluted": "10,98",
+     "DPS": "3,35",
+     "GUV": "Sun Hung Kai Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "23,85",
+     "equityratio": "74,66",
+     "deptratio": "25,34"
+    },
+    {
+     "DieAktie": "Sun Hung Kai Properties Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "11,31",
+     "EPSdiluted": "11,3",
+     "DPS": "3,85",
+     "GUV": "Sun Hung Kai Properties Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "31,88",
+     "equityratio": "76,27",
+     "deptratio": "23,73"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "09.11.16",
+     "Dividende": "3,85"
+    },
+    {
+     "Datum": "12.11.15",
+     "Dividende": "3,35"
+    },
+    {
+     "Datum": "15.11.14",
+     "Dividende": "3,35"
+    },
+    {
+     "Datum": "14.11.13",
+     "Dividende": "3,35"
+    },
+    {
+     "Datum": "15.11.12",
+     "Dividende": "3,35"
+    }
+   ]
+  },
+  {
+   "name": "Swire Pacific Aktie [WKN: 860990 / ISIN: HK0019000162]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Swire_Pacific",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Swire Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Swire Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Swire Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "25,42",
+     "EPSdiluted": "25,42",
+     "DPS": "3,5",
+     "GUV": "Swire Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "19,41",
+     "equityratio": "75,56",
+     "deptratio": "24,44"
+    },
+    {
+     "DieAktie": "Swire Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "21,41",
+     "EPSdiluted": "21,41",
+     "DPS": "6,5",
+     "GUV": "Swire Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "24,12",
+     "equityratio": "77,75",
+     "deptratio": "22,25"
+    },
+    {
+     "DieAktie": "Swire Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "11,62",
+     "EPSdiluted": "11,62",
+     "DPS": "3,5",
+     "GUV": "Swire Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "29,15",
+     "equityratio": "65,18",
+     "deptratio": "34,82"
+    },
+    {
+     "DieAktie": "Swire Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "8,83",
+     "EPSdiluted": "8,83",
+     "DPS": "3,5",
+     "GUV": "Swire Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "34,19",
+     "equityratio": "63,12",
+     "deptratio": "36,88"
+    },
+    {
+     "DieAktie": "Swire Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "7,36",
+     "EPSdiluted": "7,36",
+     "DPS": "3,9",
+     "GUV": "Swire Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "40,74",
+     "equityratio": "61,22",
+     "deptratio": "38,78"
+    },
+    {
+     "DieAktie": "Swire Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "8,93",
+     "EPSdiluted": "8,93",
+     "DPS": "3,9",
+     "GUV": "Swire Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "40,47",
+     "equityratio": "60,28",
+     "deptratio": "39,72"
+    },
+    {
+     "DieAktie": "Swire Pacific Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "6,41",
+     "EPSdiluted": "6,41",
+     "DPS": "2,1",
+     "GUV": "Swire Pacific Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "41,48",
+     "equityratio": "60,21",
+     "deptratio": "39,79"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "18.05.17",
+     "Dividende": "2,10"
+    },
+    {
+     "Datum": "12.05.16",
+     "Dividende": "3,90"
+    },
+    {
+     "Datum": "21.05.15",
+     "Dividende": "3,90"
+    },
+    {
+     "Datum": "15.05.14",
+     "Dividende": "3,50"
+    },
+    {
+     "Datum": "09.05.13",
+     "Dividende": "3,50"
+    }
+   ]
+  },
+  {
+   "name": "Tencent Aktie [WKN DE: A1138D / ISIN: KYG875721634]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Tencent_2",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Tencent Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Tencent Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Tencent Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,02",
+     "EPSdiluted": "0,99",
+     "DPS": "0,11",
+     "GUV": "Tencent Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "2,42",
+     "equityratio": "60,72",
+     "deptratio": "39,28"
+    },
+    {
+     "DieAktie": "Tencent Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,35",
+     "EPSdiluted": "1,32",
+     "DPS": "0,15",
+     "GUV": "Tencent Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "3,69",
+     "equityratio": "50,11",
+     "deptratio": "49,89"
+    },
+    {
+     "DieAktie": "Tencent Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "1,71",
+     "EPSdiluted": "1,68",
+     "DPS": "0,2",
+     "GUV": "Tencent Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "5,79",
+     "equityratio": "54,88",
+     "deptratio": "45,12"
+    },
+    {
+     "DieAktie": "Tencent Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,14",
+     "EPSdiluted": "2,09",
+     "DPS": "0,24",
+     "GUV": "Tencent Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "8,16",
+     "equityratio": "54,04",
+     "deptratio": "45,96"
+    },
+    {
+     "DieAktie": "Tencent Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "3,25",
+     "EPSdiluted": "3,2",
+     "DPS": "0,36",
+     "GUV": "Tencent Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "10,62",
+     "equityratio": "46,75",
+     "deptratio": "53,25"
+    },
+    {
+     "DieAktie": "Tencent Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "3,82",
+     "EPSdiluted": "3,77",
+     "DPS": "0,47",
+     "GUV": "Tencent Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "13,45",
+     "equityratio": "39,12",
+     "deptratio": "60,88"
+    },
+    {
+     "DieAktie": "Tencent Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "5,12",
+     "EPSdiluted": "5,06",
+     "DPS": "0,61",
+     "GUV": "Tencent Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "18,7",
+     "equityratio": "44,11",
+     "deptratio": "55,89"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "17.05.17",
+     "Dividende": "0,61"
+    },
+    {
+     "Datum": "18.05.16",
+     "Dividende": "0,56"
+    },
+    {
+     "Datum": "13.05.15",
+     "Dividende": "0,29"
+    },
+    {
+     "Datum": "14.05.14",
+     "Dividende": "0,19"
+    },
+    {
+     "Datum": "15.05.13",
+     "Dividende": "0,16"
+    }
+   ]
+  },
+  {
+   "name": "The Bank of East Asia, Aktie [WKN: 868943 / ISIN: HK0023000190]",
+   "URL": "http://www.finanzen.at/bilanz_guv/The_Bank_of_East_Asia,",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "The Bank of East Asia, Ltd: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "The Bank of East Asia, Ltd: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "The Bank of East Asia, Ltd: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "1,92",
+     "EPSdiluted": "1,92",
+     "DPS": "0,94",
+     "GUV": "The Bank of East Asia, Ltd: GuV (in Mio. HKD)",
+     "Turnover": "9,1",
+     "equityratio": "8,28",
+     "deptratio": "91,72"
+    },
+    {
+     "DieAktie": "The Bank of East Asia, Ltd: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "1,96",
+     "EPSdiluted": "1,96",
+     "DPS": "0,94",
+     "GUV": "The Bank of East Asia, Ltd: GuV (in Mio. HKD)",
+     "Turnover": "12,33",
+     "equityratio": "7,79",
+     "deptratio": "92,21"
+    },
+    {
+     "DieAktie": "The Bank of East Asia, Ltd: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "2,72",
+     "EPSdiluted": "2,72",
+     "DPS": "1,06",
+     "GUV": "The Bank of East Asia, Ltd: GuV (in Mio. HKD)",
+     "Turnover": "13,32",
+     "equityratio": "8,26",
+     "deptratio": "91,74"
+    },
+    {
+     "DieAktie": "The Bank of East Asia, Ltd: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "2,78",
+     "EPSdiluted": "2,78",
+     "DPS": "1,11",
+     "GUV": "The Bank of East Asia, Ltd: GuV (in Mio. HKD)",
+     "Turnover": "13,84",
+     "equityratio": "8,45",
+     "deptratio": "91,55"
+    },
+    {
+     "DieAktie": "The Bank of East Asia, Ltd: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "2,72",
+     "EPSdiluted": "2,72",
+     "DPS": "1,11",
+     "GUV": "The Bank of East Asia, Ltd: GuV (in Mio. HKD)",
+     "Turnover": "14,8",
+     "equityratio": "8,65",
+     "deptratio": "91,35"
+    },
+    {
+     "DieAktie": "The Bank of East Asia, Ltd: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "1,95",
+     "EPSdiluted": "1,95",
+     "DPS": "0,88",
+     "GUV": "The Bank of East Asia, Ltd: GuV (in Mio. HKD)",
+     "Turnover": "11,69",
+     "equityratio": "9,91",
+     "deptratio": "90,09"
+    },
+    {
+     "DieAktie": "The Bank of East Asia, Ltd: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "1,21",
+     "EPSdiluted": "1,21",
+     "DPS": "0,56",
+     "GUV": "The Bank of East Asia, Ltd: GuV (in Mio. HKD)",
+     "Turnover": "9,42",
+     "equityratio": "10,24",
+     "deptratio": "89,76"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "05.05.17",
+     "Dividende": "0,56"
+    },
+    {
+     "Datum": "08.04.16",
+     "Dividende": "0,88"
+    },
+    {
+     "Datum": "08.05.15",
+     "Dividende": "1,11"
+    },
+    {
+     "Datum": "08.04.15",
+     "Dividende": "1,11"
+    },
+    {
+     "Datum": "02.05.14",
+     "Dividende": "1,11"
+    },
+    {
+     "Datum": "30.04.13",
+     "Dividende": "1,06"
+    }
+   ]
+  },
+  {
+   "name": "The Hong Kong and China Gas Company Aktie [WKN: 864603 / ISIN: HK0003000038]",
+   "URL": "http://www.finanzen.at/bilanz_guv/The_Hong_Kong_and_China_Gas_Company",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "The Hong Kong and China Gas Company Ltd: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "The Hong Kong and China Gas Company Ltd: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "The Hong Kong and China Gas Company Ltd: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,4",
+     "EPSdiluted": "0,4",
+     "DPS": "0,18",
+     "GUV": "The Hong Kong and China Gas Company Ltd: GuV (in Mio. HKD)",
+     "Turnover": "1,38",
+     "equityratio": "51,56",
+     "deptratio": "48,44"
+    },
+    {
+     "DieAktie": "The Hong Kong and China Gas Company Ltd: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,44",
+     "EPSdiluted": "0,44",
+     "DPS": "0,2",
+     "GUV": "The Hong Kong and China Gas Company Ltd: GuV (in Mio. HKD)",
+     "Turnover": "1,6",
+     "equityratio": "48,87",
+     "deptratio": "51,13"
+    },
+    {
+     "DieAktie": "The Hong Kong and China Gas Company Ltd: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,55",
+     "EPSdiluted": "0,55",
+     "DPS": "0,22",
+     "GUV": "The Hong Kong and China Gas Company Ltd: GuV (in Mio. HKD)",
+     "Turnover": "1,78",
+     "equityratio": "45,77",
+     "deptratio": "54,23"
+    },
+    {
+     "DieAktie": "The Hong Kong and China Gas Company Ltd: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,49",
+     "EPSdiluted": "0,49",
+     "DPS": "0,24",
+     "GUV": "The Hong Kong and China Gas Company Ltd: GuV (in Mio. HKD)",
+     "Turnover": "2,02",
+     "equityratio": "46,87",
+     "deptratio": "53,13"
+    },
+    {
+     "DieAktie": "The Hong Kong and China Gas Company Ltd: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,51",
+     "EPSdiluted": "0,51",
+     "DPS": "0,26",
+     "GUV": "The Hong Kong and China Gas Company Ltd: GuV (in Mio. HKD)",
+     "Turnover": "2,26",
+     "equityratio": "48,05",
+     "deptratio": "51,95"
+    },
+    {
+     "DieAktie": "The Hong Kong and China Gas Company Ltd: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,52",
+     "EPSdiluted": "0,52",
+     "DPS": "0,29",
+     "GUV": "The Hong Kong and China Gas Company Ltd: GuV (in Mio. HKD)",
+     "Turnover": "2,12",
+     "equityratio": "45,72",
+     "deptratio": "54,28"
+    },
+    {
+     "DieAktie": "The Hong Kong and China Gas Company Ltd: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,52",
+     "EPSdiluted": "0,52",
+     "DPS": "0,32",
+     "GUV": "The Hong Kong and China Gas Company Ltd: GuV (in Mio. HKD)",
+     "Turnover": "2,04",
+     "equityratio": "46,19",
+     "deptratio": "53,81"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "07.06.17",
+     "Dividende": "0,35"
+    },
+    {
+     "Datum": "07.06.16",
+     "Dividende": "0,32"
+    },
+    {
+     "Datum": "01.06.15",
+     "Dividende": "0,32"
+    },
+    {
+     "Datum": "04.06.14",
+     "Dividende": "0,32"
+    }
+   ]
+  },
+  {
+   "name": "Want Want China Aktie [WKN DE: A0NFF4 / ISIN: KYG9431R1039]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Want_Want_China_1",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Want Want China Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Want Want China Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Want Want China Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "0,21",
+     "EPSdiluted": "0,21",
+     "DPS": "0,18",
+     "GUV": "Want Want China Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "1,32",
+     "equityratio": "46,87",
+     "deptratio": "53,13"
+    },
+    {
+     "DieAktie": "Want Want China Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "0,25",
+     "EPSdiluted": "0,25",
+     "DPS": "0,15",
+     "GUV": "Want Want China Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "1,73",
+     "equityratio": "42,57",
+     "deptratio": "57,43"
+    },
+    {
+     "DieAktie": "Want Want China Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "0,33",
+     "EPSdiluted": "0,33",
+     "DPS": "0,22",
+     "GUV": "Want Want China Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "1,97",
+     "equityratio": "46,1",
+     "deptratio": "53,9"
+    },
+    {
+     "DieAktie": "Want Want China Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "0,4",
+     "EPSdiluted": "0,4",
+     "DPS": "0,27",
+     "GUV": "Want Want China Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "2,24",
+     "equityratio": "44,69",
+     "deptratio": "55,31"
+    },
+    {
+     "DieAktie": "Want Want China Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "0,36",
+     "EPSdiluted": "0,36",
+     "DPS": "0,19",
+     "GUV": "Want Want China Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "2,22",
+     "equityratio": "47,86",
+     "deptratio": "52,14"
+    },
+    {
+     "DieAktie": "Want Want China Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "0,32",
+     "EPSdiluted": "0,32",
+     "DPS": "0,14",
+     "GUV": "Want Want China Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "2,03",
+     "equityratio": "49",
+     "deptratio": "51"
+    },
+    {
+     "DieAktie": "Want Want China Holdings Ltd: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "0,32",
+     "EPSdiluted": "0,32",
+     "DPS": "0,14",
+     "GUV": "Want Want China Holdings Ltd: GuV (in Mio. HKD)",
+     "Turnover": "1,81",
+     "equityratio": "45,1",
+     "deptratio": "54,9"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "12.05.17",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "06.05.16",
+     "Dividende": "0,12"
+    },
+    {
+     "Datum": "08.05.15",
+     "Dividende": "0,16"
+    },
+    {
+     "Datum": "30.04.14",
+     "Dividende": "0,23"
+    },
+    {
+     "Datum": "26.04.13",
+     "Dividende": "0,19"
+    },
+    {
+     "Datum": "05.03.13",
+     "Dividende": "-"
+    }
+   ]
+  },
+  {
+   "name": "Wharf Aktie [WKN: 861691 / ISIN: HK0004000045]",
+   "URL": "http://www.finanzen.at/bilanz_guv/Wharf",
+   "Bilanzdaten": [
+    {
+     "DieAktie": "Wharf Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "GUV": "Wharf Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "DieAktie": "Wharf Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2010",
+     "EPSundiluted": "12,59",
+     "EPSdiluted": "12,59",
+     "DPS": "0,99",
+     "GUV": "Wharf Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "6,82",
+     "equityratio": "67,33",
+     "deptratio": "32,67"
+    },
+    {
+     "DieAktie": "Wharf Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2011",
+     "EPSundiluted": "10,22",
+     "EPSdiluted": "10,13",
+     "DPS": "1,06",
+     "GUV": "Wharf Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "7,93",
+     "equityratio": "63,92",
+     "deptratio": "36,08"
+    },
+    {
+     "DieAktie": "Wharf Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2012",
+     "EPSundiluted": "15,6",
+     "EPSdiluted": "15,3",
+     "DPS": "1,65",
+     "GUV": "Wharf Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "9,96",
+     "equityratio": "67,34",
+     "deptratio": "32,66"
+    },
+    {
+     "DieAktie": "Wharf Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2013",
+     "EPSundiluted": "9,7",
+     "EPSdiluted": "9,52",
+     "DPS": "1,7",
+     "GUV": "Wharf Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "10,29",
+     "equityratio": "66,39",
+     "deptratio": "33,61"
+    },
+    {
+     "DieAktie": "Wharf Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2014",
+     "EPSundiluted": "11,86",
+     "EPSdiluted": "11,86",
+     "DPS": "1,81",
+     "GUV": "Wharf Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "12,59",
+     "equityratio": "68,7",
+     "deptratio": "31,3"
+    },
+    {
+     "DieAktie": "Wharf Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2015",
+     "EPSundiluted": "5,29",
+     "EPSdiluted": "5,29",
+     "DPS": "1,9",
+     "GUV": "Wharf Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "13,49",
+     "equityratio": "69,32",
+     "deptratio": "30,68"
+    },
+    {
+     "DieAktie": "Wharf Holdings Ltd.: Die Aktie (in HKD)",
+     "Jahr": "2016",
+     "EPSundiluted": "7,07",
+     "EPSdiluted": "7,07",
+     "DPS": "2,15",
+     "GUV": "Wharf Holdings Ltd.: GuV (in Mio. HKD)",
+     "Turnover": "15,38",
+     "equityratio": "71,38",
+     "deptratio": "28,62"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "10.05.17",
+     "Dividende": "2,15"
+    },
+    {
+     "Datum": "11.05.16",
+     "Dividende": "1,90"
+    },
+    {
+     "Datum": "15.05.15",
+     "Dividende": "1,81"
+    },
+    {
+     "Datum": "09.06.14",
+     "Dividende": "1,70"
+    },
+    {
+     "Datum": "06.06.13",
+     "Dividende": "1,65"
+    },
+    {
+     "Datum": "30.05.12",
+     "Dividende": "1,06"
+    }
+   ]
+  }
+ ]
+}
