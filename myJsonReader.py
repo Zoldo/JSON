@@ -9,6 +9,7 @@ import json
 import datetime
 import csv
 import os
+import re
 
 ISINList = []
 
@@ -33,10 +34,11 @@ def extractJsonData(filename, csvWriter):
             lastEQR = 0
             payedDividend = True
             Currency = 'invalid'
-            oldestDivDate = datetime.datetime.today().year
+            oldestDivDate = datetime.datetime.today().year + 10
             newestEQRDate = datetime.datetime.today().year - 10
+            price = 99999999.9
             for year in {'2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010'
-                         ,'2011', '2012', '2013', '2014', '2015', '2016'}:
+                         ,'2011', '2012', '2013', '2014', '2015', '2016', '2017'}:
                 dividend = 0.0
                 yearProper = datetime.datetime.strptime(year, '%Y').year
                 try:
@@ -81,39 +83,54 @@ def extractJsonData(filename, csvWriter):
                                         lastEQR = EQR
                                 except ValueError:
                                     pass
-                                try: 
-                                    Currency = GUV['DieAktie']
-                                    Currency = Currency.split("(in ")[1].split(")")[0]
-                                except ValueError:
-                                    pass
+#                                try:
+#                                    Currency = GUV['DieAktie']
+#                                    Currency = Currency.split("(in ")[1].split(")")[0]
+#                                except ValueError:
+#                                    pass
                     except KeyError:
                         print('There is a problem in GUV Data')
                 except KeyError:
                     print('No valid GuV for ', entry['name'])
-            if payedDividend and lastEQR > 30 and oldestDivDate < 2008:
-                AvgDPS = AvgDPS/DPSCounter
+                try:
+                    #print(re.split('[A-Z]+',entry['Price']))
+                    price = float(re.split('[A-Z]+',entry['Price'])[0].replace(',','.').replace(' ',''))
+                    Currency = re.split('[0-9]+',entry['Price'])[2]
+                except KeyError:
+                    pass
+            if payedDividend and lastEQR > 30 and oldestDivDate < 2013:
+                print('Dividend payed continously since at least ', oldestDivDate)
+                try:
+                    AvgDPS = AvgDPS/DPSCounter
+                except:
+                    pass
                 print('The Average DPS is ', AvgDPS, ' over ', DPSCounter, ' years')
                 AvgEPSdil = AvgEPSdil/EPSdilCounter
                 print('The Average diluted EPS is ', AvgEPSdil, ' over ', EPSdilCounter, ' years')
                 print('Defensive Graham value is: ', AvgEPSdil*20)
-                print('Dividend payed continously since at least ', oldestDivDate)
                 print('Last EQR: ', lastEQR, '%')
                 print('Currency: ', Currency)
+                print('Price: ', price)
+                print('Price/Grahem: ', price/(AvgEPSdil*20))
                 if lastEQR <= 50:
                     print('Be carful, lastEQR only ', lastEQR, '%, is it a public utility company?')
-                csvWriter.writerow([ISIN, entry['name'], entry['URL'], Currency, AvgDPS, AvgEPSdil, lastEQR, oldestDivDate])   
+                csvWriter.writerow([ISIN, entry['name'].encode('utf-8'), entry['URL'], Currency, AvgDPS, AvgEPSdil, lastEQR, oldestDivDate, AvgEPSdil*20, price, price/(AvgEPSdil*20)])
             elif not payedDividend:
                 print('Dividend not payed continuously')
             elif not lastEQR > 30:
                 print('Latest Equity ratio only: ', lastEQR, '%')
-            
+            else:
+                print('Dividend not payed long enough')
+
+print('Script started')            
 filename = 'AllJson'
 
-csvFile = open(filename + '.csv', 'w', newline='')
+csvFile = open(filename + '.csv', 'w')
 writer = csv.writer(csvFile, delimiter=',')
-writer.writerow(['ISIN', 'Name', 'URL', 'Cur', 'AvgDPS', 'AvgEPSdil', 'lastEQR', 'oldestDivDate'])
+writer.writerow(['ISIN', 'Name', 'URL', 'Cur', 'AvgDPS', 'AvgEPSdil', 'lastEQR', 'oldestDivDate', 'GrahamVal', 'Price', 'Price/Graham'])
 
-path_to_json = os.path.dirname(__file__)
+path_to_json = os.path.dirname(os.path.abspath(__file__))
+print(path_to_json)
 json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 print(json_files)  # for me this prints ['foo.json']
 

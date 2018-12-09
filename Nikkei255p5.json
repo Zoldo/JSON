@@ -1,0 +1,2155 @@
+{
+ "Aktien": [
+  {
+   "name": "Tokyo Electric Power Aktie\nWKN: 854307 / ISIN: JP3585800000",
+   "URL": "https://www.finanzen.at/bilanz_guv/tokyo_electric_power",
+   "Price": "5,34EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "-487,76",
+     "EPSdiluted": "-487,76",
+     "DPS": "0",
+     "Turnover": "3338,18",
+     "equityratio": "5,07",
+     "deptratio": "94,93"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "-427,64",
+     "EPSdiluted": "-427,64",
+     "DPS": "0",
+     "Turnover": "3729,37",
+     "equityratio": "0,78",
+     "deptratio": "99,22"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "273,74",
+     "EPSdiluted": "88,87",
+     "DPS": "0",
+     "Turnover": "1343,54",
+     "equityratio": "3,72",
+     "deptratio": "96,28"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "281,8",
+     "EPSdiluted": "91,49",
+     "DPS": "0",
+     "Turnover": "1378,21",
+     "equityratio": "7,55",
+     "deptratio": "92,45"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "87,86",
+     "EPSdiluted": "28,52",
+     "DPS": "0",
+     "Turnover": "1229,81",
+     "equityratio": "8,76",
+     "deptratio": "91,24"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "82,89",
+     "EPSdiluted": "26,79",
+     "DPS": "0",
+     "Turnover": "1085,5",
+     "equityratio": "10,94",
+     "deptratio": "89,06"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "198,52",
+     "EPSdiluted": "64,32",
+     "DPS": "0",
+     "Turnover": "1185,44",
+     "equityratio": "13,11",
+     "deptratio": "86,89"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "27.06.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "26.06.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "23.06.17",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "28.06.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "25.06.15",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "26.06.14",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "26.06.13",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "28.06.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "27.06.12",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "28.06.11",
+     "Dividende": "30,00"
+    }
+   ]
+  },
+  {
+   "name": "Tokyo Electron Aktie\nWKN: 865510 / ISIN: JP3571400005",
+   "URL": "https://www.finanzen.at/bilanz_guv/tokyo_electron",
+   "Price": "112,09EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "205,04",
+     "EPSdiluted": "204,72",
+     "DPS": "80",
+     "Turnover": "3528,99",
+     "equityratio": "75,03",
+     "deptratio": "24,97"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "33,91",
+     "EPSdiluted": "33,85",
+     "DPS": "51",
+     "Turnover": "2770,25",
+     "equityratio": "76,65",
+     "deptratio": "23,35"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "-108,31",
+     "EPSdiluted": "-108,31",
+     "DPS": "50",
+     "Turnover": "3416,28",
+     "equityratio": "69,97",
+     "deptratio": "30,03"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "401,08",
+     "EPSdiluted": "400,15",
+     "DPS": "143",
+     "Turnover": "3412,86",
+     "equityratio": "73,15",
+     "deptratio": "26,85"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "461,1",
+     "EPSdiluted": "459,99",
+     "DPS": "237",
+     "Turnover": "3921,01",
+     "equityratio": "71,09",
+     "deptratio": "28,91"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "702,26",
+     "EPSdiluted": "700,35",
+     "DPS": "352",
+     "Turnover": "4861,51",
+     "equityratio": "67,44",
+     "deptratio": "32,56"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "1245,48",
+     "EPSdiluted": "1241,23",
+     "DPS": "624",
+     "Turnover": "6867,38",
+     "equityratio": "63,83",
+     "deptratio": "36,17"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "19.06.18",
+     "Dividende": "624,00"
+    },
+    {
+     "Datum": "23.06.17",
+     "Dividende": "352,00"
+    },
+    {
+     "Datum": "28.06.16",
+     "Dividende": "237,00"
+    },
+    {
+     "Datum": "19.06.15",
+     "Dividende": "143,00"
+    },
+    {
+     "Datum": "20.06.14",
+     "Dividende": "50,00"
+    }
+   ]
+  },
+  {
+   "name": "Tokyo Gas Aktie\nWKN: 855664 / ISIN: JP3573000001",
+   "URL": "https://www.finanzen.at/bilanz_guv/tokyo_gas",
+   "Price": "22,23EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "88,5",
+     "EPSdiluted": "88,5",
+     "DPS": "45",
+     "Turnover": "3369,66",
+     "equityratio": "45,02",
+     "deptratio": "54,98"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "197,6",
+     "EPSdiluted": "197,6",
+     "DPS": "50",
+     "Turnover": "3722,69",
+     "equityratio": "46,56",
+     "deptratio": "53,44"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "215,5",
+     "EPSdiluted": "215,5",
+     "DPS": "50",
+     "Turnover": "4196,79",
+     "equityratio": "46,48",
+     "deptratio": "53,52"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "195,75",
+     "EPSdiluted": "195,75",
+     "DPS": "50",
+     "Turnover": "4682,55",
+     "equityratio": "47,37",
+     "deptratio": "52,63"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "233,4",
+     "EPSdiluted": "233,4",
+     "DPS": "55",
+     "Turnover": "3929,64",
+     "equityratio": "48,87",
+     "deptratio": "51,13"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "115,1",
+     "EPSdiluted": "115,1",
+     "DPS": "55",
+     "Turnover": "3437,67",
+     "equityratio": "49,39",
+     "deptratio": "50,61"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "164,12",
+     "EPSdiluted": "164,12",
+     "DPS": "55",
+     "Turnover": "3890",
+     "equityratio": "48,66",
+     "deptratio": "51,34"
+    }
+   ]
+  },
+  {
+   "name": "Tokyo Tatemono Aktie\nWKN: 850796 / ISIN: JP3582600007",
+   "URL": "https://www.finanzen.at/bilanz_guv/tokyo_tatemono",
+   "Price": "9,65EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "-333,34",
+     "EPSdiluted": "-333,34",
+     "DPS": "0",
+     "Turnover": "775,34",
+     "equityratio": "20,59",
+     "deptratio": "79,41"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "47,58",
+     "EPSdiluted": "47,58",
+     "DPS": "10",
+     "Turnover": "901,77",
+     "equityratio": "22,91",
+     "deptratio": "77,09"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "47,1",
+     "EPSdiluted": "47,1",
+     "DPS": "10",
+     "Turnover": "1024,03",
+     "equityratio": "26,7",
+     "deptratio": "73,3"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "386,24",
+     "EPSdiluted": "386,24",
+     "DPS": "12",
+     "Turnover": "1108,75",
+     "equityratio": "21,66",
+     "deptratio": "78,34"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "75,91",
+     "EPSdiluted": "75,91",
+     "DPS": "20",
+     "Turnover": "1213,13",
+     "equityratio": "23,25",
+     "deptratio": "76,75"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "91",
+     "EPSdiluted": "91",
+     "DPS": "26",
+     "Turnover": "1173,1",
+     "equityratio": "24,18",
+     "deptratio": "75,82"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "104,17",
+     "EPSdiluted": "104,17",
+     "DPS": "30",
+     "Turnover": "1230,67",
+     "equityratio": "23,94",
+     "deptratio": "76,06"
+    }
+   ]
+  },
+  {
+   "name": "TOKYU Aktie\nWKN: 864105 / ISIN: JP3574200006",
+   "URL": "https://www.finanzen.at/bilanz_guv/tokyu",
+   "Price": "1 942,00JPY",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "57,36",
+     "EPSdiluted": "57,28",
+     "DPS": "13",
+     "Turnover": "1747,32",
+     "equityratio": "21,72",
+     "deptratio": "78,28"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "68,66",
+     "EPSdiluted": "68,62",
+     "DPS": "14",
+     "Turnover": "1702,18",
+     "equityratio": "24,24",
+     "deptratio": "75,76"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "89,92",
+     "EPSdiluted": "89,92",
+     "DPS": "15",
+     "Turnover": "1723,87",
+     "equityratio": "25,31",
+     "deptratio": "74,69"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "65,76",
+     "EPSdiluted": "65,76",
+     "DPS": "16",
+     "Turnover": "1709,47",
+     "equityratio": "27,53",
+     "deptratio": "72,47"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "89,62",
+     "EPSdiluted": "89,62",
+     "DPS": "17",
+     "Turnover": "1770,34",
+     "equityratio": "27,57",
+     "deptratio": "72,43"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "110,02",
+     "EPSdiluted": "110,02",
+     "DPS": "18",
+     "Turnover": "1826,81",
+     "equityratio": "29,24",
+     "deptratio": "70,76"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "115,41",
+     "EPSdiluted": "115,41",
+     "DPS": "19",
+     "Turnover": "1874,77",
+     "equityratio": "30,76",
+     "deptratio": "69,24"
+    }
+   ]
+  },
+  {
+   "name": "Tokyu Fudosan Aktie\nWKN DE: A1W44J / ISIN: JP3569200003",
+   "URL": "https://www.finanzen.at/bilanz_guv/tokyu_fudosan",
+   "Price": "613,00JPY",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "41,61",
+     "EPSdiluted": "41,61",
+     "DPS": "4,5",
+     "Turnover": "1253,52",
+     "equityratio": "20,36",
+     "deptratio": "79,64"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "41,44",
+     "EPSdiluted": "41,44",
+     "DPS": "10",
+     "Turnover": "0",
+     "equityratio": "20,03",
+     "deptratio": "79,97"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "47,17",
+     "EPSdiluted": "47,17",
+     "DPS": "12",
+     "Turnover": "0",
+     "equityratio": "21,1",
+     "deptratio": "78,9"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "51,77",
+     "EPSdiluted": "51,77",
+     "DPS": "13",
+     "Turnover": "1328,1",
+     "equityratio": "21,4",
+     "deptratio": "78,6"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "57,8",
+     "EPSdiluted": "57,8",
+     "DPS": "14,5",
+     "Turnover": "1422,74",
+     "equityratio": "21,51",
+     "deptratio": "78,49"
+    }
+   ]
+  },
+  {
+   "name": "Toppan Printing Aktie\nWKN: 857049 / ISIN: JP3629000005",
+   "URL": "https://www.finanzen.at/bilanz_guv/toppan_printing",
+   "Price": "1 836,00JPY",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "9,54",
+     "EPSdiluted": "9,54",
+     "DPS": "36",
+     "Turnover": "4698,07",
+     "equityratio": "46,08",
+     "deptratio": "53,92"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "57,8",
+     "EPSdiluted": "57,8",
+     "DPS": "36",
+     "Turnover": "4677,95",
+     "equityratio": "46,27",
+     "deptratio": "53,73"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "64,24",
+     "EPSdiluted": "62,2",
+     "DPS": "36",
+     "Turnover": "4623,78",
+     "equityratio": "45,73",
+     "deptratio": "54,27"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "71,34",
+     "EPSdiluted": "63,92",
+     "DPS": "36",
+     "Turnover": "4275,27",
+     "equityratio": "46,79",
+     "deptratio": "53,21"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "110,08",
+     "EPSdiluted": "98,68",
+     "DPS": "36",
+     "Turnover": "4134,03",
+     "equityratio": "49,78",
+     "deptratio": "50,22"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "101,5",
+     "EPSdiluted": "96,02",
+     "DPS": "40",
+     "Turnover": "4224,94",
+     "equityratio": "51,04",
+     "deptratio": "48,96"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "131,32",
+     "EPSdiluted": "124,26",
+     "DPS": "40",
+     "Turnover": "4270,56",
+     "equityratio": "52,79",
+     "deptratio": "47,21"
+    }
+   ]
+  },
+  {
+   "name": "Toray Industries Aktie\nWKN: 853974 / ISIN: JP3621000003",
+   "URL": "https://www.finanzen.at/bilanz_guv/toray_industries",
+   "Price": "6,45EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "39,41",
+     "EPSdiluted": "37,46",
+     "DPS": "10",
+     "Turnover": "926,78",
+     "equityratio": "39,67",
+     "deptratio": "60,33"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "29,75",
+     "EPSdiluted": "28,9",
+     "DPS": "10",
+     "Turnover": "949,39",
+     "equityratio": "41,89",
+     "deptratio": "58,11"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "36,59",
+     "EPSdiluted": "35,7",
+     "DPS": "10",
+     "Turnover": "1100,78",
+     "equityratio": "40,57",
+     "deptratio": "59,43"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "44,33",
+     "EPSdiluted": "44,28",
+     "DPS": "11",
+     "Turnover": "1253,62",
+     "equityratio": "41,85",
+     "deptratio": "58,15"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "56,38",
+     "EPSdiluted": "56,31",
+     "DPS": "13",
+     "Turnover": "1314,79",
+     "equityratio": "41,55",
+     "deptratio": "58,45"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "62,17",
+     "EPSdiluted": "62,1",
+     "DPS": "14",
+     "Turnover": "1265,83",
+     "equityratio": "42,66",
+     "deptratio": "57,34"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "59,97",
+     "EPSdiluted": "59,9",
+     "DPS": "15",
+     "Turnover": "1376,94",
+     "equityratio": "42,12",
+     "deptratio": "57,88"
+    }
+   ]
+  },
+  {
+   "name": "Toshiba Aktie\nWKN: 853676 / ISIN: JP3592200004",
+   "URL": "https://www.finanzen.at/bilanz_guv/toshiba",
+   "Price": "27,40EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "174",
+     "EPSdiluted": "171,7",
+     "DPS": "80",
+     "Turnover": "14213,08",
+     "equityratio": "15,13",
+     "deptratio": "84,87"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "183,1",
+     "EPSdiluted": "183,1",
+     "DPS": "80",
+     "Turnover": "13696,39",
+     "equityratio": "16,94",
+     "deptratio": "83,06"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "120",
+     "EPSdiluted": "120",
+     "DPS": "80",
+     "Turnover": "15355,53",
+     "equityratio": "19,69",
+     "deptratio": "80,31"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "-89,3",
+     "EPSdiluted": "-89,3",
+     "DPS": "40",
+     "Turnover": "15718,76",
+     "equityratio": "17,11",
+     "deptratio": "82,89"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "-1086,4",
+     "EPSdiluted": "-1086,4",
+     "DPS": "0",
+     "Turnover": "13388,16",
+     "equityratio": "6,05",
+     "deptratio": "93,95"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "-2511,19",
+     "EPSdiluted": "-2511,19",
+     "DPS": "0",
+     "Turnover": "11504,1",
+     "equityratio": "-12,95",
+     "deptratio": "112,95"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "1628,88",
+     "EPSdiluted": "1628,88",
+     "DPS": "0",
+     "Turnover": "7997,59",
+     "equityratio": "17,57",
+     "deptratio": "82,43"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "27.06.18",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "28.06.17",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "30.03.17",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "22.06.16",
+     "Dividende": "-"
+    },
+    {
+     "Datum": "25.06.15",
+     "Dividende": "4,00"
+    },
+    {
+     "Datum": "25.06.14",
+     "Dividende": "8,00"
+    },
+    {
+     "Datum": "25.06.13",
+     "Dividende": "8,00"
+    }
+   ]
+  },
+  {
+   "name": "Tosoh Aktie\nWKN: 859557 / ISIN: JP3595200001",
+   "URL": "https://www.finanzen.at/bilanz_guv/tosoh",
+   "Price": "11,27EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "31,34",
+     "EPSdiluted": "31,3",
+     "DPS": "12",
+     "Turnover": "2293,3",
+     "equityratio": "24,17",
+     "deptratio": "75,83"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "56,34",
+     "EPSdiluted": "56,24",
+     "DPS": "12",
+     "Turnover": "2229,11",
+     "equityratio": "25,71",
+     "deptratio": "74,29"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "98,7",
+     "EPSdiluted": "98,52",
+     "DPS": "12",
+     "Turnover": "2573,46",
+     "equityratio": "30,41",
+     "deptratio": "69,59"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "207,94",
+     "EPSdiluted": "207,54",
+     "DPS": "20",
+     "Turnover": "2697,36",
+     "equityratio": "37,85",
+     "deptratio": "62,15"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "125,22",
+     "EPSdiluted": "125,02",
+     "DPS": "28",
+     "Turnover": "2375",
+     "equityratio": "46,34",
+     "deptratio": "53,66"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "233,12",
+     "EPSdiluted": "232,82",
+     "DPS": "48",
+     "Turnover": "2286,34",
+     "equityratio": "52,83",
+     "deptratio": "47,17"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "273,49",
+     "EPSdiluted": "273,2",
+     "DPS": "56",
+     "Turnover": "2531,71",
+     "equityratio": "57,59",
+     "deptratio": "42,41"
+    }
+   ]
+  },
+  {
+   "name": "Toto Aktie\nWKN: 857955 / ISIN: JP3596200000",
+   "URL": "https://www.finanzen.at/bilanz_guv/toto",
+   "Price": "29,77EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "54,2",
+     "EPSdiluted": "54,1",
+     "DPS": "20",
+     "Turnover": "2641,42",
+     "equityratio": "47,85",
+     "deptratio": "52,15"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "98,9",
+     "EPSdiluted": "98,64",
+     "DPS": "28",
+     "Turnover": "2770,46",
+     "equityratio": "50,74",
+     "deptratio": "49,26"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "260,38",
+     "EPSdiluted": "259,58",
+     "DPS": "46",
+     "Turnover": "3256,15",
+     "equityratio": "52,14",
+     "deptratio": "47,86"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "147,6",
+     "EPSdiluted": "147,16",
+     "DPS": "52",
+     "Turnover": "3229,19",
+     "equityratio": "52,37",
+     "deptratio": "47,63"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "212,03",
+     "EPSdiluted": "211,44",
+     "DPS": "64",
+     "Turnover": "3361,28",
+     "equityratio": "51,57",
+     "deptratio": "48,43"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "200,06",
+     "EPSdiluted": "199,54",
+     "DPS": "68",
+     "Turnover": "3383,63",
+     "equityratio": "53,72",
+     "deptratio": "46,28"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "217,5",
+     "EPSdiluted": "216,96",
+     "DPS": "72",
+     "Turnover": "3492,13",
+     "equityratio": "58,95",
+     "deptratio": "41,05"
+    }
+   ]
+  },
+  {
+   "name": "Toyo Seikan Kaisha Aktie\nWKN: 860369 / ISIN: JP3613400005",
+   "URL": "https://www.finanzen.at/bilanz_guv/toyo_seikan_kaisha",
+   "Price": "19,96EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "-15,93",
+     "EPSdiluted": "-15,93",
+     "DPS": "10",
+     "Turnover": "3484,81",
+     "equityratio": "56,93",
+     "deptratio": "43,07"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "55,54",
+     "EPSdiluted": "55,54",
+     "DPS": "12",
+     "Turnover": "3602,91",
+     "equityratio": "57,66",
+     "deptratio": "42,34"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "68,03",
+     "EPSdiluted": "68,03",
+     "DPS": "14",
+     "Turnover": "3870,76",
+     "equityratio": "56,41",
+     "deptratio": "43,59"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "17,77",
+     "EPSdiluted": "17,77",
+     "DPS": "14",
+     "Turnover": "3866,42",
+     "equityratio": "56,41",
+     "deptratio": "43,59"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "49,43",
+     "EPSdiluted": "49,43",
+     "DPS": "14",
+     "Turnover": "3953,62",
+     "equityratio": "55,25",
+     "deptratio": "44,75"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "60,09",
+     "EPSdiluted": "60,09",
+     "DPS": "19",
+     "Turnover": "3842,34",
+     "equityratio": "57,33",
+     "deptratio": "42,67"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "-121,95",
+     "EPSdiluted": "-121,95",
+     "DPS": "14",
+     "Turnover": "3871",
+     "equityratio": "57,79",
+     "deptratio": "42,21"
+    }
+   ]
+  },
+  {
+   "name": "Toyobo Aktie\nWKN: 860856 / ISIN: JP3619800000",
+   "URL": "https://www.finanzen.at/bilanz_guv/toyobo",
+   "Price": "12,07EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "51,7",
+     "EPSdiluted": "51,7",
+     "DPS": "35",
+     "Turnover": "3941,82",
+     "equityratio": "29,82",
+     "deptratio": "70,18"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "86,1",
+     "EPSdiluted": "86,1",
+     "DPS": "35",
+     "Turnover": "3822,16",
+     "equityratio": "30,85",
+     "deptratio": "69,15"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "91,8",
+     "EPSdiluted": "91,8",
+     "DPS": "35",
+     "Turnover": "3956,77",
+     "equityratio": "31,19",
+     "deptratio": "68,81"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "91,4",
+     "EPSdiluted": "91,4",
+     "DPS": "35",
+     "Turnover": "3956,51",
+     "equityratio": "33,92",
+     "deptratio": "66,08"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "114,3",
+     "EPSdiluted": "114,3",
+     "DPS": "35",
+     "Turnover": "3917,06",
+     "equityratio": "35,29",
+     "deptratio": "64,71"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "106,4",
+     "EPSdiluted": "106,4",
+     "DPS": "35",
+     "Turnover": "3711,3",
+     "equityratio": "37,22",
+     "deptratio": "62,78"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "146,93",
+     "EPSdiluted": "146,93",
+     "DPS": "40",
+     "Turnover": "3730,24",
+     "equityratio": "40,47",
+     "deptratio": "59,53"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "27.06.18",
+     "Dividende": "40,00"
+    },
+    {
+     "Datum": "05.06.17",
+     "Dividende": "40,00"
+    },
+    {
+     "Datum": "28.06.16",
+     "Dividende": "35,00"
+    },
+    {
+     "Datum": "26.06.15",
+     "Dividende": "35,00"
+    },
+    {
+     "Datum": "27.06.14",
+     "Dividende": "35,00"
+    },
+    {
+     "Datum": "27.06.13",
+     "Dividende": "35,00"
+    },
+    {
+     "Datum": "28.06.12",
+     "Dividende": "35,00"
+    },
+    {
+     "Datum": "29.06.11",
+     "Dividende": "3,50"
+    },
+    {
+     "Datum": "29.06.10",
+     "Dividende": "3,50"
+    },
+    {
+     "Datum": "26.06.09",
+     "Dividende": "3,50"
+    }
+   ]
+  },
+  {
+   "name": "Toyota Motor Aktie\nWKN: 853510 / ISIN: JP3633400001",
+   "URL": "https://www.finanzen.at/bilanz_guv/toyota",
+   "Price": "52,40EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "90,21",
+     "EPSdiluted": "90,2",
+     "DPS": "50",
+     "Turnover": "5911,83",
+     "equityratio": "34,42",
+     "deptratio": "65,58"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "303,82",
+     "EPSdiluted": "303,78",
+     "DPS": "90",
+     "Turnover": "6966,57",
+     "equityratio": "34,24",
+     "deptratio": "65,76"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "575,3",
+     "EPSdiluted": "574,92",
+     "DPS": "165",
+     "Turnover": "8102,38",
+     "equityratio": "34,92",
+     "deptratio": "65,08"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "688,02",
+     "EPSdiluted": "687,66",
+     "DPS": "200",
+     "Turnover": "8619,79",
+     "equityratio": "35,17",
+     "deptratio": "64,83"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "741,36",
+     "EPSdiluted": "735,36",
+     "DPS": "210",
+     "Turnover": "9031,6",
+     "equityratio": "35,31",
+     "deptratio": "64,69"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "605,47",
+     "EPSdiluted": "599,22",
+     "DPS": "210",
+     "Turnover": "9039,04",
+     "equityratio": "35,93",
+     "deptratio": "64,07"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "842",
+     "EPSdiluted": "832,78",
+     "DPS": "220",
+     "Turnover": "9811,81",
+     "equityratio": "37,24",
+     "deptratio": "62,76"
+    }
+   ],
+   "HVDiv": [
+    {
+     "Datum": "14.06.18",
+     "Dividende": "220,00"
+    },
+    {
+     "Datum": "14.06.17",
+     "Dividende": "210,00"
+    },
+    {
+     "Datum": "15.06.16",
+     "Dividende": "210,00"
+    },
+    {
+     "Datum": "16.06.15",
+     "Dividende": "200,00"
+    },
+    {
+     "Datum": "17.06.14",
+     "Dividende": "165,00"
+    },
+    {
+     "Datum": "14.06.13",
+     "Dividende": "90,29"
+    },
+    {
+     "Datum": "15.06.12",
+     "Dividende": "59,06"
+    },
+    {
+     "Datum": "17.06.11",
+     "Dividende": "56,43"
+    },
+    {
+     "Datum": "24.06.10",
+     "Dividende": "45,14"
+    },
+    {
+     "Datum": "23.06.09",
+     "Dividende": "95,93"
+    },
+    {
+     "Datum": "24.06.08",
+     "Dividende": "131,67"
+    },
+    {
+     "Datum": "22.06.07",
+     "Dividende": "47,97"
+    },
+    {
+     "Datum": "06.10.06",
+     "Dividende": "36,68"
+    },
+    {
+     "Datum": "23.06.05",
+     "Dividende": "57,37"
+    }
+   ]
+  },
+  {
+   "name": "TOYOTA TSUSHO Aktie\nWKN: 866920 / ISIN: JP3635000007",
+   "URL": "https://www.finanzen.at/bilanz_guv/toyota_tsusho",
+   "Price": "28,47EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "189,34",
+     "EPSdiluted": "189,34",
+     "DPS": "42",
+     "Turnover": "16921,42",
+     "equityratio": "22,62",
+     "deptratio": "77,38"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "192,58",
+     "EPSdiluted": "192,42",
+     "DPS": "44",
+     "Turnover": "17989,36",
+     "equityratio": "21,19",
+     "deptratio": "78,81"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "208,01",
+     "EPSdiluted": "207,82",
+     "DPS": "50",
+     "Turnover": "22033,07",
+     "equityratio": "23,89",
+     "deptratio": "76,11"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "192,23",
+     "EPSdiluted": "192,1",
+     "DPS": "56",
+     "Turnover": "24629,94",
+     "equityratio": "24,83",
+     "deptratio": "75,17"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "-124,26",
+     "EPSdiluted": "-124,26",
+     "DPS": "62",
+     "Turnover": "23223,83",
+     "equityratio": "22,49",
+     "deptratio": "77,51"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "306,64",
+     "EPSdiluted": "306,63",
+     "DPS": "70",
+     "Turnover": "16474,65",
+     "equityratio": "24,94",
+     "deptratio": "75,06"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "370,08",
+     "EPSdiluted": "370,08",
+     "DPS": "94",
+     "Turnover": "18446,26",
+     "equityratio": "27,26",
+     "deptratio": "72,74"
+    }
+   ]
+  },
+  {
+   "name": "Trend Micro Aktie\nWKN: 915793 / ISIN: JP3637300009",
+   "URL": "https://www.finanzen.at/bilanz_guv/trend_micro",
+   "Price": "49,65EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "131,23",
+     "EPSdiluted": "131,14",
+     "DPS": "86",
+     "Turnover": "728,95",
+     "equityratio": "53,19",
+     "deptratio": "46,81"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "102,21",
+     "EPSdiluted": "102,21",
+     "DPS": "67",
+     "Turnover": "713,29",
+     "equityratio": "51,82",
+     "deptratio": "48,18"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "147,53",
+     "EPSdiluted": "146,27",
+     "DPS": "95",
+     "Turnover": "808,5",
+     "equityratio": "54,51",
+     "deptratio": "45,49"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "165,68",
+     "EPSdiluted": "164,49",
+     "DPS": "116",
+     "Turnover": "849,65",
+     "equityratio": "54,62",
+     "deptratio": "45,38"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "157,71",
+     "EPSdiluted": "156,34",
+     "DPS": "110",
+     "Turnover": "906,75",
+     "equityratio": "54,97",
+     "deptratio": "45,03"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "179,63",
+     "EPSdiluted": "178,8",
+     "DPS": "141",
+     "Turnover": "956,95",
+     "equityratio": "53,95",
+     "deptratio": "46,05"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "187,01",
+     "EPSdiluted": "185,24",
+     "DPS": "149",
+     "Turnover": "1072,97",
+     "equityratio": "53,47",
+     "deptratio": "46,53"
+    }
+   ]
+  },
+  {
+   "name": "UBE Industries Aktie\nWKN: 859490 / ISIN: JP3158800007",
+   "URL": "https://www.finanzen.at/bilanz_guv/ube_industries",
+   "Price": "18,84EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "228,5",
+     "EPSdiluted": "228,1",
+     "DPS": "50",
+     "Turnover": "6342,51",
+     "equityratio": "30,07",
+     "deptratio": "69,93"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "82,2",
+     "EPSdiluted": "82",
+     "DPS": "50",
+     "Turnover": "6214,6",
+     "equityratio": "31,49",
+     "deptratio": "68,51"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "121,6",
+     "EPSdiluted": "121,4",
+     "DPS": "50",
+     "Turnover": "6254,65",
+     "equityratio": "34,58",
+     "deptratio": "65,42"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "138,5",
+     "EPSdiluted": "138,1",
+     "DPS": "50",
+     "Turnover": "6050,85",
+     "equityratio": "37,09",
+     "deptratio": "62,91"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "180,6",
+     "EPSdiluted": "180,1",
+     "DPS": "50",
+     "Turnover": "6047,86",
+     "equityratio": "39,3",
+     "deptratio": "60,7"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "228,5",
+     "EPSdiluted": "227,8",
+     "DPS": "60",
+     "Turnover": "5807,07",
+     "equityratio": "40,49",
+     "deptratio": "59,51"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "301,65",
+     "EPSdiluted": "300,64",
+     "DPS": "75",
+     "Turnover": "6600,88",
+     "equityratio": "42,53",
+     "deptratio": "57,47"
+    }
+   ]
+  },
+  {
+   "name": "Unitika Aktie\nWKN: 862874 / ISIN: JP3951200009",
+   "URL": "https://www.finanzen.at/bilanz_guv/unitika",
+   "Price": "524,00JPY",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "23,5",
+     "EPSdiluted": "22,8",
+     "DPS": "0",
+     "Turnover": "3070,48",
+     "equityratio": "10,62",
+     "deptratio": "89,38"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "-188,7",
+     "EPSdiluted": "-188,7",
+     "DPS": "0",
+     "Turnover": "2778,86",
+     "equityratio": "6,98",
+     "deptratio": "93,02"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "10,1",
+     "EPSdiluted": "10,1",
+     "DPS": "0",
+     "Turnover": "2820,74",
+     "equityratio": "6,11",
+     "deptratio": "93,89"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "-468,7",
+     "EPSdiluted": "-468,7",
+     "DPS": "0",
+     "Turnover": "2759,09",
+     "equityratio": "12,02",
+     "deptratio": "87,98"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "102,9",
+     "EPSdiluted": "54,95",
+     "DPS": "0",
+     "Turnover": "1161,05",
+     "equityratio": "15,73",
+     "deptratio": "84,27"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "110,8",
+     "EPSdiluted": "57,5",
+     "DPS": "0",
+     "Turnover": "981,68",
+     "equityratio": "19,75",
+     "deptratio": "80,25"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "133,25",
+     "EPSdiluted": "89,39",
+     "DPS": "0",
+     "Turnover": "1420,22",
+     "equityratio": "18,28",
+     "deptratio": "81,72"
+    }
+   ]
+  },
+  {
+   "name": "Yahoo Japan Aktie\nWKN: 916008 / ISIN: JP3933800009",
+   "URL": "https://www.finanzen.at/bilanz_guv/yahoo_japan",
+   "Price": "2,44EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "17,34",
+     "EPSdiluted": "17,34",
+     "DPS": "3,47",
+     "Turnover": "52,08",
+     "equityratio": "82,91",
+     "deptratio": "17,09"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "19,84",
+     "EPSdiluted": "19,84",
+     "DPS": "4,01",
+     "Turnover": "59,16",
+     "equityratio": "73,19",
+     "deptratio": "26,81"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "21,82",
+     "EPSdiluted": "21,82",
+     "DPS": "4,43",
+     "Turnover": "67,36",
+     "equityratio": "73,41",
+     "deptratio": "26,59"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "23,37",
+     "EPSdiluted": "23,37",
+     "DPS": "8,86",
+     "Turnover": "75,26",
+     "equityratio": "72,05",
+     "deptratio": "27,95"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "30,15",
+     "EPSdiluted": "30,14",
+     "DPS": "8,86",
+     "Turnover": "114,58",
+     "equityratio": "62,87",
+     "deptratio": "37,13"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "23,99",
+     "EPSdiluted": "23,99",
+     "DPS": "8,86",
+     "Turnover": "149,95",
+     "equityratio": "60",
+     "deptratio": "40"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "23,04",
+     "EPSdiluted": "23,03",
+     "DPS": "8,86",
+     "Turnover": "157,56",
+     "equityratio": "39,99",
+     "deptratio": "60,01"
+    }
+   ]
+  },
+  {
+   "name": "Yamaha Aktie\nWKN: 855314 / ISIN: JP3942600002",
+   "URL": "https://www.finanzen.at/bilanz_guv/yamaha",
+   "Price": "37,92EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "-151,73",
+     "EPSdiluted": "-151,73",
+     "DPS": "10",
+     "Turnover": "1841,62",
+     "equityratio": "55,57",
+     "deptratio": "44,43"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "21,29",
+     "EPSdiluted": "21,29",
+     "DPS": "10",
+     "Turnover": "1895,01",
+     "equityratio": "58,08",
+     "deptratio": "41,92"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "118,26",
+     "EPSdiluted": "118,26",
+     "DPS": "27",
+     "Turnover": "2119,02",
+     "equityratio": "61,9",
+     "deptratio": "38,1"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "128,75",
+     "EPSdiluted": "128,75",
+     "DPS": "36",
+     "Turnover": "2232,03",
+     "equityratio": "65,3",
+     "deptratio": "34,7"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "168,9",
+     "EPSdiluted": "168,9",
+     "DPS": "44",
+     "Turnover": "2253,9",
+     "equityratio": "64,19",
+     "deptratio": "35,81"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "249,17",
+     "EPSdiluted": "249,17",
+     "DPS": "52",
+     "Turnover": "2177,31",
+     "equityratio": "69,9",
+     "deptratio": "30,1"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "291,81",
+     "EPSdiluted": "291,81",
+     "DPS": "56",
+     "Turnover": "2323,44",
+     "equityratio": "69",
+     "deptratio": "31"
+    }
+   ]
+  },
+  {
+   "name": "Yamaha Motor Aktie\nWKN: 857690 / ISIN: JP3942800008",
+   "URL": "https://www.finanzen.at/bilanz_guv/yamaha_motor",
+   "Price": "17,42EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "77,23",
+     "EPSdiluted": "77,23",
+     "DPS": "15,5",
+     "Turnover": "3655,53",
+     "equityratio": "31,19",
+     "deptratio": "68,81"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "21,45",
+     "EPSdiluted": "21,45",
+     "DPS": "10",
+     "Turnover": "3459,46",
+     "equityratio": "32",
+     "deptratio": "68"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "126,2",
+     "EPSdiluted": "126,2",
+     "DPS": "26",
+     "Turnover": "4040,06",
+     "equityratio": "33,5",
+     "deptratio": "66,5"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "196,05",
+     "EPSdiluted": "196,04",
+     "DPS": "40",
+     "Turnover": "4356,52",
+     "equityratio": "35,09",
+     "deptratio": "64,91"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "171,88",
+     "EPSdiluted": "171,87",
+     "DPS": "44",
+     "Turnover": "4625,48",
+     "equityratio": "37,6",
+     "deptratio": "62,4"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "180,83",
+     "EPSdiluted": "180,83",
+     "DPS": "60",
+     "Turnover": "4303,24",
+     "equityratio": "40,5",
+     "deptratio": "59,5"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "290,93",
+     "EPSdiluted": "290,93",
+     "DPS": "88",
+     "Turnover": "4782,16",
+     "equityratio": "43,99",
+     "deptratio": "56,01"
+    }
+   ]
+  },
+  {
+   "name": "Yamato Aktie\nWKN: 864712 / ISIN: JP3940000007",
+   "URL": "https://www.finanzen.at/bilanz_guv/yamato",
+   "Price": "23,68EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "46",
+     "EPSdiluted": "44,87",
+     "DPS": "22",
+     "Turnover": "2859,09",
+     "equityratio": "56,02",
+     "deptratio": "43,98"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "81,85",
+     "EPSdiluted": "79,84",
+     "DPS": "23",
+     "Turnover": "2913,25",
+     "equityratio": "56,25",
+     "deptratio": "43,75"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "82,22",
+     "EPSdiluted": "80,18",
+     "DPS": "24",
+     "Turnover": "3169,12",
+     "equityratio": "53,42",
+     "deptratio": "46,58"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "90,41",
+     "EPSdiluted": "88,26",
+     "DPS": "25",
+     "Turnover": "3283,91",
+     "equityratio": "52,24",
+     "deptratio": "47,76"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "96,45",
+     "EPSdiluted": "95,64",
+     "DPS": "28",
+     "Turnover": "3434,69",
+     "equityratio": "49,37",
+     "deptratio": "50,63"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "45,37",
+     "EPSdiluted": "45,37",
+     "DPS": "27",
+     "Turnover": "3686,21",
+     "equityratio": "48,37",
+     "deptratio": "51,63"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "46,24",
+     "EPSdiluted": "46,24",
+     "DPS": "27",
+     "Turnover": "3902,88",
+     "equityratio": "49,34",
+     "deptratio": "50,66"
+    }
+   ]
+  },
+  {
+   "name": "Yaskawa Electric Aktie\nWKN: 857658 / ISIN: JP3932000007",
+   "URL": "https://www.finanzen.at/bilanz_guv/yaskawa_electric",
+   "Price": "25,80EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "33,51",
+     "EPSdiluted": "33,51",
+     "DPS": "10",
+     "Turnover": "1220,39",
+     "equityratio": "35,87",
+     "deptratio": "64,13"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "27,03",
+     "EPSdiluted": "25,65",
+     "DPS": "10",
+     "Turnover": "1170,44",
+     "equityratio": "37,09",
+     "deptratio": "62,91"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "67,42",
+     "EPSdiluted": "63,98",
+     "DPS": "12",
+     "Turnover": "1371,09",
+     "equityratio": "39,38",
+     "deptratio": "60,62"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "98,45",
+     "EPSdiluted": "93,6",
+     "DPS": "20",
+     "Turnover": "1509,07",
+     "equityratio": "44,15",
+     "deptratio": "55,85"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "84,71",
+     "EPSdiluted": "84,11",
+     "DPS": "20",
+     "Turnover": "1546,67",
+     "equityratio": "48,53",
+     "deptratio": "51,47"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "76,6",
+     "EPSdiluted": "76,6",
+     "DPS": "20",
+     "Turnover": "1482,88",
+     "equityratio": "51,23",
+     "deptratio": "48,77"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "163,52",
+     "EPSdiluted": "163,52",
+     "DPS": "40",
+     "Turnover": "1838,42",
+     "equityratio": "53,45",
+     "deptratio": "46,55"
+    }
+   ]
+  },
+  {
+   "name": "Yokogawa Electric Aktie\nWKN: 856912 / ISIN: JP3955000009",
+   "URL": "https://www.finanzen.at/bilanz_guv/yokogawa_electric",
+   "Price": "15,82EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "23,11",
+     "EPSdiluted": "23,11",
+     "DPS": "5",
+     "Turnover": "1299,43",
+     "equityratio": "40,53",
+     "deptratio": "59,47"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "57,03",
+     "EPSdiluted": "57,03",
+     "DPS": "10",
+     "Turnover": "1350,83",
+     "equityratio": "44,32",
+     "deptratio": "55,68"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "47,92",
+     "EPSdiluted": "47,92",
+     "DPS": "12",
+     "Turnover": "1508,35",
+     "equityratio": "46,94",
+     "deptratio": "53,06"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "66,88",
+     "EPSdiluted": "66,88",
+     "DPS": "12",
+     "Turnover": "1575,66",
+     "equityratio": "48,99",
+     "deptratio": "51,01"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "114,01",
+     "EPSdiluted": "114,01",
+     "DPS": "25",
+     "Turnover": "1563,98",
+     "equityratio": "58,25",
+     "deptratio": "41,75"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "96,44",
+     "EPSdiluted": "96,44",
+     "DPS": "25",
+     "Turnover": "1465,51",
+     "equityratio": "58,21",
+     "deptratio": "41,79"
+    },
+    {
+     "Jahr": "2018",
+     "EPSundiluted": "80,27",
+     "EPSdiluted": "80,27",
+     "DPS": "30",
+     "Turnover": "1521,54",
+     "equityratio": "60,58",
+     "deptratio": "39,42"
+    }
+   ]
+  },
+  {
+   "name": "Yokohama Rubber Aktie\nWKN: 858091 / ISIN: JP3955800002",
+   "URL": "https://www.finanzen.at/bilanz_guv/yokohama_rubber",
+   "Price": "17,88EUR",
+   "Bilanzdaten": [
+    {
+     "Jahr": "",
+     "EPSundiluted": "Ergebnis je Aktie unverwässert",
+     "EPSdiluted": "Ergebnis je Aktie verwässert",
+     "DPS": "Dividende pro Aktie",
+     "Turnover": "Umsatz je Aktie",
+     "equityratio": "Eigenkapitalquote in %",
+     "deptratio": "Fremdkapitalquote in %"
+    },
+    {
+     "Jahr": "2011",
+     "EPSundiluted": "83,1",
+     "EPSdiluted": "83,1",
+     "DPS": "34",
+     "Turnover": "3102,16",
+     "equityratio": "34,23",
+     "deptratio": "65,77"
+    },
+    {
+     "Jahr": "2012",
+     "EPSundiluted": "195,74",
+     "EPSdiluted": "195,74",
+     "DPS": "40",
+     "Turnover": "3359,35",
+     "equityratio": "37,54",
+     "deptratio": "62,46"
+    },
+    {
+     "Jahr": "2013",
+     "EPSundiluted": "216,64",
+     "EPSdiluted": "216,64",
+     "DPS": "44",
+     "Turnover": "3723,09",
+     "equityratio": "41,43",
+     "deptratio": "58,57"
+    },
+    {
+     "Jahr": "2014",
+     "EPSundiluted": "250,66",
+     "EPSdiluted": "250,66",
+     "DPS": "52",
+     "Turnover": "3869,67",
+     "equityratio": "44,05",
+     "deptratio": "55,95"
+    },
+    {
+     "Jahr": "2015",
+     "EPSundiluted": "226,07",
+     "EPSdiluted": "226,07",
+     "DPS": "52",
+     "Turnover": "3921,84",
+     "equityratio": "47,7",
+     "deptratio": "52,3"
+    },
+    {
+     "Jahr": "2016",
+     "EPSundiluted": "117,17",
+     "EPSdiluted": "117,17",
+     "DPS": "52",
+     "Turnover": "3718,28",
+     "equityratio": "38,62",
+     "deptratio": "61,38"
+    },
+    {
+     "Jahr": "2017",
+     "EPSundiluted": "249,32",
+     "EPSdiluted": "249,32",
+     "DPS": "62",
+     "Turnover": "4030,66",
+     "equityratio": "41,25",
+     "deptratio": "58,75"
+    }
+   ]
+  }
+ ]
+}
